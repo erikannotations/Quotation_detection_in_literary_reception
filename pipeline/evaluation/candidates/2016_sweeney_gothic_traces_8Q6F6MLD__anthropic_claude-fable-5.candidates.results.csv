@@ -1,0 +1,19 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2016-01,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,0.931,False,P03,1
+2016-02,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2016-03,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2016-04,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016-05,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016-06,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2016-07,The Crying of Lot 49,False,,,,,,,False,,0
+2016-08,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2016-09,Bleeding Edge,True,Bleeding Edge,P09,Chapter 2,2,,0.88,False,P09,1
+2016-10,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,0.923,False,P03,1
+2016-11,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,0.939,False,P03,1
+2016-12,The Crying of Lot 49,False,,,,,,,False,,0
+2016-13,The Crying of Lot 49,False,,,,,,0.707,False,,0
+2016-14,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016-15,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016-16,Bleeding Edge,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1
+2016-17,Bleeding Edge,True,Bleeding Edge,P09,Chapter 37,37,,1.0,False,P09,1
+2016-18,Bleeding Edge,True,Bleeding Edge,P09,Chapter 41,41,,1.0,False,P09,1

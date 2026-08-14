@@ -1,0 +1,1796 @@
+[
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0001",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2894,
+  "article_end_char": 3054,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0001"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0002",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3538,
+  "article_end_char": 3559,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0002"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0003",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3619,
+  "article_end_char": 3649,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0003"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0004",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3694,
+  "article_end_char": 3768,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0004"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0005",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5201,
+  "article_end_char": 5231,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0005"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0006",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5369,
+  "article_end_char": 5407,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0006"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0007",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5424,
+  "article_end_char": 5568,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0007"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0008",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5696,
+  "article_end_char": 5849,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0008"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0009",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8000,
+  "article_end_char": 8123,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0009"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0010",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8995,
+  "article_end_char": 9065,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0010",
+   "2016-01"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0011",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9558,
+  "article_end_char": 9609,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0011",
+   "2016-02"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0012",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10221,
+  "article_end_char": 10436,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0012",
+   "2016-03"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0013",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "33",
+  "confidence": "hybrid",
+  "article_start_char": 10689,
+  "article_end_char": 10719,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-04"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0014",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "34",
+  "confidence": "hybrid",
+  "article_start_char": 10848,
+  "article_end_char": 10855,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-05"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0015",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "34",
+  "confidence": "hybrid",
+  "article_start_char": 10859,
+  "article_end_char": 10865,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-06"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0016",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "35",
+  "confidence": "hybrid",
+  "article_start_char": 10878,
+  "article_end_char": 10897,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-07"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0017",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11101,
+  "article_end_char": 11158,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0013"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0018",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11266,
+  "article_end_char": 11310,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0014",
+   "2016-08"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0019",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12032,
+  "article_end_char": 12110,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0015",
+   "2016-09"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0020",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13269,
+  "article_end_char": 13417,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0016"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0021",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13559,
+  "article_end_char": 13587,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0017",
+   "2016-10"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0022",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13593,
+  "article_end_char": 13641,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0018",
+   "2016-11"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0023",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "21",
+  "confidence": "hybrid",
+  "article_start_char": 14027,
+  "article_end_char": 14043,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-12"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0024",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14064,
+  "article_end_char": 14149,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0019",
+   "2016-13"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0025",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "21",
+  "confidence": "hybrid",
+  "article_start_char": 14191,
+  "article_end_char": 14214,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-14"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0026",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "95",
+  "confidence": "hybrid",
+  "article_start_char": 14287,
+  "article_end_char": 14320,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-15"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0027",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "27",
+  "confidence": "hybrid",
+  "article_start_char": 14542,
+  "article_end_char": 14555,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-16"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0028",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "128–29",
+  "confidence": "hybrid",
+  "article_start_char": 14567,
+  "article_end_char": 14584,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-17"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0029",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "136",
+  "confidence": "hybrid",
+  "article_start_char": 14604,
+  "article_end_char": 14621,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-18"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0030",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14811,
+  "article_end_char": 14887,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0020"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0031",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15405,
+  "article_end_char": 15460,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0021",
+   "2016-19"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0032",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15463,
+  "article_end_char": 15514,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0022",
+   "2016-20"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0033",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "82, 90",
+  "confidence": "hybrid",
+  "article_start_char": 15552,
+  "article_end_char": 15567,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-21"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0034",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "82, 90",
+  "confidence": "hybrid",
+  "article_start_char": 15654,
+  "article_end_char": 15680,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-22"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0035",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15796,
+  "article_end_char": 15839,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0023",
+   "2016-23"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0036",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15889,
+  "article_end_char": 16069,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0024"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0037",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16145,
+  "article_end_char": 16276,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0025",
+   "2016-25"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0038",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16762,
+  "article_end_char": 16826,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0026"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0039",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16866,
+  "article_end_char": 16985,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0027"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0040",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17464,
+  "article_end_char": 17603,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0028"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0041",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17734,
+  "article_end_char": 17769,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0029"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0042",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17893,
+  "article_end_char": 17960,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0030"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0043",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17988,
+  "article_end_char": 18063,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0031"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0044",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18410,
+  "article_end_char": 18506,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0032"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0045",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18692,
+  "article_end_char": 18746,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0033"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0046",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21241,
+  "article_end_char": 21279,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0034"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0047",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21679,
+  "article_end_char": 21712,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0035"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0048",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21981,
+  "article_end_char": 22085,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0036"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0049",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23234,
+  "article_end_char": 23280,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0037"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0050",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23595,
+  "article_end_char": 23675,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0038"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0051",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24272,
+  "article_end_char": 24366,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0039"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0052",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25340,
+  "article_end_char": 25446,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0040"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0053",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25724,
+  "article_end_char": 25745,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0041",
+   "2016-27"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0054",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26256,
+  "article_end_char": 26538,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0042"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0055",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26697,
+  "article_end_char": 26744,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0043"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0056",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28544,
+  "article_end_char": 28589,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0044"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0057",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29047,
+  "article_end_char": 29069,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0045"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0058",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29737,
+  "article_end_char": 29927,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0046"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0059",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30154,
+  "article_end_char": 30199,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0047"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0060",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30780,
+  "article_end_char": 30848,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0048"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0061",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31161,
+  "article_end_char": 31282,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0049"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0062",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31945,
+  "article_end_char": 32125,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0050"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0063",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32579,
+  "article_end_char": 32674,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0051"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0064",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35190,
+  "article_end_char": 35453,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0052"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0065",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35505,
+  "article_end_char": 35744,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0053"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0066",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35794,
+  "article_end_char": 35861,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0054"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0067",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 37367,
+  "article_end_char": 37697,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0055"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0068",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38193,
+  "article_end_char": 38477,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0056"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0069",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38933,
+  "article_end_char": 38965,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0057"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0070",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39269,
+  "article_end_char": 39298,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0058"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0071",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39860,
+  "article_end_char": 39880,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0059"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0072",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40218,
+  "article_end_char": 40248,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0060"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0073",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40344,
+  "article_end_char": 40640,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0061"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0074",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41125,
+  "article_end_char": 41157,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0062"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0075",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42248,
+  "article_end_char": 42294,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0063"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0076",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42512,
+  "article_end_char": 42545,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0064"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0077",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42660,
+  "article_end_char": 42701,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0065"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0078",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44252,
+  "article_end_char": 44431,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0066"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0079",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "139",
+  "confidence": "hybrid",
+  "article_start_char": 44952,
+  "article_end_char": 44956,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-26"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0080",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45956,
+  "article_end_char": 46025,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0067"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0081",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46343,
+  "article_end_char": 46464,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0068"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0082",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46637,
+  "article_end_char": 46665,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0069"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0083",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46697,
+  "article_end_char": 46763,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0070"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0084",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46823,
+  "article_end_char": 46963,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0071"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0085",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47083,
+  "article_end_char": 47135,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0072"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0086",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47246,
+  "article_end_char": 47269,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0073"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0087",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47333,
+  "article_end_char": 47402,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0074"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0088",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48254,
+  "article_end_char": 48306,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0075"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0089",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48610,
+  "article_end_char": 48675,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0076"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0090",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48750,
+  "article_end_char": 48838,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0077"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0091",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49015,
+  "article_end_char": 49060,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0078"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0092",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49128,
+  "article_end_char": 49276,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0079"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0093",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49715,
+  "article_end_char": 49737,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0080"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0094",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50364,
+  "article_end_char": 50387,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0081"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0095",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50487,
+  "article_end_char": 50539,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0082"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0096",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51468,
+  "article_end_char": 51514,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0083"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0097",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52746,
+  "article_end_char": 52813,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0084"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0098",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53126,
+  "article_end_char": 53167,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0085"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0099",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53436,
+  "article_end_char": 53457,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0086"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0100",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53571,
+  "article_end_char": 53601,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0087"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0101",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53974,
+  "article_end_char": 54004,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0088"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0102",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54550,
+  "article_end_char": 54626,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0089"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0103",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54982,
+  "article_end_char": 55014,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2016_sweeney_gothic_traces_8Q6F6MLD-mq-0090"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_mgo-0104",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "171",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2016-24"
+  ]
+ }
+]

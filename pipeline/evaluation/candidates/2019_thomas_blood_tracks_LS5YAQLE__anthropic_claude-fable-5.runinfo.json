@@ -1,0 +1,17 @@
+{
+  "backend": "anthropic",
+  "model": "claude-fable-5",
+  "attempts": [
+    {
+      "max_tokens": 16000,
+      "stop_reason": "end_turn",
+      "input_tokens": 49711,
+      "output_tokens": 8987,
+      "cache_read_input_tokens": 1263,
+      "cache_creation_input_tokens": 0,
+      "wall_seconds": 96.659,
+      "response_id": "msg_011CdaQ3Y3Lff8okqJG6QUzX"
+    }
+  ],
+  "n_quotes": 42
+}

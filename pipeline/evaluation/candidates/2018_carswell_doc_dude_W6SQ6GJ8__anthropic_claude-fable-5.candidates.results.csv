@@ -1,0 +1,7 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2018-01,Inherent Vice,True,Inherent Vice,P08,Chapter NINETEEN,19,,1.0,False,P08,1
+2018-02,Inherent Vice,True,Inherent Vice,P08,Chapter SEVENTEEN,17,,1.0,False,P08,1
+2018-03,Inherent Vice,True,Inherent Vice,P08,Chapter NINETEEN,19,,1.0,False,P08,1
+2018-04,Inherent Vice,True,Inherent Vice,P08,Chapter NINETEEN,19,,1.0,False,P08,1
+2018-05,Inherent Vice,True,Inherent Vice,P08,Chapter ONE,1,,1.0,False,P08,1
+2018-06,Inherent Vice,True,Inherent Vice,P08,Chapter ONE,1,,1.0,False,P08,1

@@ -1,0 +1,100 @@
+[
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-tm-0001",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 12414,
+  "article_end_char": 12571,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-tm-0002",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22888,
+  "article_end_char": 22940,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-tm-0003",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 23190,
+  "article_end_char": 24731,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-tm-0004",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31385,
+  "article_end_char": 31795,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-tm-0005",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32130,
+  "article_end_char": 32330,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-tm-0006",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32821,
+  "article_end_char": 33392,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-tm-0007",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 37317,
+  "article_end_char": 37801,
+  "textmatcher_candidate_pids": [
+   "P08"
+  ]
+ }
+]

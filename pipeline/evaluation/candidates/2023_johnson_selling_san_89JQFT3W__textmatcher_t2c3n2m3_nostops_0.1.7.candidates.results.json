@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-tm-0001",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-tm-0002",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-tm-0003",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 2",
+  "section_n": 2,
+  "part": "",
+  "score": 0.926,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 2
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-tm-0004",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 5",
+  "section_n": 5,
+  "part": "",
+  "score": 0.956,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-tm-0005",
+  "detector_guess": "P05",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Vineland",
+  "pid": "P05",
+  "section": "Chapter 12",
+  "section_n": 12,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P05",
+  "n_near_locations": 1
+ }
+]

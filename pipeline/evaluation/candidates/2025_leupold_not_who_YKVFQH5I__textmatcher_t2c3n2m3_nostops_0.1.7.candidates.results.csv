@@ -1,0 +1,18 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2025_leupold_not_who_YKVFQH5I-tm-0001,P04,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,0.955,False,P04,1
+2025_leupold_not_who_YKVFQH5I-tm-0002,P02,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0003,P02,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0004,P02,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-tm-0005,P02,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0006,P01|P05,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-tm-0007,P02,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0008,P02|P07,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0009,P02,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0010,P02,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0011,P02,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0012,P02,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0013,P02,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0014,P02,True,V.,P02,Chapter Nine,9,,1.0,False,P02,2
+2025_leupold_not_who_YKVFQH5I-tm-0015,P02,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-tm-0016,P04,True,Gravity's Rainbow,P04,Episode 71,71,Part 4: The Counterforce,1.0,False,P04,1
+2025_leupold_not_who_YKVFQH5I-tm-0017,P04,True,Gravity's Rainbow,P04,Episode 71,71,Part 4: The Counterforce,1.0,False,P04,1

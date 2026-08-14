@@ -1,0 +1,58 @@
+[
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0001",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7115,
+  "article_end_char": 7209,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0002",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7229,
+  "article_end_char": 7334,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0003",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7924,
+  "article_end_char": 8227,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0004",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9161,
+  "article_end_char": 9522,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ }
+]

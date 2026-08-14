@@ -1,0 +1,875 @@
+[
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0001",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 547,
+  "article_end_char": 619,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0001"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0002",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 6833,
+  "article_end_char": 6861,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0002"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0003",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7171,
+  "article_end_char": 7202,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0003"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0004",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7853,
+  "article_end_char": 7961,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0004"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0005",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8876,
+  "article_end_char": 8917,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0005",
+   "2012-01"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0006",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9706,
+  "article_end_char": 9737,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0006",
+   "2012-02"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0007",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11364,
+  "article_end_char": 11389,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0007"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0008",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12135,
+  "article_end_char": 12178,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0008"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0009",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12567,
+  "article_end_char": 12724,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0009"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0010",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12759,
+  "article_end_char": 12803,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0010"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0011",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12806,
+  "article_end_char": 13185,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0011"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0012",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13666,
+  "article_end_char": 13767,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0012",
+   "2012-03"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0013",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17544,
+  "article_end_char": 17569,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0013"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0014",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17686,
+  "article_end_char": 17806,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0014"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0015",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18742,
+  "article_end_char": 18832,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0015"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0016",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19146,
+  "article_end_char": 19486,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0016"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0017",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19888,
+  "article_end_char": 19911,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0017"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0018",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20375,
+  "article_end_char": 20397,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0018"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0019",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22497,
+  "article_end_char": 22547,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0019"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0020",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23732,
+  "article_end_char": 23888,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0020"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0021",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24477,
+  "article_end_char": 24537,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0021"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0022",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26230,
+  "article_end_char": 26290,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0022"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0023",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28040,
+  "article_end_char": 28102,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0023"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0024",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28817,
+  "article_end_char": 28849,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0024"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0025",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29394,
+  "article_end_char": 29483,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0025"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0026",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "105",
+  "confidence": "hybrid",
+  "article_start_char": 32514,
+  "article_end_char": 32910,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-04"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0027",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33842,
+  "article_end_char": 33915,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0026"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0028",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35040,
+  "article_end_char": 35235,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0027"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0029",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "74",
+  "confidence": "hybrid",
+  "article_start_char": 37837,
+  "article_end_char": 38058,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-05"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0030",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38885,
+  "article_end_char": 38967,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0028"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0031",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39001,
+  "article_end_char": 39183,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0029"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0032",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39615,
+  "article_end_char": 39638,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0030"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0033",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39647,
+  "article_end_char": 39686,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0031"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0034",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39717,
+  "article_end_char": 39781,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0032"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0035",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "15-16",
+  "confidence": "hybrid",
+  "article_start_char": 40279,
+  "article_end_char": 40528,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-06"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0036",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "68",
+  "confidence": "hybrid",
+  "article_start_char": 42424,
+  "article_end_char": 42743,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-07"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0037",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44528,
+  "article_end_char": 44551,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0033"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0038",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "126-127",
+  "confidence": "hybrid",
+  "article_start_char": 47970,
+  "article_end_char": 48448,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-08"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0039",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "13",
+  "confidence": "hybrid",
+  "article_start_char": 50073,
+  "article_end_char": 50280,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-09"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0040",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 57629,
+  "article_end_char": 57728,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0034"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0041",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 57771,
+  "article_end_char": 57830,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0035"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0042",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59001,
+  "article_end_char": 59055,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0036"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0043",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59073,
+  "article_end_char": 59095,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0037"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0044",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 60099,
+  "article_end_char": 60129,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0038"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0045",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 60154,
+  "article_end_char": 60213,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0039"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0046",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 60746,
+  "article_end_char": 60789,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0040"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0047",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 61154,
+  "article_end_char": 61203,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0041"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0048",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62454,
+  "article_end_char": 62503,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0042"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0049",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63603,
+  "article_end_char": 63759,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0043"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0050",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64241,
+  "article_end_char": 64294,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0044"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_mgo-0051",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64513,
+  "article_end_char": 64569,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-mq-0045"
+  ]
+ }
+]

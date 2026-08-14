@@ -1,0 +1,43 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014-01,,True,Against the Day,P07,Chapter 32,32,Part Three: Bilocations,1.0,False,P07,2
+2014-02,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.99,False,P07,1
+2014-03,,False,,,,,,,False,,0
+2014-04,,False,,,,,,,False,,0
+2014-05,,True,Against the Day,P07,Chapter 49,49,Part Three: Bilocations,1.0,False,P07,1
+2014-06,,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,0.972,False,P07,1
+2014-07,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.985,False,P07,2
+2014-08,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,2
+2014-09,,False,,,,,,,False,,0
+2014-10,,False,,,,,,,False,,0
+2014-11,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-12,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-13,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.938,False,P07,1
+2014-14,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-15,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,2
+2014-16,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.865,False,P07,1
+2014-17,,False,,,,,,0.57,False,,0
+2014-18,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-19,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-20,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.798,False,P07,1
+2014-21,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-22,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-23,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.964,False,P07,1
+2014-24,,True,Against the Day,P07,Chapter 44,44,Part Three: Bilocations,1.0,False,P07,1
+2014-25,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-26,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,2
+2014-27,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-28,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014-29,,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,1.0,False,P07,1
+2014-30,,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,0.959,False,P07,2
+2014-31,,False,,,,,,,False,,0
+2014-32,,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,0.973,False,P07,2
+2014-33,,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,1.0,False,P07,1
+2014-34,,False,,,,,,,False,,0
+2014-35,,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,0.993,False,P07,1
+2014-36,,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,0.897,False,P07,2
+2014-37,,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,3
+2014-38,,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,1.0,False,P07,1
+2014-39,,False,,,,,,,False,,0
+2014-40,,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2014-41,,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,0.754,False,P07,1
+2014-42,,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,1.0,False,P07,1

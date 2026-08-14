@@ -1,0 +1,18 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+YT54NC7G-q0003,gold span,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,1
+YT54NC7G-q0004,gold span,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,1
+YT54NC7G-q0006,gold span,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,3
+YT54NC7G-q0008,gold span,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,1
+YT54NC7G-q0009,gold span,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,1
+YT54NC7G-q0028,gold span,True,Gravity's Rainbow,P04,Episode 71,71,Part 4: The Counterforce,1.0,False,P04,1
+YT54NC7G-q0030,gold span,True,Gravity's Rainbow,P04,Episode 40,40,Part 3: In the Zone,1.0,False,P04,1
+YT54NC7G-q0034,gold span,True,Vineland,P05,Chapter 8,8,,1.0,False,P05,1
+YT54NC7G-q0035,gold span,True,Vineland,P05,Chapter 3,3,,0.987,False,P05,2
+YT54NC7G-q0036,gold span,True,Vineland,P05,Chapter 10,10,,1.0,False,P05,1
+YT54NC7G-q0045,gold span,True,Gravity's Rainbow,P04,Episode 49,49,Part 3: In the Zone,0.999,False,P04,1
+YT54NC7G-q0054,gold span,True,Gravity's Rainbow,P04,Episode 73,73,Part 4: The Counterforce,1.0,False,P04,1
+YT54NC7G-q0055,gold span,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,0.967,False,P04,1
+YT54NC7G-q0056,gold span,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,False,P04,1
+YT54NC7G-q0067,gold span,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,False,P04,1
+YT54NC7G-m0001,gold span,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,0.964,False,P04,1
+YT54NC7G-m0003,gold span,True,Gravity's Rainbow,P04,Episode 40,40,Part 3: In the Zone,1.0,False,P04,1

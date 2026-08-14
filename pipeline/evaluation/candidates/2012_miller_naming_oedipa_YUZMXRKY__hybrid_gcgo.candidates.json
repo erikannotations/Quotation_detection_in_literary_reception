@@ -1,0 +1,273 @@
+[
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0001",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "118",
+  "confidence": "hybrid",
+  "article_start_char": 8876,
+  "article_end_char": 8917,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-01",
+   "2012-01"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0002",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "118",
+  "confidence": "hybrid",
+  "article_start_char": 9706,
+  "article_end_char": 9737,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-02",
+   "2012-02"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0003",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11364,
+  "article_end_char": 11388,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2012-03"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0004",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "1",
+  "confidence": "hybrid",
+  "article_start_char": 13666,
+  "article_end_char": 13767,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-04",
+   "2012-03"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0005",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "13",
+  "confidence": "hybrid",
+  "article_start_char": 22497,
+  "article_end_char": 22547,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2012-05"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0006",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "13",
+  "confidence": "hybrid",
+  "article_start_char": 22853,
+  "article_end_char": 23553,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2012-06"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0007",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "13",
+  "confidence": "hybrid",
+  "article_start_char": 23383,
+  "article_end_char": 23442,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2012-07"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0008",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "121",
+  "confidence": "hybrid",
+  "article_start_char": 28040,
+  "article_end_char": 28102,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2012-08"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0009",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "105",
+  "confidence": "hybrid",
+  "article_start_char": 32514,
+  "article_end_char": 32910,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-09",
+   "2012-04"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0010",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "74",
+  "confidence": "hybrid",
+  "article_start_char": 37659,
+  "article_end_char": 38058,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2012-10"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0011",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "74",
+  "confidence": "hybrid",
+  "article_start_char": 37837,
+  "article_end_char": 38058,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-05"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0012",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "15-16",
+  "confidence": "hybrid",
+  "article_start_char": 40279,
+  "article_end_char": 40528,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-12",
+   "2012-06"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0013",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "68",
+  "confidence": "hybrid",
+  "article_start_char": 42424,
+  "article_end_char": 42743,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-11",
+   "2012-07"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0014",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "126-127",
+  "confidence": "hybrid",
+  "article_start_char": 47970,
+  "article_end_char": 48448,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-13",
+   "2012-08"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0015",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "13",
+  "confidence": "hybrid",
+  "article_start_char": 50073,
+  "article_end_char": 50280,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2012-14",
+   "2012-09"
+  ]
+ }
+]

@@ -1,0 +1,12 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0001,P07,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0002,P07,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0003,P07,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0004,P07,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0005,P07,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0006,P07|P09|P10,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0007,P07,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0008,P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0009,P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0010,P07,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0011,P07,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,0.93,False,P07,2

@@ -1,0 +1,104 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0001,unclassified marked span,False,,,,,,0.579,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0002,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0003,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0004,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0005,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0006,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0007,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0008,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0009,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0010,,True,The Crying of Lot 49,P03,Chapter 3,3,,0.986,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0011,,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0012,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0013,,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,2
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0014,,True,The Crying of Lot 49,P03,Chapter 6,6,,0.995,False,P03,3
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0015,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0016,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0017,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0018,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0019,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0020,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0021,,False,,,,,,0.505,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0022,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 2,2,,0.992,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0023,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0024,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0025,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0026,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0027,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0028,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0029,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0030,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0031,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0032,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 5,5,,0.943,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0033,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0034,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0035,,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0036,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0037,,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0038,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0039,,True,The Crying of Lot 49,P03,Chapter 4,4,,0.848,False,P03,2
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0040,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0041,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0042,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0043,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0044,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0045,unclassified marked span,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0046,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0047,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0048,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0049,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0050,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0051,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0052,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0053,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0054,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0055,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 4,4,,0.929,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0056,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0057,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0058,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0059,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 4,4,,0.929,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0060,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0061,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0062,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0063,,True,The Crying of Lot 49,P03,Chapter 5,5,,0.983,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0064,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 5,5,,0.962,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0065,,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0066,unclassified marked span,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0067,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0068,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0069,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0070,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0071,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0072,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0073,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0074,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0075,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0076,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0077,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0078,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0079,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0080,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0081,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0082,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0083,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0084,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0085,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0086,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0087,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0088,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0089,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0090,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0091,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0092,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0093,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0094,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0095,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0096,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0097,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0098,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0099,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0100,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0101,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0102,unclassified marked span,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid_mgo-0103,unclassified marked span,False,,,,,,,False,,0

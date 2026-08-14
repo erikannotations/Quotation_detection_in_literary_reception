@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-tm-0001",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8397,
+  "article_end_char": 9018,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-tm-0002",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9945,
+  "article_end_char": 10053,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-tm-0003",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13369,
+  "article_end_char": 14728,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-tm-0004",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22172,
+  "article_end_char": 22344,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-tm-0005",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22873,
+  "article_end_char": 23238,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ }
+]

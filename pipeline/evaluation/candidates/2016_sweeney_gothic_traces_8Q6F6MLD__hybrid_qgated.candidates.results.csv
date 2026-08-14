@@ -1,0 +1,35 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0001,P02|P07,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0002,P03|P08,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0003,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0004,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0005,P04,True,Gravity's Rainbow,P04,Episode 20,20,Part 1: Beyond the Zero,1.0,False,P04,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0006,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0007,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0008,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,0.953,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0009,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0010,The Crying of Lot 49,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0011,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,0.976,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0012,P09,True,Bleeding Edge,P09,Chapter 2,2,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0013,The Crying of Lot 49 | P03,True,The Crying of Lot 49,P03,Chapter 3,3,,0.923,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0014,The Crying of Lot 49 | P03,True,The Crying of Lot 49,P03,Chapter 3,3,,0.939,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0015,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0016,P03|P04,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,2
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0017,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,0.992,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0018,P03,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0019,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0020,P04,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0021,P02|P03|P04|P05|P07,True,V.,P02,Chapter Nine,9,,0.947,True,P02|P03|P04|P05|P07,9
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0022,P02,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0023,P09 | Bleeding Edge,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0024,P01|P02,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0025,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0026,P07,True,Against the Day,P07,Chapter 59,59,Part Four: Against the Day,1.0,False,P07,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0027,P09 | Bleeding Edge,True,Bleeding Edge,P09,Chapter 37,37,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0028,P09 | Bleeding Edge,True,Bleeding Edge,P09,Chapter 41,41,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0029,P05,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0030,P04,True,Gravity's Rainbow,P04,Episode 20,20,Part 1: Beyond the Zero,1.0,False,P04,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0031,The Crying of Lot 49,False,,,,,,0.707,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0032,Bleeding Edge,True,Bleeding Edge,P09,Chapter 2,2,,0.88,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0033,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,0.931,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_qgated-0034,The Crying of Lot 49,False,,,,,,,False,,0

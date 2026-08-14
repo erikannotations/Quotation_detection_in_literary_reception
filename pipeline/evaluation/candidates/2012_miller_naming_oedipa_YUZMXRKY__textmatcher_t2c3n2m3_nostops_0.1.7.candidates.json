@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0001",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13671,
+  "article_end_char": 13755,
+  "textmatcher_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0002",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22520,
+  "article_end_char": 22547,
+  "textmatcher_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0003",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22643,
+  "article_end_char": 22670,
+  "textmatcher_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0004",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22869,
+  "article_end_char": 23552,
+  "textmatcher_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0005",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32517,
+  "article_end_char": 32904,
+  "textmatcher_candidate_pids": [
+   "P03"
+  ]
+ }
+]

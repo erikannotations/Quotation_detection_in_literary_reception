@@ -1,0 +1,43 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2019-01,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,0.974,False,P04,1
+2019-02,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,1.0,False,P04,1
+2019-03,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,1.0,False,P04,1
+2019-04,Bleeding Edge,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+2019-05,Bleeding Edge,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+2019-06,Bleeding Edge,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+2019-07,Bleeding Edge,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+2019-08,Bleeding Edge,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+2019-09,Bleeding Edge,True,Bleeding Edge,P09,Chapter 7,7,,1.0,False,P09,1
+2019-10,Bleeding Edge,True,Bleeding Edge,P09,Chapter 32,32,,1.0,False,P09,1
+2019-11,Bleeding Edge,True,Bleeding Edge,P09,Chapter 32,32,,1.0,False,P09,1
+2019-12,Bleeding Edge,True,Bleeding Edge,P09,Chapter 32,32,,1.0,False,P09,1
+2019-13,Inherent Vice,True,Inherent Vice,P08,Chapter FOURTEEN,14,,1.0,False,P08,1
+2019-14,Bleeding Edge,True,Bleeding Edge,P09,Chapter 33,33,,1.0,False,P09,1
+2019-15,Bleeding Edge,True,Bleeding Edge,P09,Chapter 33,33,,1.0,False,P09,1
+2019-16,Bleeding Edge,True,Bleeding Edge,P09,Chapter 33,33,,1.0,False,P09,1
+2019-17,Bleeding Edge,True,Bleeding Edge,P09,Chapter 33,33,,1.0,False,P09,2
+2019-18,Bleeding Edge,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,1
+2019-19,Bleeding Edge,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,1
+2019-20,Bleeding Edge,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,1
+2019-21,Bleeding Edge,True,Bleeding Edge,P09,Chapter 2,2,,0.971,False,P09,1
+2019-22,Bleeding Edge,True,Bleeding Edge,P09,Chapter 2,2,,1.0,False,P09,1
+2019-23,Bleeding Edge,True,Bleeding Edge,P09,Chapter 10,10,,1.0,False,P09,1
+2019-24,Bleeding Edge,True,Bleeding Edge,P09,Chapter 10,10,,0.967,False,P09,2
+2019-25,Bleeding Edge,True,Bleeding Edge,P09,Chapter 38,38,,0.994,False,P09,1
+2019-26,Bleeding Edge,True,Bleeding Edge,P09,Chapter 30,30,,1.0,False,P09,1
+2019-27,Bleeding Edge,True,Bleeding Edge,P09,Chapter 30,30,,0.915,False,P09,1
+2019-28,Bleeding Edge,True,Bleeding Edge,P09,Chapter 30,30,,0.913,False,P09,1
+2019-29,Bleeding Edge,True,Bleeding Edge,P09,Chapter 2,2,,1.0,False,P09,1
+2019-30,Vineland,True,Vineland,P05,Chapter 7,7,,1.0,False,P05,1
+2019-31,Vineland,True,Vineland,P05,Chapter 15,15,,0.993,False,P05,1
+2019-32,Bleeding Edge,True,Bleeding Edge,P09,Chapter 23,23,,1.0,False,P09,1
+2019-33,Bleeding Edge,True,Bleeding Edge,P09,Chapter 23,23,,1.0,False,P09,1
+2019-34,Bleeding Edge,True,Bleeding Edge,P09,Chapter 38,38,,0.989,False,P09,1
+2019-35,Bleeding Edge,True,Bleeding Edge,P09,Chapter 30,30,,1.0,False,P09,1
+2019-36,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,False,P04,1
+2019-37,Bleeding Edge,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1
+2019-38,Bleeding Edge,True,Bleeding Edge,P09,Chapter 3,3,,1.0,False,P09,1
+2019-39,Bleeding Edge,True,Bleeding Edge,P09,Chapter 5,5,,0.955,False,P09,1
+2019-40,Inherent Vice,True,Inherent Vice,P08,Chapter SIX,6,,0.905,False,P08,1
+2019-41,Against the Day,True,Against the Day,P07,Chapter 11,11,Part Two: Iceland Spar,1.0,False,P07,1
+2019-42,Bleeding Edge,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,3

@@ -1,0 +1,563 @@
+[
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0001",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "22",
+  "confidence": "hybrid",
+  "article_start_char": 6412,
+  "article_end_char": 6458,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-01"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0002",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "83",
+  "confidence": "hybrid",
+  "article_start_char": 6774,
+  "article_end_char": 6813,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2013-01"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0003",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "36",
+  "confidence": "hybrid",
+  "article_start_char": 7668,
+  "article_end_char": 7735,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-02",
+   "2013-02"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0004",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7808,
+  "article_end_char": 7833,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2013-03"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0005",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "42",
+  "confidence": "hybrid",
+  "article_start_char": 8125,
+  "article_end_char": 8437,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2013-04"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0006",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "42",
+  "confidence": "hybrid",
+  "article_start_char": 8176,
+  "article_end_char": 8276,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-03"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0007",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "42",
+  "confidence": "hybrid",
+  "article_start_char": 8280,
+  "article_end_char": 8437,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-04"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0008",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "50",
+  "confidence": "hybrid",
+  "article_start_char": 8610,
+  "article_end_char": 8830,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-05",
+   "2013-05"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0009",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "56",
+  "confidence": "hybrid",
+  "article_start_char": 8916,
+  "article_end_char": 8969,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-06",
+   "2013-06"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0010",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "117",
+  "confidence": "hybrid",
+  "article_start_char": 9220,
+  "article_end_char": 9332,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-07",
+   "2013-07"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0011",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "117-18",
+  "confidence": "hybrid",
+  "article_start_char": 9697,
+  "article_end_char": 10710,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-08",
+   "2013-08"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0012",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "126",
+  "confidence": "hybrid",
+  "article_start_char": 11427,
+  "article_end_char": 11462,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-09",
+   "2013-09"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0013",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "17",
+  "confidence": "hybrid",
+  "article_start_char": 13065,
+  "article_end_char": 13114,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-10",
+   "2013-10"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0014",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "29",
+  "confidence": "hybrid",
+  "article_start_char": 13176,
+  "article_end_char": 13269,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-11"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0015",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "17",
+  "confidence": "hybrid",
+  "article_start_char": 13358,
+  "article_end_char": 13477,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-11",
+   "2013-12"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0016",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "89",
+  "confidence": "hybrid",
+  "article_start_char": 13766,
+  "article_end_char": 13792,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-12",
+   "2013-20"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0017",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "100",
+  "confidence": "hybrid",
+  "article_start_char": 18615,
+  "article_end_char": 18652,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-13",
+   "2013-19"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0018",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "126",
+  "confidence": "hybrid",
+  "article_start_char": 19576,
+  "article_end_char": 19603,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-13"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0019",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "124",
+  "confidence": "hybrid",
+  "article_start_char": 20266,
+  "article_end_char": 20322,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-14",
+   "2013-14"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0020",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "81 125",
+  "confidence": "hybrid",
+  "article_start_char": 20380,
+  "article_end_char": 20422,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-15"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0021",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "81",
+  "confidence": "hybrid",
+  "article_start_char": 20709,
+  "article_end_char": 20746,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-15",
+   "2013-16"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0022",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "66",
+  "confidence": "hybrid",
+  "article_start_char": 20823,
+  "article_end_char": 20936,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-17"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0023",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "66",
+  "confidence": "hybrid",
+  "article_start_char": 20823,
+  "article_end_char": 20878,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2013-16"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0024",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "66",
+  "confidence": "hybrid",
+  "article_start_char": 20897,
+  "article_end_char": 20936,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2013-17"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0025",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "125",
+  "confidence": "hybrid",
+  "article_start_char": 21252,
+  "article_end_char": 21327,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-18",
+   "2013-18"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0026",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "V.",
+  "attributed_work": "V.",
+  "attributed_page": "226",
+  "confidence": "hybrid",
+  "article_start_char": 22598,
+  "article_end_char": 22637,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-19",
+   "2013-25"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0027",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "118",
+  "confidence": "hybrid",
+  "article_start_char": 30990,
+  "article_end_char": 31121,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-20",
+   "2013-21"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0028",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "81",
+  "confidence": "hybrid",
+  "article_start_char": 32840,
+  "article_end_char": 32895,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2013-21"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0029",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "89",
+  "confidence": "hybrid",
+  "article_start_char": 35379,
+  "article_end_char": 35439,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-22",
+   "2013-22"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0030",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "89",
+  "confidence": "hybrid",
+  "article_start_char": 35716,
+  "article_end_char": 35775,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-23"
+  ]
+ },
+ {
+  "id": "2013_harvey_cry_within_C6VQPDG4-hybrid_gcgo-0031",
+  "article": "2013_harvey_cry_within_C6VQPDG4",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "13",
+  "confidence": "hybrid",
+  "article_start_char": 36939,
+  "article_end_char": 36980,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2013-23",
+   "2013-24"
+  ]
+ }
+]

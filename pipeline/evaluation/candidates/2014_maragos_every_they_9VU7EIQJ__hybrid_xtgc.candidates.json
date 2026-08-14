@@ -1,0 +1,121 @@
+[
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0001",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "287",
+  "confidence": "hybrid",
+  "article_start_char": 10299,
+  "article_end_char": 11062,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-01"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0002",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "347",
+  "confidence": "hybrid",
+  "article_start_char": 15648,
+  "article_end_char": 15706,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-05"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0003",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "50",
+  "confidence": "hybrid",
+  "article_start_char": 27043,
+  "article_end_char": 27804,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-14"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0004",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "87",
+  "confidence": "hybrid",
+  "article_start_char": 29008,
+  "article_end_char": 29041,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-15"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0005",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "87",
+  "confidence": "hybrid",
+  "article_start_char": 29225,
+  "article_end_char": 29748,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-16"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0006",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "87",
+  "confidence": "hybrid",
+  "article_start_char": 29689,
+  "article_end_char": 29720,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-17"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0007",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "197",
+  "confidence": "hybrid",
+  "article_start_char": 33028,
+  "article_end_char": 33246,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-18"
+  ]
+ }
+]

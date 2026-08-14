@@ -1,0 +1,254 @@
+[
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0001",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 6317,
+  "article_end_char": 6381,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0002",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9208,
+  "article_end_char": 9509,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0003",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 11686,
+  "article_end_char": 12152,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0004",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14002,
+  "article_end_char": 14040,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0005",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14152,
+  "article_end_char": 14555,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0006",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16148,
+  "article_end_char": 16302,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0007",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 19155,
+  "article_end_char": 19217,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0008",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 19344,
+  "article_end_char": 19420,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0009",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20301,
+  "article_end_char": 20503,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0010",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30977,
+  "article_end_char": 31083,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0011",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32700,
+  "article_end_char": 32747,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0012",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32994,
+  "article_end_char": 33106,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0013",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 33725,
+  "article_end_char": 33763,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0014",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 33872,
+  "article_end_char": 33908,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0015",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 33917,
+  "article_end_char": 34054,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0016",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 35396,
+  "article_end_char": 35774,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0017",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38289,
+  "article_end_char": 38413,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-tm-0018",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 44611,
+  "article_end_char": 44681,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ }
+]

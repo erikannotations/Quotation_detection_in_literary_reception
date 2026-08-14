@@ -1,0 +1,198 @@
+[
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0001",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18395,
+  "article_end_char": 18448,
+  "textmatcher_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0002",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18490,
+  "article_end_char": 18521,
+  "textmatcher_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0003",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21934,
+  "article_end_char": 22048,
+  "textmatcher_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0004",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28112,
+  "article_end_char": 28144,
+  "textmatcher_candidate_pids": [
+   "P08"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0005",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30281,
+  "article_end_char": 30384,
+  "textmatcher_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0006",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30391,
+  "article_end_char": 30676,
+  "textmatcher_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0007",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30687,
+  "article_end_char": 30738,
+  "textmatcher_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0008",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 42210,
+  "article_end_char": 42228,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0009",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 58634,
+  "article_end_char": 58764,
+  "textmatcher_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0010",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 67841,
+  "article_end_char": 67903,
+  "textmatcher_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0011",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 78330,
+  "article_end_char": 78349,
+  "textmatcher_candidate_pids": [
+   "P01"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0012",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 97990,
+  "article_end_char": 98125,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0013",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 98239,
+  "article_end_char": 98331,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0014",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 130777,
+  "article_end_char": 130842,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ }
+]

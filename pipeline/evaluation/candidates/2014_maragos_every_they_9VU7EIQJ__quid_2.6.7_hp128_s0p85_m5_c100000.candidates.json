@@ -1,0 +1,976 @@
+[
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0001",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 570,
+  "article_end_char": 592,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0002",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 1502,
+  "article_end_char": 1536,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0003",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 1964,
+  "article_end_char": 1992,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0004",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 2022,
+  "article_end_char": 2047,
+  "quid_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0005",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 2103,
+  "article_end_char": 2130,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0006",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 2131,
+  "article_end_char": 2151,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0007",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 2944,
+  "article_end_char": 2966,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0008",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 3016,
+  "article_end_char": 3036,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0009",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 3235,
+  "article_end_char": 3256,
+  "quid_candidate_pids": [
+   "P04",
+   "P05",
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0010",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 4848,
+  "article_end_char": 4898,
+  "quid_candidate_pids": [
+   "P01"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0011",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 5826,
+  "article_end_char": 5848,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0012",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 6194,
+  "article_end_char": 6224,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0013",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7005,
+  "article_end_char": 7022,
+  "quid_candidate_pids": [
+   "P04",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0014",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7317,
+  "article_end_char": 7333,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0015",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7494,
+  "article_end_char": 7514,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0016",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9553,
+  "article_end_char": 9589,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0017",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 10311,
+  "article_end_char": 11063,
+  "quid_candidate_pids": [
+   "P06",
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0018",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 12322,
+  "article_end_char": 12341,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0019",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 12598,
+  "article_end_char": 12799,
+  "quid_candidate_pids": [
+   "P06",
+   "P08"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0020",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13460,
+  "article_end_char": 13482,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0021",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13995,
+  "article_end_char": 14292,
+  "quid_candidate_pids": [
+   "P01",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0022",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14666,
+  "article_end_char": 14692,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0023",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15125,
+  "article_end_char": 15144,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0024",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15243,
+  "article_end_char": 15260,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0025",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15586,
+  "article_end_char": 15617,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0026",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15648,
+  "article_end_char": 15706,
+  "quid_candidate_pids": [
+   "P06",
+   "P07",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0027",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16223,
+  "article_end_char": 16244,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0028",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16401,
+  "article_end_char": 16418,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P06",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0029",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17070,
+  "article_end_char": 17092,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0030",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17117,
+  "article_end_char": 17522,
+  "quid_candidate_pids": [
+   "P06",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0031",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17989,
+  "article_end_char": 18012,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0032",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18034,
+  "article_end_char": 18051,
+  "quid_candidate_pids": [
+   "P06",
+   "P08",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0033",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18647,
+  "article_end_char": 18678,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0034",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18808,
+  "article_end_char": 18829,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0035",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 19256,
+  "article_end_char": 19276,
+  "quid_candidate_pids": [
+   "P04",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0036",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 19317,
+  "article_end_char": 19365,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0037",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20044,
+  "article_end_char": 20070,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0038",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20511,
+  "article_end_char": 20534,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0039",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20855,
+  "article_end_char": 20872,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P06",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0040",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20953,
+  "article_end_char": 20985,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0041",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21166,
+  "article_end_char": 21240,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0042",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21912,
+  "article_end_char": 21957,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0043",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22744,
+  "article_end_char": 22765,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P08"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0044",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22782,
+  "article_end_char": 22825,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0045",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P05|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22940,
+  "article_end_char": 23329,
+  "quid_candidate_pids": [
+   "P04",
+   "P05",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0046",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24118,
+  "article_end_char": 24344,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0047",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 25217,
+  "article_end_char": 25234,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0048",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 25892,
+  "article_end_char": 26078,
+  "quid_candidate_pids": [
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0049",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 26931,
+  "article_end_char": 26953,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0050",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P05|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 27043,
+  "article_end_char": 27799,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P05",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0051",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28103,
+  "article_end_char": 28122,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0052",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28344,
+  "article_end_char": 28361,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P06",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0053",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29008,
+  "article_end_char": 29041,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0054",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29225,
+  "article_end_char": 29748,
+  "quid_candidate_pids": [
+   "P05",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0055",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30230,
+  "article_end_char": 30261,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0056",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30946,
+  "article_end_char": 30967,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0057",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30973,
+  "article_end_char": 30995,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0058",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31608,
+  "article_end_char": 31626,
+  "quid_candidate_pids": [
+   "P05",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0059",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31925,
+  "article_end_char": 31942,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0060",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32503,
+  "article_end_char": 32521,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0061",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 33028,
+  "article_end_char": 33246,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0062",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P05|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 34383,
+  "article_end_char": 34412,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0063",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P04|P05|P06|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 34609,
+  "article_end_char": 34631,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0064",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38542,
+  "article_end_char": 38573,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-quid-0065",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 41607,
+  "article_end_char": 41640,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ }
+]

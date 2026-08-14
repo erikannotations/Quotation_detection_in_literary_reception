@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0001",
+  "detector_guess": "Mason & Dixon",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Mason & Dixon",
+  "pid": "P06",
+  "section": "Chapter 31",
+  "section_n": 31,
+  "part": "Part 2: America",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P06",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0002",
+  "detector_guess": "Mason & Dixon",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Mason & Dixon",
+  "pid": "P06",
+  "section": "Chapter 31",
+  "section_n": 31,
+  "part": "Part 2: America",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P06",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0003",
+  "detector_guess": "Mason & Dixon",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Mason & Dixon",
+  "pid": "P06",
+  "section": "Chapter 51",
+  "section_n": 51,
+  "part": "Part 2: America",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P06",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0004",
+  "detector_guess": "Mason & Dixon",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Mason & Dixon",
+  "pid": "P06",
+  "section": "Chapter 69",
+  "section_n": 69,
+  "part": "Part 2: America",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P06",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0005",
+  "detector_guess": "Mason & Dixon",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Mason & Dixon",
+  "pid": "P06",
+  "section": "Chapter 71",
+  "section_n": 71,
+  "part": "Part 2: America",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P06",
+  "n_near_locations": 1
+ }
+]

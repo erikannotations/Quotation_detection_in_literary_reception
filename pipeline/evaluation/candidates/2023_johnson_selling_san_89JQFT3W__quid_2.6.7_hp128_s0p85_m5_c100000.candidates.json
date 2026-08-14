@@ -1,0 +1,1010 @@
+[
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0001",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 342,
+  "article_end_char": 362,
+  "quid_candidate_pids": [
+   "P10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0002",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 1343,
+  "article_end_char": 1375,
+  "quid_candidate_pids": [
+   "P02",
+   "P05",
+   "P06"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0003",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 1599,
+  "article_end_char": 1624,
+  "quid_candidate_pids": [
+   "P10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0004",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 4801,
+  "article_end_char": 4838,
+  "quid_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0005",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7884,
+  "article_end_char": 7943,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0006",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8013,
+  "article_end_char": 8045,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0007",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P05|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8476,
+  "article_end_char": 8507,
+  "quid_candidate_pids": [
+   "P04",
+   "P05",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0008",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9334,
+  "article_end_char": 9359,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0009",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9400,
+  "article_end_char": 9431,
+  "quid_candidate_pids": [
+   "P07",
+   "P10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0010",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 10827,
+  "article_end_char": 10851,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0011",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13769,
+  "article_end_char": 13807,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0012",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13940,
+  "article_end_char": 13961,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0013",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14365,
+  "article_end_char": 14552,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0014",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P03|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14670,
+  "article_end_char": 14739,
+  "quid_candidate_pids": [
+   "P02",
+   "P03",
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0015",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14879,
+  "article_end_char": 14929,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0016",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15978,
+  "article_end_char": 15998,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0017",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17438,
+  "article_end_char": 17460,
+  "quid_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0018",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P05|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17681,
+  "article_end_char": 17698,
+  "quid_candidate_pids": [
+   "P01",
+   "P05",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0019",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17899,
+  "article_end_char": 17933,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0020",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17964,
+  "article_end_char": 18049,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0021",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18341,
+  "article_end_char": 18386,
+  "quid_candidate_pids": [
+   "P01"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0022",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 19618,
+  "article_end_char": 19691,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0023",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20753,
+  "article_end_char": 20783,
+  "quid_candidate_pids": [
+   "P04",
+   "P06",
+   "P08"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0024",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21469,
+  "article_end_char": 21493,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0025",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21750,
+  "article_end_char": 21881,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0026",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22937,
+  "article_end_char": 23056,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0027",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 23706,
+  "article_end_char": 23820,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0028",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 27768,
+  "article_end_char": 27807,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0029",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28247,
+  "article_end_char": 28375,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0030",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29100,
+  "article_end_char": 29211,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0031",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31212,
+  "article_end_char": 31232,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0032",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 35790,
+  "article_end_char": 35805,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P04"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0033",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36205,
+  "article_end_char": 36229,
+  "quid_candidate_pids": [
+   "P10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0034",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P04|P05|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38827,
+  "article_end_char": 38843,
+  "quid_candidate_pids": [
+   "P01",
+   "P04",
+   "P05",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0035",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 41575,
+  "article_end_char": 41630,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0036",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 42230,
+  "article_end_char": 42255,
+  "quid_candidate_pids": [
+   "P04",
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0037",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 42538,
+  "article_end_char": 42587,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0038",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 44544,
+  "article_end_char": 44593,
+  "quid_candidate_pids": [
+   "P03",
+   "P06"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0039",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03|P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 44892,
+  "article_end_char": 44951,
+  "quid_candidate_pids": [
+   "P03",
+   "P05"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0040",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03|P04|P06|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 46302,
+  "article_end_char": 46414,
+  "quid_candidate_pids": [
+   "P03",
+   "P04",
+   "P06",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0041",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 46497,
+  "article_end_char": 46514,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0042",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 48144,
+  "article_end_char": 48298,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0043",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49547,
+  "article_end_char": 49577,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0044",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50176,
+  "article_end_char": 50207,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0045",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50324,
+  "article_end_char": 50351,
+  "quid_candidate_pids": [
+   "P01"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0046",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50858,
+  "article_end_char": 50887,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0047",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 51113,
+  "article_end_char": 51130,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0048",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 51931,
+  "article_end_char": 51960,
+  "quid_candidate_pids": [
+   "P02",
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0049",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 51967,
+  "article_end_char": 51995,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0050",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 52488,
+  "article_end_char": 52515,
+  "quid_candidate_pids": [
+   "P05",
+   "P06"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0051",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 54314,
+  "article_end_char": 54336,
+  "quid_candidate_pids": [
+   "P01"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0052",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P04|P05|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 55276,
+  "article_end_char": 55299,
+  "quid_candidate_pids": [
+   "P01",
+   "P04",
+   "P05",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0053",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 56093,
+  "article_end_char": 56143,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0054",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 59322,
+  "article_end_char": 59344,
+  "quid_candidate_pids": [
+   "P03",
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0055",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 60085,
+  "article_end_char": 60106,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0056",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 61000,
+  "article_end_char": 61019,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0057",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 61594,
+  "article_end_char": 61611,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0058",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 63621,
+  "article_end_char": 63642,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0059",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 63785,
+  "article_end_char": 63806,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0060",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 64042,
+  "article_end_char": 64076,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0061",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 64248,
+  "article_end_char": 64269,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0062",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 64369,
+  "article_end_char": 64406,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0063",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 65073,
+  "article_end_char": 65094,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0064",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 65348,
+  "article_end_char": 65369,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0065",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 65479,
+  "article_end_char": 65502,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0066",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 65714,
+  "article_end_char": 65735,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0067",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 66273,
+  "article_end_char": 66294,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0068",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 66555,
+  "article_end_char": 66576,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-quid-0069",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 66898,
+  "article_end_char": 66919,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ }
+]

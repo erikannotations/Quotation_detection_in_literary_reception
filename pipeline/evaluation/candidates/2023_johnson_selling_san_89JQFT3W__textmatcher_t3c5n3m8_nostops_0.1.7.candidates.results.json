@@ -1,0 +1,30 @@
+[
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-tm-0001",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-tm-0002",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ }
+]

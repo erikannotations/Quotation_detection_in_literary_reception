@@ -1,0 +1,33 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2025-01,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,0.955,False,P04,1
+2025-02,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,1.0,False,P04,1
+2025-03,V.,True,V.,P02,Chapter Six,6,,0.922,False,P02,1
+2025-04,V.,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+2025-05,V.,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+2025-06,V.,True,V.,P02,Chapter Seven,7,,0.959,False,P02,1
+2025-07,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025-08,V.,True,V.,P02,Chapter Two,2,,0.987,False,P02,1
+2025-09,V.,True,V.,P02,Chapter Two,2,,1.0,False,P02,1
+2025-10,V.,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+2025-11,V.,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+2025-12,V.,True,V.,P02,Chapter Three,3,,0.988,False,P02,1
+2025-13,V.,True,V.,P02,Chapter Three,3,,1.0,False,P02,1
+2025-14,V.,True,V.,P02,Chapter Eleven,11,,0.998,False,P02,2
+2025-15,V.,True,V.,P02,Chapter Fourteen,14,,1.0,False,P02,1
+2025-16,V.,True,V.,P02,Chapter Eleven,11,,1.0,False,P02,1
+2025-17,V.,True,V.,P02,Chapter Eleven,11,,0.966,False,P02,1
+2025-18,V.,True,V.,P02,Chapter Eleven,11,,0.975,False,P02,1
+2025-19,V.,True,V.,P02,Chapter Eleven,11,,1.0,False,P02,1
+2025-20,V.,False,,,,,,,False,,0
+2025-21,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,2
+2025-22,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025-23,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025-24,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025-25,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025-26,V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025-27,V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025-28,V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025-29,V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,4
+2025-30,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 71,71,Part 4: The Counterforce,1.0,False,P04,1
+2025-31,V.,True,V.,P02,Chapter Two,2,,1.0,False,P02,1
+2025-32,V.,True,V.,P02,Chapter Two,2,,1.0,False,P02,2

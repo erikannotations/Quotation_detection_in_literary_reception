@@ -1,0 +1,687 @@
+[
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0001",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 172,
+  "article_end_char": 332,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0001"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0002",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "5-6",
+  "confidence": "hybrid",
+  "article_start_char": 199,
+  "article_end_char": 391,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-01"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0003",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "6",
+  "confidence": "hybrid",
+  "article_start_char": 1968,
+  "article_end_char": 2015,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-02"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0004",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7462,
+  "article_end_char": 7646,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0002",
+   "2014-03"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0005",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "100.10",
+  "confidence": "hybrid",
+  "article_start_char": 7701,
+  "article_end_char": 7778,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-04"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0006",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "101.10",
+  "confidence": "hybrid",
+  "article_start_char": 8051,
+  "article_end_char": 8277,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-05",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0004"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0007",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8051,
+  "article_end_char": 8106,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0003"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0008",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "342.34",
+  "confidence": "hybrid",
+  "article_start_char": 9238,
+  "article_end_char": 10219,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-06",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0006"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0009",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9246,
+  "article_end_char": 9437,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0005"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0010",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "427-8.42",
+  "confidence": "hybrid",
+  "article_start_char": 12884,
+  "article_end_char": 13171,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-07",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0007"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0011",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "428.42",
+  "confidence": "hybrid",
+  "article_start_char": 13363,
+  "article_end_char": 13475,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-08",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0008"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0012",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "428.42",
+  "confidence": "hybrid",
+  "article_start_char": 14111,
+  "article_end_char": 14490,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-09",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0010"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0013",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14119,
+  "article_end_char": 14170,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0009"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0014",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "31.4",
+  "confidence": "hybrid",
+  "article_start_char": 14569,
+  "article_end_char": 14756,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-10"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0015",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "429.42",
+  "confidence": "hybrid",
+  "article_start_char": 14890,
+  "article_end_char": 15116,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-11",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0011"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0016",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "680.70",
+  "confidence": "hybrid",
+  "article_start_char": 16114,
+  "article_end_char": 16170,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-12"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0017",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "680.70",
+  "confidence": "hybrid",
+  "article_start_char": 16368,
+  "article_end_char": 16581,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-13"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0018",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "680-1. 70",
+  "confidence": "hybrid",
+  "article_start_char": 17248,
+  "article_end_char": 17434,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-14"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0019",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "411.41",
+  "confidence": "hybrid",
+  "article_start_char": 17979,
+  "article_end_char": 17992,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-15"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0020",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "411.41",
+  "confidence": "hybrid",
+  "article_start_char": 18360,
+  "article_end_char": 18388,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-16"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0021",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "412.41",
+  "confidence": "hybrid",
+  "article_start_char": 18423,
+  "article_end_char": 18623,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-17"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0022",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "419.41",
+  "confidence": "hybrid",
+  "article_start_char": 18952,
+  "article_end_char": 18976,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-18"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0023",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "107",
+  "confidence": "hybrid",
+  "article_start_char": 32291,
+  "article_end_char": 32389,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-24",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0012"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0024",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32454,
+  "article_end_char": 32473,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0013"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0025",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "108",
+  "confidence": "hybrid",
+  "article_start_char": 32613,
+  "article_end_char": 32646,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-25"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0026",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "109",
+  "confidence": "hybrid",
+  "article_start_char": 32701,
+  "article_end_char": 32795,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-26"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0027",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "108",
+  "confidence": "hybrid",
+  "article_start_char": 33192,
+  "article_end_char": 33406,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-27",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0014"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0028",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39503,
+  "article_end_char": 39897,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0015"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0029",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39907,
+  "article_end_char": 40192,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0016"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0030",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "779.78",
+  "confidence": "hybrid",
+  "article_start_char": 44640,
+  "article_end_char": 44790,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-19"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0031",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45424,
+  "article_end_char": 45456,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0017"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0032",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "109",
+  "confidence": "hybrid",
+  "article_start_char": 45497,
+  "article_end_char": 45641,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-28",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0018"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0033",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "147.14",
+  "confidence": "hybrid",
+  "article_start_char": 46026,
+  "article_end_char": 46168,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-20"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0034",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "148.14",
+  "confidence": "hybrid",
+  "article_start_char": 46197,
+  "article_end_char": 46209,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-21"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0035",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "613.62",
+  "confidence": "hybrid",
+  "article_start_char": 46404,
+  "article_end_char": 46548,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-22"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0036",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Vineland",
+  "attributed_page": "240-2",
+  "confidence": "hybrid",
+  "article_start_char": 47951,
+  "article_end_char": 48057,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-29"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0037",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50226,
+  "article_end_char": 50260,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0019"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0038",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50274,
+  "article_end_char": 50647,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_rossi_something_more_KF8LYIPQ-tm-0020"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_tgo-0039",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "681.70",
+  "confidence": "hybrid",
+  "article_start_char": 61612,
+  "article_end_char": 61658,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-23",
+   "2014_rossi_something_more_KF8LYIPQ-tm-0021"
+  ]
+ }
+]

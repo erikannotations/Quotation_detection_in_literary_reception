@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_xtgc-0001",
+  "detector_guess": "Thomas Pynchon fiction",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 0.938,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_xtgc-0002",
+  "detector_guess": "Thomas Pynchon fiction",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 0.939,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_xtgc-0003",
+  "detector_guess": "Thomas Pynchon fiction",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 0.993,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 2
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_xtgc-0004",
+  "detector_guess": "Thomas Pynchon fiction",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid_xtgc-0005",
+  "detector_guess": "Thomas Pynchon fiction",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 6",
+  "section_n": 6,
+  "part": "",
+  "score": 0.982,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 2
+ }
+]

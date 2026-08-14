@@ -1,0 +1,72 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2023_johnson_selling_san_89JQFT3W-hybrid-0001,P10,True,Shadow Ticket,P10,Chapter 22,22,,1.0,False,P10,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0002,P02|P05|P06,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0003,P10,True,Shadow Ticket,P10,Chapter 13,13,,1.0,False,P10,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0004,P09,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0005,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0006,P03,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0007,P04|P05|P07|P09|P10,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0008,P07,True,Against the Day,P07,Chapter 50,50,Part Four: Against the Day,1.0,False,P07,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0009,P07|P10,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0010,P07,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0011,P06,False,,,,,,0.658,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0012,P04|P07,True,Gravity's Rainbow,P04,Episode 34,34,Part 3: In the Zone,1.0,True,P04|P07,2
+2023_johnson_selling_san_89JQFT3W-hybrid-0013,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,0.916,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0014,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0015,P02|P03|P07 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0016,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0017,P07,True,Against the Day,P07,Chapter 52,52,Part Four: Against the Day,1.0,False,P07,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0018,P09,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0019,P01|P05|P07|P08,True,Against the Day,P07,Chapter 39,39,Part Three: Bilocations,1.0,False,P07,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0020,The Crying of Lot 49 | P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0021,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0022,P01,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0023,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,0.983,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0024,P04|P06|P08,True,Gravity's Rainbow,P04,Episode 28,28,Part 2: Un Perm' au Casino Hermann Goering,0.828,False,P04,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0025,P07,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0026,The Crying of Lot 49 | P03,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0027,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0028,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0029,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0030,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0031,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0032,P07,True,Against the Day,P07,Chapter 51,51,Part Four: Against the Day,1.0,False,P07,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0033,P01|P02|P04,True,Slow Learner,P01,Low-Lands,3,,1.0,True,P01|P02|P04,6
+2023_johnson_selling_san_89JQFT3W-hybrid-0034,P10,True,Shadow Ticket,P10,Chapter 24,24,,1.0,False,P10,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0035,P01|P04|P05|P07|P08|P09|P10,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,True,P03|P05|P07|P08|P09|P10,11
+2023_johnson_selling_san_89JQFT3W-hybrid-0036,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0037,P04|P07|P09,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,0.96,False,P07,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0038,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,0.936,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0039,P03|P06,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0040,P03|P05 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,2
+2023_johnson_selling_san_89JQFT3W-hybrid-0041,P03|P04|P06|P08|P09|P10 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,0.925,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0042,P04,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0043,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,0.956,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0044,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,0.973,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0045,P03,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0046,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,2
+2023_johnson_selling_san_89JQFT3W-hybrid-0047,P01,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0048,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0049,P07,True,Against the Day,P07,Chapter 27,27,Part Two: Iceland Spar,1.0,False,P07,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0050,P02|P07,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0051,P04|P07,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0052,P05|P06,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0053,P01,True,Slow Learner,P01,Low-Lands,3,,1.0,False,P01,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0054,P01|P04|P05|P07|P08|P09|P10,True,Shadow Ticket,P10,Chapter 27,27,,0.913,False,P10,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0055,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0056,P03|P07,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0057,P04,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0058,P06,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0059,P07,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid-0060,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0061,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0062,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0063,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0064,P05,True,Vineland,P05,Chapter 12,12,,1.0,False,P05,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0065,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0066,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0067,P04,True,Gravity's Rainbow,P04,Episode 73,73,Part 4: The Counterforce,1.0,False,P04,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0068,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0069,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0070,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid-0071,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1

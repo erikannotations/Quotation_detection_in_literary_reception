@@ -1,0 +1,25 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2025_mentz_blue_american_5E3W868P-hybrid_all-0001,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0002,P06|P07|P10 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 6,6,Part 1: Latitudes and Departures,0.977,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0003,unclassified marked span,True,Mason & Dixon,P06,Chapter 6,6,Part 1: Latitudes and Departures,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0004,Mason & Dixon,True,Mason & Dixon,P06,Chapter 67,67,Part 2: America,0.989,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0005,unclassified marked span | P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0006,Mason & Dixon,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0007,Mason & Dixon,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0008,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0009,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0010,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0011,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0012,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0013,unclassified marked span | P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0014,Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.96,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0015,unclassified marked span | P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0016,unclassified marked span | P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0017,P06 | unclassified marked span | Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.887,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0018,unclassified marked span | Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.875,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_all-0019,Inherent Vice,True,Inherent Vice,P08,Chapter EIGHTEEN,18,,0.977,False,P08,2
+2025_mentz_blue_american_5E3W868P-hybrid_all-0020,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0021,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0022,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0023,unclassified marked span,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_all-0024,,True,Inherent Vice,P08,Chapter EIGHTEEN,18,,0.975,False,P08,2

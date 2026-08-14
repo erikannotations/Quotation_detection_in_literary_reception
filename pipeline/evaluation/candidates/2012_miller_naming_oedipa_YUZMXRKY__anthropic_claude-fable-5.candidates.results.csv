@@ -1,0 +1,15 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2012-01,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2012-02,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2012-03,Thomas Pynchon fiction,False,,,,,,,False,,0
+2012-04,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,0.938,False,P03,1
+2012-05,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,0.939,False,P03,1
+2012-06,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,0.993,False,P03,2
+2012-07,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2012-08,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,0.984,False,P03,1
+2012-09,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,0.982,False,P03,2
+2012-10,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,2
+2012-11,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 4,4,,0.987,False,P03,1
+2012-12,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 2,2,,0.996,False,P03,1
+2012-13,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,0.996,False,P03,2
+2012-14,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,0.99,False,P03,1

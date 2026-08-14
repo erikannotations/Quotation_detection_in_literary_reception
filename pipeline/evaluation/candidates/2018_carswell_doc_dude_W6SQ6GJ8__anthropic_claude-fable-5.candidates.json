@@ -1,0 +1,74 @@
+[
+ {
+  "id": "2018-01",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "anthropic_claude-fable-5",
+  "detector_guess": "Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "350",
+  "confidence": "high",
+  "article_start_char": 39288,
+  "article_end_char": 39460,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2018-02",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "anthropic_claude-fable-5",
+  "detector_guess": "Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "314",
+  "confidence": "high",
+  "article_start_char": 40172,
+  "article_end_char": 40315,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2018-03",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "anthropic_claude-fable-5",
+  "detector_guess": "Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "348",
+  "confidence": "high",
+  "article_start_char": 40937,
+  "article_end_char": 41078,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2018-04",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "anthropic_claude-fable-5",
+  "detector_guess": "Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "349",
+  "confidence": "high",
+  "article_start_char": 41936,
+  "article_end_char": 42144,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2018-05",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "anthropic_claude-fable-5",
+  "detector_guess": "Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "14",
+  "confidence": "high",
+  "article_start_char": 45017,
+  "article_end_char": 45044,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2018-06",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "anthropic_claude-fable-5",
+  "detector_guess": "Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "14",
+  "confidence": "medium",
+  "article_start_char": 45105,
+  "article_end_char": 45161,
+  "article_offset_occurrences": 1
+ }
+]

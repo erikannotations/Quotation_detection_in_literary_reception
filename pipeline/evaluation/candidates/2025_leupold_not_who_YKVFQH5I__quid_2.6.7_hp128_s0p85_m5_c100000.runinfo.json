@@ -1,0 +1,51 @@
+{
+  "tool": "Quid",
+  "settings": {
+    "min_match_length": 5,
+    "hash_permutations": 128,
+    "token_similarity": 0.85
+  },
+  "source_chunk_chars": 100000,
+  "pids": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10"
+  ],
+  "wall_seconds_total": 6625.65,
+  "wall_seconds_by_pid": {
+    "P01": 211.03,
+    "P02": 647.85,
+    "P03": 172.86,
+    "P04": 1235.78,
+    "P05": 515.6,
+    "P06": 968.56,
+    "P07": 1632.1,
+    "P08": 404.29,
+    "P09": 514.58,
+    "P10": 323.0
+  },
+  "peak_rss_mb_self": 79.9,
+  "peak_rss_mb_largest_child": 164.1,
+  "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+  "articles": [
+    "2021_sezer_going_west_US8FE2Q5",
+    "2013_harvey_cry_within_C6VQPDG4",
+    "2014_wallhead_mason_dixon_E2TDDQA5",
+    "2014_rossi_something_more_KF8LYIPQ",
+    "2014_maragos_every_they_9VU7EIQJ",
+    "2015_martinson_hyperobject_s_7IIYT69Y",
+    "2016_sweeney_gothic_traces_8Q6F6MLD",
+    "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+    "2019_thomas_blood_tracks_LS5YAQLE",
+    "2018_carswell_doc_dude_W6SQ6GJ8",
+    "2023_johnson_selling_san_89JQFT3W",
+    "2025_leupold_not_who_YKVFQH5I"
+  ]
+}

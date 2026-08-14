@@ -1,0 +1,19 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014_smith_all_maps_7L5Z97IZ-tm-0001,P07,True,Against the Day,P07,Chapter 21,21,Part Two: Iceland Spar,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0002,P07,True,Against the Day,P07,Chapter 32,32,Part Three: Bilocations,1.0,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-tm-0003,P07,True,Against the Day,P07,Chapter 49,49,Part Three: Bilocations,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0004,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0005,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.985,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-tm-0006,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-tm-0007,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0008,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0009,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.99,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0010,P06,True,Mason & Dixon,P06,Chapter 72,72,Part 2: America,1.0,False,P06,1
+2014_smith_all_maps_7L5Z97IZ-tm-0011,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0012,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0013,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0014,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0015,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0016,P07,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,0.986,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-tm-0017,P07,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,0.966,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-tm-0018,P07,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,1.0,False,P07,1

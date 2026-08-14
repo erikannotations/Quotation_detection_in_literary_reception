@@ -1,0 +1,291 @@
+[
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0001",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Against the Day",
+  "attributed_page": "5-6",
+  "confidence": "hybrid",
+  "article_start_char": 138,
+  "article_end_char": 391,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-01"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0002",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "99.10",
+  "confidence": "hybrid",
+  "article_start_char": 7462,
+  "article_end_char": 7646,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-04"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0003",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "101.10",
+  "confidence": "hybrid",
+  "article_start_char": 8051,
+  "article_end_char": 8277,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0004",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "342.34",
+  "confidence": "hybrid",
+  "article_start_char": 9237,
+  "article_end_char": 10219,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-07"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0005",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "342.34",
+  "confidence": "hybrid",
+  "article_start_char": 9675,
+  "article_end_char": 9702,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-09"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0006",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "342.34",
+  "confidence": "hybrid",
+  "article_start_char": 9966,
+  "article_end_char": 9991,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-08"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0007",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "427-8.42",
+  "confidence": "hybrid",
+  "article_start_char": 12884,
+  "article_end_char": 13170,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-10"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0008",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "428.42",
+  "confidence": "hybrid",
+  "article_start_char": 13363,
+  "article_end_char": 13474,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-11"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0009",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "428.42",
+  "confidence": "hybrid",
+  "article_start_char": 14111,
+  "article_end_char": 14490,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-12"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0010",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "429.42",
+  "confidence": "hybrid",
+  "article_start_char": 14890,
+  "article_end_char": 15115,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-14"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0011",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "107",
+  "confidence": "hybrid",
+  "article_start_char": 32291,
+  "article_end_char": 32388,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-29"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0012",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "108",
+  "confidence": "hybrid",
+  "article_start_char": 33192,
+  "article_end_char": 33405,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-32"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0013",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "429.42",
+  "confidence": "hybrid",
+  "article_start_char": 39482,
+  "article_end_char": 40198,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-33"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0014",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "109",
+  "confidence": "hybrid",
+  "article_start_char": 45497,
+  "article_end_char": 45640,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-41"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0015",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "430.42",
+  "confidence": "hybrid",
+  "article_start_char": 50220,
+  "article_end_char": 50674,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-44"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0016",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "430.42",
+  "confidence": "hybrid",
+  "article_start_char": 50522,
+  "article_end_char": 50554,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-45"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-hybrid_xtgc-0017",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "pynchon_fiction",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "681.70",
+  "confidence": "hybrid",
+  "article_start_char": 61612,
+  "article_end_char": 61657,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-48"
+  ]
+ }
+]

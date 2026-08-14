@@ -1,0 +1,87 @@
+[
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0001",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "313",
+  "confidence": "hybrid",
+  "article_start_char": 8393,
+  "article_end_char": 9023,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-02"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0002",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "313",
+  "confidence": "hybrid",
+  "article_start_char": 9939,
+  "article_end_char": 10053,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-03"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0003",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "497",
+  "confidence": "hybrid",
+  "article_start_char": 22172,
+  "article_end_char": 22344,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-13"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0004",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "674",
+  "confidence": "hybrid",
+  "article_start_char": 22873,
+  "article_end_char": 23244,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-14"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xtgc-0005",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "690",
+  "confidence": "hybrid",
+  "article_start_char": 25020,
+  "article_end_char": 25059,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-16"
+  ]
+ }
+]

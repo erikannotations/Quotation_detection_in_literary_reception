@@ -1,0 +1,155 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014_rossi_something_more_KF8LYIPQ-quid-0001,P05|P06|P07,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0002,P07,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0003,P06,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0004,P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0005,P07,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0006,P07,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,2
+2014_rossi_something_more_KF8LYIPQ-quid-0007,P07,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0008,P07,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0009,P02|P05|P06|P07|P09,True,V.,P02,Chapter Ten,10,,0.952,True,P02|P05|P06,4
+2014_rossi_something_more_KF8LYIPQ-quid-0010,P03|P04|P07,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,True,P03|P04|P06|P07,5
+2014_rossi_something_more_KF8LYIPQ-quid-0011,P04|P07|P09|P10,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,1.0,True,P04|P07,2
+2014_rossi_something_more_KF8LYIPQ-quid-0012,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Slow Learner,P01,Low-Lands,3,,1.0,True,P01|P02|P03|P04|P05|P06,20
+2014_rossi_something_more_KF8LYIPQ-quid-0013,P04,True,Gravity's Rainbow,P04,Episode 29,29,Part 2: Un Perm' au Casino Hermann Goering,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0014,P04|P05|P07|P08|P10,True,Inherent Vice,P08,Chapter THIRTEEN,13,,0.886,False,P08,1
+2014_rossi_something_more_KF8LYIPQ-quid-0015,P04,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0016,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Slow Learner,P01,Low-Lands,3,,1.0,True,P01|P02|P03|P04|P05|P06,20
+2014_rossi_something_more_KF8LYIPQ-quid-0017,P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0018,P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0019,P06,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0020,P06,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,0.973,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0021,P06,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0022,P06|P07,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0023,P06|P07,True,Against the Day,P07,Chapter 35,35,Part Three: Bilocations,0.955,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0024,P07,True,Against the Day,P07,Chapter 30,30,Part Two: Iceland Spar,0.923,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0025,P06,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.978,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0026,P04|P06|P07,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0027,P06,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0028,P06,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0029,P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0030,P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0031,P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0032,P04|P06|P08|P10,True,Inherent Vice,P08,Chapter SEVENTEEN,17,,1.0,False,P08,1
+2014_rossi_something_more_KF8LYIPQ-quid-0033,P02,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0034,P08|P09,True,Vineland,P05,Chapter 14,14,,1.0,True,P05|P08|P09,3
+2014_rossi_something_more_KF8LYIPQ-quid-0035,P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0036,P04|P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,0.993,False,P06,2
+2014_rossi_something_more_KF8LYIPQ-quid-0037,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,0.991,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0038,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,2
+2014_rossi_something_more_KF8LYIPQ-quid-0039,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0040,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0041,P06,True,Mason & Dixon,P06,Chapter 4,4,Part 1: Latitudes and Departures,0.966,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0042,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0043,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0044,P02|P03|P04,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0045,P04,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0046,P04|P06|P07,True,Gravity's Rainbow,P04,Episode 1,1,Part 1: Beyond the Zero,0.926,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0047,P06,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0048,P04|P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0049,P04|P06,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,0.976,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0050,P04|P06|P07,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0051,P06,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0052,P04|P08,True,Gravity's Rainbow,P04,Episode 70,70,Part 4: The Counterforce,0.833,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0053,P04|P06|P08,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,0.886,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0054,P04|P06,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,0.962,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0055,P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0056,P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,0.926,False,P06,3
+2014_rossi_something_more_KF8LYIPQ-quid-0057,P04|P06,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,0.939,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0058,P06,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0059,P01|P04,True,Slow Learner,P01,The Secret Integration,6,,0.857,False,P01,1
+2014_rossi_something_more_KF8LYIPQ-quid-0060,P02,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0061,P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0062,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0063,P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0064,P06|P08,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0065,P04|P09,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0066,P07,True,Against the Day,P07,Chapter 23,23,Part Two: Iceland Spar,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0067,P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0068,P01|P04|P09|P10,True,Slow Learner,P01,Entropy,4,,1.0,True,P01|P04|P09|P10,8
+2014_rossi_something_more_KF8LYIPQ-quid-0069,P02|P07,True,V.,P02,Chapter Seven,7,,1.0,True,P02|P06|P07,6
+2014_rossi_something_more_KF8LYIPQ-quid-0070,P06|P08|P09,True,Vineland,P05,Chapter 14,14,,1.0,True,P05|P08|P09,3
+2014_rossi_something_more_KF8LYIPQ-quid-0071,P08,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0072,P04,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0073,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0074,P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0075,P07|P09,True,Against the Day,P07,Chapter 7,7,Part One: The Light Over the Ranges,1.0,True,P07|P09,2
+2014_rossi_something_more_KF8LYIPQ-quid-0076,P10,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0077,P07|P09,True,Bleeding Edge,P09,Chapter 15,15,,0.885,False,P09,1
+2014_rossi_something_more_KF8LYIPQ-quid-0078,P04,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0079,P04,True,Gravity's Rainbow,P04,Episode 62,62,Part 4: The Counterforce,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0080,P04|P07,False,,,,,,0.735,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0081,P04,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0082,P04,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,0.914,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0083,P04,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0084,P02|P04|P07|P08,False,,,,,,0.707,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0085,P02|P07|P09,True,V.,P02,Epilogue,17,,1.0,False,P02,1
+2014_rossi_something_more_KF8LYIPQ-quid-0086,P02,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0087,P08,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0088,P02|P07|P08,True,V.,P02,Chapter Five,5,,1.0,True,P02|P07|P08,5
+2014_rossi_something_more_KF8LYIPQ-quid-0089,P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0090,P02|P04|P05|P06|P07,True,Gravity's Rainbow,P04,Episode 19,19,Part 1: Beyond the Zero,1.0,True,P04|P06|P07,3
+2014_rossi_something_more_KF8LYIPQ-quid-0091,P08,True,Inherent Vice,P08,Chapter FIVE,5,,1.0,False,P08,1
+2014_rossi_something_more_KF8LYIPQ-quid-0092,P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0093,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0094,P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0095,P02|P05|P06|P07|P09|P10,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0096,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0097,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,0.996,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0098,P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0099,P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0100,P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,0.926,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0101,P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0102,P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0103,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Slow Learner,P01,Low-Lands,3,,1.0,True,P01|P02|P03|P04|P05|P06,20
+2014_rossi_something_more_KF8LYIPQ-quid-0104,P06,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0105,P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0106,P04,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,0.842,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0107,P04,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0108,P02|P04|P05|P06|P07|P08|P09,True,Vineland,P05,Chapter 6,6,,0.957,True,P05|P07,3
+2014_rossi_something_more_KF8LYIPQ-quid-0109,P02|P04|P05|P06|P09,True,V.,P02,Chapter Seven,7,,1.0,True,P02|P04|P05|P09,5
+2014_rossi_something_more_KF8LYIPQ-quid-0110,P06,True,Mason & Dixon,P06,Chapter 14,14,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0111,P06,True,Mason & Dixon,P06,Chapter 62,62,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0112,P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0113,P04,True,Gravity's Rainbow,P04,Episode 33,33,Part 3: In the Zone,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0114,P02|P04|P05|P06|P07|P08|P09,True,Vineland,P05,Chapter 6,6,,0.957,True,P05|P07,3
+2014_rossi_something_more_KF8LYIPQ-quid-0115,P05|P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0116,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,2
+2014_rossi_something_more_KF8LYIPQ-quid-0117,P02|P05|P07|P08|P09,True,V.,P02,Chapter Fourteen,14,,0.75,False,P02,1
+2014_rossi_something_more_KF8LYIPQ-quid-0118,P06,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0119,P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0120,P06,True,Mason & Dixon,P06,Chapter 11,11,Part 1: Latitudes and Departures,1.0,False,P06,3
+2014_rossi_something_more_KF8LYIPQ-quid-0121,P01|P07|P08,True,Slow Learner,P01,The Secret Integration,6,,1.0,True,P01|P08,2
+2014_rossi_something_more_KF8LYIPQ-quid-0122,P04,True,Gravity's Rainbow,P04,Episode 62,62,Part 4: The Counterforce,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0123,P02|P06,True,V.,P02,Chapter Nine,9,,1.0,True,P02|P06,3
+2014_rossi_something_more_KF8LYIPQ-quid-0124,P04|P07,True,Gravity's Rainbow,P04,Episode 29,29,Part 2: Un Perm' au Casino Hermann Goering,1.0,True,P04|P07,2
+2014_rossi_something_more_KF8LYIPQ-quid-0125,P04|P06,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.883,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0126,P04|P05|P06|P07,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.912,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0127,P04|P06|P07,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0128,P04|P07,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,1.0,True,P04|P07,3
+2014_rossi_something_more_KF8LYIPQ-quid-0129,P04|P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0130,P04,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0131,P05,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0132,P06,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0133,P01|P07,True,Mortality and Mercy in Vienna,P01,Mortality and Mercy in Vienna,1,,0.786,False,P01,1
+2014_rossi_something_more_KF8LYIPQ-quid-0134,P04|P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0135,P08,True,Inherent Vice,P08,Chapter FIVE,5,,1.0,False,P08,1
+2014_rossi_something_more_KF8LYIPQ-quid-0136,P07|P10,True,Against the Day,P07,Chapter 10,10,Part One: The Light Over the Ranges,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0137,P01|P02|P04|P05|P06|P07,True,Vineland,P05,Chapter 4,4,,0.879,True,P05|P06,2
+2014_rossi_something_more_KF8LYIPQ-quid-0138,P04|P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0139,P06,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0140,P03,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0141,P06,True,Mason & Dixon,P06,Chapter 26,26,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0142,P06,True,Mason & Dixon,P06,Chapter 75,75,Part 3: Last Transit,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0143,P07,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,2
+2014_rossi_something_more_KF8LYIPQ-quid-0144,P04,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-quid-0145,P02|P07|P08,True,V.,P02,Chapter Five,5,,1.0,True,P02|P07|P08,5
+2014_rossi_something_more_KF8LYIPQ-quid-0146,P07,True,Against the Day,P07,Chapter 66,66,Part Four: Against the Day,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0147,P02,True,V.,P02,Chapter Four,4,,1.0,False,P02,1
+2014_rossi_something_more_KF8LYIPQ-quid-0148,P06,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0149,P06,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0150,P06,False,,,,,,,False,,0
+2014_rossi_something_more_KF8LYIPQ-quid-0151,P06,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-quid-0152,P07,True,Against the Day,P07,Chapter 47,47,Part Three: Bilocations,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-quid-0153,P04|P06|P09,True,Mason & Dixon,P06,Chapter 8,8,Part 1: Latitudes and Departures,1.0,True,P06|P09,2
+2014_rossi_something_more_KF8LYIPQ-quid-0154,P06,True,Mason & Dixon,P06,Chapter 9,9,Part 1: Latitudes and Departures,1.0,False,P06,3

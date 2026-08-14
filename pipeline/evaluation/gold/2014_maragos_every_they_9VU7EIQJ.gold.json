@@ -1,0 +1,235 @@
+{
+ "schema_version": "2.0",
+ "article": "2014_maragos_every_they_9VU7EIQJ",
+ "corpus_id": "CORPUS-9VU7EIQJ",
+ "split": "test",
+ "body_sha256": "c94b4430be8d30fb2e097ba276f311279d5227be68632b9a7ebd6880a42b20c6",
+ "quotes": [
+  {
+   "gold_id": "9VU7EIQJ-q0008",
+   "article_start_char": 10298,
+   "article_end_char": 11063,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 28,
+   "true_section_label": "Chapter 28",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0009",
+   "article_start_char": 12598,
+   "article_end_char": 12799,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 27,
+   "true_section_label": "Chapter 27",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0010",
+   "article_start_char": 13994,
+   "article_end_char": 14292,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 10,
+   "true_section_label": "Chapter 10",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0012",
+   "article_start_char": 15586,
+   "article_end_char": 15617,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 34,
+   "true_section_label": "Chapter 34",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0013",
+   "article_start_char": 15648,
+   "article_end_char": 15706,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 34,
+   "true_section_label": "Chapter 34",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0014",
+   "article_start_char": 19317,
+   "article_end_char": 19365,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 27,
+   "true_section_label": "Chapter 27",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0015",
+   "article_start_char": 20044,
+   "article_end_char": 20070,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 27,
+   "true_section_label": "Chapter 27",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0017",
+   "article_start_char": 21172,
+   "article_end_char": 21240,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 55,
+   "true_section_label": "Chapter 55",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0018",
+   "article_start_char": 21916,
+   "article_end_char": 21944,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 27,
+   "true_section_label": "Chapter 27",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0019",
+   "article_start_char": 24125,
+   "article_end_char": 24344,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0020",
+   "article_start_char": 25892,
+   "article_end_char": 26078,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 41,
+   "true_section_label": "Chapter 41",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0021",
+   "article_start_char": 29008,
+   "article_end_char": 29041,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 8,
+   "true_section_label": "Chapter 8",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0023",
+   "article_start_char": 30230,
+   "article_end_char": 30262,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 8,
+   "true_section_label": "Chapter 8",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-q0026",
+   "article_start_char": 33028,
+   "article_end_char": 33246,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 16,
+   "true_section_label": "Chapter 16",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "9VU7EIQJ-m0001",
+   "article_start_char": 17095,
+   "article_end_char": 17522,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 23,
+   "true_section_label": "Chapter 23",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "9VU7EIQJ-m0002",
+   "article_start_char": 22936,
+   "article_end_char": 23329,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 50,
+   "true_section_label": "Chapter 50",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "9VU7EIQJ-m0003",
+   "article_start_char": 27043,
+   "article_end_char": 27804,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 6,
+   "true_section_label": "Chapter 6",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "9VU7EIQJ-m0004",
+   "article_start_char": 29225,
+   "article_end_char": 29748,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 8,
+   "true_section_label": "Chapter 8",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": []
+  }
+ ],
+ "excluded_out_of_scope": []
+}

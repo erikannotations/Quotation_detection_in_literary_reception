@@ -1,0 +1,33 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+YKVFQH5I-q0012,gold span,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,0.955,False,P04,1
+YKVFQH5I-q0013,gold span,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,1.0,False,P04,1
+YKVFQH5I-q0014,gold span,True,V.,P02,Chapter Six,6,,0.922,False,P02,1
+YKVFQH5I-q0015,gold span,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+YKVFQH5I-q0016,gold span,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+YKVFQH5I-q0017,gold span,True,V.,P02,Chapter Seven,7,,0.959,False,P02,1
+YKVFQH5I-q0033,gold span,True,V.,P02,Chapter Two,2,,1.0,False,P02,1
+YKVFQH5I-q0034,gold span,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+YKVFQH5I-q0035,gold span,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+YKVFQH5I-q0036,gold span,True,V.,P02,Chapter Three,3,,0.988,False,P02,1
+YKVFQH5I-q0037,gold span,True,V.,P02,Chapter Three,3,,1.0,False,P02,1
+YKVFQH5I-q0038,gold span,True,V.,P02,Chapter Eleven,11,,1.0,False,P02,1
+YKVFQH5I-q0039,gold span,True,V.,P02,Chapter Eleven,11,,0.966,False,P02,1
+YKVFQH5I-q0040,gold span,True,V.,P02,Chapter Eleven,11,,0.975,False,P02,1
+YKVFQH5I-q0041,gold span,True,V.,P02,Chapter Eleven,11,,1.0,False,P02,1
+YKVFQH5I-q0042,gold span,False,,,,,,,False,,0
+YKVFQH5I-q0047,gold span,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+YKVFQH5I-q0048,gold span,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+YKVFQH5I-q0051,gold span,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+YKVFQH5I-q0052,gold span,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+YKVFQH5I-q0053,gold span,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+YKVFQH5I-q0054,gold span,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+YKVFQH5I-q0055,gold span,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+YKVFQH5I-q0056,gold span,True,V.,P02,Chapter Nine,9,,1.0,False,P02,4
+YKVFQH5I-q0061,gold span,True,Gravity's Rainbow,P04,Episode 71,71,Part 4: The Counterforce,1.0,False,P04,1
+YKVFQH5I-q0072,gold span,True,V.,P02,Chapter Two,2,,1.0,False,P02,1
+YKVFQH5I-q0073,gold span,True,V.,P02,Chapter Two,2,,1.0,False,P02,2
+YKVFQH5I-m0002,gold span,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+YKVFQH5I-m0008,gold span,True,V.,P02,Chapter Two,2,,0.987,False,P02,1
+YKVFQH5I-m0010,gold span,True,V.,P02,Chapter Eleven,11,,0.998,False,P02,2
+YKVFQH5I-m0011,gold span,True,V.,P02,Chapter Fourteen,14,,1.0,False,P02,1
+YKVFQH5I-m0014,gold span,True,V.,P02,Chapter Seven,7,,1.0,False,P02,2

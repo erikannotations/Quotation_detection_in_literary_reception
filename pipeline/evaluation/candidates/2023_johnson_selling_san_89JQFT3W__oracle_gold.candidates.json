@@ -1,0 +1,222 @@
+[
+ {
+  "id": "89JQFT3W-q0006",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 7884,
+  "article_end_char": 7943
+ },
+ {
+  "id": "89JQFT3W-q0008",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 14365,
+  "article_end_char": 14402
+ },
+ {
+  "id": "89JQFT3W-q0009",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 14421,
+  "article_end_char": 14552
+ },
+ {
+  "id": "89JQFT3W-q0010",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 14670,
+  "article_end_char": 14740
+ },
+ {
+  "id": "89JQFT3W-q0011",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 14879,
+  "article_end_char": 14929
+ },
+ {
+  "id": "89JQFT3W-q0012",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 17876,
+  "article_end_char": 17933
+ },
+ {
+  "id": "89JQFT3W-q0013",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 17964,
+  "article_end_char": 18049
+ },
+ {
+  "id": "89JQFT3W-q0014",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 19618,
+  "article_end_char": 19691
+ },
+ {
+  "id": "89JQFT3W-q0015",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 21719,
+  "article_end_char": 21881
+ },
+ {
+  "id": "89JQFT3W-q0016",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 22937,
+  "article_end_char": 23056
+ },
+ {
+  "id": "89JQFT3W-q0017",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 23706,
+  "article_end_char": 23820
+ },
+ {
+  "id": "89JQFT3W-q0025",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 27768,
+  "article_end_char": 27807
+ },
+ {
+  "id": "89JQFT3W-q0026",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 28253,
+  "article_end_char": 28375
+ },
+ {
+  "id": "89JQFT3W-q0027",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 29100,
+  "article_end_char": 29211
+ },
+ {
+  "id": "89JQFT3W-q0040",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 41575,
+  "article_end_char": 41631
+ },
+ {
+  "id": "89JQFT3W-q0041",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 42545,
+  "article_end_char": 42576
+ },
+ {
+  "id": "89JQFT3W-q0042",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 44892,
+  "article_end_char": 44951
+ },
+ {
+  "id": "89JQFT3W-q0043",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 46302,
+  "article_end_char": 46414
+ },
+ {
+  "id": "89JQFT3W-q0044",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 48126,
+  "article_end_char": 48285
+ },
+ {
+  "id": "89JQFT3W-q0048",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 56093,
+  "article_end_char": 56143
+ }
+]

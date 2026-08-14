@@ -1,0 +1,68 @@
+[
+ {
+  "id": "W6SQ6GJ8-q0044",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 39288,
+  "article_end_char": 39460
+ },
+ {
+  "id": "W6SQ6GJ8-q0045",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 40172,
+  "article_end_char": 40315
+ },
+ {
+  "id": "W6SQ6GJ8-q0046",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 40937,
+  "article_end_char": 41078
+ },
+ {
+  "id": "W6SQ6GJ8-q0047",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 41936,
+  "article_end_char": 42144
+ },
+ {
+  "id": "W6SQ6GJ8-q0050",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 45017,
+  "article_end_char": 45044
+ },
+ {
+  "id": "W6SQ6GJ8-q0051",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 45105,
+  "article_end_char": 45161
+ }
+]

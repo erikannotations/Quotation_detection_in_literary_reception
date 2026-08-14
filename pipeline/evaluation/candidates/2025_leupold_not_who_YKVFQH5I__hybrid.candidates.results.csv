@@ -1,0 +1,84 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2025_leupold_not_who_YKVFQH5I-hybrid-0001,P07,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0002,P02,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0003,P06|P07,True,Mason & Dixon,P06,Chapter 57,57,Part 2: America,1.0,True,P06|P07,3
+2025_leupold_not_who_YKVFQH5I-hybrid-0004,P07,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0005,P04|P07,True,Against the Day,P07,Chapter 61,61,Part Four: Against the Day,0.897,False,P07,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0006,P07,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0007,P04|P06|P08,True,Gravity's Rainbow,P04,Episode 28,28,Part 2: Un Perm' au Casino Hermann Goering,1.0,False,P04,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0008,P02,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0009,P07,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0010,P04|P06|P07|P09|P10,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0011,P02|P03|P04|P05|P08,True,V.,P02,Chapter One,1,,1.0,True,P02|P04,2
+2025_leupold_not_who_YKVFQH5I-hybrid-0012,Gravity's Rainbow | P04,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,0.955,False,P04,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0013,P04 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,1.0,False,P04,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0014,V.,True,V.,P02,Chapter Six,6,,0.922,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0015,P02,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0016,P02 | V.,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0017,P02 | V.,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0018,V. | P02,True,V.,P02,Chapter Seven,7,,0.959,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0019,P02 | V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0020,P07,True,Against the Day,P07,Chapter 11,11,Part Two: Iceland Spar,1.0,False,P07,4
+2025_leupold_not_who_YKVFQH5I-hybrid-0021,P10,True,Shadow Ticket,P10,Chapter 39,39,,1.0,False,P10,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0022,P03,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0023,P04|P09,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0024,P04,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0025,P07|P10,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,True,P07|P10,2
+2025_leupold_not_who_YKVFQH5I-hybrid-0026,P01|P03,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0027,P06|P08,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0028,P10,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0029,V. | P02,True,V.,P02,Chapter Two,2,,0.987,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0030,P02,True,V.,P02,Chapter Two,2,,0.962,False,P02,2
+2025_leupold_not_who_YKVFQH5I-hybrid-0031,P06,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0032,P02 | V.,True,V.,P02,Chapter Two,2,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0033,P02 | V.,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0034,P02 | V.,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0035,P02|P07 | V.,True,V.,P02,Chapter Three,3,,0.988,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0036,P02 | V.,True,V.,P02,Chapter Three,3,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0037,P06,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0038,P02,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0039,P02|P06|P07 | V.,True,V.,P02,Chapter Eleven,11,,0.998,False,P02,2
+2025_leupold_not_who_YKVFQH5I-hybrid-0040,P07,True,Against the Day,P07,Chapter 44,44,Part Three: Bilocations,1.0,False,P07,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0041,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Slow Learner,P01,Low-Lands,3,,1.0,True,P01|P02|P03|P04|P05|P06,20
+2025_leupold_not_who_YKVFQH5I-hybrid-0042,P02|P09,False,,,,,,0.571,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0043,P02 | V.,True,V.,P02,Chapter Fourteen,14,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0044,P02 | V.,True,V.,P02,Chapter Eleven,11,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0045,P02 | V.,True,V.,P02,Chapter Eleven,11,,0.966,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0046,P02 | V.,True,V.,P02,Chapter Eleven,11,,0.975,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0047,P06|P07,True,Against the Day,P07,Chapter 10,10,Part One: The Light Over the Ranges,1.0,False,P07,2
+2025_leupold_not_who_YKVFQH5I-hybrid-0048,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0049,P04,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0050,P02 | V.,True,V.,P02,Chapter Eleven,11,,0.813,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0051,V.,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0052,P04,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0053,P02|P05|P06|P07|P09|P10,True,V.,P02,Chapter Two,2,,1.0,True,P02|P05|P06|P07|P09|P10,9
+2025_leupold_not_who_YKVFQH5I-hybrid-0054,P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0055,P06|P08,True,Mason & Dixon,P06,Chapter 55,55,Part 2: America,1.0,True,P06|P08,2
+2025_leupold_not_who_YKVFQH5I-hybrid-0056,P01,True,Slow Learner,P01,The Secret Integration,6,,1.0,False,P01,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0057,P04,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0058,P07,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0059,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,2
+2025_leupold_not_who_YKVFQH5I-hybrid-0060,P02,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0061,P02|P05|P07,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0062,P02 | V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0063,P02 | V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0064,P02 | V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0065,P02 | V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0066,P02 | V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0067,P02 | V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0068,P02 | V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0069,V. | P02|P04,True,V.,P02,Chapter Nine,9,,1.0,False,P02,4
+2025_leupold_not_who_YKVFQH5I-hybrid-0070,P02,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0071,P04,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0072,P04|P07|P08,True,Gravity's Rainbow,P04,Episode 48,48,Part 3: In the Zone,1.0,False,P04,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0073,P07,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0074,P03,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0075,P07,True,Against the Day,P07,Chapter 18,18,Part Two: Iceland Spar,1.0,False,P07,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0076,P07,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0077,P06,True,Mason & Dixon,P06,Chapter 40,40,Part 2: America,1.0,False,P06,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0078,Gravity's Rainbow | P02|P04|P06|P07|P09,True,Gravity's Rainbow,P04,Episode 71,71,Part 4: The Counterforce,1.0,False,P04,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0079,P06|P07,False,,,,,,,False,,0
+2025_leupold_not_who_YKVFQH5I-hybrid-0080,P02,True,V.,P02,Chapter Two,2,,0.96,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0081,V.,True,V.,P02,Chapter Two,2,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid-0082,V. | P02,True,V.,P02,Chapter Two,2,,1.0,False,P02,2
+2025_leupold_not_who_YKVFQH5I-hybrid-0083,P01|P07|P09,True,Bleeding Edge,P09,Chapter 5,5,,0.957,False,P09,1

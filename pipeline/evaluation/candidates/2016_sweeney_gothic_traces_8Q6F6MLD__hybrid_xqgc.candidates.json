@@ -1,0 +1,240 @@
+[
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0001",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "130",
+  "confidence": "hybrid",
+  "article_start_char": 9558,
+  "article_end_char": 9608,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-02"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0002",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "9",
+  "confidence": "hybrid",
+  "article_start_char": 10221,
+  "article_end_char": 10436,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-03"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0003",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "153",
+  "confidence": "hybrid",
+  "article_start_char": 11266,
+  "article_end_char": 11309,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-04"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0004",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "179",
+  "confidence": "hybrid",
+  "article_start_char": 12032,
+  "article_end_char": 12110,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-05"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0005",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "109",
+  "confidence": "hybrid",
+  "article_start_char": 13559,
+  "article_end_char": 13586,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-06"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0006",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "109",
+  "confidence": "hybrid",
+  "article_start_char": 13593,
+  "article_end_char": 13641,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-07"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0007",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "21",
+  "confidence": "hybrid",
+  "article_start_char": 14064,
+  "article_end_char": 14148,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-08"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0008",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "80",
+  "confidence": "hybrid",
+  "article_start_char": 15405,
+  "article_end_char": 15459,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-10"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0009",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "80",
+  "confidence": "hybrid",
+  "article_start_char": 15463,
+  "article_end_char": 15514,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-11"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0010",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "182",
+  "confidence": "hybrid",
+  "article_start_char": 16145,
+  "article_end_char": 16276,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-14"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0011",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "183",
+  "confidence": "hybrid",
+  "article_start_char": 25724,
+  "article_end_char": 25744,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-15"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0012",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "Bleeding Edge",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "221",
+  "confidence": "hybrid",
+  "article_start_char": 44252,
+  "article_end_char": 44431,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-16"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0013",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "Bleeding Edge",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "416",
+  "confidence": "hybrid",
+  "article_start_char": 48254,
+  "article_end_char": 48306,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-17"
+  ]
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0014",
+  "article": "2016_sweeney_gothic_traces_8Q6F6MLD",
+  "model_tag": "hybrid_xqgc",
+  "detector_guess": "Bleeding Edge",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "477",
+  "confidence": "hybrid",
+  "article_start_char": 48610,
+  "article_end_char": 48675,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2016-18"
+  ]
+ }
+]

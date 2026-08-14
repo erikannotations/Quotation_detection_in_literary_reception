@@ -1,0 +1,134 @@
+[
+ {
+  "id": "5E3W868P-q0002",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 12405,
+  "article_end_char": 12586
+ },
+ {
+  "id": "5E3W868P-q0003",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 22888,
+  "article_end_char": 22940
+ },
+ {
+  "id": "5E3W868P-q0009",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 30956,
+  "article_end_char": 31015
+ },
+ {
+  "id": "5E3W868P-q0010",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 32111,
+  "article_end_char": 32330
+ },
+ {
+  "id": "5E3W868P-q0011",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 32818,
+  "article_end_char": 32926
+ },
+ {
+  "id": "5E3W868P-q0012",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 33236,
+  "article_end_char": 33269
+ },
+ {
+  "id": "5E3W868P-q0013",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 33289,
+  "article_end_char": 33392
+ },
+ {
+  "id": "5E3W868P-m0001",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 14331,
+  "article_end_char": 14611
+ },
+ {
+  "id": "5E3W868P-m0004",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 23183,
+  "article_end_char": 23378
+ },
+ {
+  "id": "5E3W868P-m0005",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 24471,
+  "article_end_char": 24736
+ },
+ {
+  "id": "5E3W868P-m0007",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 31383,
+  "article_end_char": 31796
+ },
+ {
+  "id": "5E3W868P-m0009",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 37317,
+  "article_end_char": 37812
+ }
+]

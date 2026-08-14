@@ -1,0 +1,8 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2025_mentz_blue_american_5E3W868P-tm-0001,P06,True,Mason & Dixon,P06,Chapter 6,6,Part 1: Latitudes and Departures,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-tm-0002,P06,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-tm-0003,P06,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-tm-0004,P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.959,False,P06,1
+2025_mentz_blue_american_5E3W868P-tm-0005,P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-tm-0006,P06,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-tm-0007,P08,True,Inherent Vice,P08,Chapter EIGHTEEN,18,,0.985,False,P08,2

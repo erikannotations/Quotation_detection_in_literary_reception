@@ -1,0 +1,30 @@
+[
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0001",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22869,
+  "article_end_char": 23552,
+  "textmatcher_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0002",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32517,
+  "article_end_char": 32904,
+  "textmatcher_candidate_pids": [
+   "P03"
+  ]
+ }
+]

@@ -1,0 +1,1262 @@
+[
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0001",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 1621,
+  "article_end_char": 1661,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0001"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0002",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2359,
+  "article_end_char": 2451,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0002"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0003",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2611,
+  "article_end_char": 2704,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0003"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0004",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2811,
+  "article_end_char": 2831,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0002"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0005",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2815,
+  "article_end_char": 2839,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0004"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0006",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3263,
+  "article_end_char": 3489,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0005"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0007",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3967,
+  "article_end_char": 4000,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0006"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0008",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4167,
+  "article_end_char": 4223,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0007"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0009",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4288,
+  "article_end_char": 4330,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0008"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0010",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4958,
+  "article_end_char": 5169,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0009"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0011",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5241,
+  "article_end_char": 5287,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0010"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0012",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5337,
+  "article_end_char": 5465,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0011"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0013",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5675,
+  "article_end_char": 5767,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0012"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0014",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5803,
+  "article_end_char": 5859,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0013"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0015",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7318,
+  "article_end_char": 7488,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0014"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0016",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8645,
+  "article_end_char": 8687,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0015"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0017",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9454,
+  "article_end_char": 9617,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0016"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0018",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9586,
+  "article_end_char": 9605,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0006"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0019",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12018,
+  "article_end_char": 12295,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0017"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0020",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12137,
+  "article_end_char": 12159,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0007"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0021",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13164,
+  "article_end_char": 13398,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0018"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0022",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13376,
+  "article_end_char": 13394,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0009"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0023",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13679,
+  "article_end_char": 13733,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0019"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0024",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16470,
+  "article_end_char": 16515,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0020"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0025",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16603,
+  "article_end_char": 16636,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0021"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0026",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18521,
+  "article_end_char": 18591,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0022"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0027",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18745,
+  "article_end_char": 18800,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0023"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0028",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19541,
+  "article_end_char": 19663,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0024"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0029",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20376,
+  "article_end_char": 20414,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0025"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0030",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21666,
+  "article_end_char": 21691,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0026"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0031",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21697,
+  "article_end_char": 21758,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0027"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0032",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23087,
+  "article_end_char": 23139,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0028"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0033",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23991,
+  "article_end_char": 24016,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0029"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0034",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24036,
+  "article_end_char": 24126,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0030"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0035",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24370,
+  "article_end_char": 24395,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0031"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0036",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24518,
+  "article_end_char": 24588,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0032"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0037",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24774,
+  "article_end_char": 24802,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0033"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0038",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24808,
+  "article_end_char": 24946,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0034"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0039",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24971,
+  "article_end_char": 24994,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0035"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0040",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25392,
+  "article_end_char": 25417,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0036"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0041",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26090,
+  "article_end_char": 26117,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0024"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0042",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26096,
+  "article_end_char": 26137,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0037"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0043",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26823,
+  "article_end_char": 26886,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0038"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0044",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31738,
+  "article_end_char": 31879,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0039"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0045",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35359,
+  "article_end_char": 35524,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0040"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0046",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36376,
+  "article_end_char": 36547,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0041"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0047",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36896,
+  "article_end_char": 36928,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0042"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0048",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36947,
+  "article_end_char": 36981,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0043"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0049",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P08 | Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39288,
+  "article_end_char": 39460,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0044",
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0044",
+   "2018-01",
+   "2018-05"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0050",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P08 | unclassified marked span | Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40172,
+  "article_end_char": 40323,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0045",
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0045",
+   "2018-02",
+   "2018-02"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0051",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P08 | Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40937,
+  "article_end_char": 41078,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0046",
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0047",
+   "2018-03",
+   "2018-03"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0052",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07|P08 | Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41936,
+  "article_end_char": 42144,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0047",
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0050",
+   "2018-04",
+   "2018-04"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0053",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43033,
+  "article_end_char": 43253,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0048"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0054",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43282,
+  "article_end_char": 43322,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0049"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0055",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Inherent Vice | P08",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45017,
+  "article_end_char": 45044,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0050",
+   "2018-05",
+   "2018-01",
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0051"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0056",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P08 | Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45105,
+  "article_end_char": 45161,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0051",
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0052",
+   "2018-06"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0057",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47552,
+  "article_end_char": 47607,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0052"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0058",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47575,
+  "article_end_char": 47594,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0054"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0059",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47634,
+  "article_end_char": 47753,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0053"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0060",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47818,
+  "article_end_char": 47849,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0054"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0061",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47923,
+  "article_end_char": 47955,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0055"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0062",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48057,
+  "article_end_char": 48193,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0056"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0063",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48298,
+  "article_end_char": 48491,
+  "proposed_by": [
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0057",
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0056"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0064",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P02|P03|P04|P05|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48345,
+  "article_end_char": 48366,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-quid-0055"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0065",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48684,
+  "article_end_char": 48736,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0058"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0066",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48747,
+  "article_end_char": 48903,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0059"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0067",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48979,
+  "article_end_char": 49040,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0060"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0068",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50443,
+  "article_end_char": 50498,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0061"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0069",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52124,
+  "article_end_char": 52156,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0062"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0070",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53129,
+  "article_end_char": 53153,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0063"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0071",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53716,
+  "article_end_char": 53744,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0064"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_all-0072",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53970,
+  "article_end_char": 54013,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2018_carswell_doc_dude_W6SQ6GJ8-mq-0065"
+  ]
+ }
+]

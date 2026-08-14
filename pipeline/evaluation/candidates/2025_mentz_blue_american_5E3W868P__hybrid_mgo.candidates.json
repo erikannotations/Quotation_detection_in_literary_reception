@@ -1,0 +1,401 @@
+[
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0001",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8668,
+  "article_end_char": 8717,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0001"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0002",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "54",
+  "confidence": "hybrid",
+  "article_start_char": 12405,
+  "article_end_char": 12586,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-01"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0003",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12463,
+  "article_end_char": 12526,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0002"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0004",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "651",
+  "confidence": "hybrid",
+  "article_start_char": 14331,
+  "article_end_char": 14611,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-02"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0005",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22888,
+  "article_end_char": 22940,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0003"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0006",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "220",
+  "confidence": "hybrid",
+  "article_start_char": 23183,
+  "article_end_char": 23378,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-03"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0007",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "220",
+  "confidence": "hybrid",
+  "article_start_char": 24471,
+  "article_end_char": 24736,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-04"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0008",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26338,
+  "article_end_char": 26365,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0004"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0009",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26382,
+  "article_end_char": 26410,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0005"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0010",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26961,
+  "article_end_char": 26994,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0006"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0011",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27047,
+  "article_end_char": 27103,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0007"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0012",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27223,
+  "article_end_char": 27307,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0008"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0013",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30956,
+  "article_end_char": 31015,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0009",
+   "5E3W868P-05"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0014",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "712",
+  "confidence": "hybrid",
+  "article_start_char": 31383,
+  "article_end_char": 31796,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-06"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0015",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32111,
+  "article_end_char": 32330,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0010",
+   "5E3W868P-07"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0016",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32818,
+  "article_end_char": 32926,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0011",
+   "5E3W868P-08"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0017",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "713",
+  "confidence": "hybrid",
+  "article_start_char": 33236,
+  "article_end_char": 33393,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-09",
+   "5E3W868P-mq-0013"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0018",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33236,
+  "article_end_char": 33269,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0012"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0019",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39524,
+  "article_end_char": 39552,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0014"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0020",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39590,
+  "article_end_char": 39612,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0015"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0021",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40971,
+  "article_end_char": 41061,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0016"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0022",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43229,
+  "article_end_char": 43297,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-mq-0017"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_mgo-0023",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "341",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-10"
+  ]
+ }
+]

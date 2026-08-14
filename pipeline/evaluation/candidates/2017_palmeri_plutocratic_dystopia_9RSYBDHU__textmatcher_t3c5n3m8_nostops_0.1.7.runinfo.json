@@ -1,0 +1,71 @@
+{
+  "tool": "text-matcher",
+  "version": "0.1.7",
+  "git_commit": "81e39364705b85d61fc8d6275e1a6349f9dff689",
+  "preset": "reeve_defaults",
+  "settings": {
+    "threshold": 3,
+    "cutoff": 5,
+    "ngrams": 3,
+    "min_distance": 8,
+    "remove_stopwords": true
+  },
+  "pids": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10"
+  ],
+  "wall_seconds_total": 14.76,
+  "wall_seconds_by_pid": {
+    "P01": 0.39,
+    "P02": 1.33,
+    "P03": 0.38,
+    "P04": 2.78,
+    "P05": 1.11,
+    "P06": 2.23,
+    "P07": 3.76,
+    "P08": 0.92,
+    "P09": 1.18,
+    "P10": 0.68
+  },
+  "raw_matches_by_pid": {
+    "P01": 0,
+    "P02": 7,
+    "P03": 11,
+    "P04": 11,
+    "P05": 0,
+    "P06": 35,
+    "P07": 10,
+    "P08": 2,
+    "P09": 4,
+    "P10": 0
+  },
+  "dropped_unlocatable_matches": 0,
+  "pair_errors": [],
+  "peak_rss_mb_self": 288.4,
+  "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+  "python": "3.13.2",
+  "nltk": "3.10.0",
+  "articles": [
+    "2021_sezer_going_west_US8FE2Q5",
+    "2013_harvey_cry_within_C6VQPDG4",
+    "2014_wallhead_mason_dixon_E2TDDQA5",
+    "2014_rossi_something_more_KF8LYIPQ",
+    "2014_maragos_every_they_9VU7EIQJ",
+    "2015_martinson_hyperobject_s_7IIYT69Y",
+    "2016_sweeney_gothic_traces_8Q6F6MLD",
+    "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+    "2019_thomas_blood_tracks_LS5YAQLE",
+    "2018_carswell_doc_dude_W6SQ6GJ8",
+    "2023_johnson_selling_san_89JQFT3W",
+    "2025_leupold_not_who_YKVFQH5I"
+  ],
+  "run_status": "post-freeze addition (NEXT_STEPS §I); not part of the 26 July 2026 frozen system matrix"
+}

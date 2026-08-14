@@ -1,0 +1,22 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0001,Mason & Dixon,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0002,Mason & Dixon,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0003,Mason & Dixon,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0004,Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0005,Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0006,Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0007,Mason & Dixon,True,Mason & Dixon,P06,Chapter 7,7,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0008,Mason & Dixon,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0009,Mason & Dixon,True,Mason & Dixon,P06,Chapter 29,29,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0010,Mason & Dixon,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0011,Mason & Dixon,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0012,Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0013,Mason & Dixon,True,Mason & Dixon,P06,Chapter 51,51,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0014,Mason & Dixon,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0015,Mason & Dixon,True,Mason & Dixon,P06,Chapter 43,43,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0016,Mason & Dixon,True,Mason & Dixon,P06,Chapter 71,71,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0017,Mason & Dixon,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0018,Mason & Dixon,True,Mason & Dixon,P06,Chapter 13,13,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0019,Mason & Dixon,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0020,Mason & Dixon,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,6
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid_xqgc-0021,Mason & Dixon,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1

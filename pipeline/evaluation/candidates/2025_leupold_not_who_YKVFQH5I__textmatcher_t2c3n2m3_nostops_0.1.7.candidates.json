@@ -1,0 +1,242 @@
+[
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0001",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13146,
+  "article_end_char": 13234,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0002",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13709,
+  "article_end_char": 13755,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0003",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13860,
+  "article_end_char": 14049,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0004",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14532,
+  "article_end_char": 14560,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0005",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14570,
+  "article_end_char": 14990,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0006",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P01|P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 42562,
+  "article_end_char": 42581,
+  "textmatcher_candidate_pids": [
+   "P01",
+   "P05"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0007",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49699,
+  "article_end_char": 50319,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0008",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50322,
+  "article_end_char": 50764,
+  "textmatcher_candidate_pids": [
+   "P02",
+   "P07"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0009",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 51741,
+  "article_end_char": 51828,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0010",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 52054,
+  "article_end_char": 52099,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0011",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 52728,
+  "article_end_char": 52775,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0012",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 52817,
+  "article_end_char": 52913,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0013",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 53040,
+  "article_end_char": 53074,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0014",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 53077,
+  "article_end_char": 53310,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0015",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 53317,
+  "article_end_char": 53413,
+  "textmatcher_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0016",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 57519,
+  "article_end_char": 57628,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-tm-0017",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 57639,
+  "article_end_char": 57747,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ }
+]

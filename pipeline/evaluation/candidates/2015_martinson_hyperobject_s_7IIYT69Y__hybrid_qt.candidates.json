@@ -1,0 +1,1459 @@
+[
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0001",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 551,
+  "article_end_char": 575,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0001"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0002",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8113,
+  "article_end_char": 8133,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0002"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0003",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8380,
+  "article_end_char": 8400,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0003"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0004",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9047,
+  "article_end_char": 9078,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0004"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0005",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16062,
+  "article_end_char": 16083,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0005"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0006",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16729,
+  "article_end_char": 17318,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0006"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0007",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18302,
+  "article_end_char": 18363,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0007"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0008",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18821,
+  "article_end_char": 18854,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0008"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0009",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19299,
+  "article_end_char": 19385,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0009"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0010",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20112,
+  "article_end_char": 20132,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0010"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0011",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20288,
+  "article_end_char": 20308,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0011"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0012",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20497,
+  "article_end_char": 20517,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0012"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0013",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21157,
+  "article_end_char": 21172,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0013"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0014",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P05|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23119,
+  "article_end_char": 23175,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0014"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0015",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23185,
+  "article_end_char": 23204,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0015"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0016",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24435,
+  "article_end_char": 24480,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0016",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0001"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0017",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P06|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24640,
+  "article_end_char": 24666,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0017"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0018",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26400,
+  "article_end_char": 26419,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0018"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0019",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26548,
+  "article_end_char": 26589,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0019"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0020",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26983,
+  "article_end_char": 27020,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0020"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0021",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27718,
+  "article_end_char": 27741,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0021"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0022",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28031,
+  "article_end_char": 28045,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0022"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0023",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P03|P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28241,
+  "article_end_char": 28267,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0023"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0024",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28460,
+  "article_end_char": 28647,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0024"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0025",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29769,
+  "article_end_char": 29787,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0025"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0026",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30703,
+  "article_end_char": 30774,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0026",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0002"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0027",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31057,
+  "article_end_char": 31260,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0027"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0028",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31988,
+  "article_end_char": 32019,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0028"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0029",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32159,
+  "article_end_char": 32333,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0029"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0030",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32430,
+  "article_end_char": 32460,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0030"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0031",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P05|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33039,
+  "article_end_char": 33063,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0031"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0032",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34826,
+  "article_end_char": 34843,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0032"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0033",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34971,
+  "article_end_char": 34998,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0033"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0034",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35375,
+  "article_end_char": 35405,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0034"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0035",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36100,
+  "article_end_char": 36161,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0035"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0036",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06|P07|P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36887,
+  "article_end_char": 36915,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0036"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0037",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38553,
+  "article_end_char": 38578,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0037"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0038",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38819,
+  "article_end_char": 38842,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0038"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0039",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39395,
+  "article_end_char": 39547,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0039"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0040",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39795,
+  "article_end_char": 39881,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0040"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0041",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39882,
+  "article_end_char": 40059,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0041"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0042",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40060,
+  "article_end_char": 40263,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0042"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0043",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41226,
+  "article_end_char": 41331,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0043"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0044",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44241,
+  "article_end_char": 44288,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0044"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0045",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P05|P06|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45317,
+  "article_end_char": 45520,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0045"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0046",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45667,
+  "article_end_char": 45687,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0046"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0047",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45718,
+  "article_end_char": 45744,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0047"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0048",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46825,
+  "article_end_char": 46967,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0048"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0049",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47188,
+  "article_end_char": 47211,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0049"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0050",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47572,
+  "article_end_char": 47598,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0050"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0051",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47922,
+  "article_end_char": 47959,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0051"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0052",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48484,
+  "article_end_char": 48504,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0052"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0053",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49226,
+  "article_end_char": 49246,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0053"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0054",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49401,
+  "article_end_char": 49419,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0054"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0055",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49797,
+  "article_end_char": 49817,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0055"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0056",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49855,
+  "article_end_char": 49933,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0056"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0057",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50274,
+  "article_end_char": 50421,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0057"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0058",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50665,
+  "article_end_char": 50748,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0058"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0059",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51705,
+  "article_end_char": 51725,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0059"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0060",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52855,
+  "article_end_char": 52924,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0060"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0061",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53699,
+  "article_end_char": 54028,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0061",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0003"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0062",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55796,
+  "article_end_char": 56024,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0062",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0004"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0063",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 57861,
+  "article_end_char": 57883,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0063"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0064",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 58387,
+  "article_end_char": 58415,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0064"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0065",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59450,
+  "article_end_char": 59467,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0065"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0066",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59491,
+  "article_end_char": 59518,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0066"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0067",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P07|P08 | P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59663,
+  "article_end_char": 60035,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0067",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0006"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0068",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59663,
+  "article_end_char": 59717,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0005"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0069",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 60287,
+  "article_end_char": 60309,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0068"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0070",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 61740,
+  "article_end_char": 61916,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0069",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0007"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0071",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 61921,
+  "article_end_char": 61967,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0070"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0072",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62222,
+  "article_end_char": 62310,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0071"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0073",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62700,
+  "article_end_char": 62729,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0072"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0074",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P01|P04|P06|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63743,
+  "article_end_char": 63914,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0073"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0075",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64113,
+  "article_end_char": 64235,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0074"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0076",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P06|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64902,
+  "article_end_char": 64920,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0075"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0077",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65637,
+  "article_end_char": 65664,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0076"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0078",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65734,
+  "article_end_char": 65751,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0077"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0079",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66409,
+  "article_end_char": 66434,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0078"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0080",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66611,
+  "article_end_char": 66634,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0079"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0081",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 68249,
+  "article_end_char": 68266,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0080"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0082",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 69284,
+  "article_end_char": 69306,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0081"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0083",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P06|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 71633,
+  "article_end_char": 71654,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0082"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0084",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 71891,
+  "article_end_char": 71917,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0083"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_qt-0085",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 72366,
+  "article_end_char": 72387,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-quid-0084"
+  ]
+ }
+]

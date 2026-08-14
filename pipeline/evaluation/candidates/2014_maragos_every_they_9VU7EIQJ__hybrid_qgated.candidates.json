@@ -1,0 +1,421 @@
+[
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0001",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4848,
+  "article_end_char": 4898,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0010"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0002",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "287",
+  "confidence": "hybrid",
+  "article_start_char": 10299,
+  "article_end_char": 11062,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-01"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0003",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10311,
+  "article_end_char": 11063,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0017"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0004",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06|P08 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12598,
+  "article_end_char": 12799,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0019",
+   "2014-02"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0005",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P01|P06|P07 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13995,
+  "article_end_char": 14292,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0021",
+   "2014-03"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0006",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15586,
+  "article_end_char": 15617,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0025",
+   "2014-04"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0007",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06|P07|P10 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15648,
+  "article_end_char": 15706,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0026",
+   "2014-05"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0008",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "230",
+  "confidence": "hybrid",
+  "article_start_char": 17095,
+  "article_end_char": 17522,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0009",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19317,
+  "article_end_char": 19365,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0036",
+   "2014-07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0010",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20044,
+  "article_end_char": 20070,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0037",
+   "2014-08"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0011",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21166,
+  "article_end_char": 21240,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0041",
+   "2014-09"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0012",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21912,
+  "article_end_char": 21957,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0042",
+   "2014-10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0013",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "487-88",
+  "confidence": "hybrid",
+  "article_start_char": 22936,
+  "article_end_char": 23329,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-11"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0014",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24118,
+  "article_end_char": 24344,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0046",
+   "2014-12"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0015",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06|P07 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25892,
+  "article_end_char": 26078,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0048",
+   "2014-13"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0016",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "50",
+  "confidence": "hybrid",
+  "article_start_char": 27043,
+  "article_end_char": 27804,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-14"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0017",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P07 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29008,
+  "article_end_char": 29041,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0053",
+   "2014-15"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0018",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "87",
+  "confidence": "hybrid",
+  "article_start_char": 29225,
+  "article_end_char": 29748,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-16"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0019",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "87",
+  "confidence": "hybrid",
+  "article_start_char": 29689,
+  "article_end_char": 29720,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-17"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0020",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30230,
+  "article_end_char": 30261,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0055"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0021",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P07 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30946,
+  "article_end_char": 30967,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0056",
+   "2014-19"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0022",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P05 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30973,
+  "article_end_char": 30995,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0057",
+   "2014-20"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_qgated-0023",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P07 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33028,
+  "article_end_char": 33246,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-quid-0061",
+   "2014-18"
+  ]
+ }
+]

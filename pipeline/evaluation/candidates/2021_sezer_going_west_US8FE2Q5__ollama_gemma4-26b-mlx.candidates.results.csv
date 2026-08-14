@@ -1,0 +1,57 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+US8FE2Q5-01,,True,Mason & Dixon,P06,Chapter 21,21,Part 1: Latitudes and Departures,1.0,False,P06,1
+US8FE2Q5-02,,False,,,,,,,False,,0
+US8FE2Q5-03,,True,Mason & Dixon,P06,Chapter 2,2,Part 1: Latitudes and Departures,1.0,False,P06,1
+US8FE2Q5-04,,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,0.996,False,P06,2
+US8FE2Q5-05,,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,1.0,False,P06,1
+US8FE2Q5-06,,False,,,,,,0.687,False,,0
+US8FE2Q5-07,,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+US8FE2Q5-08,,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+US8FE2Q5-09,,True,Mason & Dixon,P06,Chapter 30,30,Part 2: America,1.0,False,P06,4
+US8FE2Q5-10,,True,Mason & Dixon,P06,Chapter 30,30,Part 2: America,1.0,False,P06,2
+US8FE2Q5-11,,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.978,False,P06,1
+US8FE2Q5-12,,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+US8FE2Q5-13,,False,,,,,,,False,,0
+US8FE2Q5-14,,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+US8FE2Q5-15,,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,2
+US8FE2Q5-16,,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.829,False,P06,1
+US8FE2Q5-17,,True,Mason & Dixon,P06,Chapter 48,48,Part 2: America,0.883,False,P06,1
+US8FE2Q5-18,,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-19,,True,Mason & Dixon,P06,Chapter 32,32,Part 2: America,1.0,False,P06,2
+US8FE2Q5-20,,False,,,,,,,False,,0
+US8FE2Q5-21,,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-22,,True,Mason & Dixon,P06,Chapter 46,46,Part 2: America,1.0,False,P06,1
+US8FE2Q5-23,,True,Mason & Dixon,P06,Chapter 52,52,Part 2: America,0.989,False,P06,2
+US8FE2Q5-24,,False,,,,,,0.692,False,,0
+US8FE2Q5-25,,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,2
+US8FE2Q5-26,,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,0.905,False,P06,3
+US8FE2Q5-27,,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,0.833,False,P06,1
+US8FE2Q5-28,,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,0.982,False,P06,2
+US8FE2Q5-29,,False,,,,,,0.714,False,,0
+US8FE2Q5-30,,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+US8FE2Q5-31,,False,,,,,,,False,,0
+US8FE2Q5-32,,False,,,,,,,False,,0
+US8FE2Q5-33,,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.957,False,P06,1
+US8FE2Q5-34,,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,0.995,False,P06,1
+US8FE2Q5-35,,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-36,,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.989,False,P06,1
+US8FE2Q5-37,,True,Mason & Dixon,P06,Chapter 47,47,Part 2: America,0.969,False,P06,1
+US8FE2Q5-38,,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+US8FE2Q5-39,,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+US8FE2Q5-40,,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.974,False,P06,1
+US8FE2Q5-41,,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+US8FE2Q5-42,,False,,,,,,0.739,False,,0
+US8FE2Q5-43,,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+US8FE2Q5-44,,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-45,,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,0.975,False,P06,1
+US8FE2Q5-46,,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+US8FE2Q5-47,,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+US8FE2Q5-48,,True,Mason & Dixon,P06,Chapter 60,60,Part 2: America,1.0,False,P06,1
+US8FE2Q5-49,,True,Mason & Dixon,P06,Chapter 56,56,Part 2: America,1.0,False,P06,1
+US8FE2Q5-50,,True,Mason & Dixon,P06,Chapter 56,56,Part 2: America,0.99,False,P06,1
+US8FE2Q5-51,,True,Mason & Dixon,P06,Chapter 75,75,Part 3: Last Transit,1.0,False,P06,1
+US8FE2Q5-52,,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+US8FE2Q5-53,,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.987,False,P06,1
+US8FE2Q5-54,,False,,,,,,0.561,False,,0
+US8FE2Q5-55,,False,,,,,,0.612,False,,0
+US8FE2Q5-56,,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1

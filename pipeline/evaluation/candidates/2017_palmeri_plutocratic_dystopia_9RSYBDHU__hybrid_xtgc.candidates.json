@@ -1,0 +1,190 @@
+[
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0001",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "170",
+  "confidence": "hybrid",
+  "article_start_char": 7115,
+  "article_end_char": 7209,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-01"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0002",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "170",
+  "confidence": "hybrid",
+  "article_start_char": 7136,
+  "article_end_char": 7175,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-13"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0003",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "170",
+  "confidence": "hybrid",
+  "article_start_char": 7229,
+  "article_end_char": 7334,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-02"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0004",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "178",
+  "confidence": "hybrid",
+  "article_start_char": 7481,
+  "article_end_char": 7511,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-03",
+   "2017-14"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0005",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "333",
+  "confidence": "hybrid",
+  "article_start_char": 7924,
+  "article_end_char": 8295,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-04"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0006",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "334",
+  "confidence": "hybrid",
+  "article_start_char": 8387,
+  "article_end_char": 8419,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-05"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0007",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "334",
+  "confidence": "hybrid",
+  "article_start_char": 8475,
+  "article_end_char": 8538,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0008",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "1000–01",
+  "confidence": "hybrid",
+  "article_start_char": 9158,
+  "article_end_char": 9523,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-08"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0009",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "1001",
+  "confidence": "hybrid",
+  "article_start_char": 10180,
+  "article_end_char": 10223,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-09"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0010",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "1077",
+  "confidence": "hybrid",
+  "article_start_char": 12674,
+  "article_end_char": 12754,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0011",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "1085",
+  "confidence": "hybrid",
+  "article_start_char": 39014,
+  "article_end_char": 39082,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-25"
+  ]
+ }
+]

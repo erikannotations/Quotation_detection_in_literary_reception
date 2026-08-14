@@ -1,0 +1,49 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0001,pynchon_fiction,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,2
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0002,pynchon_fiction,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0003,pynchon_fiction,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0004,pynchon_fiction,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0005,pynchon_fiction,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,2
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0006,pynchon_fiction,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.967,False,P06,2
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0007,pynchon_fiction,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0008,pynchon_fiction,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0009,pynchon_fiction,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,0.993,False,P06,2
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0010,pynchon_fiction,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,0.991,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0011,pynchon_fiction,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,4
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0012,pynchon_fiction,True,Mason & Dixon,P06,Chapter 4,4,Part 1: Latitudes and Departures,0.966,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0013,pynchon_fiction,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,2
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0014,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0015,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0016,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0017,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0018,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0019,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0020,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0021,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0022,pynchon_fiction,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0023,pynchon_fiction,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,0.946,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0024,pynchon_fiction,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,2
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0025,pynchon_fiction,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0026,pynchon_fiction,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0027,pynchon_fiction,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0028,pynchon_fiction,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0029,pynchon_fiction,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0030,pynchon_fiction,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,2
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0031,pynchon_fiction,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0032,pynchon_fiction,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,3
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0033,pynchon_fiction,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0034,pynchon_fiction,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0035,pynchon_fiction,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0036,pynchon_fiction,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0037,pynchon_fiction,True,Mason & Dixon,P06,Chapter 14,14,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0038,pynchon_fiction,True,Mason & Dixon,P06,Chapter 62,62,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0039,pynchon_fiction,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,2
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0040,pynchon_fiction,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0041,pynchon_fiction,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0042,pynchon_fiction,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0043,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0044,pynchon_fiction,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0045,pynchon_fiction,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0046,pynchon_fiction,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0047,pynchon_fiction,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2014_rossi_something_more_KF8LYIPQ-hybrid_xqgc-0048,pynchon_fiction,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1

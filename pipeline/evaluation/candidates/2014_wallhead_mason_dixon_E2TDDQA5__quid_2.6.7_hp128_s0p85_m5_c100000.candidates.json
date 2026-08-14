@@ -1,0 +1,1356 @@
+[
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0001",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 64,
+  "article_end_char": 87,
+  "quid_candidate_pids": [
+   "P02",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0002",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 753,
+  "article_end_char": 774,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0003",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 1457,
+  "article_end_char": 1510,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0004",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 2850,
+  "article_end_char": 2876,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0005",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 2912,
+  "article_end_char": 2936,
+  "quid_candidate_pids": [
+   "P01"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0006",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 3268,
+  "article_end_char": 3292,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0007",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P06|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 3505,
+  "article_end_char": 3524,
+  "quid_candidate_pids": [
+   "P02",
+   "P06",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0008",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 3877,
+  "article_end_char": 3895,
+  "quid_candidate_pids": [
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0009",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 3935,
+  "article_end_char": 3964,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0010",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 4201,
+  "article_end_char": 4346,
+  "quid_candidate_pids": [
+   "P04",
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0011",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 4542,
+  "article_end_char": 4562,
+  "quid_candidate_pids": [
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0012",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7165,
+  "article_end_char": 7183,
+  "quid_candidate_pids": [
+   "P06",
+   "P09"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0013",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8393,
+  "article_end_char": 9023,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0014",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P03|P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9103,
+  "article_end_char": 9121,
+  "quid_candidate_pids": [
+   "P02",
+   "P03",
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0015",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P06|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9366,
+  "article_end_char": 9384,
+  "quid_candidate_pids": [
+   "P02",
+   "P06",
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0016",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9939,
+  "article_end_char": 10053,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0017",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 10912,
+  "article_end_char": 10933,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0018",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 11254,
+  "article_end_char": 11283,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0019",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 11728,
+  "article_end_char": 11768,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0020",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 11869,
+  "article_end_char": 11909,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0021",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 11990,
+  "article_end_char": 12060,
+  "quid_candidate_pids": [
+   "P05",
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0022",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 12371,
+  "article_end_char": 12411,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0023",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13078,
+  "article_end_char": 13123,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0024",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P03|P04|P05|P06|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13369,
+  "article_end_char": 14729,
+  "quid_candidate_pids": [
+   "P01",
+   "P03",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0025",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14752,
+  "article_end_char": 14782,
+  "quid_candidate_pids": [
+   "P02",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0026",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15748,
+  "article_end_char": 15766,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0027",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15820,
+  "article_end_char": 15849,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0028",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16386,
+  "article_end_char": 16431,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0029",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16473,
+  "article_end_char": 16604,
+  "quid_candidate_pids": [
+   "P04",
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0030",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16644,
+  "article_end_char": 16728,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0031",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16928,
+  "article_end_char": 16948,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0032",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P04|P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17150,
+  "article_end_char": 17170,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P04",
+   "P05",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0033",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17374,
+  "article_end_char": 17392,
+  "quid_candidate_pids": [
+   "P05",
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0034",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17682,
+  "article_end_char": 17707,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0035",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18156,
+  "article_end_char": 18185,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0036",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18386,
+  "article_end_char": 18758,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0037",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20898,
+  "article_end_char": 20918,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0038",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21436,
+  "article_end_char": 21456,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0039",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21878,
+  "article_end_char": 21897,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0040",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21983,
+  "article_end_char": 22041,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0041",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22050,
+  "article_end_char": 22085,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0042",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P04|P05|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22172,
+  "article_end_char": 22344,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0043",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22873,
+  "article_end_char": 23259,
+  "quid_candidate_pids": [
+   "P06",
+   "P09"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0044",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 23490,
+  "article_end_char": 23509,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0045",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 23780,
+  "article_end_char": 23835,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0046",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 23863,
+  "article_end_char": 23898,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0047",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 25020,
+  "article_end_char": 25060,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0048",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 26112,
+  "article_end_char": 26149,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0049",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 26284,
+  "article_end_char": 26311,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0050",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 26541,
+  "article_end_char": 26559,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0051",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 27571,
+  "article_end_char": 27595,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0052",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28233,
+  "article_end_char": 28261,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0053",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P05|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29138,
+  "article_end_char": 29161,
+  "quid_candidate_pids": [
+   "P04",
+   "P05",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0054",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29767,
+  "article_end_char": 29854,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0055",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P04|P05|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30443,
+  "article_end_char": 30469,
+  "quid_candidate_pids": [
+   "P01",
+   "P04",
+   "P05",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0056",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31473,
+  "article_end_char": 31505,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0057",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31892,
+  "article_end_char": 31912,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0058",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 34734,
+  "article_end_char": 34773,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0059",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 35322,
+  "article_end_char": 35344,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0060",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 35727,
+  "article_end_char": 35753,
+  "quid_candidate_pids": [
+   "P05",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0061",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36093,
+  "article_end_char": 36141,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0062",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36223,
+  "article_end_char": 36253,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0063",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38741,
+  "article_end_char": 38765,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0064",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39642,
+  "article_end_char": 39666,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0065",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P03|P04|P05|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 41629,
+  "article_end_char": 41649,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P03",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0066",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 42554,
+  "article_end_char": 42578,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0067",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 43149,
+  "article_end_char": 43313,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0068",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 43355,
+  "article_end_char": 43380,
+  "quid_candidate_pids": [
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0069",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 43530,
+  "article_end_char": 43553,
+  "quid_candidate_pids": [
+   "P02",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0070",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 45270,
+  "article_end_char": 45287,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0071",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 47402,
+  "article_end_char": 47421,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0072",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 47558,
+  "article_end_char": 47587,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0073",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 48025,
+  "article_end_char": 48049,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0074",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 48651,
+  "article_end_char": 48668,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0075",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49132,
+  "article_end_char": 49160,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0076",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49197,
+  "article_end_char": 49333,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0077",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49339,
+  "article_end_char": 49452,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0078",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49457,
+  "article_end_char": 49481,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0079",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49486,
+  "article_end_char": 49538,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0080",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49555,
+  "article_end_char": 49606,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0081",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49612,
+  "article_end_char": 49704,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0082",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49722,
+  "article_end_char": 49799,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0083",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50637,
+  "article_end_char": 50655,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0084",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 51790,
+  "article_end_char": 51810,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0085",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 52718,
+  "article_end_char": 52740,
+  "quid_candidate_pids": [
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0086",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 54441,
+  "article_end_char": 54502,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0087",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 54933,
+  "article_end_char": 54965,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0088",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 56325,
+  "article_end_char": 56345,
+  "quid_candidate_pids": [
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0089",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 57731,
+  "article_end_char": 57753,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0090",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 59757,
+  "article_end_char": 59810,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0091",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 60257,
+  "article_end_char": 60278,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-quid-0092",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 61237,
+  "article_end_char": 61263,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ }
+]

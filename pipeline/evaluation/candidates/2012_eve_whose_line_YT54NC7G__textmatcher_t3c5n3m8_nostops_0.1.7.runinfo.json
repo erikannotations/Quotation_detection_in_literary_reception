@@ -1,0 +1,60 @@
+{
+  "tool": "text-matcher",
+  "version": "0.1.7",
+  "git_commit": "81e39364705b85d61fc8d6275e1a6349f9dff689",
+  "preset": "reeve_defaults",
+  "settings": {
+    "threshold": 3,
+    "cutoff": 5,
+    "ngrams": 3,
+    "min_distance": 8,
+    "remove_stopwords": true
+  },
+  "pids": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10"
+  ],
+  "wall_seconds_total": 8.76,
+  "wall_seconds_by_pid": {
+    "P01": 0.26,
+    "P02": 0.81,
+    "P03": 0.22,
+    "P04": 1.61,
+    "P05": 0.7,
+    "P06": 1.25,
+    "P07": 2.23,
+    "P08": 0.57,
+    "P09": 0.68,
+    "P10": 0.44
+  },
+  "raw_matches_by_pid": {
+    "P01": 0,
+    "P02": 0,
+    "P03": 0,
+    "P04": 4,
+    "P05": 1,
+    "P06": 0,
+    "P07": 0,
+    "P08": 0,
+    "P09": 0,
+    "P10": 0
+  },
+  "dropped_unlocatable_matches": 0,
+  "pair_errors": [],
+  "peak_rss_mb_self": 264.9,
+  "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+  "python": "3.13.2",
+  "nltk": "3.10.0",
+  "articles": [
+    "2012_eve_whose_line_YT54NC7G"
+  ],
+  "run_status": "post-freeze addition (NEXT_STEPS §I); not part of the 26 July 2026 frozen system matrix"
+}

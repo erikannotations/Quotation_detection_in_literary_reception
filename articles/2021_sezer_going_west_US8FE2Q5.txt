@@ -1,0 +1,390 @@
+Key: US8FE2Q5
+CSV line: 24
+Item type: journalArticle
+Year: 2021
+Author: Sezer, Burak
+Title: Going West, Slow and Fast
+Publication title: JAAAS: Journal of the Austrian Association for American Studies
+DOI: 10.47060/JAAAS.V3I1.58
+URL: https://jaaas.eu/index.php/jaaas/article/view/58
+Rights: Creative Commons Attribution 4.0 International
+Source PDF: JAAAS_3-1_05_Sezer-SpeedSurveyingMasonDixon.pdf
+Pages: 22
+
+Text normalization: PDF page furniture removed and layout lines reflowed, 2026-07-16
+Correction: Chicago-style ellipses (". . .") were being split across lines by the reflow; rejoined, 2026-07-30
+========================================================================
+Going West, Slow and Fast Speed and Surveying in Thomas Pynchon’s Mason & Dixon Burak Sezer
+Abstract
+This article examines the speed and mobility of surveying of pre-revolutionary America in Thomas Pynchon’s Mason & Dixon (1997).
+Pynchon contrasts the extremely slow and directed physical drawing of the Mason–Dixon line with the infinitely fast and undirected speed of magic and dream.
+This confrontation of mobilities extends into a more general discussion of Enlightenment science and romantic reverie and their clash in Pynchon’s novel.
+I contend that this investigation of mobility helps extend the conceptualization of the well-established opposition of rationality and irrationality in Pynchon scholarship and beyond.
+Suggested Citation: Sezer, Burak. “Going West, Slow and Fast: Speed and Surveying in Thomas Pynchon’s Mason & Dixon.” JAAAS: Journal of the Austrian Association for American Studies 3, no. 1 (2021): 99–119, DOI: 10.47060/jaaas.v3i1.58.
+Keywords: Mason–Dixon line; speed; geometry; surveying; directionality; cartography; Enlightenment; light; rationality; irrationality
+Peer Review: This article was reviewed by the issue’s guest editors and two external reviewers.
+Copyright: © 2021 Burak Sezer. This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License (CC-BY 4.0), which allows for the unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+In his epic poem “Eureka” (1848), Edgar Allan Poe decries the scientific principles of induction and deduction as “two narrow crooked paths—the one of creeping and the other of crawling—to which, in their ignorant perversity, they have dared to confine the Soul—the Soul which loves nothing so well as to soar in those regions of illimitable intuition which are utterly incognizant of ‘path.’”1
+His metaphor visualizes the movement of scientific progress along a pre-determined path, emphasizing its extremely slow and maladroit locomotion through the hendiadys “creep and crawl,” which he places in opposition to the soul’s design—to soar in a manner free of determination.
+Further, Poe insinuates that the soul’s free movement is under constant threat of being stifled by the logic of science.
+Strikingly, these eigenmovements of reason and fantasy also constitute a hitherto largely unexplored leitmotif in Thomas Pynchon’s fifth novel, Mason & Dixon (1997).
+In the following, I will argue that Pynchon’s novel contextualizes and contrasts precisely the two aforementioned modes of movement.
+By tracing scientific and imaginary movements in the novel, I will distil a Pynchonian concept of American im/mobility.
+In so doing, this examination of movement will not only reappraise but even reconcile the antagonism between science and fantasy, a prevalent trope in Pynchon scholarship and beyond.
+Mason & Dixon is set in colonial America on the eve of the Declaration of Independence.
+From the perspective of the post-Revolutionary War period, Reverend Wicks Cherrycoke narrates the border surveys between the British colonies Delaware, Maryland, and Pennsylvania from 1763 to 1767, conducted by English astronomer Charles Mason and surveyor Jeremiah Dixon.
+Pynchon’s novel is relevant to a conceptualization of American im/mobility since Mason and Dixon’s expedition epitomizes the most iconic movement associated with America: they move westward, thus pushing the frontier.
+Yet, their expedition is, contrary to all expectations, not a homogenous enterprise.
+Their venture commences as an explicitly scientific endeavor but gradually transmogrifies into a romantic caravan trip that mirrors the loosening of Britain’s colonial grip and the emergence of American independence.
+Precisely this shift, I will argue, is reflected in their movement.
+As a scientific expedition, they move slowly, only to accelerate again during the final romantic episodes of their project.
+In Mason & Dixon, movement occurs in two ways: physical and imaginary, analogous to Poe’s discussion of the “creeping and crawling” of science versus the “soaring” of the soul.
+Two short episodes before Mason and Dixon’s departure to America illustrate the tension between these modes of movement.
+Ruminating on America in Britain, Mason is caught by “Mobility’s Grip” in the midst of a frequented London thoroughfare, after which he surprisingly finds himself “thro’ an Agency yet to be discover’d . . . not so much transported as translated, to a congruent Street somewhere in America.”
+Shortly thereafter, Dixon, who is journeying down the Thames on board the collier Mary and Meg to meet Mason, finds himself enshrouded in a mysterious fog, whereupon the crew realizes they have magically “floated to America,” as Mason had before.2
+The ability of fantastic agents to instantly and safely “translate” (i.e., “bring across”) Mason and Dixon to America, albeit only for a fleeting moment, stands in stark contrast to Mason and Dixon’s physical travels aboard the ship Seahorse, which prove to be slow and perilous.
+Translation stands furthermore in stark contrast to physics as a scientific paradigm, since instant translations are inexplicable by the universal laws of Newtonian mechanics and thus beyond the realm of possibility.
+The opposition between the two movements is maintained in the drawing of the demarcation line forming the heart of the novel: the real, physical movement west is earthbound, extremely decelerated, repetitive, arduous, and dangerous, whereas all romantic dreams of the unexplored American wonders in the west are free, airborne, and accelerated and sometimes even infinitely fast.
+The novel offers various perspectives and voices conducive to understanding to what extent a single line poses a threat to mobility and how that threat is potentially counteracted.
+In order to combine these perspectives, I will follow the novel’s chronology of Mason and Dixon’s journey; special emphasis will be placed on the discussion of the two major parameters defining the scientists’ movement: their directionality, as the Mason-Dixon line is a straight line, and their speed, as it takes them more than three and a half years to run a series of lines only approximately 331 miles long.3
+Moments of deceleration and acceleration as well as clashes between physical and phantasmagorical movements offer a more complete picture of a highly delicate age of transformation in America, as the Mason-Dixon expedition’s physical westward expansion inaugurates a more symbolic American movement: the American Revolution.
+The Fantastic
+Mason and Dixon first meet in 1761 to observe the Transit of Venus to calculate the solar parallax.
+Both are introduced as aspiring and well-equipped scientists—in fact, Mason is an accomplished “Adjunct of the Prime Astronomer of the Kingdom” Dr. James Bradley.
+The prospect of their teamwork is auspicious as they complement each other in terms of knowledge and method.
+As Dixon, the surveyor, puts it, “I have recourse much more often to the Needle, than to the Stars,— yet, what I lack in Celestial experience, I pray I may counterpend with Diligence and a swift Grasp.”
+4 Shortly after their first correspondence, they meet in Portsmouth where they encounter a mysteriously eloquent “Learnèd English Dog.”
+Both scientists are visibly bewildered when the dog says, “’Tis the Age of Reason, rrrf?
+There is ever an Explanation at hand, and no such things as a Talking Dog,— Talking Dogs belong with Dragons and Unicorns.
+What there are, however, are Provisions for Survival in a World less fantastick.”
+This is all the more confounding since Mason and Dixon are faithful representatives of science; their worldview precludes phenomena such as talking animals: “’Mason, pray you,— ‘tis the Age of Reason,’ Dixon reminds him, ‘we’re men of Science.’”5
+The appearance of the Learnèd English Dog marks the first disruption of a hitherto realistic setting, which could be interpreted as a “fantastic” disruption in Tzvetan Todorov’s sense, self-reflexively highlighted by the dog’s use of the term “fantastick.”
+The reader, like Mason and Dixon, lingers in a state of suspension regarding whether a talking dog can be explained, as, for instance, a hallucination induced by a folie à deux or by sheer confabulation on the part of the narrator Cherrycoke.
+If not, the novel must be classified as supernatural, thus embodying a work of fantasy.
+Todorov reserves the term “hesitation” for this lingering, noting that “the fantastic is that hesitation experienced by a person who knows only the laws of nature, confronting an apparently supernatural event.”6
+Mason & Dixon is replete with many more apparently supernatural elements woven into the historiographic reconstruction related to movement, such as a perpetuum mobile watch and a mechanical duck that moves so fast it fades into invisibility.
+Both a perpetuum mobile and infinite velocity are instances of mobility inexplicable through scientific reasoning, which is predominantly the modus operandi of both Mason and Dixon: “There is no Perpetual-Motion,” says Dixon and “’Tis a Law of the Universe,” affirms Mason.7
+Besides these rather conspicuous anomalies, however, Mason & Dixon stands out as being faithful to historical evidence and physical factuality for long stretches.8
+Therefore, the fantastic seems irresolvable because it neither entirely collapses into the marvelous, nor into the uncanny.
+Given the preponderance of criticism available on the dichotomy between science and fantasy in Mason & Dixon, Todorov’s typology might appear to be a rather ineffectual theoretical adjunct.
+In fact, practically all essays in the two seminal anthologies on Mason & Dixon—Brooke Horvath and Malin Irving’s Pynchon and Mason & Dixon (2000)
+and Elizabeth Jane Wall Hinds’s The Multiple Worlds of Mason & Dixon (2005)— at least touch upon that issue.
+However, Todorov’s concept of the fantastic is useful precisely because it uses “hesitation” as an element of mediation between the “fast” and “slow” narrative: a fast narrative is coherent and homogenous, whereas a slow narrative is replete with inconsistencies and counternarratives.
+It is striking to see that Mason and Dixon initially brush aside all elements of the fantastic on the grounds of being “Men of Science,” only to cast doubt upon precisely that premise as they draw the line: “‘Get a grip on yerrself, man,’ mutters Mason, ‘what happen’d to ‘We’re men of Science’?’”9
+By decelerating their scientific progress and introducing the element of hesitation shared by the protagonists and readers alike, Pynchon highlights key limitations with regard to purportedly flawless applications of scientific insights into a marvelous world.
+In other words, the slowness of the Mason-Dixon project bespeaks the impossibility of reducing their undertaking to scientific parameters alone, and the constant halting, stopping, and pausing in their progress foregrounds the shortcomings of a purely scientific outlook.
+Similarly, in his conclusion of The Fantastic (1970; English translation 1973), Todorov shares a piece of information conducive to understanding the function of introducing fantastic elements into an otherwise realistic scenery.
+According to Todorov, the fantastic novel is “a literature which postulates the existence of the real, the natural, the normal, in order to attack it subsequently.”10
+Correspondingly, Pynchon’s integration of the fantastic into the Age of Reason implies a criticism of the presumptuousness of reason itself, insofar as it discards the legitimacy of the marvelous coexisting alongside it.
+The continuous presence of the fantastic in Mason & Dixon portends that many occurrences in the novel will not defer to a scientific account associated with the Enlightenment.
+When it comes to fantastic movements such as the perpetuum mobile or infinite velocity, the fantastic intrusion disrupts the Newtonian paradigm, which has claimed full authority as an explanatory model of all physical movement, especially for the erudite scientists.
+11 Thus, Pynchon suggests that the comprehension of the world has not been exhausted by the Enlightenment ideal and allows that there may be movements that cannot be grasped based solely on their physical manifestation.
+This becomes apparent in the latter sections of the novel, where Pynchon rehabilitates the axis of romanticism and phantasmagoria from the oblivion of the Enlightenment, which proves as important to the historical conceptualization of America as scientific factuality.
+Pynchon installs fantastic movement as a complement to the physical, as he excoriates the mundanity of all the endeavors surrounding the drawing of the line and elevates even the minutest calculations into a position of cultural prominence.
+Creeping and Crawling the Line
+At the outset of their expedition, when all romantic dreams of the West have not yet been articulated, the intentions of Mason and Dixon are professional and prosaic.
+The scientists have a relatively strict time schedule so as not to miss the second Transit of Venus in 1769.
+They arrive at the east coast of America in 1763, where “running the Line would take them four of those years, with an extra year for measuring a Degree of Latitude in Delaware,” foreshadowing their slow and tedious progress.
+In December 1763, they relatively quickly “establish . . . the southernmost Point of Philadelphia,” their first task assigned by the officials.
+They know that “Fifteen Miles South of this, . . . will the West Line run.”12
+Starting the West line already proves to be so unpredictably difficult that it significantly delays their departure.
+According to their instructions, they need to find a degree of perfect latitude (39°43’17.4” N), along which they must proceed westward.
+Mason and Dixon attempt to locate this spot by approximating its latitude from both north and south, which takes nearly six months: “By February they have learn’d their Latitude closely enough to know that Sector is set up 356.8
+yards south of the Parallel that passes thro’ the southernmost point of Philadelphia,” but they find that they are still “about ten and a half seconds of Arc off.”13
+The historical Mason and Dixon suspected that error; in their journals, it is maintained that “kings lacked competence in scientific matters and in the writing of their colonial charters made impossible geometrical specifications.”14
+It is incumbent on the fictional Mason and Dixon to rectify these inaccuracies.
+Therefore, they measure the new southernmost point of Philadelphia to satisfy the charter’s demands, with a series of exacting scientific calculations ensuing.
+“In March a Company of Axmen, using Polaris to keep their Meridian, clear a Visto . . . fifteen Miles true south” for Mason to be able to align his telescopes.
+Then in April Mason and Dixon, using fir Rods and Spirit Levels, measure exactly the fifteen miles southward, allowing for the ten and a half Seconds off at the north end.
+In May they find their new Latitude . . ., then remeasure the Line northward again,— . . . By June, having found at last the Latitude of their East –West Line,— . . . they are instructed to proceed to the Middle Point of the Peninsula between Chesapeake and the Ocean, to begin work upon the Tangent Line.
+By the end of the Month, they have chain’d north from the Middle Point to the Banks of Nanticoke.15
+It is rather ironic that Pynchon narrates this in a single paragraph.
+There is a blatant mismatch between what Gérard Genette calls “narrative speed” and Mason and Dixon’s “actual speed”: less than a page against half a year.
+16 By dint of this narrative sleight of hand, Pynchon implicitly ridicules the project.
+What could have been achieved in a short period of time is, due to the exigency of topographical exactitude, so artificially bloated and repetitive (as they also need to “remeasure” the line) that the reader begins to impugn the rationale behind their surveying.
+Furthermore, identifying the Tangent point proves to be even more difficult an objective than initially assumed.
+It is, again, comical to observe Mason and Dixon’s ongoing struggle over the plan in the course of the second half of year 1764: “In August they finally go chaining past the eighty-one-mile mark, which they figure puts them a little beyond the Tangent Point, wherever it is, back there.
+They take September, October, and November to find it, as nicely as Art may achieve, computing Offsets and measuring them, improving the Tangent Line by small Tweaks and Smoothings, until they can report at last that the ninety-degree Angle requir’d . . . is as perfect as they can get it.”17
+All of this ultimately takes a year, which mirrors the grotesque time discrepancy of reading a few lines in the novel and the diegetic actions that stretch to lengthy durations.
+Upon reviewing their progress in December, the ironical undertone is noticeable: “‘To a good year’s work.’
+Dixon raising a pewter Can of new Cider.
+‘And pray for another.’
+‘To Repetition and Routine,’ Mason gesturing reluctantly with his Claret-Glass”—and it proves to be repetitive indeed, as on “the Twenty-ninth of May” the next year, “they are occupied again with the enigmatick Area ’round the Tangent Point, seeking to close the Eastern boundaries of Pennsylvania and Maryland,” which requires an additional “three weeks.”18
+In the midst of these numerical and geometrical operations, Pynchon introduces John Harland, who has no interest in following Mason and Dixon along the Tangent line, but only along the West line as an “Instrument-Bearer.”
+His farm happens to be exactly where Mason and Dixon need to set up their post, “the single Point to which all work upon the West Line . . . will finally refer”; a neo-Greenwich, so to speak.
+When Harland is informed about Mason and Dixon’s plans, he “ha[s] Romantic thoughts for the first time . . .,— he has been running Lines, into the distance, when once Brandywine was far enough,— and now he wants the West.”
+Pynchon contrasts the overly meticulous and prosaic movements south along the Tangent line with the pending romantic movement along the West line, into the unknown: “To face West, can be a trial for those sentimentally inclin’d, as well as for ev’ryone nearby.
+It is possible to feel the combin’d force, in perfect Enfilade, of ev’ry future second unelaps’d, ev’ry Chain yet to be stretch’d, every unknown Event to be undergone.”
+19 “Feeling” the west is described as a fantastic apparition, which escapes the clutches of scientific time and space metrics and defies all physical understandings of velocity, since “seconds” and “Chains” are insubstantial categorizations for that matter, harking back to the aforementioned fantastic translations of Mason and Dixon to America.
+20 Moreover, the fact that Harland, among others, joins the expedition foreshadows the group’s growing heterogeneity and diversity of interests, as scientists and romantics are forced to mingle—a trope prevalent in American literature since Herman Melville’s Moby-Dick (1851 ), which details the numerous conflicts during the Pequod’s odyssey, most notably between the darkly romantic, irrational Ahab and the assiduous, rational Starbuck.
+As the survey team begins their auspicious movement into the romantic unknown, the reader is again disappointingly confronted with the vacuity and slowness of the enterprise.
+Reminded of the insipid trifles related to the drawing of the Tangent line, it feels like the West line is little more than a return of the repressed.
+Although the monodirectionality of the straight West line appears to be an endeavor quickly realizable, it is, paradoxically, precisely the straightness of the line that decelerates their movement.
+When William Emerson, a Newtonian mathematician and teacher of Dixon, had heard of Dixon’s plan to travel to America, he warns him that “’twill not be an easy journey,— . . . there’ll be days when the Compasses run quaquaversally wild boxing themselves, and you, into perplexity.”21
+Quaquaversality, or the quality of uncontrollably flailing in all directions, here not only alludes to America’s inexhaustible spatial complexity and vastness, but also to the necessity of constantly readjusting all instruments of measurement in order to prevent the line from swinging the slightest bit away from the desired latitude.
+Preserving the line’s straightness thus requires constant measurement, hence the slowness.
+Quaquaversality is also a principle of what Gilles Deleuze and Félix Guattari have called “smooth space” as opposed to “striated space”: “The first aspect of . . . smooth space is that its orientations, landmarks, and linkages are in continuous variation; it operates step by step.”
+22 America as a smooth space, 23 as a “local space. . . of pure connection,” 24 is thus invaded by a straight line whose logic is not motivated by cultural aspects, geological formations or vegetational ambiance, but only by the “geometrick Whimsicality of the Kings,” 25 reducing quaquaversality to monoversality.
+Pynchon satirizes the preposterousness of the straight line by showing how Mason and Dixon do not skirt any obstacles on its path.
+Shortly after their departure into the west, it “takes them less than a week to run the Line thro’ somebody’s House”—a little Pynchonian pun, as “takes them less than a week” can be understood as both “less than a week after the start of the West line” and “a little less than a week but still disproportionately many days.”
+Their progress is unnervingly slow in the service of latitudinal accuracy: “Each ten Minutes of Great Circle, about ev’ry twelve miles, their Intention is to pause, set up the Sector and determine their Latitude.”
+The reader begins to witness a glaring disconnect with regard to how speedily the line is drawn on a map and how arduously it is actualized by the surveyors because they could have simply bypassed the house.
+This is also communicated by William Emerson, as he teaches that “earthbound, . . . we are limited to our Horizon, which sometimes is to be measur’d but in inches.— We are bound withal to Time, and the amounts of it spent getting from end of a journey to another.
+Yet aloft, in Map-space, origins, destinations, any Termini, hardly seem to matter,— one can apprehend all at once the entire plexity of possible journeys, set as one is above Distance, above Time itself.”26
+Emerson’s lesson predicts that the actual replication of the trajectory will be a time-consuming enterprise, a movement obstructed by small details and “inches” that precludes swift completion, whereas the lines on the map itself transcend the clutches of time altogether.
+In other words, on a map, the line is drawn within seconds, regardless of whether it crosses houses, rivers, quicksand, or forests, but on the surface of America, such an unobstructed mobility is immediately precluded.
+Pynchon’s multiple references to the “geometrick Whimsicality of the Kings” and “Royal Geometry” resonate with the fact that the straight line is drawn by a ruler in both senses: by a king and by a straightedge ruler.
+As a token of the absurdity of such detached royal governance, the actual West line must run “straight down the middle of the Bed [of a married couple], of course,” which exposes the plan’s disinterest towards the American people and their individual situations.
+Rhys Price, the owner of the house, then reprimands: “Separating Neighbors is one thing, . . .— but separating Husband and Wife,— no wonder you people get shot at all the time.”27
+The strictness of the plan does not permit any deviation in terms of their movement, even if that were the preference of the people and ultimately also favorable to their pace.
+This brute-force advance into the west also proves to be perilous in the course of their expedition.
+The West line fixates the royal declaration of what belongs to which territory, Maryland or Pennsylvania, forcing a division of animosity among the people.
+At that time, British America was in deep tumult because of the ongoing Stamp Act Crisis; many parties in the novel are infuriated because of the seemingly arbitrary taxation embodied in the Stamp Act, so that “Whiteboys and Black Boys, Pax ton Boys and Sailor Boys” display a “threat of Mobility ever present.”
+28 Here, “threat of Mobility” is ambiguous: it means both “revolution,” but also literally the threat of being attacked when moving among these gangs, especially since Mason and Dixon perform the will of the Crown, which is an anathema to all of them.
+Pynchon’s frequent use of the terms “Mobility” and “Mob” antagonizes the logic of the monodirectionality of the line.
+Mobs are instances of chaotic and unordered movement and therefore resistant to all governance by royal fiat, constantly exuding the threat of subversion.
+The fact that they display a “threat of Mobility” also implies that mobility in the sense of free and unobstructed movement is precisely what the line attempts to stifle.
+Philosopher Paul Virilio offers an account of this dynamism related to revolutions: “The masses are not a population, a society, but the multitude of passersby.
+The revolutionary contingent attains its ideal form not in the place of production, but in the street, where for a moment it stops being a cog in the technical machine and itself becomes a motor (machine of attack), in other words a producer of speed.”29
+A “cog in the technical machine” performs slow, ordered, and calculated movements.
+The deviation from this orderliness marks the inception of the (American) revolutionary act, the first act of civil disobedience, and the mobs harbor that power for mayhem by virtue of their chaotic mobility.
+Such an exposition to a wider range of heterogenous groups is important to understanding the expedition’s lack of speed.
+Brian Edwards observes that “as Mason and Dixon proceed with the Line, their progress across the landscape is interrupted not only by meetings with the milkmaids, farmers, axmen, innkeepers and tavern wits . . . but also by variations upon old New World narratives. . . . Complicated with the introduction of Captain Zhang, Chinese opponent of the Jesuits, ideas of precedence, sacred truth, heresy and competing nations (including the French and Spanish as well as the English) create a vibrant religious-political confusion if competing demands for property and authority.”
+30 Thus, as “The Crew” swells “up to thirty Hands” and later is “throng’d and a-blare with skin-wearers and cloth-wearers ever mingling, Indian and White, French and Spanish,”31 becoming successively more heterogenous, the narrative of running the line is also subject to “variations,” as Edwards says.
+Their internal and external interests come into conflict with other groups, calling for a democratic resolution the logic of the line does not obey.
+Especially the straightness of the line, which symbolizes the insistence on implementing a single colonial narrative that cannot be altered or bent, is what incenses the people; they witness firsthand how their desires and voices are invalidated by the line.
+What Edwards calls the “interrupted progress” of Mason and Dixon is a symptom of this clash of narratives.
+Their “interrupted progress” due to conflicts with other groups, and in fact nations, becomes explicit when they are forced to wait for “Sir William Johnson to negotiate with deputies from the Six Nations, assembl’d at a German Flat, upon Mohawk, as to the continuation of the Line beyond the Alleghany Crest.”
+As a result, “the Surveyors loiter week upon week in Philadelphia” and ultimately “get a late start this Year, not reaching the Alleghany Front until July, a full year since they left off their Progress West.”32
+Yet, what proves to be the most compromising agent of deceleration is the American natural environment.
+The farther west they move, from civilization to wilderness, the harsher that environment becomes.
+Pynchon stylizes nature as a retaliatory saboteur of the survey expedition, to which the group is highly vulnerable: despite being well-equipped as scientists, they are ill-equipped for traversing America.
+When they cross a river and try to return, Mason and Dixon realize that “the same River by then [had] become much enlarg’d, [and] to cross back over it, would have presented a Task too perilous for the Instruments.”
+33 It is documented in their journals that “extreme care was exercised in the transportation of the fragile instruments, which were placed on a featherbed in a wagon.
+It appears to have required a two-day trip by horse . . . to cover the 31 miles.”34
+That delay occurred due to the swelling of the same river described in the novel; it is moreover recorded in their Journals that “[p]acking up the Instruments” and putting the “Instruments into the wagons” is a time-consuming routine that fills an entire day.35
+Their predicament is aggravated: “Try to turn the angles and obtain the star shots, getting in addition snake-bit, trapp’d in sucking Mud, lost in Fog, frozen to the Marrow, harass’d by the farmers, and visited by the Sheriffs.”
+It appears that the ruthless inclemency of American nature is a defensive mechanism to stall their measurements, symbolizing the romantic struggle against the chokehold of rationality.
+In this sense, their telescopic measurement is obstructed multiple times: “They have been held up by the Weather,— first Snow, which by the fourth day, even undrafted, has reached a depth of two feet and nine inches,— then clouded Skies, which prolong the impossibility of Zenith observations.”
+36 Pynchon demonstrates that the actual running—or in this sense “creeping and crawling”—of the West line is by no means as simple and straightforward an undertaking as it is deceptively suggested to be; his depiction of the ruthlessness of American nature exposes the cliché of the serene and welcoming “virginal wilderness.’”
+The destructive force of the line impacts America’s pristine nature, going beyond the expedition’s ungainly “trampling Garden patches or molesting Orchards.”
+If it is not clouds and snow that impede Mason’s stargazing, trees prove to be an even greater obstacle the more they move into the romantic wilderness: “‘Nothing so clear and easy as that in Delaware, however,’ Dixon mutters to himself all shift long.
+‘If we set up over there, then this great bloody Tree’s in the way,— yet if we wish to be clear of the Tree for any sight longer than arm’s length, we must stand in Glaur of uncertain Depth.”
+Dixon’s utterance connects the group’s deceleration in the woodlands with the increasing difficulty of surveying after having departed from Delaware, where it was comparatively “clear and easy,” in contrast to the wilderness, “near this d——‘d many Trees” where “seeking a line of sight that will allow them to use a Right Angle” is a “Fool’s Errand, as it proves.”
+37 Were it not for the latitudinal imperative and the necessity of constantly reaffirming their current location, trees would not have been a nuisance to the scientists and they would be able to maintain moderate speed.
+But because of the latitudinal imperative, a substantial number of trees need to be felled, often referred to in the novel as the “clearing of the Visto.”
+Consequently, Mason and Dixon are accompanied by a large group of lumberjacks, whose sole assignment lies in cutting down trees to grant Mason an unhampered view of the night-sky.
+At the cost of a further deceleration, this bulldozing of the American landscape fits conveniently within the Enlightenment ideal of clear vision.
+The removal of trees and their canopies also clears the path of light as the sky now casts uninterrupted diurnal and nocturnal illumination upon America which allegorizes the triumphant path of the Enlightenment from another perspective.
+Although many critics, such as Brian McHale, Victor Strandberg, and Brian Edwards have unanimously diagnosed Pynchon’s critical stance toward unbridled Enlightenment thinking,38 Hanjo Berressem rightly observes that “many articles [on Mason & Dixon ] are lacking . . . a definition of what they mean when they say that Pynchon criticizes ‘the Enlightenment.’”39
+Granted that Pynchon’s criticism of the Enlightenment is multifaceted, the West line caricatured as a “ tree-slaughtering Animal, with no purpose but to continue creating forever a perfect Corridor over the Land [with] [i]ts teeth of Steel,— its Jaws, Axmen” captures the gist of it.40
+Actualizing the Mason–Dixon line comes with a total illumination—the ideal of the Enlightenment.
+The German Enlightenment philosopher Christoph Martin Wieland writes about the importance of light in finding the truth in “Sechs Fragen zur Aufklärung” (“Six Questions on the Enlightenment”; 1781 ).
+According to Wieland, “there be enough light” is a prerequisite for finding the truth.
+He adds that “in the dark, nothing is left to honest people but to sleep” because one cannot see clearly what is there.41
+Predictably, Pynchon critiques such a celebration of all-out illumination.
+Pynchon mourns that in the increasing “metropolitan Wakefulness,” dreams and the fantastic are inhibited.
+Only in the penumbral and the dark, in the American west “ever behind the sunset,” “out past the reach of civic Lanthorns,— . . . beyond, in the Forest, where the supernatural was less a matter of Publick-Room trickery or Amusement” can the marvelous be encountered.
+42 While Wieland welcomes the “separation of the true and the false, the disentanglement of the entangled, the reduction of the composite into its simpler parts,”43 Pynchon deplores the great loss of “changing all from subjunctive to declarative, reducing Possibilities to Simplicies that serve the end of Governments,”44 which could almost be read as a rebuttal to Wieland.
+In other words, the fact that the luminosity of the Enlightenment nudges away the fantastic in favor of one transcendent and uncontestable truth is a triumph for the rationalists, but a tragedy for the romantics.
+Wieland’s argumentation is also reminiscent of Plato’s allegorized Enlightenment ideal to strive toward leaving the cave and its deceitful shadows and spirits in favor of seeing the world as it is.
+Philosophically, Hans Blumenberg’s Höhlenausgänge (Cave-Exits; 1989)
+argues against Plato’s proposition to abandon the cave for good, as “in the cover of the cave . . . fantasy emerged”: dreams and fictions are “offspring of the cave.”45
+Blumenberg writes further that it is the cave’s shelter from gapless illumination when directly exposed to the sun, its protection against a sensory overload, that goads the imagination to narrate what is not there.
+The darkness of the cave invites sleep, but also dreams.
+Such is the path of the Enlightenment, embodied by the West line, that ushers America out of its arcane cave.
+One can predict that this deforestation engenders the evanescence of the mythical and the oneiric, as Mason and Dixon had predicted before embarking on their journey.
+Back in Britain, Dixon had asked Mason why the Royal Society always chooses a “Factory, or Consulate, or other Agency” as their observation sites, to which Mason retorts: “Excuse me?
+you’d rather be dropp’d blindly, into a Forest on some little-known Continent, perhaps?— no Perimeters,— nor indeed chances of surviving,— in- Tree-guing, as the Monkey said.
+I think not.
+Philosophick Work, to proceed at all smartly, wouldn’t you agree, requires a controll’d working space.”46
+Thus, in order to do their work, America is transformed into such a factory or consulate, where all perimeters are measured and recorded, and all movements are regulated and digitized—the opposite of walking freely and blindly through the forest.
+The “in- Tree-guing” is sacrificed for scientific clarity, “bringing with it the modern world’s spiritual desperation,” as Pynchon critic David Cowart puts it.
+47 Indeed, Pynchon writes of one of nature’s last acts of defiance, the “great Ghost of the woods” that warns them to proceed with what has long been exacerbated into intemperance as he whispers “no...
+no more...
+no further”—and it is indicative that such a fantastic intrusion occurs in the woods.48
+Soon, Mason and Dixon become increasingly acquainted with the political, cultural, and ecological repercussions of the line.
+In addition to their realization that they cannot extricate themselves from these consequences, they also become aware of the extreme, one might even be tempted to call it absurd, deceleration: “ By this time, they’re making a mile or two per day.
+On the seventh of August, they cross Braddock’s Road at 189 miles and 69 Chains.
+Thirty-two Chains further on, they cross the Road a second time.
+The next Day, a mile and 35 Chains beyond that, they cross it a Third Time.”
+“I’m not content with this, Dixon, not at all,” Mason notes.
+He then continues, exasperated, “Three months for Surveying!’
+Mason marvels.
+‘And if someone’s been doing it all his Life?
+A-and think of the Money!
+Is that fifty Pounds per Act of surveying?
+Per Diem, perhaps?’”49
+This passage draws an immediate comparison to another famous expedition led by Meriweather Lewis and William Clark from May 1804 to September 1806.
+Based on their detailed travel logs, historian Stephen E. Ambrose reconstructs the itinerary of the Lewis and Clark expedition, offering a chronology of their movement.
+Ambrose at one point even comments on their speed: “On September 9[, 1806], the expedition passed the mouth of the Platte River.
+It was making seventy to eighty miles a day.”50
+The comparison of both passages explicitly reaffirms how substantially slower the Mason and Dixon expedition moves.
+In their respective speeds, the disparate purposes of the expeditions are reflected: Mason and Dixon are surveyors, while Lewis and Clark are explorers.
+Whereas Mason and Dixon are forced to comply with a prefabricated line that dictates their movement on the American West, Lewis and Clark are dispatched under the authority of Thomas Jefferson to explore new paths for mercantile interests; the order of exploration and map-making is therefore entirely inverted.
+The tragedy of Mason and Dixon’s deceleration is at the verge of its dénouement, “as the Days of their Westering, even the most obtuse of the Company can see, are rapidly decremented, as in a game of Darts, to Zero, waiting moment upon moment the last fatal Double.”51
+This is a mathematical image: the graph of their progress is doomed to align with its “last fatal Double,” its asymptote, which is the straight line that marks zero speed of westering.
+Flying the Line
+Shortly thereafter but before reaching the “last fatal Double,” the Mason and Dixon expedition reaches a point where further ratiocination seems futile and meaningless.
+At that point, Pynchon suffuses the entire journey with an aura of romanticism, which reestablishes its momentum and introduces lofty and aerial movements.
+Science transforms into what would from an Enlightenment perspective be pejoratively called “pseudoscience,” geometry is complemented by geomancy, as is astronomy by its counternarrative of astrology and geography by parageography.
+All these couples are amalgamations of science and romanticism, of the rational and the irrational, of the slow and the fast.
+The Chinese mystic Dr. Zhang constantly refers to the theory of ley lines and feng shui, reprimanding the two scientists for their invalid division of physical and metaphysical matters.
+The geometry of the Mason–Dixon line is susceptible to making such a division because it considers physical space exclusively.
+Philosopher Jeff Malpas writes, “Understanding the way in which creatures, including both human and non-human animals, find themselves ‘in’ space, both in relation to their bodies and to one another, requires more than just a concept of space as articulated within physical theory [such as geometry].
+Moreover, . . . the restriction of focus that limits space to the physical and objective must also constitute a severe, indeed debilitating, restriction of any attempt to arrive at an adequate understanding of space and place.”52
+Hence, cartographical geometry alone is ill-suited to grasping the spirit of western space.
+Dr. Zhang, alongside several other characters, constitutes a part of the force that attempts to counteract what Malpas calls the “debilitating restriction” on the merely measurable component of space.
+One parageographical, romantic-scientific manifestation of Zhang’s theories is the ley line.
+English antiquarian Alfred Watkins defines ley lines as “straight trackways in prehistoric times in Britain,” which are pathways of spiritual navigation in geomantic belief systems.
+53 Accompanying Mason and Dixon, the narrator of the frame story Reverend Cherrycoke keeps a Spiritual Day-Book , the romantic counterpart to Mason and Dixon’s technical journals, in which he extols the accelerations along ley lines: “Now, many is the philosophickal Mind,— including my own,— convinced that rapid motion through the air is possible along and above certain invisible straight Lines, crossing the earthly landscape, particularly in Britain, where they are known as Ley-lines.
+Any number of devout enthusiasts, annual Stonehenge and Avebury Pilgrims, Quacks, Mongers, Bedlamites,— each has his tale of real flights over the countryside, above these Ley-lines.”
+Cherrycoke writes further that he believes the ley lines of America are more carefully composed by ancient mystical agents and therefore of even greater potency than English ones: “Here went we off upon the most prodigious Line yet attempted,— in America, where undertakings of its scale possible,— astronomically precise,— carefully set prisms of Oölite,—the Master-valve of rose Quarts, at the eastern Terminus.
+Any Argument from Design, here, must include a yearning for Flight, perhaps even higher and faster than is customary along Ley-lines we know.
+I try not to wonder.
+I must wonder.”54
+This geomantic belief in lofty and swift mobility that is “rapid” and “higher and faster” along a ley line finds its antipodal point in the immobility of the “creeping and crawling” survey expedition along the Mason-Dixon line.
+Predictably, as a girl chases a chicken, “an odd thing happens,” as “directly upon the Line, the Chicken stops, . . . and thenceforward remains perfectly still, seemingly fallen into a Trance.”55
+As everybody has a look at the “immobile Fowl,” Mason surmises that “Right Lines cause Narcolepsy in all Fowl,” generating a sinister prognosis that the orthogonalization of America renders free and lofty mobilities outright impossible.
+56 However, if the Reverend Cherrycoke is right, ley lines perhaps retain the fantastic property of speedy transportation.57
+Similarly, Kathryn Hume points out that Pynchon “revels in telluric powers” exemplified by ley lines and feng shui, because they “suggest that Earth has living and non-material dimensions, and also that alternative realities exist beneath our feet as well as above us.”58
+Hume sees the romantic dimension extend the profane monodimensionality of the line into a “beneath” and an “above,” which Pynchon imbues with different speeds.
+The preponderance of counternarratives to the techno-scientific one of the Mason-Dixon line exerts profound influence on Mason and Dixon.
+Shortly after Zhang’s objections, Dixon is keen on expanding his knowledge into the territory of the romantic-scientific: “Dixon tries to learn from Capt.
+Zhang something of the Luo-Pan.”
+The Luo-Pan is a feng shui compass, whose circumference measures 365.25° as opposed to the standard 360° “that the Jesuits remov’d from the Chinese circle.”
+59 By introducing the Luo-Pan, Pynchon proffers a radically different geometry in stark contrast to what Nina Engelhardt calls the “standard Enlightenment geometry.”
+60 This is reminiscent of Zhang’s discussion of the “Eleven Days taken from your Calendar.”61
+He alludes to the 1750 Calendar Act when Britain decreed the skipping of eleven days on September 2 in 1752, so that September 14 succeeded September 2 in order to readjust the miscalculations of the temporal length of a solar year, which is technically a little longer than 365 days.
+In Mason & Dixon, the leaping of eleven days and the cutting of 5.25° from the Chinese Luo-Pan are not eliminated, but rather translocated into the realm of the romantic.
+Mason is able to gain access to the eleven missing days in a “Vortex . . . tangent to the Linear Path of what we imagine as Ordinary Time, but excluded from it, and repeating itself,— without end.”
+After his fantastic sojourn, he reports, “’Twas as if Metropolis of British Reason had been abandon’d to the Occupancy of all that Reason would deny.
+Malevolent shapes flowing in the Streets.
+Lanthorns spontaneously going out.
+Men roaring as if chang’d to Beasts in the Dark.
+A Carnival of Fear.
+Shall I admit it?
+I thrill’d.
+I felt that if I ran fast enough, I could gain altitude, and fly.
+I would become one of them.
+I could hide beneath Eaves as well as any.
+I could creep in the Shadows.
+I could belong to the D——l,— anything inside this Vortex was possible.”
+Like the airborne mobilities that the ley lines bestow upon those who travel along them, the romantic vortex offers Mason a similarly speedy and lofty means of locomotion.
+Likewise, Dixon is able to enter a spherical space that might be the repository of the missing 5.25° of the broken Chinese circle: the Hollow Earth.
+His report of “inner-surface Philosophers” who might be “Gnomes, Elves, smaller folk” is reminiscent of Mason’s fantastic account of the vortex; and since the Hollow Earth’s “Light . . . was never more than low and diffuse,” analogous to the “Shadows” encountered in the vortex, one can regard them as instantiations of Blumenberg’s cave utopias, twilit subterfuges against rationality’s prying eyes.
+62 Mason and Dixon’s erstwhile scientific hesitation upon their encounter with the Learnèd English Dog has evaporated: they believe these two spaces to be real.
+This is a well-known arc in fantastic literature; Todorov reserves the term “adaptation” for the event, in which the fantastic is entirely encapsulated by the natural.
+The narrative starts from a supernatural event, and during the course of the narrative gives it an increasingly natural atmosphere—until at the end, the story has gone as far as possible from the supernatural.
+Thereby all hesitation becomes useless: its function had been to prepare the way for the perception of the unheard-of event, and to characterize the transition from natural to supernatural.
+Here, it is a contrary movement which is described: that of adaptation , which follows the inexplicable event and which characterizes the transition from the supernatural to the natural.
+Hesitation and adaptation designate symmetrical and converse processes.63
+Through the development of Mason and Dixon as characters, the transition from the scientific—the paradigm of hesitation, for example when encountering the Learnèd English Dog—to the romantic—the paradigm of adaptation, in which the fantastic is unquestionably part of the real—is brought to the fore.
+It is important to note, however, that these fantastic spaces do not survive explanations or measurements in the scientific sense; like Todorov’s definition suggests, the fantastic is a fragile construct liable to collapse once it is exposed as sheer fantasy or explained away.
+Similarly, Dixon is warned in the Hollow Earth: “Once the solar parallax is known, . . . once the necessary Degrees are measur’d, and the size and weight of the Earth are calculated inescapably at last, all this will vanish.
+We will have to seek another Space.”64
+The fact that these two adventures could occur to Mason and Dixon in the first place must mean that both have relaxed their scientific rigor in order to be more responsive to the wonders of the world; they have veered away from the line’s predestined path.65
+This has a momentous impact on their mobility as well.
+As mentioned above, Mason felt that he could “gain altitude, and fly” and Dixon reports that, owing to the Hollow Earth’s concave topology, “to journey anywhere, in this Terra Concava, is ever to ascend.”66
+Both instances suggest that such transcendent mobilities—now directed an upward as in Mason’s flying and Dixon’s ascending— require their joint renunciation of the simplistic Mason–Dixon line.
+In a final episode, when, historically, Mason and Dixon are finished with their line-drawing and return eastward, Pynchon offers an imaginary alternative history in which the ghosts of Mason and Dixon proceed in their westward journey.
+If romanticism was ever under threat of subjugation by science, it is now the opposite: the entire chapter constitutes a pure act of Pynchon’s imagination and is not substantiated by any historical evidence.
+The ghosts of Mason and Dixon feel “the Need to keep . . . no fix’d place, rather a fix’d motion,— Westering.
+Whenever they do stop moving, like certain Stars in Chinese Astrology, they lose their Invisibility, and revert to the indignity of being observ’d and available again for earthly purposes.”
+Science is an ill-suited tool to explain this mobility; their invisiblity precludes any measurement or observation and defies the laws of physics.
+In this imaginary “westering,” the romantic caravan finds its mobility and speed enhanced by the Mason–Dixon line: “Far enough west, they have outrun the slowly branching Seep of Atlantic settlement, and begun to encounter town from elsewhere, coming their way, with entirely different Histories,— Cathedrals, Spanish Musick in the Streets, Chinese Acrobats and Russian Mysticks.
+Soon, the Line’s own Vis Inertiæ having been brought up to speed, they discover additionally that ‘tis it, now transporting them.”67
+This is the romantic climax of the novel because it is a movement that has never taken place as far as historical documents suggest, but is, if anything, a realization of both Cherrycoke’s “Dream,— . . . that I flew, some fifty to an hundred feet above the Surface, down the Visto, straight West” and Mason and Dixon’s joint “dream of going on [west], unhinder’d, as the Halt dream of running, the Earth-bound of flying.”68
+Pynchon’s salient use of words such as “outrun,” “speed,” “running,” and “flying” not only points to the importance of the numerous modalities of movement, which are too often neglected in accounts of explorations and mapmakings of the American West, but also to their transformed, quick, breezy, and especially airborne mobility after the journey has become a romantic quest rather than a mere exercise in surveying.
+In comparison to the previous section regarding the solely scientifically motivated movement that will decelerate until it is completely stalled, meeting its asymptotic “last fatal Double,” the romantic continuation reinvigorates and elevates the movement of Mason and Dixon in two senses: it increases their speed and raises their movement to the heights.
+However, even this romantic episode must end on a less metaphysical note.
+The ghosts of Mason and Dixon eventually choose to turn “back to certain Fortune and global Acclaim” after their discovery of Uranus in lieu of “continu[ing] West, away from the law,” which is to move “contrary to Reason, against the Day.”
+By constrast, moving east is to cherish light and Enlightenment, “the less subjunctive,” and, moreover, the light of public attention, as upon moving east, the ghosts of Mason and Dixon, losing their invisibility, materialize into celebrated historical actualities.
+69 Thus, Pynchon’s novel is deeply aware of the fact that it cannot change the American wrongdoings or atrocities of the past, but it can underscore that which has been forgotten, ignored, or removed by modern historiography in the form of the fantastic.
+Mason & Dixon shows that the fantastic cannot be destroyed, only explained away and translocated into different realms.
+Used in that way, analogous to Todorov’s description, the fantastic functions as a critique of the given reality.
+The fact that Pynchon superimposes dreams of fantastically lofty and speedy mobilities along the Mason–Dixon line upon the actual Mason-Dixon line intimates what should have happened as opposed to what has happened: Mason and Dixon’s curiosity should have propelled them farther into the west,ultimately denying their service to the British Crown’s ill-starred geometry by using their telescopes and sextants on their own accord instead.
+Such a dual discussion of the im/mobilities related to the line reminds the reader of the foundational American ideal of free and unbounded movements, like the unconditional reception of migrants and refugees in this “great American asylum,” outlined in J. Hector St. John de Crèvecoeur’s “What is an American?”
+(1782).70
+Simultaneously, it excoriates how blatantly mobility as such is compromised by what many characters at first erroneously regard as an innocuous surveying expedition, including Mason and Dixon themselves.
+For Pynchon, the nostalgically utopian, genuinely American mobility is one of inclusion; the continent welcomes anyone regardless of cultural or ethnic background, provides shelter to those in need and forbids lines of separation: When the Hook of Night is well set, and when all the Children are at last irretrievably detain’d within their Dreams, slowly into the Room begin to walk the Black servants, the Indian poor, the Irish runaways, the Chinese Sailors, the overflow’d from the mad Hospital, all unchosen Philadelphia,— as if something outside, beyond the cold Wind, has driven them to this extreme of seeking refuge.
+They bring their Scars, their Pox-pitted Cheeks, their Burdens and Losses, their feverish Eyes, their proud fellowship in a Mobility that is to be, whose shape none inside this House may know.71
+Here, a “Mobility that is to be” means the auspicious beginning of the United States of America, where caravan-esque moving-together represents the cornerstone of its founding idea.
+Reminding the reader of this, Mason & Dixon shows that it is eminently desirable for a society to be vigilant about forces like the Mason-Dixon line that could undermine this mobility.
+Notes
+1 Edgar Allan Poe, “Eureka: A Prose Poem,” in Complete Tales and Poems of Edgar Allan Poe (New York: Barnes & Noble, 2006), 803.
+2 Thomas Pynchon, Mason & Dixon (London: Vintage Books, 2009), 214.
+3 Mason and Dixon also run a series of auxiliary lines in order to establish the exact latitude of the Mason–Dixon line, also known as the East –West line or sometimes abbreviated as the West line. From their Journals, one can extrapolate that they cover 230.223 miles (West line) + 14.252 miles (East line) + 81.979 miles (Tangent line) + 1.452 miles (Arc line) + 3.568 miles (North line) = 331.373 miles. Considering they were running the lines from December 1763 to October 1767, which approximately comprises 1426 days (or 34224 hours), we calculate that they moved at an average speed of 0.00967 mph (0.01557 kph). Multiplying that speed by two yields about 0.02 mph (0.032 kph), which acknowledges all compulsory moments of stasis, such as resting and eating.
+4 Pynchon, Mason & Dixon, 12.
+5 Pynchon, Mason & Dixon, 22, 27.
+6 Tzvetan Todorov, The Fantastic: A Structural Approach to a Literary Genre (Ithaca: Cornell University Press, 1975), 25.
+7 Pynchon, Mason & Dixon, 317.
+8 On the basis of his historical research, David Foreman concludes that the “investigation of the author’s sources reveals a surprising degree of factual basis to his fiction.” David Foreman, “Historical Documents Relating to Mason & Dixon,” in Pynchon and Mason & Dixon, ed. Brooke Horvath and Irving Malin (Newark: University of Delaware Press, 2000), 143. Furthermore, playing with fact and fiction is a hallmark conceit of many postmodern authors when dealing with historical topics, for which Linda Hutcheon has reserved the apt term “historiographic metafiction” in her book Poetics of Postmodernism (198 8) .
+9 Pynchon, Mason & Dixon, 669.
+10 Todorov, The Fantastic, 173.
+11 David Cowart identifies in Pynchon a “hunger of disruptive presence within the Age of Reason” prevalent in the eighteenth century. Through elements of “Gothicism and Romanticism,” Pynchon installs “manifestations of resistance to an untrammeled Enlightenment narrative.” David Cowart, Thomas Pynchon & The Dark Passages of History (Athens: University of Georgia Press, 2001 ), 140.
+12 Pynchon, Mason & Dixon, 246, 298, 298.
+13 Pynchon, Mason & Dixon, 333.
+14 Charles Mason and Jeremiah Dixon, The Journal of Mason and Dixon , 1763, 8, Internet Archive, May 6, 2019, https://archive.org/details/JournalOfMasonAndDixon.
+15 Pynchon, Mason & Dixon, 333–34.
+16 Genette defines “the speed of a narrative [as] the relationship between a duration (that of the story, measured in seconds, minutes, hours, days, months, and years) and a length (that of the text, measured in lines and in pages).” Gérard Genette, Narrative Discourse: An Essay in Method, trans. Jane E. Lewin (Ithaca: Cornell University Press, 1980), 87.
+17 Pynchon, Mason & Dixon, 340.
+18 Pynchon, Mason & Dixon, 340, 467.
+19 Pynchon, Mason & Dixon, 441, 441, 334, 444.
+20 The “Chains” refer to Gunter’s chain, a measurement device whose namesake is the English mathematician Edmund Gunter. It is the “English standard measurement unit,” as historian Edwin Danson writes. Edward Danson, Drawing the Line (Malden: Wiley-Blackwell, 2017), 28. Measuring in “Chains” indicates how colonial metrics and geometries tessellate the American surface and through a poetics of metal hint at the imminent industrialization of America. Measuring America thus becomes equivalent to imposing “Chains” upon America, which, as the name suggests, impairs mobility by inhibiting the American ideal of free and borderless movement.
+21 Pynchon, Mason & Dixon, 317.
+22 Gilles Deleuze and Félix Guattari, A Thousand Plateaus (London: Bloomsbury Academic, 2013), 573.
+23 For a more detailed exploration of the connection between smooth/striated space and Pynchon’s America, see Leyla Haferkamp, “Prairie: Pynchon’s Poetics of Immanence,” in Deleuzian Events: Writing | History, ed. Hanjo Berressem and Leyla Haferkamp (Münster: LIT Verlag, 2009).
+24 Deleuze and Guattari, A Thousand Plateaus, 573.
+25 Pynchon, Mason & Dixon, 324.
+26 Pynchon, Mason & Dixon, 446, 452, 505.
+27 Pynchon, Mason & Dixon, 324, 335, 446, 447.
+28 Pynchon, Mason & Dixon, 353.
+29 Paul Virilio, Speed and Politics, trans. Mark Polizzotti (Los Angeles: Semiotext(e), 2006), 29.
+30 Brian Edwards, “Surveying ‘America’: In the Mnemonick Deep of Thomas Pynchon’s Mason & Dixon,” Australian Journal of American Studies 23, no. 2 (2004): 27.
+31 Pynchon, Mason & Dixon, 453, 637.
+32 Pynchon, Mason & Dixon, 636.
+33 Pynchon, Mason & Dixon, 331.
+34 Mason and Dixon, Journals, 9.
+35 Mason and Dixon, Journals, 147, 38.
+36 Pynchon, Mason & Dixon, 335, 444.
+37 Pynchon, Mason & Dixon, 441, 339, 462.
+38 Brian McHale, “Mason & Dixon in the Zone, or, A Brief Poetics of Pynchon-Space,” in Pynchon and Mason & Dixon, ed. Brooke Horvath and Irving Malin (Newark: University of Delaware Press, 2000); Victor Strandberg, “Diminishing the Enlightenment: Thomas Pynchon’s Mason & Dixon,” in Pynchon and Mason & Dixon, ed. Brooke Horvath and Irving Malin (Newark: University of Delaware Press, 2000); Edwards, “Surveying America.”
+39 Hanjo Berressem, “Criticism & Pynchon & Mason & Dixon,” Contemporary Literature 42, no. 4 (2001 ): 838, DOI: 10.2307/1209056.
+40 Pynchon, Mason & Dixon, 678; emphasis added.
+41 Christoph Martin Wieland, “Sechs Fragen zur Aufklärung,” in Was ist Aufklärung? , ed. Eberhard Bahr (Leipzig: Reclam-Verlag, 1986), 23; translations by the author of this article.
+42 Pynchon, Mason & Dixon, 345, 345, 411.
+43 Wieland, “Sechs Fragen,” 25.
+44 Pynchon, Mason & Dixon, 345.
+45 Hans Blumenberg, Höhlenausgänge (Frankfurt: Suhrkamp Verlag, 1989), 30, 29.
+46 Pynchon, Mason & Dixon, 252.
+47 David Cowart, “The Luddite Vision: Mason & Dixon,” American Literature 71, no. 2 (1999): 342.
+48 Pynchon, Mason & Dixon, 634.
+49 Pynchon, Mason & Dixon, 658; emphasis added.
+50 Stephen E. Ambrose, Undaunted Courage: Meriweather Lewis, Thomas Jefferson, and the Opening of the American West (New York: Simon & Schuster, 2005), 402; emphasis added.
+51 Pynchon, Mason & Dixon, 664.
+52 Jeff Malpas, Place and Experience: A Philosophical Topography (Cambridge: Cambridge University Press, 2018), 48.
+53 Alfred Watkins, The Old Straight Track: Its Mounds, Beacons, Moats, Sites, and Mark Stones (London: Methuen & Co., 1948), xvi.
+54 Pynchon, Mason & Dixon, 440, 400; emphases added.
+55 Pynchon, Mason & Dixon, 665. Here, Pynchon alludes to the riddle joke “Why did the chicken cross the road?” commonly answered with “to get to the other side.” However, the Mason–Dixon line is so powerful a restraint to mobility that the chicken cannot get to the other side at all.
+56 Pynchon, Mason & Dixon, 665.
+57 Note also that Cherrycoke technically could not have had knowledge of ley lines because the idea was developed chiefly in twentieth century Europe by Alfred Watkins. Pynchon implicitly testifies to the spiritual significance of Cherrycoke’s writings by pointing out their prophetic quality. Mitchum Huehls analyzes this “parallactic narrative form” in more detail in “‘The Space that may not be seen’: The Form of Historicity in Pynchon’s Mason & Dixon,” in The Multiple Worlds of Pynchon’s Mason & Dixon: Eighteenth-Century Contexts, Postmodern Observations, ed. Elizabeth Jane Wall Hinds (Rochester: Camden House, 2005).
+58 Kathryn Hume, “Mason & Dixon,” in The Cambridge Companion to Thomas Pynchon, ed. Inger H. Dalsgaard, Luc Herman, and Brian McHale (Cambridge: Cambridge University Press, 2012), 64.
+59 Pynchon, Mason & Dixon, 587, 629.
+60 Nina Engelhardt, Modernism, Fiction and Mathematics (Edinburgh: Edinburgh University Press, 2019), 44.
+61 Pynchon, Mason & Dixon, 629.
+62 Pynchon, Mason & Dixon, 629, 560, 740; emphasis added.
+63 Todorov, The Fantastic, 170.
+64 Pynchon, Mason & Dixon, 741.
+65 Reconsidering Mason’s statement that the vortex is “tangent to the Linear Path of . . . Ordinary Time,” one can find a parallelism to the linear path of the Mason–Dixon line as both an organization of spatial and timely linearity, also found in for instance history. Pynchon similarly steps out of the historical account of the Mason–Dixon line in order to tell the fantastic stories tangent to the line that are too often disregarded by Enlightenment historiography, which is committed to facts. For more thorough discussions of this issue, see Hume, “ Mason & Dixon,” Huehls, “The Form of Historicity,” and Hanjo Berressem and Norbert Finzsch, “Historiographic Metafiction/Metafictional Historiography: The Mason & Dixon Project,” in Approaches to Teaching Pynchon’s The Crying of Lot 49 and Other Works , ed. Thomas H. Schaub (New York: Modern Language Association, 2008).
+66 Pynchon, Mason & Dixon, 560, 740.
+67 Pynchon, Mason & Dixon, 707, 708.
+68 Pynchon, Mason & Dixon, 649, 677.
+69 Pynchon, Mason & Dixon, 709, 709, 683, 683.
+70 J. Hector St. John Crèvecoeur, “What Is an American?” in Letters from an American Farmer (London: Penguin Books, 1986), 68.
+71 Pynchon, Mason & Dixon, 759; emphases added.
+About the Author
+Burak Sezer studied English philology, mathematics, and education at the University of Cologne and comparative literature at the University of Rochester.
+As a doctoral student at the University of Cologne, Burak is developing a dissertation on Thomas Pynchon’s poetics of mathematics.
+His research interests include the philosophy of science, historiographic metafiction, and the environmental humanities.
+Contact: Burak Sezer; University of Cologne; Department of English Studies; bsezer2@uni-koeln.de.

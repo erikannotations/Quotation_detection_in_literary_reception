@@ -1,0 +1,6 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2019_thomas_blood_tracks_LS5YAQLE-tm-0001,P09,True,Bleeding Edge,P09,Chapter 7,7,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-tm-0002,P09,True,Bleeding Edge,P09,Chapter 33,33,,1.0,False,P09,3
+2019_thomas_blood_tracks_LS5YAQLE-tm-0003,P09,True,Bleeding Edge,P09,Chapter 38,38,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-tm-0004,P04,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,0.917,False,P04,1
+2019_thomas_blood_tracks_LS5YAQLE-tm-0005,P04,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,1.0,False,P04,1

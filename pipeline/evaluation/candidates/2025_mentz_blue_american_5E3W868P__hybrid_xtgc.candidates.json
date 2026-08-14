@@ -1,0 +1,155 @@
+[
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_xtgc-0001",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "54",
+  "confidence": "hybrid",
+  "article_start_char": 12405,
+  "article_end_char": 12586,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-01"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_xtgc-0002",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "219",
+  "confidence": "hybrid",
+  "article_start_char": 22888,
+  "article_end_char": 22940,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-02"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_xtgc-0003",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "220",
+  "confidence": "hybrid",
+  "article_start_char": 23183,
+  "article_end_char": 23378,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-03"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_xtgc-0004",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "220",
+  "confidence": "hybrid",
+  "article_start_char": 24471,
+  "article_end_char": 24736,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-04"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_xtgc-0005",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "712",
+  "confidence": "hybrid",
+  "article_start_char": 30956,
+  "article_end_char": 31015,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-06"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_xtgc-0006",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "712",
+  "confidence": "hybrid",
+  "article_start_char": 31383,
+  "article_end_char": 31796,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-07"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_xtgc-0007",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "712",
+  "confidence": "hybrid",
+  "article_start_char": 32111,
+  "article_end_char": 32330,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-08"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_xtgc-0008",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "713",
+  "confidence": "hybrid",
+  "article_start_char": 32818,
+  "article_end_char": 32926,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-09"
+  ]
+ },
+ {
+  "id": "2025_mentz_blue_american_5E3W868P-hybrid_xtgc-0009",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "341",
+  "confidence": "hybrid",
+  "article_start_char": 37317,
+  "article_end_char": 37812,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "5E3W868P-12"
+  ]
+ }
+]

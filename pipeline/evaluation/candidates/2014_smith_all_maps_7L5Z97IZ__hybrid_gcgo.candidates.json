@@ -1,0 +1,1093 @@
+[
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0001",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "248",
+  "confidence": "hybrid",
+  "article_start_char": 6311,
+  "article_end_char": 6381,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-01"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0002",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "437",
+  "confidence": "hybrid",
+  "article_start_char": 9208,
+  "article_end_char": 9545,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-02",
+   "2014-01"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0003",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "751",
+  "confidence": "hybrid",
+  "article_start_char": 10376,
+  "article_end_char": 10477,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-03",
+   "2014-02"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0004",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "751",
+  "confidence": "hybrid",
+  "article_start_char": 10507,
+  "article_end_char": 10583,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-03"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0005",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "751",
+  "confidence": "hybrid",
+  "article_start_char": 10648,
+  "article_end_char": 10684,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-04"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0006",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "689",
+  "confidence": "hybrid",
+  "article_start_char": 11682,
+  "article_end_char": 12154,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-04",
+   "2014-05"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0007",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "935",
+  "confidence": "hybrid",
+  "article_start_char": 12496,
+  "article_end_char": 12789,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-05",
+   "2014-06"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0008",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "753",
+  "confidence": "hybrid",
+  "article_start_char": 13998,
+  "article_end_char": 14040,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-06"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0009",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "753",
+  "confidence": "hybrid",
+  "article_start_char": 14147,
+  "article_end_char": 14556,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-07",
+   "2014-07"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0010",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "756",
+  "confidence": "hybrid",
+  "article_start_char": 16144,
+  "article_end_char": 16305,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-08",
+   "2014-08"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0011",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "756",
+  "confidence": "hybrid",
+  "article_start_char": 16707,
+  "article_end_char": 16735,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-09"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0012",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "757",
+  "confidence": "hybrid",
+  "article_start_char": 18824,
+  "article_end_char": 18843,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-10"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0013",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "757",
+  "confidence": "hybrid",
+  "article_start_char": 19155,
+  "article_end_char": 19217,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-11"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0014",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "757",
+  "confidence": "hybrid",
+  "article_start_char": 19341,
+  "article_end_char": 19420,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-09",
+   "2014-12"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0015",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "757",
+  "confidence": "hybrid",
+  "article_start_char": 19742,
+  "article_end_char": 19774,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-10",
+   "2014-13"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0016",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "761",
+  "confidence": "hybrid",
+  "article_start_char": 19868,
+  "article_end_char": 19909,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-11",
+   "2014-14"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0017",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "758",
+  "confidence": "hybrid",
+  "article_start_char": 20260,
+  "article_end_char": 20508,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-12",
+   "2014-15"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0018",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": 20960,
+  "article_end_char": 21040,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-16",
+   "2014-13"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0019",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": 21152,
+  "article_end_char": 21293,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-17"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0020",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": 21152,
+  "article_end_char": 21198,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-14"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0021",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": 21525,
+  "article_end_char": 21569,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-15"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0022",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": 21677,
+  "article_end_char": 21806,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-16"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0023",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": 22292,
+  "article_end_char": 22326,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-17"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0024",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "753, 756",
+  "confidence": "hybrid",
+  "article_start_char": 22754,
+  "article_end_char": 23003,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-20"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0025",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "753",
+  "confidence": "hybrid",
+  "article_start_char": 22754,
+  "article_end_char": 22816,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-18"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0026",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "753",
+  "confidence": "hybrid",
+  "article_start_char": 22870,
+  "article_end_char": 23003,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-19"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0027",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "756",
+  "confidence": "hybrid",
+  "article_start_char": 23398,
+  "article_end_char": 23463,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-20",
+   "2014-21"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0028",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "757",
+  "confidence": "hybrid",
+  "article_start_char": 23811,
+  "article_end_char": 23840,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-21",
+   "2014-22"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0029",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "763",
+  "confidence": "hybrid",
+  "article_start_char": 27251,
+  "article_end_char": 27362,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-22",
+   "2014-23"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0030",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "631",
+  "confidence": "hybrid",
+  "article_start_char": 28064,
+  "article_end_char": 28561,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-23",
+   "2014-24"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0031",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "701",
+  "confidence": "hybrid",
+  "article_start_char": 30971,
+  "article_end_char": 31187,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-24"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0032",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": 32700,
+  "article_end_char": 32747,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-25",
+   "2014-25"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0033",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "761",
+  "confidence": "hybrid",
+  "article_start_char": 32987,
+  "article_end_char": 33132,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-26",
+   "2014-26"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0034",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "764",
+  "confidence": "hybrid",
+  "article_start_char": 33555,
+  "article_end_char": 33674,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-27",
+   "2014-27"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0035",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "764",
+  "confidence": "hybrid",
+  "article_start_char": 33725,
+  "article_end_char": 33763,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-28"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0036",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "764",
+  "confidence": "hybrid",
+  "article_start_char": 33831,
+  "article_end_char": 34054,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-29",
+   "2014-28"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0037",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "771",
+  "confidence": "hybrid",
+  "article_start_char": 35239,
+  "article_end_char": 35304,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-30",
+   "2014-29"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0038",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "769",
+  "confidence": "hybrid",
+  "article_start_char": 35374,
+  "article_end_char": 35775,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-31",
+   "2014-30"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0039",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": 35965,
+  "article_end_char": 36121,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-32"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0040",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "771",
+  "confidence": "hybrid",
+  "article_start_char": 37568,
+  "article_end_char": 37584,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-31"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0041",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "786",
+  "confidence": "hybrid",
+  "article_start_char": 38289,
+  "article_end_char": 38447,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-33",
+   "2014-32"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0042",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "769",
+  "confidence": "hybrid",
+  "article_start_char": 39855,
+  "article_end_char": 39943,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-34",
+   "2014-33"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0043",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "784, 768, 773",
+  "confidence": "hybrid",
+  "article_start_char": 40053,
+  "article_end_char": 40326,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-34"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0044",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "768",
+  "confidence": "hybrid",
+  "article_start_char": 40154,
+  "article_end_char": 40192,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-35"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0045",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "773",
+  "confidence": "hybrid",
+  "article_start_char": 40267,
+  "article_end_char": 40318,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-36"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0046",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "777",
+  "confidence": "hybrid",
+  "article_start_char": 40869,
+  "article_end_char": 41011,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-37",
+   "2014-35"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0047",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "777",
+  "confidence": "hybrid",
+  "article_start_char": 40923,
+  "article_end_char": 40951,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-38"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0048",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "777",
+  "confidence": "hybrid",
+  "article_start_char": 41229,
+  "article_end_char": 41472,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-36"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0049",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "777",
+  "confidence": "hybrid",
+  "article_start_char": 41229,
+  "article_end_char": 41333,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-39"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0050",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "777",
+  "confidence": "hybrid",
+  "article_start_char": 41355,
+  "article_end_char": 41472,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-40"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0051",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "750",
+  "confidence": "hybrid",
+  "article_start_char": 42013,
+  "article_end_char": 42715,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-41",
+   "2014-37"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0052",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "787",
+  "confidence": "hybrid",
+  "article_start_char": 43336,
+  "article_end_char": 43372,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-42",
+   "2014-38"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0053",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "1085",
+  "confidence": "hybrid",
+  "article_start_char": 43741,
+  "article_end_char": 43753,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-39"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0054",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "1074",
+  "confidence": "hybrid",
+  "article_start_char": 44081,
+  "article_end_char": 44105,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-43",
+   "2014-40"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0055",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "790",
+  "confidence": "hybrid",
+  "article_start_char": 44609,
+  "article_end_char": 44681,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-44"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0056",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "790",
+  "confidence": "hybrid",
+  "article_start_char": 45033,
+  "article_end_char": 45231,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-42"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0057",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "790",
+  "confidence": "hybrid",
+  "article_start_char": 45116,
+  "article_end_char": 45223,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-45"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0058",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "663",
+  "confidence": "hybrid",
+  "article_start_char": 52555,
+  "article_end_char": 52687,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-46"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0059",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-18"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0060",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "790, 791",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-41"
+  ]
+ },
+ {
+  "id": "2014_smith_all_maps_7L5Z97IZ-hybrid_gcgo-0061",
+  "article": "2014_smith_all_maps_7L5Z97IZ",
+  "model_tag": "hybrid_gcgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-19"
+  ]
+ }
+]

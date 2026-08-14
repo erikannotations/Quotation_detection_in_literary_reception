@@ -1,0 +1,110 @@
+[
+ {
+  "id": "2012-01",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "118",
+  "confidence": "",
+  "article_start_char": 8876,
+  "article_end_char": 8917,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2012-02",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "118",
+  "confidence": "",
+  "article_start_char": 9706,
+  "article_end_char": 9737,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2012-03",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "1",
+  "confidence": "",
+  "article_start_char": 13666,
+  "article_end_char": 13767,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2012-04",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "105",
+  "confidence": "",
+  "article_start_char": 32514,
+  "article_end_char": 32910,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2012-05",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "74",
+  "confidence": "",
+  "article_start_char": 37837,
+  "article_end_char": 38058,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2012-06",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "15-16",
+  "confidence": "",
+  "article_start_char": 40279,
+  "article_end_char": 40528,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2012-07",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "68",
+  "confidence": "",
+  "article_start_char": 42424,
+  "article_end_char": 42743,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2012-08",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "126-127",
+  "confidence": "",
+  "article_start_char": 47970,
+  "article_end_char": 48448,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2012-09",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "13",
+  "confidence": "",
+  "article_start_char": 50073,
+  "article_end_char": 50280,
+  "article_offset_occurrences": 1
+ }
+]

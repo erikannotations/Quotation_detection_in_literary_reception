@@ -1,0 +1,55 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+KF8LYIPQ-q0001,gold span,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,2
+KF8LYIPQ-q0002,gold span,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,1
+KF8LYIPQ-q0004,gold span,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,1
+KF8LYIPQ-q0006,gold span,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+KF8LYIPQ-q0007,gold span,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+KF8LYIPQ-q0008,gold span,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,2
+KF8LYIPQ-q0009,gold span,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.967,False,P06,2
+KF8LYIPQ-q0010,gold span,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0011,gold span,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0012,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,0.993,False,P06,2
+KF8LYIPQ-q0013,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,0.991,False,P06,1
+KF8LYIPQ-q0014,gold span,True,Mason & Dixon,P06,Chapter 4,4,Part 1: Latitudes and Departures,0.966,False,P06,1
+KF8LYIPQ-q0015,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,2
+KF8LYIPQ-q0016,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0017,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0018,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0019,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0020,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0021,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0022,gold span,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0023,gold span,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,0.946,False,P06,1
+KF8LYIPQ-q0024,gold span,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,2
+KF8LYIPQ-q0025,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0026,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0027,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0031,gold span,False,,,,,,,False,,0
+KF8LYIPQ-q0036,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0039,gold span,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+KF8LYIPQ-q0040,gold span,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+KF8LYIPQ-q0041,gold span,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,2
+KF8LYIPQ-q0042,gold span,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+KF8LYIPQ-q0043,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0044,gold span,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0045,gold span,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0046,gold span,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0047,gold span,False,,,,,,,False,,0
+KF8LYIPQ-q0048,gold span,False,,,,,,,False,,0
+KF8LYIPQ-q0049,gold span,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+KF8LYIPQ-q0050,gold span,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+KF8LYIPQ-q0051,gold span,True,Mason & Dixon,P06,Chapter 14,14,Part 1: Latitudes and Departures,1.0,False,P06,1
+KF8LYIPQ-q0052,gold span,True,Mason & Dixon,P06,Chapter 62,62,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0054,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0057,gold span,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0058,gold span,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0064,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0066,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0068,gold span,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+KF8LYIPQ-q0069,gold span,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0070,gold span,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-q0071,gold span,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-m0002,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,4
+KF8LYIPQ-m0004,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,3
+KF8LYIPQ-m0005,gold span,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+KF8LYIPQ-m0006,gold span,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,2

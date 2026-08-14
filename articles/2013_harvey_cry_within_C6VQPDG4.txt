@@ -1,0 +1,336 @@
+Corpus: Open Pynchon Reception Corpus
+Corpus section: Orbit articles
+Filename: 2013_harvey_cry_within_C6VQPDG4.txt
+Zotero key: C6VQPDG4
+CSV line: 3349
+Item type: journalArticle
+Author: Harvey, Lawrence Russell
+Year: 2013
+Title: To Cry from Within or Without? Pynchon and the Modern – Postmodern Divide.
+Publication title: Orbit: Writing Around Pynchon
+DOI: 10.7766/orbit.v2.1.47
+Source URL: https://orbit.openlibhums.org/article/id/445/
+Original CSV URL: https://doi.org/10.7766/orbit.v2.1.47
+License: Creative Commons Attribution (version not specified in source PDF)
+License URL: Not specified in source PDF
+License basis: Licence statement in the archived source PDF states Creative Commons Attribution but does not identify a version.
+Source format: HTML
+Extraction method: Rendered article HTML extracted from orbit.openlibhums.org via browser DOM; PDF conversion not used.
+Extraction date: 2026-06-16
+Metadata updated: 2026-07-16
+Text word count: 13556
+Text SHA256: db2432585aa559dc8cc4ad2bc9da24b39ecd906ee4d49c5c836e8b52b96ae006
+Matched OLH title: To Cry from Within or Without? Pynchon and the Modern – Postmodern Divide.
+Match score: 1.000
+
+========================================================================
+Abstract
+
+Writing in the Electronic Book Review, the literary critic Brian McHale has suggested that Thomas Pynchon’s more recent fiction has attempted to ‘capture what it means, what it feels like, to “change tenses,” […] – for instance, to change tenses from “What Is Postmodernism?” to “What Was Postmodernism?”’ The postmodern status of Pynchon’s more recent writing is perhaps patent. However, writing in the late 1980s, McHale argued that Pynchon’s pithy chef-d’oeuvre, The Crying of Lot 49 (1966) is a paradigmatic late-modernist text; a work that stands at the boundary of the modern – postmodern divide. Arguing from what is essentially a formalist stance, he contended that this early novella is premised upon epistemological presuppositions, and, as such, does not permeate the postmodern domain. By way of contrast, he argues that Pynchon’s later leviathan, Gravity’s Rainbow (1973) transcends the epistemological fetters of modernity; as he puts it, it is a work no longer inhibited by the limits of modernism as it freely exploits the artistic possibilities of plural worlds.
+
+As with the debate centred upon the apparent demise of postmodernism, arguments interrogating the demarcation of modern and postmodern literature abound. Such discussions are often partisan and entrenched, if not internecine in nature. As McHale has recently suggested, period concepts are ‘moving targets’ – they are ‘elusive and malleable,’ and none perhaps more so than postmodernism. By way of qualification, McHale asks, ‘When did postmodernism begin (if ever it did), and has it ended yet?’ McHale is surely right when he concludes that such questions remain largely unresolved. However, within his own terms, his claim that The Crying of Lot 49 fails to break through to a mode of fiction beyond modernism is more debatable. In fact, I would suggest that in figurative terms allied to its thematic content, Pynchon’s novella can be read as an unresolved case that demands further critical analysis. With the embers of postmodernism perhaps still warm, it thus seems pertinent to ask, from whence does Pynchon’s novella cry? This will be the central question addressed in this paper.
+
+Within the context of postmodernity, the term ‘fiction’ has a unique sense that differentiates it from its modernist precursor. One way to bring this demarcation to the fore is by following McHale’s lead and focusing on the notion of artistic dominants. In 1935, Roman Jakobson set out his concept of artistic dominants thus: ‘The dominant may be defined as the focusing component of a work of art: it rules, determines, and transforms the remaining components.’ According to McHale, in its Joycean guise, the ‘dominant’ of modernist fiction was epistemological in nature. In fact, as the critic Dick Higgins has suggested, the majority of modernist artists interrogated cognitive questions such as: ‘How can I interpret this world of which I am a part? And what am I in it?’ In opposition, the dominant component in postmodern fiction is ontology. In these terms, the postmodern artist is more likely to ask: ‘Which world is this? What is to be done in it? Which of my selves is to do it?’
+
+If we accept this distinction at face value, it appears that the artists of modernity adhered to the underlying principle that art forms encapsulated attempts to capture or render the real, however conceived. In this specific sense, fiction (the not real, the binary opposite of the real) was held to be ontologically unproblematic; it was the epistemological means to the underlying reality that were subject to aesthetic interrogation. For example, in texts such as Ulysses, Joyce’s numerous synthetic literary modes are represented as fictional means to a given reality or truth. As a result, the real or the truth underpins the fragmented fictional perspectives utilized; it is the fictional or epistemological instability that is flaunted. Thus it is that in general terms the modern aesthetic leaves the real/fictional dichotomy intact. In effect, an outside the text or fictional portrayal subsists as a concrete or invariable presupposition. However, the postmodern condition is such that this governing presupposition is no longer viable. Stated plainly, there is no longer an abundant wealth of fragmented perspectives that presuppose an underlying stability or immutable locus. What we are in fact left with are perspectives devoid of any stable object or essential locus. Within what are perhaps slightly reductive graphic terms, this shift in aesthetic focus might be rendered thus:
+
+Figure 1: A shift in aesthetic focus
+
+Here the real (the underlying sense of the Kantian noumenal) is depicted as a circle in a) and b); this circle, this stable unifying noumenality is absent in c). I would suggest that this ‘absence’ accords with Baudrillard’s contention that the real is no longer possible. Or within Lacan’s terms, reality is replaced by the paranoiac ‘grimace of the real.’ Within the parameters of postmodern being (ontos) thus conceived, there can be no stepping beyond the finality of fiction. In the spirit of Derrida, there is no reassuring recourse to an absolute certitude which is, of and by itself, beyond or outside the ever playful text.
+
+Within the terms of this formalist account, it thus appears that modernist texts flaunt the fictionality of the epistemological means to the truth or postulated reality. On the other hand, postmodern texts vaunt the fictionality of any reassuring noumenal loci. Consequently, as McHale puts it, the modern ethos gave writers the artistic rationale for performing unlicensed epistemology. Conversely, postmodern fiction, free as it appears to be from epistemological fetters, provides an artistic pretext for performing uninhibited ontology. Armed with this differential taxonomy, McHale claims that Pynchon’s The Crying of Lot 49 is essentially a modernist work driven by an epistemological aesthetic (PF, 24).
+
+On the face of it, the validity of McHale’s argument would appear to be sound. Indeed, Pynchon’s protagonist, Oedipa Maas, is to all intents and purposes the exemplary late-modernist heroine McHale invokes. For example, her search for certainty (centrality) is performed within a parody of the teleological genre par excellence – the detective novel. In much the same manner as Raymond Chandler’s Philip Marlowe or Gardner’s Perry Mason, Oedipa labours to ‘bridge the gap between appearances and reality’ (PF, 22). Yet to posit a cliché within the genre, the crime she seeks to crack is not homicide; on the contrary, it is what might be termed anarchically generative. That is to say, if the existence of the Tristero, an alternative postal system, were to be proved beyond doubt, it would constitute a ‘cataclysm’ – ‘another world’s intrusion into this one.’ In the light of such a scenario, the epistemological investigation (or late-modernist inquiry) would give rise to the usurpation of ontological play.
+
+Yet having said this, the investigation in Pynchon’s text is seemingly couched square within the epistemological sphere. Indeed, Oedipa is dislocated from the banality of her suburban Californian lifestyle, complete with its vacuous Tupperware parties, when she is named co-executor of the estate of one Pierce Inverarity, an ex-boyfriend and real-estate mogul. From this point forward, her existence is transformed into a teleological search for the truth. After her initial meeting with Metzger, the lawyer, Oedipa encounters Mike Fallopian, a member of a right-wing dissident group. It is his account of the private postal service that marks the point of departure in her epistemological inquiry: ‘So began for Oedipa, the languid, sinister blooming of The Tristero’ (CL, 36). As Nefastis/Maxwell’s Demon, Oedipa begins the interpretive ‘job of sorting it all out.’ She follows up a glut of leads, each seemingly giving rise to still further possible connections. For example, the tale of the GI’s bones and the Beaconsfield Filter Company leads, via an offhand interjection by one of the Paranoid’s girls, to the somewhat convoluted Courier’s Tragedy:
+
+‘You know, blokes,’ remarked one of the girls […], ‘this all has a most bizarre resemblance to that ill, ill Jacobean revenge play we went to last week.’
+
+‘The Courier’s Tragedy,’ said Miles, ‘she’s right. The same kind of kinky thing, you know. Bones of a lost battalion, in lake, fished up, turned into charcoal –’ (CL, 42)
+
+The Thurn and the Taxis families hold a postal monopoly in the play. In the climax to the penultimate act, the Tristero (or Trystero) permeates the dialogue:
+
+He that we last as Thurn and Taxis knew
+
+Now recks no lord but the stiletto’s Thorn,
+
+And Tacit lies the gold once-knotted horn.
+
+No hallowed skein of stars can ward, I trow,
+
+Who’s once been set his tryst with Trystero. (CL, 50)
+
+Oedipa’s epistemological inquiry thus reaches a point of saturation where ‘everything she saw, smelled, dreamed [and] remembered’ in some way came to be woven into the complex tapestry of the shadowy Tristero (CL, 56). In effect, it soon becomes apparent that The Tristero is inexorably interconnected with the teleological thread issuing from Oedipa’s very point of departure: ‘It’s unavoidable, isn’t it? Every access route to the Tristero could be traced […] back to the Inverarity estate’ (CL, 117).
+
+However, Oedipa’s epistemological investigation turns out to be both laborious and futile. The more connections and interconnections she makes, the greater the disorder or entropy generated. Far from ending in any sense of certainty or what Baudrillard terms ‘negentropy,’ this generative process gives rise to a perplexing set of four alternatives:
+
+Either you have stumbled indeed, without the aid of LSD or other indole alkaloids, on to a secret richness and concealed destiny of dream; on to a network by which X number of Americans are truly communicating whilst reserving their lies, recitations of routine, arid betrayals of spiritual poverty, for the official government delivery system […]. Or you are hallucinating. Or a plot has been mounted against you, so expensive and elaborate, involving items like the forging of stamps and ancient books, constant surveillance of your movements, planting of post horn images all over San Francisco, bribing of librarians, hiring of professional actors and Pierce Inverarity only knows what-all besides, all financed out of the estate in a way either too secret or too involved for your non-legal mind to know about even though you are co-executor, so labyrinthine that it must have meaning beyond just a practical joke. Or you are fantasying some such plot, in which case you are a nut, Oedipa, out of your skull. (CL, 117-18)
+
+As McHale suggests, Oedipa’s convoluted breakdown of her own predicament can be reconfigured within simpler terms. Firstly, there are what appear to be epistemological solutions: ‘Oedipa is either deceived or self-deceived, the victim either of a hoax or of her own paranoia’ (PF, 24). Secondly, there is a manifest ontological solution, the one that the empiricist philosopher George Berkeley invoked: ‘God exists, and guarantees the existence of the perceived world; or, in this case, the Tristero exists’ (PF, 24). Yet in figurative terms, Oedipa is unable to establish the falsity or validity of Berkeley’s hyper-stasis. On the other hand, she also fails to ascertain whether or not she is in the ‘orbiting ecstasy of a true paranoia’ (CL, 126). Therefore, unlike her Sophoclean namesake, she does not solve the riddle: the crime or cataclysmic miracle is neither proved nor disproved. In short, the either/or case is left pending or in fieri. In the light of these factors, McHale draws the following conclusion:
+
+Oedipa does not break through the closed circle of her solipsism in the pages of this novel; nor does Pynchon break through here to a mode of fiction beyond modernism and its epistemological premises. The Tristero remains only a possibility. (PF, 24)
+
+Yet arguably, McHale’s conclusion is, at the very least, somewhat myopic. Perhaps the best way to expose this myopia is through a primary consideration of the inter-textual composition of Pynchon’s novella. As John Dugdale suggests, Pynchon’s text possesses a ‘latent structure composed of other texts.’ For example, Pynchon’s narrative tapestry plays within (and subverts) the fixed or formulaic conventions of the American private-eye genre. In this regard, Oedipa’s search is performed within the popular crime fiction of writers such as Erle Stanley Gardner and Raymond Chandler. On the other hand, Pynchon’s text also simultaneously plays within so-called ‘high-cultural texts’ – texts such as Webster’s Jacobean revenge dramas and The Theban Plays of Sophocles. Indeed, Oedipa seeks to uncover the secret of The Tristero as Oedipus Rex endeavours to uncover the ‘hideous secret of his unwitting sins.’ The recurring image of the imprisoned maiden also permeates texts such as Tennyson’s ‘The Lady of Shalott.’ Is not the ‘good-looking’ lawyer, Metzger, with his ‘enormous eyes, lambent [and] extravagantly lashed’ akin to Tennyson’s heroic Lancelot? (CL, 17). Is it not the arrival of Metzger that marks the beginning of the end of Oedipa’s encapsulation in her tower? (CL, 29). Moreover, nocturnal imagery shrouds Metzger as it does Tennyson’s Lancelot: ‘He stood at her door, behind him the oblong pool shimmering silent in a mild diffusion of light from the night-time sky’ (CL, 17):
+
+As often thro’ the purple night,
+
+Below the starry clusters bright,
+
+Some bearded meteor, trailing light,
+
+Moves over still Shalott.
+
+Oedipa’s encounter with the dipsomaniac old sailor is also inter-textually performed within the verse of Coleridge. That is to say, Oedipa’s ‘God help this tattooed man’ is an utterance that is filtered through Coleridge’s lamentation: ‘God save thee, ancient mariner.’ Pynchon’s old sailor is also inter-textually akin to T. S. Eliot’s Phlebas the Phoenician, who, in his turn, resembles Coleridge’s ancient mariner. If this further interconnection is drawn, I would argue that the story of the GI’s bones can be seen to permeate the ‘Death by Water’ stanza of ‘The Waste Land’: ‘A current under sea / Picked his bones in whispers.’ In addition, as critics such as Dugdale and Joseph W. Slade have claimed, Pynchon’s novella also terminates within texts such as Herman Melville’s playfully shifting metaphysical comedy, The Confidence-Man and F. Scott Fitzgerald’s third novel, The Great Gatsby. As John Dugdale plausibly asserts: ‘there is an obvious resemblance between Oedipa’s nocturnal meditation and that of Nick Carraway in the final pages of The Great Gatsby, which also involves an elegy for a dead capitalist.’ In his turn, Slade claims that the final scene in The Crying of Lot 49 echoes the conclusion of Herman Melville’s The Confidence-Man, a text that also concludes with a pending revelation involving multifaceted alternatives. In fact, as in Pynchon’s open narrative, the last sentence of Melville’s text counters any sense of fulfillment or closure: ‘Something further may follow this Masquerade.’
+
+Oedipa’s interpretive search is therefore clearly performed within the fabric of a textual tapestry. Indeed, as Hanjo Berressem claims with reference to Lacan, Derrida and Baudrillard, in the ‘place of a fictional world, Pynchon installs the fictionality of the world as such’ in his novella. Thus, as a textual synthesis herself, Oedipa, ‘skates across the scored inscriptions of inter-textual reference[s] to dizzying effect.’ Yet such inscriptions are not wedded to the truth in an aesthetic gesture that harks back to Ulysses. Instead, as we shall see, Oedipa’s search for the truth is inextricably bound to failure. In short, she is at large within a surplus of shifting fragments that have lost their modernistic guise. As I shall argue, this loss occurs through a paraded post-structural rupture or breach of referential stability that extends Oedipa’s search, her case, ad infinitum.
+
+This rupture is projected, or paraded, through the foregrounding of what can be construed as the dissonant ambiguity of the Dionysian ‘both/and.’ Indeed, as Molly Hite states, Pynchon’s novella is pluralistic and ‘governed not by a rigid, absolute, and universal Idea of Order but by multiple, partial, overlapping, and often conflicting ideas.’ Within Nietzschean terms, the logic engendered within the Apollonian ‘either/or’ is thus cut from the textual tapestry; as a direct consequence, hierarchical prioritization cannot subdue the (postmodern) Protean surface. In Deleuzean terms relative to Nietzsche, the oppositional ‘either/or’ ‘ceases its labour and difference begins to play.’ For example, the recurring and inveterate image of the muted post-horn is represented as a free-floating signifier. To invoke Derrida, its central significative function is never absolutely present outside a system of differences. As Oedipa first inquires, is the symbol something sexual (A)? Is it merely a tattooed abstract beginning to blur and spread on the back of an old sailor’s hand (B)? Perhaps the enigmatic symbol is the ubiquitous motif of a private postal service working to subvert the American postal monopoly (C). The answer is simultaneously A B C: binary logic having no purchase here. Furthermore, what is the overall significance of the number 49 in the novella? Perhaps it relates to the 49 states in continental America. Then again, perhaps it is somehow connected to 1849, the year of the Californian gold rush. Of course, this year also witnessed the first great fire to engulf San Francisco. Moreover, the Tristero supposedly fled America in the selfsame year – significantly, perhaps, exactly a century prior to the period in which the Cold War began in earnest. As Dugdale points out, there are also sometimes said to be 49 levels of meaning in the Torah. But in the final analysis, perhaps the number 49 is nothing but a random numerical marker accorded to a fictional auction lot. Yet surely, this numerical marker is in some way inter-textually linked to Lot No. 249, a non-Sherlockian short story by Conan Doyle?
+
+Amongst other tactics, Pynchon also utilizes numerous puns (or near-puns) to further intensify this equivocal ‘both/and’ counter-logic. For example, the names Yoyodyne and San Narciso clearly play on their proximity to yo-yo and narcosis. Moreover, on a creaking metal sign, the National Automobile Dealers Association is foreshortened to N.A.D.A – it is foreshortened to ‘nothing’ in Spanish. Through an acronymic pun, the sign thus signifies ‘nada, nada, nada against the blue sky’ (CL, 100). That is to say, it signifies or communicates ‘nothing, nothing, nothing’ in translation. Even the foreshortening of Oedipa to Oed playfully invokes a source of apparent factual stability – the Oxford English Dictionary or OED. However, as the commentator Frederick Ahl has pointed out, such puns serve to ‘confuse binary thought because they add the complexities of “both/and” to “either/or”, thereby blurring the lines we like to draw between truth and falsehood, fact and non-fact.’ As Gregory Ulmer suggests, Derrida analogously uses puns as a counter-logocentric device: ‘[Punning] challenges the logocentric structure of concept formation.’ In this sense, puns also open up what Levinas deems to be a ‘non-place’ – a place in which distinctions such as ‘life and non-life’ disappear.
+
+Clearly, varied and multiple possibilities thus eclipse binary Apollonian order in The Crying of Lot 49; it is as if the computable ‘ones and zeros’ (CL, 126) dissipate in an ambiguous flow of signification. Given this fact, I would suggest that Pynchon’s novella is a text in the Barthesean sense of a flowing o[u]ed:
+
+The Text is plural. Which is not simply to say that it has several meanings, but that it accomplishes the very plural of meaning: an irreducible (and not merely an acceptable) plural. The Text is not a co-existence of meanings but a passage […]; thus it answers not to an interpretation, even a liberal one, but an explosion, a dissemination.
+
+Yet despite this process of textual dissemination, Oedipa takes it upon herself to locate a central truth within the de-centred textual tapestry: ‘there was still that other chance. That it was all true.’ (CL, 124). But in relation to the work as a whole, the ‘direct, epileptic Word’ or ‘magical Other’ sought, is manifestly the absent alibi of modernity (CL, 81 125). Thus it is that the textual tapestry Oedipa ferrets within for gemlike clues is not that of Joyce; there is little sense of reassuring certitude beyond the reach of fragmented play. To be succinct, there is no logos or ‘Word […] that might abolish the night’ (CL, 81). Evidently Oedipa seeks such a central truth, and yet it remains ‘somehow each time […] too bright for her memory to hold’ – it blazes out ‘destroying its own message irreversibly’ (CL, 66). To develop Christine Brooke-Rose’s reading, Oedipa can thus be construed as seeking a way out of an epistemic labyrinth devoid of teleological exits. In this manner, Pynchon’s heroine therefore baulks against what Derrida once termed the ‘unthinkable itself’ – that is the structure lacking any centre: ‘She had heard all about excluded middles; they were bad shit, to be avoided’ (CL, 125). In this specific sense, I would suggest that Pynchon’s main character endeavours to avoid dissonant double-coding; in short, she cannot abide the middle-ground in which the ‘life or non-life’ of the Tristero remains unresolved. As Deborah Madsen puts it, confronted with ‘the discovery of unanticipated [ontological] ruptures,’ Oedpia ‘seeks an alternative absolute.’ Nevertheless, Oedipa’s attempt to establish either one or the other of these possible alternatives degenerates into what is a modern and ultimately Sisyphean will to power. That is to say, Oedipa endeavours, but ultimately fails, to place a reassuring shroud of certitude upon the mass or ‘Maas’ of discordant information she encounters. As McHale concludes, it is this endeavour, this epistemological thrust at the truth that results in Oedipa’s inability to emancipate herself from the closed structure of her solipsism. In a nutshell, ‘The Tristero remains only a possibility’ (PF, 24).
+
+In terms of this forlorn search for the truth, Oedipa can be compared to the equally epistemologically challenged Stencil in Pynchon’s first novel V. Following in the footsteps of his father, a British spy, Herbert Stencil commits himself to a protracted and monomaniacal search for the elusive V: ‘he was quite purely He Who Looks for V.’ Yet as in The Crying of Lot 49, this epistemological lunge at the truth fails. As Katrin Amian aptly summarizes, ‘After nearly five hundred pages of encyclopedic details, proliferating clues, and monstrous allusions Thomas Pynchon’s V. (1963) gleefully leaves its reader hanging in mid-air.’ In this manner, Pynchon’s debut novel dramatizes an overt sense of ‘epistemological failure’ comparable to that in his later novella. Critics such as Christine Brooke-Rose agree with McHale’s claim that construed thus, V. is governed by an analogous epistemological rationale that is only fully transcended in the ontological free-play of Gravity’s Rainbow. Indeed, it seems clear that just like Stencil, Oedipa pursues an elusive and ever deferred truth.
+
+Yet in the light of the above analysis, it does not follow, as McHale seems to contest, that Pynchon falls short of breaking ‘through […] to a mode of fiction beyond modernism and its epistemological premises’ in The Crying of Lot 49 (PF, 24). Surely the novella is textually (and thus ontologically) proliferative in much the same manner as later paradigmatic postmodern texts such as Ellis’s American Psycho and Auster’s The New York Trilogy? Taking the former first, Ellis’s novel is, in a manner similar to Pynchon’s novella, an interwoven mélange of discourses; the posited action unfolds (and folds in upon itself) in hyper-reality – there is no outside the text: all is within. For example, Ellis’s novel opens from within the first canticle of Dante’s Divine Comedy: ‘ABANDON ALL HOPE YE WHO ENTER HERE […].’ By the end of the text the narrative is still within a textual Inferno; but this time it is enclosed within the claustrophobic and self-referential Hell of Sartre’s Huis Clos: ‘THIS IS NOT AN EXIT’ (AP, 399). Moreover, the surface archetypal yuppie, Bateman, paradoxically cries: ‘Kill…All…Yuppies’ (AP, 374). Kurtz, the surface emissary of light in Conrad’s Heart of Darkness, concludes his altruistic exposition with the cry: ‘Exterminate all the brutes!’ Whether consciously contrived or not, Bateman’s pronouncement is arguably from within Conrad’s narrative as Oedipa’s ‘God help this tattooed man’ (CL, 89) is, as previously illustrated, within the verse of Coleridge.
+
+Bateman’s various disregarded confessions are also simultaneously made within the forced parameters of high and low culture. For example, Bateman ostensibly attests his own guilt from within both crass confessional television programs and texts such as Dostoevsky’s Crime and Punishment:
+
+‘You don’t seem to understand. You’re not really comprehending any of this. I killed him. I did it. Carnes. I chopped Owen’s fucking head off.’ (Bateman) (AP, 388)
+
+‘It was I who killed the old pawnbroker woman and her sister Lizaveta with an axe and robbed them.’ (Raskolnikov)
+
+In this manner, Ellis plays ‘within’ what Sonia Baelo-Allué refers to as a blurring of ‘both high and low culture and different media.’ Indeed, even before the reader enters the Dantesque Hell of Ellis’s New York, the epigraphs flag-up the play to follow. Ellis quotes a footnote from Dostoevsky’s Notes from the Underground, an article on modern manners from Fortune Magazine and ‘(Nothing But) Flowers,’ a song by the ‘80s band Talking Heads.
+
+Following this differential prompt, whole sections of Ellis’s novel, sections such as the Whitney Houston Chapter, are performed within pop-culture texts – from within, that is, magazines such as Billboard and Rolling Stone:
+
+‘Love is a Contact Sport’ is the album’s real surprise – a big-sounding, bold, sexy number that, in terms of production, is the album’s centerpiece, and it has great lyrics along with a good beat […]. On ‘You’re Still My Man’ you can hear how clearly Whitney’s voice is like an instrument – a flawless, warm machine that almost overpowers the sentiment of her music, but the lyrics and the melodies are too distinctive, too strong to let any singer, even one of Whitney’s caliber, to overshadow them (AP, 255).
+
+Similarly, as critics such as David Seed have pointed out, The Crying of Lot 49 is saturated with references to the media. In a sense, ‘everything becomes media for Oedipa.’ A large proportion of the fictional narrative in American Psycho likewise unfolds (in-folds) within film and advert texts:
+
+Then I use the Probright tooth polisher and next the Interplak tooth polisher (this in addition to the toothbrush) which has a speed of 4200 rpm and reverses direction forty-six times per second; the larger tufts clean between teeth and massage the gums while the short ones scrub the tooth surfaces. I rinse again, with Cepacol. I wash the facial massage off with a spearmint face scrub. The shower has a universal all-direction shower head that adjusts within a thirty-inch vertical range. It’s made from Australian gold-black brass and covered with a white enamel finish (AP, 26).
+
+In the above passage what appears to be verisimilar exactitude or extreme realism à la Joyce’s Ithaca Chapter in Ulysses is, in actuality, a fetishistic jaunt through the surface play of vacuous advert jargon. Figuratively speaking, the solid ‘gold-black brass’ reality is covered and effaced by the surface ‘white enamel’ play of the text. In short, the text parades the loss of any stable referential space. It is this truth or ground (the termination of the chain of signification in consistent meaning) which Oedipa seeks within the text(s) or textual totality she dwells within. She is however doomed in the Lacanian sense – she is, as Bateman, within – she is a manifest product of the Oedipal post-structural rupture. Clearly Oedipa’s ego resists the Lacanian Symbolic and its concomitant ramifications; she resists textualization and the infinite deferment of signified. However, her atavistic ego is at large within what amounts to a de-centred postmodern text-scape akin to that rendered by Ellis. To be thus at large is to be epistemologically active, yet cognitively forlorn. Hence, in one sense at least, Oedipa is the late modernist heroine McHale invokes; like a steadfast detective, she seeks the truth beyond the fragments. Having said this, her search is not performed within the confines of what might be termed a modern textual wasteland. Indeed, Oedipa scours (be it as Joyce or Eliot – as a forlorn modern figure) an ontologically proteiform text-scape: this text-scape is the postmodern ‘W.A.S.T.E-land’ of Pynchon.
+
+In the above sense, I would suggest that the teleological detective genre mutates into what critics such as Stefano Tani have termed anti-detective fiction – it is subject to a postmodern mutation that serves to subvert the modern telos inherent in the end dominated detective story. Given this breach of any teleological schema, I would suggest that Pynchon’s text might be compared to postmodern paradigms such as Paul Auster’s The New York Trilogy (1985). As Alison Russell points out, each of Auster’s texts deny any one meaning or final solution:
+
+Like language itself, the three texts are an incessant play of “différance,” which Derrida defines in Positions as “the systematic play of differences, of the traces of differences, of the spacing by means of which elements are related to each other.” Meaning is deferred in an endless movement from one linguistic interpretation to the next.
+
+As Russell further contends, Auster also ‘reinforces this deconstructive effect through the use of […] intertextual references […] and puns’ – the selfsame disseminative devices utilized by Pynchon in The Crying of Lot 49. Auster’s parodic detective stories thus violate the formulaic stability of their own genre. As in Arthur Conan Doyle’s Lot No. 249, there is no master sleuth, no Sherlock Holmes to bring the questioning to an end. As a consequence, an ongoing process of questioning denies any certitude or closure as the texts, the physical artifacts to hand, end:
+
+He wondered if Virginia Stillman had hired another detective after he failed to get in touch with her. He asked himself why he had taken Auster’s word for it that the cheque had bounced. He thought about Peter Stillman and wondered if he had ever slept in the room he was in now. He wondered if the case was really over or if he was not somehow still working on it.
+
+As illustrated earlier, a similar open-ended equivocation is rendered in The Crying of Lot 49: ‘Those, now she was looking at them, she saw to be the alternatives […]. She didn’t like any of them, but hoped she was mentally ill’ (CL, 118). To employ Stefano Tani’s phrase, Oedipa can thus be construed as a doomed detective akin to Auster’s Quinn. As such, she is an anachronistic Sisyphean figure, a modernist figure, doomed to trawl Pynchon’s ‘W.A.S.T.E-land’ – a postmodern wasteland within which the truth or centre sought is infinitely deferred.
+
+In the light of the above analysis, I would suggest that McHale’s assertion that Pynchon does not break through to a mode of fiction beyond modernism is manifestly dubitable. Surely it is Pynchon’s heroine who is unable to disengage herself from the epistemological fetters of modernity. To some extent, Pynchon’s Oedipa is therefore akin to Hölderlin’s Oedipus; a figure whom Heidegger invokes to exemplify his notion of poetic Being in Poetry, Language, Thought. In Heidegger’s reading, Hölderlin’s Oedipus is drawn into a frantic search for the truth or some degree of clarity. But unlike the Oedipus Heidegger invokes, Pynchon’s Oedipa does not, despite herself, ‘dwell poetically’; she is not ‘within’ a space ‘wherein’ the play of art can let the ‘truth originate.’ On the contrary, her textual ‘dwelling place’ is wholly devoid of such essential categories. In this manner, Oedipa’s locus or ‘non-place’ is distinct from that of Joyce. More precisely, Pynchon’s text transcends Ulysses via what amounts to a distinctly postmodern gesture. As Barthes once suggested, a postmodern text is structured but off-centred; that is to say, without final closure. There is little doubt that Oedipa provides a teleological structure. Nevertheless, in its entirety, Pynchon’s novella is de-centred and thus without an ultimate sense of closure: there is no sublime noumenal assurance – there is no ‘direct, epileptic Word […] that might abolish the night’ (CL, 81). In ontological terms, The Crying of Lot 49 is therefore playfully open – in the words of Pierce Inverarity (or pierce veracity), Pynchon ‘[k]eep[s] it bouncing.’ This nonstop play of signification, this perpetual ‘bouncing’ denies any final sense of ‘either/or.’ Hence, in accord with theorists such as Charles Jencks, we might readily concede that Pynchon’s playful ‘double-coding’ constitutes one of the most prevalent aspects of postmodernism.
+
+But notwithstanding this conclusion, Oedipa’s Sophoclean pursuit of clarity or lucidity would seem to epitomize what is, for post-structural ethicists such as Levinas, an ignoble passion for the fixed concept of totality. In other words, Oedipa covets a Platonic and essentially modernist sense of totalitarian certitude (epistēmē). In the work of Levinas, such a fixation with the truth will always work to the determent of diversity and a celebration of alterity (otherness). Configured ethically, Oedipa’s lust for the truth thus leads away from the pacific love of an-Other (alterity); it leads to subjugation via a Platonic act of epistemic imposition. Or to put it another way, Oedipa’s modernist mindset is party to what Levinas refers to as ‘the permanent possibility of war.’ And yet as we have seen, this modern totalitarian mindset is ultimately subverted by a process of postmodern textual dissemination akin to that which McHale and Kathryn Hume locate within Gravity’s Rainbow; as McHale puts it with reference to the aforesaid postmodern paradigm, the text is a provocation to indulge in ‘the kinds of pattern-making and pattern-interpreting operations which, in the Modernist texts […] would produce intelligible meaning.’ As Slothrop in Gravity’s Rainbow, Oedipa is arguably a late-modern protagonist whose totalitarian ‘pattern-making and pattern-interpreting’ are subverted via a postmodern ‘multiplication of “realities.”’
+
+Yet having said this, in what can be construed as an epiphanic moment, Oedipa (the late-modernist heroine) well-nigh breaks through to a postmodern breach of such totalizing thought. In what Kolodny and Peters dubiously call the spiritual climax of the book, Oedipa embraces a tattooed old sailor who suffers from the DTs (delirium tremens). At this significant moment, Oedipa encounters the Nietzschean diagnosed mobile marching army of metaphors which ‘thrust at the truth’ and lie at one and the same time (CL, 89). DTs become dt’s (differential times or time differentials): ‘Dts must give access to dt’s of spectra beyond the known sun’ (CL, 89). Thus the chain of signification departs and transcends the ‘know sun’ – Plato’s epistemic metaphor of totalitarian closure. This rupturing or transcendence of the transcendental signified extends, to invoke Derrida, the domain and play of signification infinitely. Oedipa slides ‘sidewise’ into this beckoning perpetual play (CL, 89); her reaction is however more self-protective than anarchically psychotic. That is to say, she rejects the Lacanian ‘foreclosure of the signifier’ and reverts back to her original epistemological itinerary; a modernist search within a de-centred postmodern text-scape.
+
+But in the final analysis, the notion of Oedpia as a late-modernist heroine operating within an inter-textual composition is itself subject to a gesture of postmodern fragmentation. That is to say, ultimately, Oedpia is herself party to a postmodern breach of epistemic integrity. Indeed, Oedipa’s very being (ontos) is subject to a process of dissemination or outward distension (oidēma). In short, Oedipa is a composite synthesis comprised of a multitude of textual fragments. For example, Pynchon’s heroine is the Oedipus of the Theban Cycle, a subject struggling to solve a mystery; she is the Freudian Oedipus harried by the play of The Paranoids. Likewise she is Lacan’s reconfigured paradigm, ‘doomed’ to the unremitting play of textuality. Additionally, as demonstrated earlier, Pynchon’s forlorn heroine is Tennyson’s Lady of Shallot – a captive maiden within the canvas of ‘the beautiful Spanish exile Remedios Varo’ (CL, 13). To recap, in spite of appearing to be an autonomous ego, Oedipa’s integrity, her very ontological unity or oneness, is nothing more than an illusion (eikasia). In this specific sense, she can be compared to Paul Auster’s Quinn, a character whose ontological unity is ruptured when he assumes the identity of (one) Paul Auster – an Auster who is both a fictional detective and a writer of postmodern anti-detective fiction. This breach of personal mono-ontological reality, this contra-Platonic step from ousia to eikasia, is postmodern in its narrative orientation.
+
+Again, parallels to Ellis’s American Psycho are profitable in the above context. As Berressem points out, although Oedipa is ‘without doubt Pynchon’s “roundest” character prior to those in Vineland [this] does not diminish her “textuality.”’ I would suggest that Oedipa’s textual ontology can be paralleled to that of Bateman in Ellis’s postmodern text. As Baelo-Allué argues, Bateman is a composite and multivalent textual character. For example, his double identity (successful, popular Wall Street yuppie and cold blooded serial killer) plays (be it antithetically) within the split persona of millionaire playboy Bruce Wayne and his vigilante alter-ego, Batman. As Baelo-Allué substantiates, on a couple of occasions a friend even calls him Batman. Moreover, after a particularly brutal murder, Bateman (Batman) runs up and down Broadway with his coat ‘flying out behind [him] like some kind of cape’ (AP, 166). Additionally, Bateman’s ontological integrity is further disseminated by way of inter-textual reference to Norman Bates, the psychopathic protagonist in Hitchcock’s film Psycho (1960) – there is even an offhand reference to Psycho in Ellis’s text: ‘“Phoenix. Janet Leigh was from Phoenix…” I stall, then continue. “She got stabbed in the shower. Disappointing scene.” I pause. “Blood looked fake.”’ (AP, 108). Additionally, in light of Ellis’s introductory reference to Notes from the Underground, Bateman’s ontologically ruptured ego can be construed as playing within that of Dostoyevsky’s Underground Man – a character whose ‘manners and politeness conceal a murderous personality.’ For example, the Underground Man’s reference to Cleopatra can be read as textually pre-echoing Bateman’s psychopathic pleasures: ‘They say Cleopatra […] was fond of sticking gold pins into the bosoms of her slave girls, taking keen delight in their screams and contortions.’ By the end of Ellis’s text, Bateman’s ‘fabricated’ ontological status becomes overtly palpable: ‘…there is an idea of a Patrick Bateman, some kind of abstraction, but there is no real me […] I simply am not there’ (AP, 376-7). Although Pynchon’s Oedipa does not dissolve into ‘play’ so dramatically, by the end of The Crying of Lot 49 she is clearly a ‘sad and lonely’ (Ger., öd) inter-textual construction that can be paralleled to Ellis’s notorious postmodern paradigm. To invoke Italo Calvino’s turn of phrase, both characters are ontologically subject to an ‘irreparable rent.’
+
+Given the above analysis, it is clear that Pynchon’s heroine is, of and by herself, a postmodern synthesis, who, like Bateman, lacks any mono-ontological status. In Lacanian terms, her ‘ego is ontologically ruptured and split.’ Yet her search for certainty is manifestly constrained within the ‘dominant’ of modernity; it is teleological and beckons closure through its epistemic and ultimately totalitarian orientation. However, it does not follow from this that The Crying of Lot 49 is a late-modernist work underpinned by an epistemological mindset. On the contrary, the text is itself an early postmodern paradigm which celebrates and plays within orbiting ontological spheres; in this way, it is a text on a par with Ellis’s American Psycho and Auster’s The New York Trilogy. Therefore, what critics such as Hume and McHale say of Gravity’s Rainbow is equally applicable to The Crying of Lot 49; that is to say, it is a postmodern text within which Pynchon playfully debunks the modernist mindset through an aesthetic gesture that self-consciously destabilises ontological unity. We can therefore conclude that Oedipa’s modernistic search for epistemic closure is not itself representative of the arena from whence Pynchon’s postmodern paradigm cries.
+
+Notes
+Brian McHale, (2007) ‘Electronic Book Review: What was Postmodernism?’ . [^]
+Brian McHale, Postmodernist Fictions (Methuen, 1987) 24-5, hereafter PF. [^]
+Brian McHale, ‘Pynchon’s postmodernism’ in The Cambridge Companion to Thomas Pynchon, eds. Inger H. Dalsgaard, Luc Herman and Brian McHale (Cambridge University Press, 2012) 97. [^]
+McHale, ‘Pynchon’s postmodernism’ 97. [^]
+McHale, ‘Pynchon’s postmodernism’ 97. [^]
+As suggested, McHale’s ‘own terms’ are formalist and, as such, accord with Kermode’s suggestion that modernism is ‘more than a merely chronological description.’ Frank Kermode, Continuities (London: Routledge Kegan Paul, 1968) 28. [^]
+Roman Jakobson, ‘The Dominant,’ Reading in Russian Poetics: Formalist and Structuralist Views eds. Ladislav Matejka Krystyna Pomorska (Cambridge, Mass and London: MIT Press, 1971) 82. [^]
+Dick Higgins, A Dialectic of Centuries: Notes Towards a Theory of the New Arts (New York Barton: Vermont, 1978) 101 qtd. in McHale, Postmodernist Fiction 1. [^]
+Jean Baudrillard, ‘The Precession of Simulacra,’ Postmodernism: A Reader, ed. Thomas Docherty (London New York: Harvester Wheatsheaf, 1993) 197. [^]
+Jacques Lacan, Télévision: A Challenge to the Psychoanalytic Establishment, trans. Denis Mollies, Rosalind Krauss, and Annette Michelson, ed. Joan Copjec (New York: Norton, 1990) 6. [^]
+As Barbara Johnson suggests in her introduction to Derrida’s Dissemination: ‘Far from being a simple warning against the biographical or referential fallacy, [Derrida’s] statement [is] derived from Rousseau’s autobiography itself. For what Rousseau’s text tells us is that our very relation to ‘reality’ already functions like a text.’ See: Barbara Johnson, Introduction, Jacques Derrida, Dissemination, trans. B. Johnson (London: Athlone Press, 1993) xiv. [^]
+Thomas Pynchon, The Crying of Lot 49 (London: Vintage, 1997) 83, hereafter CL. [^]
+Thomas Pynchon, qtd. in Anne Mangel, ‘Maxwell’s Demon, Entropy, Information: The Crying of Lot 49,’ Mindful Pleasures: Essays on Thomas Pynchon, eds. G. Levine D. Leverenz (Boston: Little Brown Company, 1976) 88. [^]
+‘“The fundamental thesis would have it that information would be synonymous with negentropy, the resistance entropy […]. But it would be fitting to pose the opposite hypothesis: INFORMATION = ENTROPY.”’ Jean Baudrillard, In the Shadow of the Silent Majorities, trans. P. Foss, P. Patton, and J. Johnston (New York: Semiotext(e), 1983) 109 quoted in Hanjo Berressem, Pynchon’s Poetics: Interfacing Theory and Text (Urbana and Chicago: University of Illinois Press, 1993) 103. [^]
+John Dugdale, Thomas Pynchon: Allusive Parables of Power (Basingstoke: Macmillan Press, 1990) 172. [^]
+Sophocles, The Theban Plays, trans. E. F. Watling (Harmondsworth: Penguin, 1955) 69. [^]
+Alfred Tennyson, The Works of Alfred Lord Tennyson (London: Macmillan Co., 1890) 28. The critic David Seed contests the Tennyson connection in relation to Pierce Inverarity: ‘Inverarity makes a poor ‘knight of deliverance’ just as Oedipa makes a rather self-deceived ‘captive maiden,’ references which help to drain off solemnity from her quest before it gets underway, and denies possible analogies with say, Tennyson’s ‘The Lady of Shalott.’’ See: David Seed, The Fictional Labyrinths of Thomas Pynchon (Basingstoke: Macmillan, 1988) 141. [^]
+Pynchon, Lot 49 89 Samuel Taylor Coleridge, Coleridge: Collected Works, ed. Ernest Hartley Coleridge (Oxford: Oxford University Press, 1974) 189. [^]
+T. S. Eliot, Collected Poems: 1909-1962 (London: Faber Faber, 1974) 75. [^]
+Dugdale, Thomas Pynchon 173. [^]
+Joseph Slade, Thomas Pynchon (New York: Warner Communications, 1974) 175. In his introduction to The Confidence-Man, Stephen Matterson also makes the connection between Melville and Pynchon: ‘Melville’s use of uncertainty and doubt impinge on the reader of the novel. As in reading the work of Borges, Nabokov, Barthelme and Pynchon, the reader is often made to assume a position of uncertainty from which there is no apparent solution.’ See: Stephen Matterson, Introduction, Herman Melville, The Confidence-Man, ed. Stephen Matterson (London: Penguin, 1990) xxxvi. [^]
+Melville, Confidence-Man 298. [^]
+Berressem, Pynchon’s Poetics 95. [^]
+Chris Hall, ‘Behind the Hieroglyphic Streets: Pynchon’s Oedipa Maas and the Dialectics of Reading,’ Critique: Studies in Contemporary Fiction 33.1 (1991) 73. [^]
+For a postmodernist reading of Ulysses, see: Brian McHale, Constructing Postmodernism (London: Routledge, 1992) 47-48. [^]
+As Hanjo Berressem points out: ‘If, as Derrida claims, “the signified is originality and essentially… always already in the position of the signifier” (Of Grammatology 73), the possibility of an infinite play of the signifier is opened up within discourse, because no signification can be returned to the level of a stable and natural signified but glides endlessly within the passage from signifier to signifier.’ Berressem, Pynchon’s Poetics 87. [^]
+Annette Kolondy Daniel J. Peters, ‘Pynchon’s The Crying of Lot 49: The Novel of Subversive Experience,’ Modern Fiction Studies 19 (1973) 84. [^]
+Molly Hite, Ideas of Order in the Novels of Thomas Pynchon (Columbus: Ohio State University Press, 1983) 10. qtd in William Gleason, ‘The Postmodern Labyrinths of Lot 49,’ Critique: Studies in Contemporary Fiction 34.2 (1993) 93. [^]
+Gilles Deleuze, Nietzsche and Philosophy, trans. Hugh Tomlinson (London and New York: Continuum Press, 2002) 190. As Deleuze further states, ‘For the speculative element of negation, opposition or contradiction Nietzsche substitutes the practical element of difference, the object of affirmation and enjoyment.’ Deleuze, Nietzsche and Philosophy 9. [^]
+As Alan Brownlie suggests in his study of Pynchon, ‘the desire to reduce all life to antithetical values is at the heart of Nietzsche’s critique of European philosophy.’ Arguably, Oedpia is party to such an antithetical monomania. Alan W. Brownlie, Thomas Pynchon’s Narratives: Subjectivity and the Problems of Knowing, (New York: Peter Lang, 2000) 124. Brownlie also argues that ‘we will never be able to determine a position for Nietzsche which is definitely in favor […] of Apollo or Dionysus.’ Brownlie, Thomas Pynchon’s Narratives 132. [^]
+Dugdale, Thomas Pynchon 10. [^]
+Joseph Slade suggests that Pynchon intended the name Pierce Inverarity to be a play on Professor Moriarty, the ‘arch foe of Sherlock Holmes – a master of nefarious design.’ See: Slade, Thomas Pynchon 126. Of course, Pynchon is also punning the negation [pfx. in] of ‘veracity’ – the very term that is subject to radical and playful dissipation. It is to be noted, moreover, that any number that Pynchon chose to utilize in his title would have, perhaps, gained significance. In short, the issue of ‘reader imposition’ should not be overlooked in this context. [^]
+As Emma V. Miller points out, ‘Dana Medoro asserts that the shortening of the heroine’s name to “Oed” may reference the Oxford English Dictionary.’ Emma V. Miller, ‘The Naming of Oedipa Mass: Feminizing the Divine Pursuit of Knowledge in Thomas Pynchon’s The Crying of Lot 49,’ Orbit: Writing Around Pynchon 1:1 (2012) 1. [^]
+Frederick Ahl, ‘Ars Est Caelare Artem (Art in Puns and Anagrams Engraved),’ On Puns The Foundation of Letters, ed. J. Culler (New York: Basil Blackwell, 1988) 21. [^]
+Gregory Ulmer, ‘The Puncept in Grammatology,’ On Puns 186. Berressem likewise argues that in ‘Lot 49 it is almost invariably by way of puns that Oedipa shifts from one revelation to the next. This is important, because the pun is in the first instance a game the language material plays with itself, stressing the effect of the signifier within the signification rather than that of the signified.’ Berressem, Pynchon’s Poetics 96. [^]
+Emmanuel Levinas, Proper Names, trans. Michael B. Smith (Stanford: Stanford University Press, 1996) 10 13. [^]
+Roland Barthes, Image Music Text, trans. Stephen Heath (London: Fontana Press, 1977) 159. An oued is a river valley or the dry bed of a torrent – a wadi in Arabic. [^]
+We can relate this search for the truth to Nietzsche’s comments regarding Oedipus: ‘Granted we want the truth: why not rather untruth? And uncertainty? Even ignorance? […] Which of us is Oedipus here? Which of us sphinx?’ Friedrich Nietzsche, Beyond Good and Evil, trans. R. J. Hollingdale (Harmondsworth: Penguin Books, 1990) 33. [^]
+Christine Brooke-Rose, A Rhetoric of the Unreal (Cambridge: Cambridge University Press, 1983) 372. [^]
+Deborah Madsen, The Postmodern Allegories of Pynchon (London: Leicester University Press, 1991) 60-61. [^]
+Thomas Pynchon, V. (London: Picador, 1975) 226. [^]
+Katrin Amian, Rethinking Postmodernism(s): Charles S. Peirce and the Pragmatist Negotiations of Thomas Pynchon, Toni Morrison, and Jonathan Safran Foer (Amsterdam New York: Rodopi, 2008) 69. [^]
+Amian, Rethinking Postmodernism(s) 69. It is to be noted that Amian reads V as a work of early postmodernism. As she puts it, ‘V.’s careful dismantling of the epistemological desires that feed Stencil’s quest also provides an intriguing critique of […] modernist assumptions.’ Amian, Rethinking Postmodernism(s) 107. [^]
+Christine Brooke-Rose, Stories, Theories and Things (Cambridge University Press, 1991) 191. [^]
+Bret Easton Ellis, American Psycho (London: Picador, 1991) 3, hereafter AP. [^]
+There is a reference to Sartre on p. 86: ‘Her expression changes and because of this I notice the book – Sartre – in her lap […].’ [^]
+Conrad, Heart of Darkness, ed. R. Hampson (London: Penguin Books, 1995) 28. [^]
+Fyodor Dostoevsky, Crime and Punishment, trans. C. Garnett (Heinemann, 1979) 478. Writing in Vanity Fair (March 1991), Norman Mailer referred to Ellis’s American Psycho as ‘the first novel to come along in years that takes on deep and Dostoyevskian themes.’ Norman Mailer, ‘Children of the Pied Piper,’ in The Time of Our Time (London: Abacus Books, 1999) 1077. [^]
+Sonia Baelo-Alluré, Bret Easton Ellis’s Controversial Fiction: Writing Between High and Low Culture (London: Bloomsbury, 2012) 92. [^]
+David Seed, The Fictional Labyrinths of Thomas Pynchon (Macmillian Press, 1988) 141. [^]
+Thomas H. Schaub, The Voice of Ambiguity (Urbana: University of Illinois Press, 1981) 38. [^]
+Oedipa’s modernistic search can be likened to the continued obsession with the truth in the post-Nietzschean/modern era. As Deleuze suggests, quoting Heidegger: ‘Why would man have killed God, if not to take his still warm seat? Heidegger remarks, commenting on Nietzsche, “if God . . . has disappeared from his authoritative position in the suprasensory world, then this authoritative place itself is still always preserved, even though as that which has become empty. The now-empty authoritative realm of the suprasensory and the ideal world can still be adhered to. What is more, the empty place demands to be occupied anew and to have the god now vanished from it replaced by something else.”’ Deleuze, Nietzsche and Philosophy 151. The Heidegger quotation is from: Martin Heidegger, ‘The Word of Nietzsche: God is Dead’ in The Question Concerning Technology and Other Essays, trans. W. Lovitt, (Harper and Row, 1977) 69. [^]
+Peter L. Abernethy, ‘Entropy in Pynchon’s The Crying of Lot 49,’ Critique: Studies in Modern Fiction 14.2 (1972) 19. [^]
+Alison Russell, ‘Deconstructing The New York Trilogy: Paul Auster’s Anti-Detective Fiction,’ Critique: Studies in Contemporary Fiction 31.2 (1990): 71. Also see: Stefano Tani, The Doomed Detective (Carbondale: Southern Illinois University Press, 1984). [^]
+Russell, ‘Deconstructing The New York Trilogy’ 72. [^]
+Russell, ‘Deconstructing The New York Trilogy’ 72. [^]
+Paul Auster, The New York Trilogy (London: Faber Faber, 1992) 129. [^]
+Heidegger, Poetry, Language, Thought, trans. Albert Hofstadter (London New York: Harper Row, 1975) 77. [^]
+Roland Barthes, Image Music Text, trans. Stephen Heath (London: Fontana Press, 1977) 159. [^]
+Pynchon, Lot 49 123. It is to be noted that in Joyce’s A Portrait of the Artist as a Young Man, a John Duncan and William Malcolm Inverarity appear as ‘noble names’ inscribed on the dusty flyleaf of a Latin text. Here, Pynchon’s text can be seen to ‘pierce’ Joyce’s prior process of playful punning. See: James Joyce, A Portrait of the Artist as a Young Man, Chapter 5, lines 6762-6773, . [^]
+Charles Jencks, Post-Modernism: The New Classicism in Art and Architecture (London: Academy Editions, 1987) 340. Jencks’ reading of the postmodern condition focuses primarily on aspects of art and architecture as opposed to literature. [^]
+Emmanuel Levinas, Collected Philosophical Papers, trans. Alphonso Lingis (Pittsburgh: Duquesne University Press, 1998) 47. [^]
+Emmanuel Levinas, Totality and Infinity: An Essay on Exteriority, trans. Alphonso Lingis. (Pittsburgh: Duquesne University Press, 1996) 21. [^]
+Brian McHale, ‘Modernist Reading, Post-Modern Text: The Case of Gravity’s Rainbow,’ Poetics Today 1 (1979) 106 quoted in Kathryn Hume, Pynchon’s Mythography: An Approach to Gravity’s Rainbow (Carbondale and Edwardsville: Southern Illinois University Press, 1987) 4-5. As Hume suggests, McHale reads Gravity’s Rainbow as ‘an attack on modernist literary assumptions and modernist habits of reading, which direct readers to look for encoded meanings.’ She concludes that within the framework of Gravity’s Rainbow, ‘Pynchon is certainty a postmodernist writer by most definitions of that term. In McHale’s sense, he destabilizes our ontology.’ Hume, Pynchon’s Mythography 5 221. [^]
+Madsen, The Postmodern Allegories of Pynchon 54. [^]
+Annette Kolondy Daniel J. Peters, ‘Pynchon’s The Crying of Lot 49: The Novel of Subversive Experience,’ Modern Fiction Studies 19 (1973): 83. [^]
+Berressem, Interfacing Theory and Text 109. [^]
+J. Lacan, Écrits quoted in Berressem, Interfacing Theory and Text 109. [^]
+Quinn’s unity or integrity is shattered when he assumes the identity of his creator – this act sees the convergence of ontological spheres. For a detailed analysis of Quinn’s ontological ‘layering’ see: William Lavender, ‘The Novel of Critical Engagement: Paul Auster’s City of Glass,’ Contemporary Literature 34 (1993): 219-39. Moreover, it is to be noted that Andrew Gibson has interrogated the notion of identity and non-identity in ethical terms relative to gender difference. Gibson’s literary examples are Iain Bank’s The Wasp Factory and Patricia Dunker’s Hallucinating Foucault. According to Gibson, both novels delineate a ‘collapse of identity’ and concomitant ‘flight to the other.’ See: Gibson, Postmodernity 41-45. [^]
+Berressem, Pynchon’s Poetics 82-83. [^]
+Baelo-Allué, Writing Between High and Low Culture 94. [^]
+Baelo-Allué, Writing Between High and Low Culture 95. As Baelo-Allué further argues, Patrick Bateman’s textual ontology is further flaunted by way of reference to the actor ‘Justin Bateman who starred in the teen B-movie Teen Wolf Too (1987), a film about a character who ‘discovers that he can become a werewolf, which he uses when boxing and to make himself more attractive to girls.’ As Baelo-Allué concludes, Ellis’s Patrick Bateman is likewise a ‘Dr. Jekyll who turns into a Mr. Hyde in order to get what he wants.’ Baelo-Allué, Writing Between High and Low Culture 95. [^]
+Baelo-Allué, Writing Between High and Low Culture 94. [^]
+Fyodor Dostoyevsky, Notes from the Underground and the Double, trans. Ronald Wilks (London: Penguin Books, 2009) 22. As is the case with Bateman, the Underground Man’s life unfolds (to a certain extent) within the fabric of other texts – texts such as Mikhail Lermontov’s Masquerade and Pushkin’s The Shot. [^]
+Berressem, Pynchon’s Poetics 82. [^]
+Italo Calvino, If on a Winter’s Night a Traveller, trans. William Weaver (London: Minerva, 1996) 67. Interestingly, in terms of an ontological ‘rent’, Bateman is misrecognised on numerous occasions in Ellis’s text. On p. 48 he is called Hamilton; on p. 78 he is called Mr. McCullough; on p. 388 Carnes calls him Donaldson. Moreover, in a filmic chase section, Bateman’s first person narrative switches to a third-person omniscient perspective – the I becomes ‘Patrick’ narrated by Bateman (see, pp. 349-51). [^]
+Berressem, Pynchon’s Poetics 90. [^]
+Hume, Pynchon’s Mythography 221 McHale, ‘Modernist Reading, Post-Modern Text’ 107. [^]
+References
+
+Abernethy, Peter L. . (1972).  Entropy in Pynchon’s The Crying of Lot 49.  Critique: Studies in Modern Fiction 14 (2) DOI: http://dx.doi.org/10.1080/00111619.1973.10690039
+
+Ahl, Frederick . (1988).  Ars Est Caelare Artem (Art in Puns and Anagrams Engraved).  On Puns: The Foundation of Letters. J. Culler,   New York: Basil Blackwell, pp. 17.
+
+Amian, Katrin . (2008).  Rethinking Postmodernism(s): Charles S. Peirce and the Pragmatist Negotiations of Thomas Pynchon, Toni Morrison, and Jonathan Safran Foer. Amsterdam: Rodopi.
+
+Auster, Paul . (1992).  The New York Trilogy. London: Faber Faber.
+
+Baelo-Alluré, Sonia . (2012).  Bret Easton Ellis’s Controversial Fiction: Writing Between High and Low Culture. London: Bloomsbury.
+
+Barthes, Roland . (1977).  Image Music Text. Heath, Stephen (trans.),   London: Fontana Press.
+
+Baudrillard, Jean . (1993).  The Precession of Simulacra.  Postmodernism: A Reader. Docherty, Thomas (ed.),   New York: Harvester Wheatsheaf, pp. 194.
+
+Berressem, Hanjo . (1993).  Pynchon’s Poetics: Interfacing Theory and Text. Urbana: University of Illinois Press.
+
+Calvino, Italo . (1996).  If on a Winter’s Night a Traveller. Weaver, William (trans.),   London: Minerva.
+
+Brooke-Rose, Christine . (1983).  A Rhetoric of the Unreal. Cambridge: University of Cambridge Press.
+
+Brooke-Rose, Christine . (1991).  Stories, Theories and Things. Cambridge: University of Cambridge Press.
+
+Brownlie, Alan W. . (2000).  Thomas Pynchon’s Narratives: Subjectivity and the Problems of Knowing. New York: Peter Lang.
+
+Coleridge, Samuel Taylor . (1974).  Coleridge: Collected Works. Coleridge, Ernest Hartley (ed.),   Oxford: Oxford University Press.
+
+Conrad, Joseph . (1995).  Heart of Darkness. R. Hampson,   London: Penguin Books.
+
+Deleuze, Gilles . (2002).  Nietzsche and Philosophy. Tomlinson, Hugh (trans.),   London: Continuum.
+
+Derrida, Jacques . (1993).  Dissemination. B. Johnson,   London: Athlone Press.
+
+Dostoevsky, Fyodor . (1979).  Crime and Punishment. C. Garnett,   London: Heinemann.
+
+Dostoevsky, Fyodor . (2009).  Notes from the Underground and the Double. Wilks, Ronald (trans.),   London: Penguin Books.
+
+Dugdale, John . (1990).  Thomas Pynchon: Allusive Parables of Power. Basingstoke: Macmillan Press.
+
+T.S. Eliot, (1974).  Collected Poems: 1909-1962. London: Faber Faber.
+
+Ellis, Bret Easton . (1991).  American Psycho. London: Picador.
+
+Gibson, Andrew . (1999).  Postmodernity, Ethics and the Novel: From Leavis to Levinas. London New York: Routledge.
+
+Gleason, William . (1993).  The Postmodern Labyrinths of Lot 49.  Critique: Studies in Contemporary Fiction 34 (2)
+
+Hall, Chris . (1991).  Behind the Hieroglyphic Streets: Pynchon’s Oedipa Maas and the Dialectics of Reading.  Critique: Studies in Contemporary Fiction 33 (1)
+
+Heidegger, Martin . (1975).  Poetry, Language, Thought. Hofstadter, Albert (trans.),   London: Harper Row.
+
+Higgins, Dick . (1978).  A Dialectic of Centuries: Notes Towards a Theory of the New Arts. New York: Barton.
+
+Hite, Molly . (1983).  Ideas of Order in the Novels of Thomas Pynchon. Columbus: Ohio State University Press.
+
+Hume, Kathryn . (1987).  Pynchon’s Mythography: An Approach to Gravity’s Rainbow. Carbondale: Southern Illinois University Press.
+
+Jakobson, Roman . (1971).  The Dominant.  Reading in Russian Poetics: Formalist and Structuralist Views. Matejka, Ladislav, Pomorska, Krystyna Krystyna (eds.),   Cambridge, MA: MIT Press, pp. 82.
+
+Jencks, Charles . (1987).  Post-Modernism: The New Classicism in Art and Architecture. London: Academy Editions.
+
+Joyce, James . (2012).  A Portrait of the Artist as a Young Man.  Concord. London: Imperial College London. http://www.doc.ic.ac.uk/~rac101/concord/texts/paym/files/paym5.html
+
+Kermode, Frank . (1968).  Continuities. London: Routledge Kegan Paul.
+
+Kolodny, Annette; Peters, Daniel James . (1973).  Pynchon’s The Crying of Lot 49: The Novel of Subversive Experience.  Modern Fiction Studies 19 (1)
+
+Lacan, Jacques . (1990).  Télévision: A Challenge to the Psychoanalytic Establishment. Mollies, Denis, Krauss, Rosalind, Michelson, Annette (trans.),   Copjec, Joan (ed.),   New York: Norton.
+
+William, Lavender . (1993).  The Novel of Critical Engagement: Paul Auster’s City of Glass.  Contemporary Literature 34 (2)
+
+Levinas, Emmanuel . (1998).  Collected Philosophical Papers. Lingis, Alphonso (trans.),   Pittsburgh: Duquesne University Press.
+
+Levinas, Emmanuel . (1996).  Proper Names. Smith, Michael B. (trans.),   Stanford: Stanford University Press.
+
+Levinas, Emmanuel . (1996).  Totality and Infinity: An Essay on Exteriority. Lingis, Alphonso (trans.),   Pittsburgh: Duquesne University Press.
+
+Madesn, Deborah . (1991).  The Postmodern Allegories of Pynchon. London: Leicester University Press.
+
+Mailer, Norman . (1999).  Children of the Pied Piper.  The Time of Our Time. London: Abacus Books.
+
+Mangel, Anne . (1976).  Maxwell’s Demon, Entropy, Information: The Crying of Lot 49.  Mindful Pleasures: Essays on Thomas Pynchon. Levine, George, Leverenz, David David (eds.),   Boston: Little Brown Company, pp. 87.
+
+McHale, Brian . (1992).  Constructing Postmodernism. London: Routledge.
+
+McHale, Brian . (2007).  What was Postmodernism?.  Electronic Book Review, Dec 20 2007 http://www.electronicbookreview.com/thread/fictionspresent/tense
+
+McHale, Brian . (2012).  Pynchon’s postmodernism.  The Cambridge Companion to Thomas Pynchon. Dalsgaard, Inger H., Herman, Luc; Luc and McHale, Brian Brian (eds.),   Cambridge: Cambridge University Press, pp. 97.
+
+McHale, Brian . (1987).  Postmodernist Fictions. London: Methuen.
+
+Melville, Herman . (1990).  The Confidence-Man. Matterson, Stephen (ed.),   London: Penguin.
+
+Miller, Emma V. . (2012).  The Naming of Oedipa Mass: Feminizing the Divine Pursuit of Knowledge in Thomas Pynchon’s The Crying of Lot 49.  Orbit: Writing Around Pynchon 1 (1) DOI: http://dx.doi.org/10.7766/orbit.v1.1.12
+
+Nietzsche, Friedrich . (1990).  Beyond Good and Evil. R. J. Hollingdale,   Harmondsworth: Penguin Books.
+
+Pynchon, Thomas . (1997).  The Crying of Lot 49. London: Vintage.
+
+Pynchon, Thomas . (1995).  Gravity's Rainbow. London: Vintage.
+
+Pynchon, Thomas . (1975).  V.. London: Picador.
+
+Russell, Alison . (1990).  Deconstructing The New York Trilogy: Paul Auster’s Anti-Detective Fiction.  Critique: Studies in Contemporary Fiction 31 (2)
+
+Schaub, Thomas H. . (1981).  The Voice of Ambiguity. Urabana: University of Illinois Press.
+
+Seed, David . (1988).  The Fictional Labyrinths of Thomas Pynchon. Basingstoke: Macmillan.
+
+Slade, Joseph . (1974).  Thomas Pynchon. New York: Warner Communications.
+
+Sophocles, (1955).  The Theban Plays. E.F. Watling,   Harmondsworth: Penguin.
+
+Stefano, Tani . (1984).  The Doomed Detective. Carbondale: Southern Illinois University Press.
+
+Tennyson, Alfred . (1890).  The Works of Alfred Lord Tennyson. London: Macmillan Co..

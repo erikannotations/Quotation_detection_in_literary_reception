@@ -1,0 +1,30 @@
+[
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-tm-0001",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 40176,
+  "article_end_char": 40315,
+  "textmatcher_candidate_pids": [
+   "P08"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-tm-0002",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 40937,
+  "article_end_char": 41078,
+  "textmatcher_candidate_pids": [
+   "P08"
+  ]
+ }
+]

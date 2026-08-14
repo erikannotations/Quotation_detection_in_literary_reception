@@ -1,0 +1,427 @@
+{
+ "schema_version": "2.0",
+ "article": "2025_leupold_not_who_YKVFQH5I",
+ "corpus_id": "CORPUS-YKVFQH5I",
+ "split": "test",
+ "body_sha256": "2d5a7bd689b3e9eadc4a1f9db8dd521e3c126a40f7af4ae82f4da8121c2b2786",
+ "quotes": [
+  {
+   "gold_id": "YKVFQH5I-q0012",
+   "article_start_char": 13146,
+   "article_end_char": 13234,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 31,
+   "true_section_label": "Episode 31",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0013",
+   "article_start_char": 13242,
+   "article_end_char": 13292,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 31,
+   "true_section_label": "Episode 31",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0014",
+   "article_start_char": 13594,
+   "article_end_char": 13647,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 6,
+   "true_section_label": "Chapter Six",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-q0015",
+   "article_start_char": 13709,
+   "article_end_char": 13767,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 6,
+   "true_section_label": "Chapter Six",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0016",
+   "article_start_char": 13860,
+   "article_end_char": 14049,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 6,
+   "true_section_label": "Chapter Six",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0017",
+   "article_start_char": 14326,
+   "article_end_char": 14375,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 7,
+   "true_section_label": "Chapter Seven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0033",
+   "article_start_char": 32840,
+   "article_end_char": 32935,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 2,
+   "true_section_label": "Chapter Two",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0034",
+   "article_start_char": 33799,
+   "article_end_char": 33831,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 8,
+   "true_section_label": "Chapter Eight",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0035",
+   "article_start_char": 33857,
+   "article_end_char": 33954,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 8,
+   "true_section_label": "Chapter Eight",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0036",
+   "article_start_char": 34204,
+   "article_end_char": 34306,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 3,
+   "true_section_label": "Chapter Three",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-q0037",
+   "article_start_char": 34368,
+   "article_end_char": 34458,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 3,
+   "true_section_label": "Chapter Three",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-q0038",
+   "article_start_char": 40064,
+   "article_end_char": 40162,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 11,
+   "true_section_label": "Chapter Eleven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0039",
+   "article_start_char": 40426,
+   "article_end_char": 40517,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 11,
+   "true_section_label": "Chapter Eleven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-q0040",
+   "article_start_char": 40628,
+   "article_end_char": 40752,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 11,
+   "true_section_label": "Chapter Eleven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0041",
+   "article_start_char": 41456,
+   "article_end_char": 41526,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 11,
+   "true_section_label": "Chapter Eleven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0042",
+   "article_start_char": 42309,
+   "article_end_char": 42339,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 11,
+   "true_section_label": "Chapter Eleven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-q0047",
+   "article_start_char": 50904,
+   "article_end_char": 50939,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 7,
+   "true_section_label": "Chapter Seven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0048",
+   "article_start_char": 50990,
+   "article_end_char": 51023,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 7,
+   "true_section_label": "Chapter Seven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0051",
+   "article_start_char": 51739,
+   "article_end_char": 51828,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 7,
+   "true_section_label": "Chapter Seven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0052",
+   "article_start_char": 52054,
+   "article_end_char": 52099,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 7,
+   "true_section_label": "Chapter Seven",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0053",
+   "article_start_char": 52728,
+   "article_end_char": 52775,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 9,
+   "true_section_label": "Chapter Nine",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0054",
+   "article_start_char": 52802,
+   "article_end_char": 52914,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 9,
+   "true_section_label": "Chapter Nine",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0055",
+   "article_start_char": 52948,
+   "article_end_char": 52994,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 9,
+   "true_section_label": "Chapter Nine",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-q0056",
+   "article_start_char": 53032,
+   "article_end_char": 53414,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 9,
+   "true_section_label": "Chapter Nine",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-q0061",
+   "article_start_char": 57509,
+   "article_end_char": 57747,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 71,
+   "true_section_label": "Episode 71",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "parentheses",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-q0072",
+   "article_start_char": 63412,
+   "article_end_char": 63448,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 2,
+   "true_section_label": "Chapter Two",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YKVFQH5I-q0073",
+   "article_start_char": 63455,
+   "article_end_char": 63631,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 2,
+   "true_section_label": "Chapter Two",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-m0002",
+   "article_start_char": 14532,
+   "article_end_char": 14991,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 7,
+   "true_section_label": "Chapter Seven",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-m0008",
+   "article_start_char": 32255,
+   "article_end_char": 32506,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 2,
+   "true_section_label": "Chapter Two",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "brackets",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-m0010",
+   "article_start_char": 37499,
+   "article_end_char": 38070,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 11,
+   "true_section_label": "Chapter Eleven",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-m0011",
+   "article_start_char": 39715,
+   "article_end_char": 39926,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 14,
+   "true_section_label": "Chapter Fourteen",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "YKVFQH5I-m0014",
+   "article_start_char": 49696,
+   "article_end_char": 50765,
+   "true_pid": "P02",
+   "true_work": "V.",
+   "true_section_n": 7,
+   "true_section_label": "Chapter Seven",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis"
+   ]
+  }
+ ],
+ "excluded_out_of_scope": []
+}

@@ -1,0 +1,1580 @@
+[
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0001",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 485,
+  "article_end_char": 508,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0001"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0002",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P04 | unclassified marked span | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2176,
+  "article_end_char": 2222,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_eve_whose_line_YT54NC7G-quid-0003",
+   "YT54NC7G-mq-0002",
+   "YT54NC7G-01"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0003",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P04 | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2685,
+  "article_end_char": 2711,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0003",
+   "2012_eve_whose_line_YT54NC7G-quid-0004",
+   "YT54NC7G-02"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0004",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2746,
+  "article_end_char": 2771,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0004"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0005",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P02|P04|P06|P07|P08|P09|P10 | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2898,
+  "article_end_char": 3115,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0005",
+   "2012_eve_whose_line_YT54NC7G-quid-0005",
+   "YT54NC7G-03",
+   "YT54NC7G-01"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0006",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3355,
+  "article_end_char": 3422,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0006"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0007",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P04|P09 | unclassified marked span | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3465,
+  "article_end_char": 3517,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_eve_whose_line_YT54NC7G-quid-0006",
+   "YT54NC7G-mq-0007",
+   "YT54NC7G-04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0008",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P04 | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4360,
+  "article_end_char": 4443,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0008",
+   "2012_eve_whose_line_YT54NC7G-quid-0007",
+   "YT54NC7G-05"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0009",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4833,
+  "article_end_char": 4857,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0009"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0010",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5916,
+  "article_end_char": 6010,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0010"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0011",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 6498,
+  "article_end_char": 6552,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0011"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0012",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7170,
+  "article_end_char": 7234,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0012"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0013",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7520,
+  "article_end_char": 7664,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0013"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0014",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7811,
+  "article_end_char": 8172,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0014"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0015",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10867,
+  "article_end_char": 10960,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0015"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0016",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10998,
+  "article_end_char": 11068,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0016"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0017",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11111,
+  "article_end_char": 11189,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0017"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0018",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11622,
+  "article_end_char": 11658,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0018"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0019",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12195,
+  "article_end_char": 12275,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0019"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0020",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12212,
+  "article_end_char": 12235,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_eve_whose_line_YT54NC7G-quid-0010"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0021",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12971,
+  "article_end_char": 13014,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0020"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0022",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13060,
+  "article_end_char": 13220,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0021"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0023",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13735,
+  "article_end_char": 13851,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0022"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0024",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14175,
+  "article_end_char": 14211,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0023"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0025",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14555,
+  "article_end_char": 14649,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0024"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0026",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14680,
+  "article_end_char": 14840,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0025"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0027",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Against the Day (pre-release blurb, possibly non-fiction paratext)",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15024,
+  "article_end_char": 15089,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0026",
+   "YT54NC7G-06"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0028",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P04 | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15852,
+  "article_end_char": 15962,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0027",
+   "2012_eve_whose_line_YT54NC7G-quid-0013",
+   "YT54NC7G-07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0029",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Against the Day epigraph (attributed to Thelonious Monk)",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17145,
+  "article_end_char": 17183,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0028",
+   "YT54NC7G-08"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0030",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "433",
+  "confidence": "hybrid",
+  "article_start_char": 17448,
+  "article_end_char": 17798,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-09",
+   "YT54NC7G-04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0031",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P04|P06 | unclassified marked span | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17859,
+  "article_end_char": 17914,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_eve_whose_line_YT54NC7G-quid-0016",
+   "YT54NC7G-mq-0029",
+   "YT54NC7G-10"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0032",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19245,
+  "article_end_char": 19306,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0030"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0033",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19336,
+  "article_end_char": 19446,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0031"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0034",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P04|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19380,
+  "article_end_char": 19401,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_eve_whose_line_YT54NC7G-quid-0018"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0035",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19488,
+  "article_end_char": 19780,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0032"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0036",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P05 | unclassified marked span | Vineland",
+  "attributed_work": "Vineland",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20807,
+  "article_end_char": 20997,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_eve_whose_line_YT54NC7G-quid-0019",
+   "YT54NC7G-mq-0033",
+   "YT54NC7G-11"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0037",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P05 | Vineland",
+  "attributed_work": "Vineland",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22217,
+  "article_end_char": 22449,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0034",
+   "2012_eve_whose_line_YT54NC7G-quid-0022",
+   "YT54NC7G-12",
+   "YT54NC7G-02"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0038",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "Vineland | unclassified marked span | P05",
+  "attributed_work": "Vineland",
+  "attributed_page": "202",
+  "confidence": "hybrid",
+  "article_start_char": 24440,
+  "article_end_char": 24547,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-13",
+   "YT54NC7G-03",
+   "YT54NC7G-mq-0035",
+   "2012_eve_whose_line_YT54NC7G-quid-0025"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0039",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24773,
+  "article_end_char": 24837,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0036"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0040",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26508,
+  "article_end_char": 26567,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0037"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0041",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26602,
+  "article_end_char": 26714,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0038"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0042",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26735,
+  "article_end_char": 26777,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0039"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0043",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27389,
+  "article_end_char": 27426,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0040"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0044",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27468,
+  "article_end_char": 27525,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0041"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0045",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27981,
+  "article_end_char": 28054,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0042"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0046",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28259,
+  "article_end_char": 28492,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0043"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0047",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P04|P07|P08 | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29622,
+  "article_end_char": 30392,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_eve_whose_line_YT54NC7G-quid-0027",
+   "YT54NC7G-14"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0048",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29860,
+  "article_end_char": 29906,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0044"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0049",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30648,
+  "article_end_char": 30769,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0045"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0050",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30815,
+  "article_end_char": 30837,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_eve_whose_line_YT54NC7G-quid-0029"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0051",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30823,
+  "article_end_char": 30918,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0046"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0052",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31228,
+  "article_end_char": 31275,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0047"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0053",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31543,
+  "article_end_char": 31668,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0048"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0054",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32159,
+  "article_end_char": 32289,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0049"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0055",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33104,
+  "article_end_char": 33127,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0050"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0056",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35354,
+  "article_end_char": 35561,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0051"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0057",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35460,
+  "article_end_char": 35490,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_eve_whose_line_YT54NC7G-quid-0033"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0058",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36181,
+  "article_end_char": 36236,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0052"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0059",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P04 | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 37451,
+  "article_end_char": 37575,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0053",
+   "2012_eve_whose_line_YT54NC7G-quid-0035",
+   "YT54NC7G-15",
+   "YT54NC7G-05"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0060",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Gravity's Rainbow | P01|P04|P10",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39819,
+  "article_end_char": 39913,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0054",
+   "YT54NC7G-17",
+   "YT54NC7G-07",
+   "2012_eve_whose_line_YT54NC7G-quid-0041"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0061",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P04 | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40173,
+  "article_end_char": 40237,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0055",
+   "2012_eve_whose_line_YT54NC7G-quid-0042",
+   "YT54NC7G-18",
+   "YT54NC7G-08"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0062",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40766,
+  "article_end_char": 41007,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0056"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0063",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41067,
+  "article_end_char": 41242,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0057"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0064",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41257,
+  "article_end_char": 41399,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0058"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0065",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41412,
+  "article_end_char": 41490,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0059"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0066",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41537,
+  "article_end_char": 41644,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0060"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0067",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41722,
+  "article_end_char": 41783,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0061"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0068",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41934,
+  "article_end_char": 41966,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0062"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0069",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41996,
+  "article_end_char": 42027,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0063"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0070",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43020,
+  "article_end_char": 43043,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0064"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0071",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43047,
+  "article_end_char": 43100,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0065"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0072",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P04|P06|P07 | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43729,
+  "article_end_char": 43776,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0066",
+   "2012_eve_whose_line_YT54NC7G-quid-0044",
+   "YT54NC7G-19",
+   "YT54NC7G-09"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0073",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45905,
+  "article_end_char": 45974,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0067"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0074",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46195,
+  "article_end_char": 46249,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0068"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0075",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46583,
+  "article_end_char": 46644,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0069"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0076",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47172,
+  "article_end_char": 47208,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0070"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0077",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47785,
+  "article_end_char": 47843,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0071"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0078",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47956,
+  "article_end_char": 47992,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0072"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0079",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48288,
+  "article_end_char": 48324,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0073"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0080",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48645,
+  "article_end_char": 48705,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0074"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0081",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48785,
+  "article_end_char": 48877,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0075"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0082",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49283,
+  "article_end_char": 49361,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0076"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0083",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49448,
+  "article_end_char": 49507,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0077"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0084",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49618,
+  "article_end_char": 49641,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0078"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0085",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49710,
+  "article_end_char": 49766,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0079"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0086",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50012,
+  "article_end_char": 50099,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0080"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0087",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50224,
+  "article_end_char": 50249,
+  "proposed_by": [
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-mq-0081",
+   "2012_eve_whose_line_YT54NC7G-quid-0047"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-hybrid_all-0088",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "hybrid_all",
+  "detector_guess": "Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "693-694",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "YT54NC7G-16",
+   "YT54NC7G-06"
+  ]
+ }
+]

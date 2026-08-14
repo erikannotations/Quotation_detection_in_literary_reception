@@ -1,0 +1,172 @@
+{
+ "schema_version": "2.0",
+ "article": "2025_mentz_blue_american_5E3W868P",
+ "corpus_id": "CORPUS-5E3W868P",
+ "split": "development",
+ "body_sha256": "76b567a02f0b09934da93ea2fbd9765996a1df0b9f1a9b44910f144067a54ea9",
+ "quotes": [
+  {
+   "gold_id": "5E3W868P-q0002",
+   "article_start_char": 12405,
+   "article_end_char": 12586,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 6,
+   "true_section_label": "Chapter 6",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "5E3W868P-q0003",
+   "article_start_char": 22888,
+   "article_end_char": 22940,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 22,
+   "true_section_label": "Chapter 22",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "5E3W868P-q0009",
+   "article_start_char": 30956,
+   "article_end_char": 31015,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 73,
+   "true_section_label": "Chapter 73",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "5E3W868P-q0010",
+   "article_start_char": 32111,
+   "article_end_char": 32330,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 73,
+   "true_section_label": "Chapter 73",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "5E3W868P-q0011",
+   "article_start_char": 32818,
+   "article_end_char": 32926,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 73,
+   "true_section_label": "Chapter 73",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "5E3W868P-q0012",
+   "article_start_char": 33236,
+   "article_end_char": 33269,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 73,
+   "true_section_label": "Chapter 73",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "5E3W868P-q0013",
+   "article_start_char": 33289,
+   "article_end_char": 33392,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 73,
+   "true_section_label": "Chapter 73",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "5E3W868P-m0001",
+   "article_start_char": 14331,
+   "article_end_char": 14611,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 67,
+   "true_section_label": "Chapter 67",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "5E3W868P-m0004",
+   "article_start_char": 23183,
+   "article_end_char": 23378,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 22,
+   "true_section_label": "Chapter 22",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": []
+  },
+  {
+   "gold_id": "5E3W868P-m0005",
+   "article_start_char": 24471,
+   "article_end_char": 24736,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 22,
+   "true_section_label": "Chapter 22",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "5E3W868P-m0007",
+   "article_start_char": 31383,
+   "article_end_char": 31796,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 73,
+   "true_section_label": "Chapter 73",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "5E3W868P-m0009",
+   "article_start_char": 37317,
+   "article_end_char": 37812,
+   "true_pid": "P08",
+   "true_work": "Inherent Vice",
+   "true_section_n": 18,
+   "true_section_label": "Chapter EIGHTEEN",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  }
+ ],
+ "excluded_out_of_scope": []
+}

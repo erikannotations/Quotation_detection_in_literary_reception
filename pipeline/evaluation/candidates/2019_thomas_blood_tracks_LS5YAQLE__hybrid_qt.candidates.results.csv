@@ -1,0 +1,111 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0001,P09,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0002,P10,True,Shadow Ticket,P10,Chapter 22,22,,1.0,False,P10,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0003,P04,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0004,P05|P10,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0005,P07,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0006,P06,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0007,P07,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0008,P04|P05|P06,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,True,P04|P05|P06,3
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0009,P09,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0010,P09,True,Bleeding Edge,P09,Chapter 28,28,,0.938,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0011,P09,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0012,P09,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0013,P09,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0014,P02|P04,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0015,P09,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0016,P04,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0017,P09,True,Bleeding Edge,P09,Chapter 9,9,,0.756,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0018,P09,True,Bleeding Edge,P09,Chapter 7,7,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0019,P09,True,Bleeding Edge,P09,Chapter 7,7,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0020,P01|P02|P04|P05|P06|P07,True,Vineland,P05,Chapter 8,8,,0.906,True,P02|P05,2
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0021,P09,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,3
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0022,P09,True,Bleeding Edge,P09,Chapter 32,32,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0023,P09,True,Bleeding Edge,P09,Chapter 32,32,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0024,P09,False,,,,,,0.712,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0025,P09,True,Bleeding Edge,P09,Chapter 32,32,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0026,P02,True,V.,P02,Chapter Five,5,,1.0,False,P02,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0027,P04|P07|P08,True,Gravity's Rainbow,P04,Episode 61,61,Part 3: In the Zone,1.0,True,P04|P07|P08,3
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0028,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Slow Learner,P01,Low-Lands,3,,0.826,True,P01|P03|P04|P05|P06|P07,11
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0029,P08,True,Inherent Vice,P08,Chapter TWENTY,20,,1.0,False,P08,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0030,P08,True,Inherent Vice,P08,Chapter FOURTEEN,14,,1.0,False,P08,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0031,P09,True,Bleeding Edge,P09,Chapter 33,33,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0032,P07|P08|P09|P10,True,Bleeding Edge,P09,Chapter 33,33,,0.976,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0033,P09,True,Bleeding Edge,P09,Chapter 33,33,,0.989,False,P09,2
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0034,P09,True,Bleeding Edge,P09,Chapter 33,33,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0035,P05|P06|P07|P09|P10 | P09,True,Bleeding Edge,P09,Chapter 33,33,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0036,P06|P07,True,Shadow Ticket,P10,Chapter 14,14,,0.926,False,P10,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0037,P09,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0038,P09,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0039,P08,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0040,P04,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0041,P09,True,Bleeding Edge,P09,Chapter 2,2,,0.979,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0042,P07,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0043,P04|P05|P07|P08|P10,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,0.875,True,P07|P08,4
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0044,P09,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0045,P09,True,Bleeding Edge,P09,Chapter 23,23,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0046,P04|P05|P06|P07|P08|P09,True,Bleeding Edge,P09,Chapter 6,6,,0.949,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0047,P02,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0048,P02|P05|P09,True,V.,P02,Chapter Fourteen,14,,1.0,True,P02|P05|P09,3
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0049,P04|P05|P06|P07|P08|P10,True,Inherent Vice,P08,Chapter THIRTEEN,13,,0.806,False,P08,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0050,P07,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0051,P02|P04|P05|P06|P07|P08|P10,True,Against the Day,P07,Chapter 38,38,Part Three: Bilocations,0.906,True,P07|P08,2
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0052,P01|P04,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0053,P07,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0054,P09,True,Bleeding Edge,P09,Chapter 38,38,,0.994,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0055,P09,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0056,P05|P07,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0057,P09,True,Bleeding Edge,P09,Chapter 30,30,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0058,P09,True,Bleeding Edge,P09,Chapter 30,30,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0059,P07,True,Against the Day,P07,Chapter 29,29,Part Two: Iceland Spar,1.0,False,P07,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0060,P04,True,Gravity's Rainbow,P04,Episode 12,12,Part 1: Beyond the Zero,1.0,False,P04,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0061,P05,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0062,P04,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,1.0,False,P04,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0063,P05,True,Vineland,P05,Chapter 7,7,,0.985,False,P05,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0064,P09,True,Bleeding Edge,P09,Chapter 2,2,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0065,P09,True,Bleeding Edge,P09,Chapter 30,30,,0.932,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0066,P09,True,Bleeding Edge,P09,Chapter 10,10,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0067,P09,True,Bleeding Edge,P09,Chapter 10,10,,0.969,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0068,P04|P05|P09|P10,True,Vineland,P05,Chapter 12,12,,0.958,False,P05,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0069,P04,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0070,P05,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0071,P04,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0072,P01,True,Slow Learner,P01,Low-Lands,3,,1.0,False,P01,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0073,P07,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0074,P09,True,Bleeding Edge,P09,Chapter 23,23,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0075,P09,True,Bleeding Edge,P09,Chapter 23,23,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0076,P07|P09,True,Bleeding Edge,P09,Chapter 38,38,,0.989,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0077,P09,True,Bleeding Edge,P09,Chapter 30,30,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0078,P04,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,False,P04,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0079,P06,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0080,P07,True,Against the Day,P07,Chapter 16,16,Part Two: Iceland Spar,0.818,False,P07,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0081,P09,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0082,P04|P06,True,Mason & Dixon,P06,Chapter 53,53,Part 2: America,1.0,False,P06,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0083,P09,True,Bleeding Edge,P09,Chapter 3,3,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0084,P05,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0085,P09,True,Bleeding Edge,P09,Chapter 5,5,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0086,P08,True,Inherent Vice,P08,Chapter TWO,2,,1.0,False,P08,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0087,P09,True,Bleeding Edge,P09,Chapter 2,2,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0088,P09,True,Bleeding Edge,P09,Chapter 2,2,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0089,P06,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0090,P08,True,Inherent Vice,P08,Chapter TWO,2,,1.0,False,P08,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0091,P05,True,Vineland,P05,Chapter 15,15,,1.0,False,P05,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0092,P09,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0093,P09,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0094,P09,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0095,P04,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,0.917,False,P04,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0096,P04|P06|P09,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,0.974,False,P04,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0097,P04,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,1.0,False,P04,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0098,P02|P04,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,1.0,False,P04,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0099,P09,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0100,P07|P09,True,Bleeding Edge,P09,Chapter 20,20,,0.923,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0101,P09,True,Bleeding Edge,P09,Chapter 31,31,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0102,P09,True,Bleeding Edge,P09,Chapter 3,3,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0103,P09,False,,,,,,,False,,0
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0104,P09,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0105,P04|P08|P10,True,Inherent Vice,P08,Chapter SIX,6,,1.0,False,P08,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0106,P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Gravity's Rainbow,P04,Episode 68,68,Part 4: The Counterforce,0.763,True,P04|P07,2
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0107,P05|P08,True,Vineland,P05,Chapter 15,15,,0.993,False,P05,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0108,P07,True,Against the Day,P07,Chapter 29,29,Part Two: Iceland Spar,1.0,False,P07,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0109,P07,True,Against the Day,P07,Chapter 11,11,Part Two: Iceland Spar,1.0,False,P07,1
+2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0110,P09,False,,,,,,,False,,0

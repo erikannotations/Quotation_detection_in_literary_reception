@@ -1,0 +1,9 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014_maragos_every_they_9VU7EIQJ-tm-0001,P06,True,Mason & Dixon,P06,Chapter 28,28,Part 2: America,0.996,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-tm-0002,P06,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-tm-0003,P04,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-tm-0004,P07,True,Against the Day,P07,Chapter 6,6,Part One: The Light Over the Ranges,0.995,False,P07,2
+2014_maragos_every_they_9VU7EIQJ-tm-0005,P07,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,2
+2014_maragos_every_they_9VU7EIQJ-tm-0006,P05|P07,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,0.961,False,P07,2
+2014_maragos_every_they_9VU7EIQJ-tm-0007,P07,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,1
+2014_maragos_every_they_9VU7EIQJ-tm-0008,P07,True,Against the Day,P07,Chapter 16,16,Part Two: Iceland Spar,0.961,False,P07,1

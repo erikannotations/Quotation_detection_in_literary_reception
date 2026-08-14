@@ -1,0 +1,12 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0001,Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0002,Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0003,Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0004,Against the Day,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0005,Against the Day,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0006,Against the Day,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0007,Against the Day,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0008,Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0009,Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0010,Against the Day,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xtgc-0011,Against the Day,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,0.906,False,P07,2

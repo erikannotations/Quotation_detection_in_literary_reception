@@ -1,0 +1,35 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0001,,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0002,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0003,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0004,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0005,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0006,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0007,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0008,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0009,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0010,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0011,The Crying of Lot 49,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0012,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0013,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0014,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0015,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0016,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0017,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0018,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0019,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,0.923,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0020,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,0.939,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0021,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0022,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0023,,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0024,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0025,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0026,Bleeding Edge,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0027,,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0028,Bleeding Edge,True,Bleeding Edge,P09,Chapter 37,37,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0029,Bleeding Edge,True,Bleeding Edge,P09,Chapter 41,41,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0030,The Crying of Lot 49,False,,,,,,0.707,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0031,,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,2
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0032,Bleeding Edge,True,Bleeding Edge,P09,Chapter 2,2,,0.88,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0033,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,0.931,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_gcgo-0034,The Crying of Lot 49,False,,,,,,,False,,0

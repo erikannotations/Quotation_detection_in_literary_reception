@@ -1,0 +1,68 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2013_harvey_cry_within_C6VQPDG4-hybrid-0001,P06,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0002,P02|P03|P04|P07|P08,True,Gravity's Rainbow,P04,Episode 47,47,Part 3: In the Zone,0.905,True,P04|P08,2
+2013_harvey_cry_within_C6VQPDG4-hybrid-0003,P07,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0004,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0005,P02|P04|P06,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0006,P03,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0007,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0008,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0009,P02|P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,2
+2013_harvey_cry_within_C6VQPDG4-hybrid-0010,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0011,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0012,P03|P10,True,The Crying of Lot 49,P03,Chapter 4,4,,0.838,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0013,P03|P04|P10 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,2
+2013_harvey_cry_within_C6VQPDG4-hybrid-0014,The Crying of Lot 49 | P03|P04,True,The Crying of Lot 49,P03,Chapter 6,6,,0.995,False,P03,3
+2013_harvey_cry_within_C6VQPDG4-hybrid-0015,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,0.988,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0016,P05,True,Vineland,P05,Chapter 9,9,,1.0,False,P05,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0017,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0018,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0019,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0020,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,0.992,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0021,P03 | The Crying of Lot 49,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0022,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,2
+2013_harvey_cry_within_C6VQPDG4-hybrid-0023,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0024,P04,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0025,P02,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0026,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0027,The Crying of Lot 49 | P03,True,The Crying of Lot 49,P03,Chapter 5,5,,0.943,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0028,P04,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0029,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0030,P04,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0031,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0032,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0033,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0034,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,0.98,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0035,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0036,P06,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0037,P02,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0038,P02 | V.,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0039,P01|P04|P05|P07,True,Slow Learner,P01,The Small Rain,2,,1.0,True,P01|P04,3
+2013_harvey_cry_within_C6VQPDG4-hybrid-0040,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,0.894,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0041,P02|P04|P06|P07|P09|P10,True,V.,P02,Chapter Ten,10,,1.0,True,P02|P06|P07|P09|P10,9
+2013_harvey_cry_within_C6VQPDG4-hybrid-0042,P03,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0043,P05|P09,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0044,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0045,P04|P07,True,Gravity's Rainbow,P04,Episode 19,19,Part 1: Beyond the Zero,1.0,True,P04|P07,2
+2013_harvey_cry_within_C6VQPDG4-hybrid-0046,P02|P07,True,V.,P02,Chapter One,1,,0.852,False,P02,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0047,The Crying of Lot 49 | P01|P02|P03|P04|P05|P09,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0048,P01|P04|P05|P07,True,Slow Learner,P01,The Small Rain,2,,1.0,True,P01|P04,3
+2013_harvey_cry_within_C6VQPDG4-hybrid-0049,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0050,P06|P08|P09|P10,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,1.0,True,P06|P08|P09|P10,7
+2013_harvey_cry_within_C6VQPDG4-hybrid-0051,The Crying of Lot 49 | P03,True,The Crying of Lot 49,P03,Chapter 5,5,,0.983,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0052,P08,True,Inherent Vice,P08,Chapter FIVE,5,,1.0,False,P08,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0053,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,0.955,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0054,P02|P04|P06|P07|P09|P10,True,V.,P02,Chapter Ten,10,,1.0,True,P02|P06|P07|P09|P10,9
+2013_harvey_cry_within_C6VQPDG4-hybrid-0055,P03|P04,True,The Crying of Lot 49,P03,Chapter 6,6,,0.75,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0056,P01|P02|P04|P07,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0057,P04|P07,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,3
+2013_harvey_cry_within_C6VQPDG4-hybrid-0058,P02|P04,True,V.,P02,Chapter Twelve,12,,1.0,True,P02|P04,3
+2013_harvey_cry_within_C6VQPDG4-hybrid-0059,P04|P06,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0060,P06,True,Mason & Dixon,P06,Chapter 20,20,Part 1: Latitudes and Departures,1.0,False,P06,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0061,P06,False,,,,,,,False,,0
+2013_harvey_cry_within_C6VQPDG4-hybrid-0062,P07,True,Slow Learner,P01,Entropy,4,,1.0,True,P01|P04,2
+2013_harvey_cry_within_C6VQPDG4-hybrid-0063,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0064,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0065,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0066,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-hybrid-0067,P06,False,,,,,,,False,,0

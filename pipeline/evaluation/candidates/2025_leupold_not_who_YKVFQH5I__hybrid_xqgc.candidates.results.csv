@@ -1,0 +1,32 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0001,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,0.955,False,P04,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0002,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 31,31,Part 3: In the Zone,1.0,False,P04,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0003,V.,True,V.,P02,Chapter Six,6,,0.922,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0004,V.,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0005,V.,True,V.,P02,Chapter Six,6,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0006,V.,True,V.,P02,Chapter Seven,7,,0.959,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0007,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0008,V.,True,V.,P02,Chapter Two,2,,0.987,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0009,V.,True,V.,P02,Chapter Two,2,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0010,V.,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0011,V.,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0012,V.,True,V.,P02,Chapter Three,3,,0.988,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0013,V.,True,V.,P02,Chapter Three,3,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0014,V.,True,V.,P02,Chapter Eleven,11,,0.998,False,P02,2
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0015,V.,True,V.,P02,Chapter Fourteen,14,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0016,V.,True,V.,P02,Chapter Eleven,11,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0017,V.,True,V.,P02,Chapter Eleven,11,,0.966,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0018,V.,True,V.,P02,Chapter Eleven,11,,0.975,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0019,V.,True,V.,P02,Chapter Eleven,11,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0020,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,2
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0021,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0022,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0023,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0024,V.,True,V.,P02,Chapter Seven,7,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0025,V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0026,V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0027,V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0028,V.,True,V.,P02,Chapter Nine,9,,1.0,False,P02,4
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0029,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 71,71,Part 4: The Counterforce,1.0,False,P04,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0030,V.,True,V.,P02,Chapter Two,2,,1.0,False,P02,1
+2025_leupold_not_who_YKVFQH5I-hybrid_xqgc-0031,V.,True,V.,P02,Chapter Two,2,,1.0,False,P02,2

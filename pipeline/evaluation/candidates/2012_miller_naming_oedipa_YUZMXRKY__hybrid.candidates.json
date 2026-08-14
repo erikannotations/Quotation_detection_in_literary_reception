@@ -1,0 +1,1386 @@
+[
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0001",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 1674,
+  "article_end_char": 1703,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0001"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0002",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P01|P02|P04|P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3184,
+  "article_end_char": 3208,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0002"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0003",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3695,
+  "article_end_char": 3731,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0003"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0004",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3794,
+  "article_end_char": 3823,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0004"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0005",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4556,
+  "article_end_char": 4572,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0005"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0006",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5415,
+  "article_end_char": 5438,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0006"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0007",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04|P06|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 6201,
+  "article_end_char": 6218,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0007"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0008",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7347,
+  "article_end_char": 7367,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0008"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0009",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8876,
+  "article_end_char": 8917,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0009",
+   "2012-01"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0010",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9050,
+  "article_end_char": 9070,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0010"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0011",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9666,
+  "article_end_char": 9694,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0011"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0012",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9706,
+  "article_end_char": 9737,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0012",
+   "2012-02"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0013",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10079,
+  "article_end_char": 10101,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0013"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0014",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10262,
+  "article_end_char": 10287,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0014"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0015",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10921,
+  "article_end_char": 10943,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0015"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0016",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11364,
+  "article_end_char": 11388,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2012-03"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0017",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12292,
+  "article_end_char": 12317,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0016"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0018",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13666,
+  "article_end_char": 13767,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0017",
+   "2012-04"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0019",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16822,
+  "article_end_char": 16850,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0018"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0020",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02|P04|P05|P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17544,
+  "article_end_char": 17562,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0019"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0021",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02|P04|P05|P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17741,
+  "article_end_char": 17759,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0020"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0022",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18294,
+  "article_end_char": 18315,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0021"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0023",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P01|P02|P05|P06|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20357,
+  "article_end_char": 20378,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0022"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0024",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21187,
+  "article_end_char": 21212,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0023"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0025",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "Thomas Pynchon fiction | P03",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "13",
+  "confidence": "hybrid",
+  "article_start_char": 22497,
+  "article_end_char": 22547,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012-05",
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0024"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0026",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22853,
+  "article_end_char": 23553,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0025",
+   "2012-06"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0027",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "13",
+  "confidence": "hybrid",
+  "article_start_char": 23383,
+  "article_end_char": 23442,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2012-07"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0028",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24125,
+  "article_end_char": 24150,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0026"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0029",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24477,
+  "article_end_char": 24537,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0027"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0030",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27166,
+  "article_end_char": 27194,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0028"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0031",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28040,
+  "article_end_char": 28102,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0029",
+   "2012-08"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0032",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28731,
+  "article_end_char": 28749,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0030"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0033",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29400,
+  "article_end_char": 29431,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0031"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0034",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29546,
+  "article_end_char": 29566,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0032"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0035",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30057,
+  "article_end_char": 30080,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0033"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0036",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30741,
+  "article_end_char": 30769,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0034"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0037",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31113,
+  "article_end_char": 31134,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0035"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0038",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32468,
+  "article_end_char": 32504,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0036"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0039",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32514,
+  "article_end_char": 32910,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0037",
+   "2012-09"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0040",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33009,
+  "article_end_char": 33034,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0038"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0041",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33293,
+  "article_end_char": 33317,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0039"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0042",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33551,
+  "article_end_char": 33578,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0040"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0043",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02|P04|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34737,
+  "article_end_char": 34762,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0041"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0044",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36086,
+  "article_end_char": 36104,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0042"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0045",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36414,
+  "article_end_char": 36435,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0043"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0046",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36575,
+  "article_end_char": 36603,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0044"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0047",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36759,
+  "article_end_char": 36784,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0045"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0048",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "Thomas Pynchon fiction | P01|P03|P09|P10",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "74",
+  "confidence": "hybrid",
+  "article_start_char": 37659,
+  "article_end_char": 38058,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012-10",
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0046"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0049",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 37967,
+  "article_end_char": 38058,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0047"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0050",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03|P05 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40279,
+  "article_end_char": 40528,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0048",
+   "2012-12"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0051",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41053,
+  "article_end_char": 41069,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0049"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0052",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42161,
+  "article_end_char": 42196,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0050"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0053",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03|P04 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42424,
+  "article_end_char": 42743,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0051",
+   "2012-11"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0054",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43011,
+  "article_end_char": 43034,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0052"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0055",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45469,
+  "article_end_char": 45503,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0053"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0056",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45611,
+  "article_end_char": 45635,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0054"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0057",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P01|P04|P05|P06|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45845,
+  "article_end_char": 45864,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0055"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0058",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46287,
+  "article_end_char": 46306,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0056"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0059",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02|P03|P05|P06|P07 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47970,
+  "article_end_char": 48448,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0057",
+   "2012-13"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0060",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48536,
+  "article_end_char": 48554,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0058"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0061",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48577,
+  "article_end_char": 48604,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0059"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0062",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04|P06|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48809,
+  "article_end_char": 48831,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0060"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0063",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49302,
+  "article_end_char": 49319,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0061"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0064",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03 | Thomas Pynchon fiction",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50073,
+  "article_end_char": 50280,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0062",
+   "2012-14"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0065",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04|P06|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50369,
+  "article_end_char": 50389,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0063"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0066",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50978,
+  "article_end_char": 51006,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0064"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0067",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52468,
+  "article_end_char": 52494,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0065"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0068",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53319,
+  "article_end_char": 53340,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0066"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0069",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56864,
+  "article_end_char": 56892,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0067"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0070",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56893,
+  "article_end_char": 56914,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0068"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0071",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 61182,
+  "article_end_char": 61203,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0069"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0072",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62482,
+  "article_end_char": 62512,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0070"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0073",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64146,
+  "article_end_char": 64168,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0071"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0074",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P02|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65136,
+  "article_end_char": 65155,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0072"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0075",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66135,
+  "article_end_char": 66156,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0073"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0076",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 67018,
+  "article_end_char": 67039,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0074"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0077",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 69573,
+  "article_end_char": 69594,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0075"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0078",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 69731,
+  "article_end_char": 69752,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0076"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0079",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 69848,
+  "article_end_char": 69869,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0077"
+  ]
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-hybrid-0080",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "hybrid",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 70261,
+  "article_end_char": 70287,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2012_miller_naming_oedipa_YUZMXRKY-quid-0078"
+  ]
+ }
+]

@@ -1,0 +1,348 @@
+Key: 5E3W868P
+CSV line: 104
+Item type: journalArticle
+Year: 2025
+Author: Mentz, Steve
+Title: Blue American Forms: Submersion and Buoyancy in Melville and Pynchon
+Publication title: Zeitschrift für Anglistik und Amerikanistik
+DOI: 10.1515/zaa-2025-2016
+URL: https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2016/html
+Rights: http://creativecommons.org/licenses/by/4.0
+Source PDF: 10.1515_zaa-2025-2016.pdf
+Pages: 18
+
+Text source: publisher HTML, including notes and references, extracted 2026-07-16
+========================================================================
+Abstract
+
+This article explores two canonical American novels, Herman Melville’s Moby-Dick (1851) and Thomas Pynchon’s Mason & Dixon (1997), as explorations of the relationship between American literary culture and oceanic space. The tools and methodologies of the Blue Humanities enable these two novels to reveal how the physical and symbolic structures of the ocean shape the ambitions and efforts of American literature. In specific detail, the contribution takes up submersion and buoyancy as threat and promise. The threat of submersion appears in the near-drowning of Pip in Moby-Dick. The contrasting fantasy of pure buoyancy shows itself through the prospective retirement of Pynchon’s heroes along an imaginary “Atlantick Line” in Mason & Dixon. Both writers and both episodes demonstrate the deep intimacy between American fictions and blue spaces.
+
+Keywords: Blue Humanities; ocean studies; Herman Melville; Thomas Pynchon; submersion; buoyancy
+
+1 Introduction
+
+The Blue Humanities, a current of scholarly and creative practice that explores the relationships between humans and water, operates through sustained attention to the pleasures and frictions that human bodies encounter when in contact with water. A short but useful definition of the Blue Humanities is that it is a way of thinking about human culture and human history that puts the watery blue at the center.[1] This discourse might be imagined to begin with an old joke sometimes attributed to the sci-fi writer Arthur C. Clarke and sometimes to marine scientist Sylvia Earle: the name of our planet should be Ocean, not Earth.[2] To extend the joke a bit, I would suggest that one reason we need Blue Humanities thinking in the present day is that we still call our planet Earth, even though we all know its surface is mostly water and we all know that it looks like a Blue Marble from space. Not all Blue Humanities thinking need be about salt water, although I will mostly be talking about salt water in this chapter.[3] In all versions of the Blue Humanities, however, the core project engages the human challenge of water. We think water is beautiful and we love it, but we cannot live inside it. We need it to fuel our bodies and our agriculture, our ecosystems and our economies, but it abides as an alien presence inside and around us. That dangerous intimacy defines the force of water in the two canonical American novelists whose work I explore in this chapter, Herman Melville and Thomas Pynchon.
+
+Two of the most important features of the relationship between humans and water are submersion and buoyancy. The paradigm of submersion emphasizes that being immersed in water threatens human bodies; as much as we need water and, in our bodily structures, are made of water, this element still threatens us. The second paradigm of buoyancy emphasizes the somewhat paradoxical way in which immersed human bodies float in aqueous environments. These two paradigms counteract each other via an internal tension that is itself central to Blue Humanities thinking.[4] In dialogue with these two oppositional experiences, literary forms such as the American novel both enable and reimagine human relationships with watery environments. This article takes up representations of submersion and buoyancy in the work of two major American novelists, and in some of my own recent poetic efforts to grapple with them. I will explore in this contribution how each writer works through buoyancy and submersion as paradigmatic ways that human bodies relate to water.
+
+Melville’s Moby-Dick; or, The Whale (1851) is generally considered the ur-text of American maritime culture, the greatest of all sea-novels, and one of the foundational texts of the Blue Humanities.[5] In my 2023 book, An Introduction to the Blue Humanities, I displayed my own Melville obsession by including close analysis of an episode from Melville’s whale-hunting epic in every one of the book’s eleven chapters. The second novelist on my list, Thomas Pynchon, resembles Melville in that he is an epic-scale weaver of fictions about America as historical and ideological project, but his works have been less central to the Environmental Humanities and its Blue sub-current.[6] Margaret Cohen, in her influential 2010 study The Novel and the Sea, notes that Pynchon’s debut novel, V. (1963), features seaman heroes in Benny Profane and Pig Bodine (2010, 226). Pynchon himself, though his biography remains somewhat shrouded, served in the United States Navy, before earning a degree in English at Cornell University in 1959. My analysis of Pynchon as a maritime writer will focus mainly on his 1997 historical epic Mason & Dixon, with a brief turn toward ocean-inflected comments about America in his 2009 faux-detective novel Inherent Vice. I argue that Pynchon’s maritime vision, although indirect, extends and in some sense horizontalizes Melville’s deep vertical dive. Pynchon’s postmodernist skepticism of all historical metanarratives represents a radicalization of Melville’s dueling visions of sea fever. Both Ahab’s bloodlust and Ishmael’s philosophical meditations become in Pynchon visions of oceanic living. Pynchon’s fantasy of buoyancy never fully overcomes the forces of submersion, but the counterforce also never fully stops floating, at least a little bit.
+
+My article attempts, on a basic level, to entangle the tragic strains of Melville’s nineteenth-century American epic with the playful lyricism of Pynchon’s late twentieth- and twenty-first-century pastiche. But I also aim to demonstrate how the competing paradigms of submersion and buoyancy structure the way these two American novelists understand the human relationship with water. Additionally, I will foreground how the Blue Humanities’ tendency toward creative-critical approaches to literary and environmental thinking can enliven our approaches to canonical literary texts. My example of creative-critical Blue Humanities writing will come via my most recent book, Sailing without Ahab, a compilation of original poems that reimagines Melville’s epic without its domineering Captain. These poems represent my most personal efforts to come to terms with Melville’s oceanic epic. The book does not mention Thomas Pynchon, but Pynchon’s combination of satire, skepticism, and radical play underline both its structures and its formal innovations. By re-introducing Pynchon as a hidden source for Sailing without Ahab, I will demonstrate how creative and critical thinking together can chart new paths for the Blue Humanities.
+
+2 The Visionary Prose of Submersion: Melville’s Pip
+
+First, I will frame Moby-Dick as the American epic of submersion. In the human encounter with oceanic space, the transformative, and final, direction we must travel is down, beneath the surface. While to map-makers and even on some level to mariners, the World Ocean represents a horizontal expanse, hidden truths lie in the depths. The geographer Philip Steinberg, in his important 2001 book The Social Construction of the Ocean, emphasizes that early capitalist visions of the ocean as a place beyond territorial sovereignty and beyond the possibility of human settlement underlay what he terms the “great void” image of the deep sea (2001, 113). In Steinberg’s analysis, figures from the seventeenth-century Dutch jurist Hugo Grotius to the nineteenth-century French science fiction writer Jules Verne bookend a period of Romantic sea-thinking for which Melville remains the predominant American exemplar (2001, 121). I focus here on one episode from Melville, in which the cabin-boy Pip falls from the whale-boat and is briefly abandoned to his fate. In the encounter between small boy and vast ocean, Melville unfurls the secrets of the deep sea.
+
+Melville includes this underwater vision within the whaleship’s near-circumnavigation of the surface of the ocean. Nearly everything fits inside the novel’s capacious form, from South Sea adventure stories to Calvinist theological debates to the story of an abandoned African American boy. I lack space here for a full dive into theories of the modern novel, except perhaps to say that I prefer the longer chronology of scholars such as Doody (1996) and Moretti (2007), as opposed to the more narrowly eighteenth-century Anglophone genealogies from Ian Watt (2001) and Michael McKeon (2022). The novel, as I understand it, contains a long history of large-scale prose narratives, and while it has only emerged in the past few hundred years as the most prestigious literary form, it also has a long – and wet! – history. As Margaret Cohen writes in The Novel and the Sea, to take maritime fiction seriously, “it is necessary to take seriously adventure forms” (2010, 3). As she and many other Blue Humanities scholars, very much including me, have been arguing for some time, there is no greater example of the hybridizing of adventure forms with maritime experience than Herman Melville’s Moby-Dick.
+
+Perhaps the most intense and gloriously destructive account of submersion in American literature is the vision of the cabin-boy Pip, cast away and temporarily abandoned on the endless ocean in Moby-Dick. As Pip shows us, the ocean, when we face it directly, neither loves us nor notices our love for it. The quotation is from chapter 93, “The Castaway”:
+
+The sea […] jeeringly kept his finite body up, but drowned the infinite of his soul. Not drowned entirely, though. Rather carried down alive to wondrous depths, where strange shapes of the unwarped primal world glided to and fro before his passive eyes; and the miser-merman, Wisdom, revealed his hoarded heaps; and among the joyous, heartless, ever-juvenile eternities, Pip saw the multitudinous, God-omnipresent, coral insects, that out of the firmament of waters heaved the colossal orbs. (Melville 2002, 321)
+
+These lines, punctuated with Biblical cadences and the Shakespearean jaw-breaker “multitudinous,” present the ocean as alien, divine, and irresistible.[7] Pip, like the prophet Jonah, goes down and comes back up, with a drowned soul and cracked sense. For this ocean swimmer, the big body of water overwhelms the individual human body. The symbolic hostility of Pip’s saltwater world represents a core baseline of oceanic alienation. Pip’s madness highlights the fundamental disparity between the individual human body and the vast body of the ocean. Against this primal horror, images of skilled swimming, especially by Queequeg, punctuate the novel.[8] My own daily practice of ocean swimming has not driven me mad yet, though admittedly I stick close to shore and head to indoor pools during the winter.[9] But there is an important sense in which we are all of us Pip, tiny bodies floating in waters we cannot comprehend.
+
+3 Yarn-Spinning as Buoyancy in Mason & Dixon
+
+Pip goes to the bottom and comes back broken. From the perspective of the reader and the Blue Humanities critic, however, his glimpse of “God-omnipresent coral insects” (Melville 2002, 321), which are things most of us never see, enables new insight regarding philosophical as well as literal depths. Shifting our gaze from the terrified boy to the speculative reader suggests that one benefit of submersion is story. We go down to the sea, we go under the sea, in order to tell stories about the encounter. The connection between water and stories undergirds a distinctive allusion to maritime adventure fiction in Thomas Pynchon’s Mason & Dixon. As the two title characters, who will eventually inscribe the famous Mason-Dixon Line that divides North from South in what will become the United States of America, sail south toward Cape Town early in the novel, they encounter two significant members of their ship’s crew. One is Fender-Belly Bodine, a foretopman whose name echoes inside the Pynchon fun-house; this sailor is presumably an ancestor of the twentieth-century figure of Seaman “Pig” Bodine, who appears in both V. and Gravity’s Rainbow. Both these figures are somewhat more mysteriously related to O. I. C. Bodine, who has a minor role in Against the Day.[10] These Bodines are all members of one piggish family, but the mariner who seems most interesting to my Blue Humanities reading of Mason & Dixon calls out not to other Pynchon works but to a long-running series of popular sea adventure novels. Seaman Pat O’Brian appears in Pynchon’s novel as master seaman and master narrator:
+
+Not only does O’Brian know all there is to know and more ‘pon the Topick of Euphroes, and Rigging even more obscure, – he’s also acknowledg’d as the best Yarn-Spinner in the Fleets. (Pynchon 1997, 54)
+
+The joke about obscure rigging terms and “euphroes,” the latter being a technical word to describe a way to affix lines to masts on sailing ships, reinforces the allusion to Patrick O’Brian, the author of twenty adventure novels set during the Napoleonic War, featuring an unlikely friendship between “Lucky” Jack Aubrey, a Royal Navy captain, and ship’s surgeon and sometime spy Stephen Maturin. The Aubrey-Maturin novels, published between 1969 and 1999, with an unfinished twenty-first volume appearing in 2004, are dense with technical language regarding seamanship, gunnery, and navigation in the early decades of the 1800s. In alluding to O’Brian, a celebrated but not quite literary author, Pynchon emphasizes the act of “Yarn-spinning.” This metaphor makes storytelling both physical and technical; mariners during the age of sail did not spin actual yarn while afloat, but they were adept at similar skills including knot tying, rope splicing, and various forms of braiding, including of each other’s hair. Through his fictionalized O’Brian, Pynchon connects the tools of the sailor with the techniques of the novelist.
+
+The yarn-spinning of Pat O’Brian and Foretopman Bodine becomes over the sprawling course of Pynchon’s novel a technique of buoyancy, keeping ideas and communities afloat. In a pointed allusion to Gravity’s Rainbow, Pynchon’s 1973 masterpiece set in Europe during and after World War II, Mason & Dixon later describes the carving of a surveyor’s line through the American wilderness as a form of storytelling. He does not use the term buoyancy to describe what life is like along the line, which the novels call the “Visto,” but he imagines this space as an inversion of the forces of gravity:
+
+Newcomers to the Ley-borne Life are advis’d not to look up, lest, seiz’d by its proper Vertigo, they fall into the Sky, – For ‘t has happen’d more than once, – drovers and Army officers swear to it, – as if Gravity along the Visto, is becoming locally less important than Rapture. (Pynchon 1997, 651)
+
+To fall from Line into Sky presents a precise inversion of Pip’s fall from boat into Ocean. This ascent even more directly inverts the fall of the V-2 Rocket that dominates the action of Gravity’s Rainbow. The rapture and danger that Pynchon sees in sky-falling also provides something like Pip’s visionary experience. What the novelist calls “rapture,” using the religious language of his eighteenth-century setting, the Blue Humanities scholar might call buoyancy. To fall up into sky or float up on the wide sea requires accommodating human bodies to more-than-human environments.
+
+4 Sailing without Ahab and Creative-Critical Innovation
+
+With my two canonical American novels in circulation, this essay has so far mined Moby-Dick for the paradigm of submersion and Mason & Dixon for two images of literary buoyancy. The third text I want to bring into conversation maps out an experimental ‘creative-critical’ approach to literature, water, and human cultures that combines both submersion and buoyancy. The Blue Humanities by design emphasizes creative experiments in the forms in which we write and speak.[11] Getting our minds and our bodies around watery forms requires, I believe, expanding the rhetorical and performative forms in which we communicate. To make this point explicitly, I will take this opportunity to introduce my book, Sailing without Ahab: Ecopoetic Travels, as a buoyant refiguring of the submersive force of Moby-Dick.
+
+This book is my love-letter to Melville’s novel, and it also performs my own personal acts of submersion and buoyancy. It chronicles swimming in my local waters as well as seeking whales in the vast Pacific. In one hundred thirty-eight poems, which correspond to Melville’s one hundred thirty-five chapters, plus the Etymology, Extracts, and Epilogue, this book drowns Captain Ahab and submerges my body. The book sails out onto Ocean, but we leave the bad man behind. To sail without means no hero, no order, no aching rage to dominate.
+
+The book’s cover image shows a blue-green oceanic whale floating in a sea of words.[12] But even more clarifying for the argument of this essay is the map created by John Wyatt Greenlee of Surprised Eel Mapping that appears just before the table of contents. The bottom, upside-down half of the map traces the familiar continents of our watery globe, with the Pequod’s voyage from Nantucket on the Atlantic coast of North America to the Sea of Japan in the Pacific tracing its dotted line through straights and seas. But the top half of the map follows and merges with my own local swimming routes in coastal Connecticut, skirting Green Island, Whale Rock, and Johnson’s Beach where my dogs and I walk every morning around sunrise. In this composite map, these two worlds submerge themselves together. I drown the hero in my own local and global waters (Figure 1).
+
+Figure 1:
+Map by John Wyatt Greenlee, 2024 (Mentz 2023, vii).
+
+For a taste of this voyage, I’ll mimic the structure of epic and start in the middle. Here is a poem plucked out from the book’s center called “Let the Oil Out!” Like Moby-Dick, it is about whaling:
+
+Let flesh be light!
+
+Spermaceti blazes best,
+
+The clearest, brightest, the most insightful,
+
+Neither smell nor smoke
+
+But only glistening, pure.
+
+Even the shadows its light casts
+
+Outline themselves with precision.
+
+As if by that light and that light only
+
+I. sees into the heart of things,
+
+Ocean’s wet soul
+
+And constant motions. (Mentz 2024, 87)
+
+This poem represents whaling without money, without greed, without ownership. The ship sails after light, not profit. We leave the Captain on shore. So much flows from that one man’s non-presence! What can we find in an Anthropocene that has jettisoned its Anthropos? Light emerges from submersion into buoyancy.
+
+The poem proffers some answers, oblique though they may be. In place of violence, light. There is a heart-light that flows from whaleflesh. There is still salty blood in the salty water. But whaleflesh candles into whalelight, so that some hearts, some things, some motions and oceans, become legible. This book’s response to Melville’s oceanic epic does not follow the conventions of traditional academic publications. Even if we assume that the Blue Humanities offers unusual latitude for play and experiment, you might say that I am going a bit far in this act of academic self-submersion. But I think there can be a payoff. Turning away from the Captain-Hero, the driving force, the obsession that fuels the quest, means that the waters touch us differently. There will still be blood and danger. We still cannot breathe underwater. The sea remains inhospitable, alluring, alien. But, unlike Pynchon’s Mason and Dixon, we do not impose any straight lines onto its curved surface. Uncaptained, the whaleship charts a route out of the global hunting grounds into a more personal space. Sometimes waywardness finds the best way.
+
+A second benefit also emerges from sailing without, which maybe was legible in the poem I quoted. Something happens to “I.” in this voyage of submersion. The one-letter word in these poems divides itself into two, so that each “I.” – each first-person, each seeing eye-ball – becomes two people. One is me, a writer-thinker-swimmer who lives on the Connecticut Shoreline in the northeastern United States in the twenty-first century. The other is Ishmael, Melville’s schoolteacher-bow oarsman-narrator-bullshit artist. Every I. in the book embraces us both. Speaking oneself – speaking myself – speaking I. – through this split is one way to sit near the center but not be a hero.
+
+These poems show more division and submersion at work in my personal project of wrestling with the White Whale. There is also a flexible structure to the collection that I want to explore through a little snippet from the end of the introduction, in which I explain how to read such a book and how a flexible attitude toward reading might itself submerge some of the iron conventions our literary and cultural histories have bred us into.
+
+No Order No Story No Ending
+
+Here’s the way I. plays the game. I. opens my book at random, reads, turns the pages. Sometimes I. splashes straight ahead, two, three, six poems in a row. Sometimes I. flips forward twenty pages, or sometimes back thirty. Every page might open a new turning, a new sorting. There is no order, which means no story, which means no ending. Whales are out there, but I. is not heading straight for them.
+
+It’s not the usual reader’s quest, but it’s an ancient practice, the sortes virgilianae, recently digitized by the glorious lamented twitterbot @MobyDickatSea. There’s always a sacred book to show the way forward. Page numbers need not constrain you. We aren’t seeking anything. The White Whale swims, dives, feeds. But he’s not what we’re after.
+
+[…]
+
+How does it feel to wander with I., aimless, sleepy, philosophical? To trace sideways across these pages, to turn for any reason or none, to move by I.’s own not-understood rhythms?
+
+It’s hard to know how to end. I. grants you that. (Mentz 2024, 10)
+
+5 Pynchon’s Universal Voyage
+
+Returning after this abrupt and partial not-ending to Mason & Dixon means shifting attention from the sailors back to the ship itself. Interacting with large bodies of water often requires technological structures, and in fact the first appearance in English of the Greek-derived word ‘technology’ was in a prefatory sonnet in praise of Captain John Smith’s 1627 book of technical maritime terms, Sea Grammar (Cohen 2010, 42). Readers of Patrick O’Brian, or other examples of sea adventure fiction, recognize that the poetry of obscure terminology, from the clew line to the spirit stay, captures part of the appeal of these stories, for mariners and land-lubbers alike. When Pynchon describes the ship that carries Mason and Dixon around the eighteenth-century globe, he employs the partly historical figure of William Emerson, one of the historical Jeremiah Dixon’s teachers, who Pynchon transforms into a “practicing Magician” (1997, 218) as well as a mathematician. Emerson obsesses over lines of force that cross the earth. He identifies these “Leys” (Pynchon 1997, 219) with the hydraulic architecture of the Romans but he claims these Lines to be “perhaps Druidic, tho’ others say Mithraic, in origin” (Pynchon 1997, 219). Emerson’s ancient Ley-lines provide a model for the Line Mason and Dixon will inscribe across the American continent. But Emerson also understands winds and sailing ships to be manifestations of the power of ley-lines:
+
+He has devis’d a sailing-Scheme, whereby Winds are imagin’d to be forms of Gravity acting not vertically but laterally, along the Globe’s surface, – a Ship to him is the Paradigm of the Universe. (Pynchon 1997, 220)
+
+Emerson’s understanding of the forces that propel a ship as manifestations of universal laws makes his mysticism a form of Blue Humanities thinking. If wind represents sideways Gravity, then the movement of humans across the Globe, on land or water, emerges from an ecological network of forces. In this eco-grid, the Ship occupies a privileged place of knowledge, intersection, and power.
+
+I have written elsewhere about the cyborg-like intimacy between sailors and their ships, and in some ways the ship-mysticism that Emerson voices is not unlike the love that many sailors, ancient or modern, feel for their vessels.[13] Pynchon uses Emerson’s enthusiasm to exaggerate the sailors’ love for his tools into a vision of universal order. The ship balances itself at the intersection of wind and sea, lateral and vertical gravities. In Emerson’s description, this position of buoyancy and motion combines a complex equilibrium with a sense of the human mind’s control over its environment. Emerson describes the ship as mathematical abstraction and egotistical fantasy:
+
+All the possible forces in play are represented each by its representative sheets, stays, braces, and shrouds and such, – a set of lines in space, each at its particular angle. Easy to see why sea-captains go crazy, – godlike power over realities so simplified […]. (Pynchon 1997, 220)
+
+As Pynchon doubtless knows – as far as I can tell from reading Pynchon over many decades, he knows everything – mariners and mathematicians were more closely connected in the Age of Sail than we might suppose today (e.g., Deacon 2016). Navigational techniques required fairly complex calculations using spherical geometry. To take one example, the Elizabethan mathematician and cartographer Edward Wright, famous for his completion and correction of the mathematics of what is commonly known as the ‘Mercator projection,’ was himself an occasional sailor who consciously used his technical knowledge to explain navigation for mariners. His translation of the Dutch navigational treatise The Haven-Finding Art in 1599 combined his technical expertise with a broad sense of the needs of mariners (Stevin 1599). As the lines from Pynchon show, to thrive on the “Universe” of a sailing ship required combining geometrical structures with technological expertise. The Ships that floated the British Empire and the early United States of America into global supremacy were both abstractions and tools.
+
+6 Whiteness as World
+
+At the heart of my Blue Humanities reading of Melville floats the White Whale itself, opaque and inscrutable. Many gallons of critical ink have been spilled regarding the nature and implications of the whale’s whiteness, with recent scholarship inclined to consider Melville to be responding to the racial conflicts that would soon bring his United States into Civil War (e.g., Warren 2019). In the key chapter, Ishmael pries open the distinction between what “the White Whale was to Ahab” as opposed to “what, at times, he was to me” (Melville 2002, 159). In this deft separation of Captain from narrator, Ishmael at the start of chapter 42 anticipates the bifurcating structure I would later make the structuring principle of Sailing without Ahab. Speaking of his own obsessions with whiteness, and presuming those fascinations to be unlike his brutal Captain’s, Ishmael finds in the spectral qualities of whiteness – the color of death, of terror, of “the roar of breakers” (Melville 2002, 163) off a foreign coast – a representation of all that is alien in his oceanic world. In “a midnight sea of milky whiteness” (Melville 2002, 163), Ishmael finds what he calls “the colorless, all-color of atheism from which we shrink” (Melville 2002, 165). Rousing himself to typical heights of rhetorical excess, the narrator insists that the color’s “indefiniteness […] shadows forth the heartless voids and immensities of the universe” (Melville 2002, 165). To Ahab, the White Whale must be hunted. For Ishmael, he can only be feared, and perhaps worshipped.
+
+Against the stark juxtaposition of Ahab’s rage and Ishmael’s philosophical anxiety, my poetic response to the “Whiteness of the Whale” chapter takes whiteness literally. The “Great White Evil God” at the center of the voyage represents, in my poetic analysis, racism as a transhistorical force. Confronting that Whiteness requires both the submersion of my own body and forces of poetic buoyancy, this poem was one of the earliest parts of the project, written in 2018 (Mentz 2018). My lines engage the whale’s whiteness as an evil power that still disfigures American culture more than 150 years later:
+
+Great White Evil God
+
+With appalling echoes and Persian fires
+
+He breaches like gunpowder flashing and blinding –
+
+Not so much a color as the visible absence of colors –
+
+Until like atheism or milk left too long on a sunny countertop
+
+A thing that until now you could never categorize becomes
+
+All you can see.
+
+Great White Evil God names the prime agent,
+
+Indefinite as pain
+
+That markless marks our world.
+
+Now hidden in depths, invisible, White, vanishing –
+
+He’s not in the waters but is the Sea –
+
+Great White Evil God is swimming toward your body
+
+Hungering for what lies at the surface.
+
+Would that we could smite Him!
+
+It would be worth soiling the hand that clutches the harpoon
+
+To cast at that infinity
+
+And wound Great White Evil God’s body.
+
+It’s not to be. He’s omnipresent as air,
+
+Heat-trapping as carbon, material as dust, soil, water, spirit.
+
+No sharp tools can prick that flesh.
+
+What does He say to us?
+
+Great White Evil God speaks catastrophes not clauses,
+
+He sings into storms, warbles out waves,
+
+That surge away all dryness.
+
+In dreams I. hears Him and deciphers melodies,
+
+And always I. wakes wet
+
+With shivering skin. (Mentz 2024, 52; original emphasis)
+
+Without providing an exhaustive exegesis of this poem, I will mention a few things. The notion that the White Whale represents God or at least some kind of divine force seems to me so well-attested in Melville’s novel that it needs little argument. In the title of Lawrence Thompson’s famous and influential 1952 book, Moby-Dick represents, on a fundamental level, Melville’s Quarrel with God. The question this poem explores is – what is the God against whom Melville struggles? I suggest that Ahab’s presiding deity, the antagonist of this “grand, ungodly, god-like man” (Melville 2002, 78), is equally Great, meaning powerful, White, in both racist and symbolic senses, and Evil, meaning understood in opposition to human flourishing. There are ways in which the attribution of “malice” to the White Whale itself represents an error of anthropomorphizing, and I address this question by assuming the whale’s point of view in the longest poem in the book, on the Second Day of The Chase (Mentz 2024, 145–8). But in “Great White Evil God” I assume the position of the failed whaleman, shivering in fear at the power that emerges from alien waters. The loving figure of Q., or Queequeg, who comforts I. even more completely in my book than in Melville’s, is nowhere to be found in this poem.
+
+7 Pynchon on the Atlantic Line
+
+Against the terror of Melville’s White Whale, Pynchon grafts a fantasia of buoyancy atop Oceanic flux. A short episode in the last hundred pages of Mason & Dixon demonstrates the connection between the Visto-Line that the surveyors carve across the American wilderness and the oceanic expanses that structure global history. When asked about their next adventure, Dixon states that their next step will be to “Devise a way […] to inscribe a Visto upon the Atlantick Sea” (Pynchon 1997, 712).[14] This aquatic Line represents the final assimilation of their technologies of order with the most changeable part of the global environment. It represents a buoyancy that invalidates at least some of the tragic pressure of submersion. Mason, always a technologist, advances a series of tricks and techniques for inscribing order onto water:
+
+A thoughtful enough Arrangements of Anchors and Buoys, Lenses and Lanthorns, forming a perfect Line across the Ocean, from the Delaware Bay to the Spanish Extremadura, – with the Solution to the Question of Longitude thrown in as a sort of Bonus, – as, exactly at ev’ry Degree, might the Sea-Line, as upon a Fiduciary Scale for Navigators, be prominently mark’d, by a taller Beacon, or a differently color’d Lamp. (Pynchon 1997, 712)
+
+This fantasy of domesticated and orderly sea lanes, of an ocean in which location is always transparent, becomes, in typical Pynchon fashion, a utopia built for commercialization. As is usually true for his postlapsarian visions of American history, the Sea-Line becomes meat for capitalism, “as up and down its Longitude blossom Wharves, Chandleries, Inns, Tobacco-shops, Greengrocers’ Stalls, Printers of News, Dens of Vice, Chapels for Repentance, Shops full of Souvenirs and Sweets, – all a Sailor could wish” (Pynchon 1997, 712). The inscribed and commercialized Line becomes for Pynchon a vision of the late twentieth-century globalized economy during which he wrote his eighteenth-century fantasy origin story.
+
+To retire to this maritime space, however, need not mean complete surrender to the commercial forces that mar Mason and Dixon’s world as they still deface our own era. Even in its settled form, the Sea-Line retains an element of motion. Mason and Dixon end up living there, since “[b]etwixt themselves, neither feels British enough anymore, nor quite American, for either Side of the Ocean” (Pynchon 1997, 713). Stakeholders in the sinister “Atlantick Company” (Pynchon 1997, 713), whose international reach perhaps anticipates the corporate hegemons that create the modern world in Gravity’s Rainbow, the surveyors nonetheless occupy the ocean as a space of instability within capitalism’s order. “There they are content to reside,” Pynchon relates, “like Ferrymen or Bridge-keepers, ever in a Ubiquity of Flow, before a ceaseless Spectacle of Transition” (1997, 713). Even inside the ever-tightening loops of global capital, the Ocean itself remains in states of “Flow” and “Transition.” As in his earlier invocation of the yarn-spinner sailor Pat O’Brian, and even in the novel’s very last line, which imagines America as utopian precisely because it is a place to “fish” (Pynchon 1997, 773), Pynchon’s epic prehistory of his nation always keeps a watery eye on blue spaces into which we can escape. That the Sea-Line is both literal fantasy and symbol of globalized capitalism does not mean it cannot also represent the compelling vision of dynamism that Blue Humanities scholarship often seeks in watery places. To retire along an Atlantick Line, in fact, seems very much a Blue Humanities ambition.
+
+8 Self-Consuming Forms
+
+Even in our own era of GPS technologies in everyone’s pockets, however, that vision of a fully oriented sea remains impossible. In a final selection from Sailing without Ahab, I will quote part of a swimming poem called “No Book” which attempts to make sense of my own obsessive acts of submersion in the watery world that surrounds me on a hot summer day:
+
+Once when I. was swimming early in the morning,
+
+Before fishermen or sailors came to share my bay,
+
+I. looked out when I. turned my head and saw
+
+A bird’s eye looking back at me,
+
+The devil’s cormorant,
+
+Not a creature I. could understand or classify.
+
+The bird sat squat on Whale Rock as I. churned past,
+
+Stroke after stroke. I. kept expecting a flurry of wings
+
+And departure. But the dark eyes followed me,
+
+Or maybe I. anthropomorphized that part, but no –
+
+I. believes the cormorant saw me, in my strange wetness
+
+Out of place in the sea.
+
+Walking home the eyes wouldn’t leave my mind.
+
+They’re gone now.
+
+Just another of the things whose radiant opacity sparked
+
+Into a vanishing fire that marked the leaves of
+
+No book. (Mentz 2024, 42)
+
+This poem, especially in its accumulating conclusion, aims to present a fundamental truth of the Blue Humanities: that we do not know everything there is to know about water. Throughout the poem, the narrator – I./Ishmael/me – faces opacity. The bird’s two eyes, the water’s touch, the blank pages of an unnamed book – all these things refuse clarity. In a poem structured by both submersion – because I. is in the water – and buoyancy – because my swimming strokes hold me up – everything around the poem feels alien. The poet cannot know bird, nor water, nor book. Accommodating oneself – accommodating myself – to the limits of possible knowledge represents a core feature of Blue Humanities thinking. We want to know something of the sea, but what we learn remains quite modest. Like Melville’s narrator and Pynchon’s two surveyors, the poet’s I/I. faces into a disorienting environment.
+
+9 America as a Blue Humanities Experiment
+
+In conclusion I want to suggest that for Thomas Pynchon, Herman Melville, and in a way that is shaped by the work of both these novelists for me also, America itself is a Blue Humanities Experiment. By America in this context I mean the continent that has been settled and colonized by transoceanic travelers, and there is a way that all my understanding of the lands and waters with which I live remain excluded from the traditional knowledge of the Totoket and Menunkatuck bands of the Quinnipiac people, whose ancestral and abiding presence on the land and waters with which I am most intimate I acknowledge and celebrate. Even as a latecoming settler, barely a quarter-century resident in my corner of the Connecticut Shoreline, I claim some partial community with these lands and waters. That partial connection leads me to a passage in Pynchon’s 2009 novel Inherent Vice in which maritime lawyer Sauncho Smilax, himself a variation on the folk wisdom of Don Quixote’s sidekick Sancho Panza, imagines the course of American history as, like the Sea-Line of Mason and Dixon’s retirement, a space of flow:
+
+yet there is no avoiding time, the sea of time, the sea of memory and forgetfulness, the years of promise, gone and unrecoverable, of the land almost allowed to claim its better destiny, only to have the claim jumped by evildoers known only too well, and taken instead and held hostage to the future we must now live in forever. May we trust that this blessed ship is bound for some better shore, some undrowned Lemuria, risen and redeemed, where the American fate, mercifully, failed to happen. (Pynchon 2009, 341)
+
+For readers of Pynchon, or literary scholars who know the master narrative of the Fall from Paradise in its many retellings from Genesis to Paradise Lost to every other novel Thomas Pynchon has written, the parable in which historical possibility falls into tragedy will sound familiar. The good ship Preserved, renamed via the novel’s complicated backstory The Golden Fang, here represents the “better shore” of a future that never comes. The “American fate” follows the downward arc of drowning, claim jumping, and shipwreck. We might recall that the good whaleship Pequod, itself a multiracial and polyglot symbol of the nineteenth-century American Republic, also sinks at the end of Melville’s novel, “gone and unrecoverable,” never able to “claim its better destiny.” For Melville and Pynchon, as in a slightly different register for me as Blue Humanities thinker and poet, the alien blue environment we live within and which lives inside the fluids of our bodies, remains beyond comprehension. Fantasies of complete buoyancy may be tempting but are always unreachable.
+
+That all said, the sideways glean of water-infused knowledge remains alluring. The visionary dream of a possible America imagined by novelists like Melville and Pynchon, as by other water-inflected American writers from Emily Dickinson to Toni Morrison, William Carlos Williams to H. D., requires an investment in alien surroundings that we cannot embrace fully. Something in the American literary mode remains tied to arcs of settlement, transoceanic voyages mercantile or colonial, in slave ships or commercial transports. To write as an American at least since Melville entails, as Charles Olson wrote, taking “SPACE to be the central fact” (Olson 1947, 11) of American life. “We must go over space,” Olson wrote about Moby-Dick, “or we wither” (114). The space that Olson imagines Melville to transcend, and that he himself traverses in his verse epic The Maximus Poems (1960–83), is the space of blue water. For these writers, at least, the dream of America is a dream of blue living.
+
+
+Notes
+
+1 For recent book-length introductions to this discourse, see Mentz (2023) and Oppermann (2023).
+
+2 Lovelock attributes this quotation to Clarke in Gaia (1979).
+
+3 For a compact effort to explain how the Blue Humanities should move beyond salt water to other forms, see Mentz (2021).
+
+4 For recent studies that emphasize the dangers and pleasures of human-water interactions, see Alaimo (2015), Dobrin (2021), Gumbs (2020), and Sharpe (2016). For a fuller bibliography, see Mentz (2023, 154–6).
+
+5 The massive corpus of Melville scholarship is beyond my scope in this essay, but for a taste of its emerging forms, I suggest two introductions to new editions of Moby-Dick, by Blum, ed. (Melville 2022) and Insko, ed. (Melville 2023).
+
+6 I equally defer the significant body of Pynchon scholarship, much of which focuses on postmodernist literary forms and post-nuclear age considerations. A recent and compelling movement toward an ecologically-inflected Pynchon appears in Hatooka (2022).
+
+7 The oceanic line from Macbeth that seems to be on Melville’s mind is “No, this my hand will rather/The multitudinous seas incarnadin, / Making the green one red” (2.2.62–64) (Shakespeare 2015).
+
+8 On Queequeg as Aquaman, see Mentz (2020, 93–105).
+
+9 On open water swimming as ecological mediation for the Anthropocene, see Mentz (2020, 127–38).
+
+10 For cross-referencing within the Pynchonoverse, I rely on the glorious Pynchon Wiki: https://pynchonwiki.com/. Accessed 29 August 2024.
+
+11 For experimental works in the broad ambit of the Blue Humanities, see Fox (2023), Moe (2021), and Cohen and Yates (2023).
+
+12 I thank former St. John’s graduate student Idalea Cinquemani for drawing and designing this gorgeous image.
+
+13 On sailors as cyborgs, see Mentz (2020, 55–66).
+
+14 I previously explored these pages in Mentz (2012).
+
+References
+
+Alaimo, S. 2015. Exposed: Environmental Politics and Pleasures in Posthuman Times. Minneapolis: University of Minnesota Press.10.5749/minnesota/9780816621958.001.0001
+
+Cohen, M. 2010. The Novel and the Sea. Princeton: Princeton University Press.
+
+Cohen, J. Jerome, and J. Yates. 2023. Noah’s Arkive. Minneapolis: University of Minnesota Press.
+
+Deacon, M. 2016. Scientists and the Sea, 1650–900. London: Routledge.
+
+Dobrin, S. 2021. Blue Ecocriticism and the Oceanic Imperative. London: Routledge.10.4324/9780429456466
+
+Doody, M. 1996. The True Story of the Novel. New Brunswick: Rutgers University Press.
+
+Fox, B. 2023. The Bathysphere Book: Effects of the Luminous Ocean Depths. New York: Astra House.
+
+Gumbs, A. P. 2020. Undrowned: Black Feminist Lessons from Marine Mammals. Chico: AK Press.10.3898/SOUN.78.01.2021
+
+Hatooka, K. 2022. Thomas Pynchon’s Animal Tales: Fables for Ecocriticism. Lanham: Lexington Books.10.5771/9781793655882
+
+Lovelock, J. 1979. Gaia: A New Look at Life on Earth. Oxford: Oxford University Press.
+
+McKeon, M. 2022. The Origins of the English Novel, 1600–1740. Baltimore: Johns Hopkins University Press.
+
+Melville, H. 2002. Moby-Dick; or, The Whale, edited by H. Parker, and H. Hayford. New York: Norton Critical Edition.
+
+Melville, H. 2022. Moby-Dick, edited by Hester Blum. Oxford: Oxford World’s Classics.
+
+Melville, H. 2023. Moby-Dick, edited by Jeffrey Insko. New York: Norton Library Edition.10.1093/actrade/9780198853695.003.0046
+
+Mentz, S. 2012. “Half-Fish, Half-Flesh: Dolphins, the Ocean, and Early Modern Humans.” In The Indistinct Human in Renaissance Literature, edited by Jean Feerick, and Vin Nardizzi, 29–46. London: Palgrave.10.1057/9781137015693_3
+
+Mentz, S. 2018. “Great White Evil God.” In The Glasgow Review of Books. 09 May. https://glasgowreviewofbooks.com/2018/05/09/sailing-without-ahab-an-eco-poetic-voyage-part-two/(accessed August 29, 2024).
+
+Mentz, S. 2020. Ocean. London: Bloomsbury.10.5040/9781501348662
+
+Mentz, S. 2021. “Ice/Water/Vapor.” In The Cambridge Companion to the Environmental Humanities, edited by J. J. Cohen, and S. Foote, 185–98. Cambridge: Cambridge University Press.10.1017/9781009039369.015
+
+Mentz, S. 2023. An Introduction to the Blue Humanities. London: Routledge.10.4324/9781003166665
+
+Mentz, S. 2024. Sailing without Ahab: Ecopoetic Voyages. New York: Fordham University Press.10.1353/book.118465
+
+Moe, P. W. 2021. Touching This Leviathan. Cornwalis. Cornwalis: Oregon State University Press.10.1353/book94067
+
+Moretti, F. 2007. Graphs, Maps, Trees: Abstract Models for Literary History. London: Verso.
+
+Olson, C. 1947. Call Me Ishmael: A Study of Melville. San Francisco: City Lights Books.
+
+Oppermann, S. 2023. Blue Humanities. Cambridge: Cambridge University Press.
+
+Pynchon, T. 1997. Mason & Dixon. New York: Henry Holt.
+
+Pynchon, T. 2009. Inherent Vice. New York: Penguin.
+
+Shakespeare, W. 2015. Macbeth, 3rd ed., edited by S. Clark, and P. Mason. London: Arden.
+
+Sharpe, C. 2016. In the Wake: On Blackness and Being. Durham: Duke University Press.10.1515/9780822373452
+
+Steinberg, P. 2001. The Social Construction of the Ocean. Cambridge: Cambridge University Press.
+
+Stevin, S. 1599. The Haven-Finding Art. Translated by Edward Wright. London: G.B.R.N. and R.B.
+
+Thompson, L. Roger. [1952] 2016. Melville’s Quarrel with God. Princeton: Princeton University Press.
+
+Warren, L. 2019. Fire on the Water: Sailors, Slaves, and Insurrection in Early American Literature, 1798–1866. Lewisburg: Bucknell University Press.10.36019/9781684480210
+
+Watt, I. 2001. The Rise of the Novel: Studies in Defoe, Richardson, and Fielding. Berkeley: University of California Press.

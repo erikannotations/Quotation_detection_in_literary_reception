@@ -1,0 +1,158 @@
+{
+ "schema_version": "1.0",
+ "created_utc": "2026-07-26T18:47:31.324882+00:00",
+ "status": "development",
+ "note": "Development frozen 26 July 2026. Evening: A1/A2/A6 executed; G-O output cap raised; G-O acceptance policy amended (bare-array shape + per-entry recovery) after a salvage defect was found discarding sound extractions — 1/3 becomes 3/3 on the hardest article, with development results provably unchanged.",
+ "task": "marked direct quotation from Pynchon fiction, minimum five words",
+ "sample_manifest": {
+  "path": "evaluation/sample_manifest.csv",
+  "sha256": "f6007347dac97de1d33e8bbf8b8be22616cda9003563c178114a9e89dcfde894"
+ },
+ "code": {
+  "annotation_agreement.py": "688efe35dc4b7ddf3abb4e30e4757647ab898055335a44704c9603cab4c538c3",
+  "annotation_progress.py": "2d6984dc2de93c2f0acbffd56730f02d866922436c1c9c200f1626cd122f2b6a",
+  "annotation_web.py": "fe0c28b443bd90aacfc6df77f32e7b62d9f93d82c88f7e4c736f0a07719a5987",
+  "atd_build_chapters.py": "35a4ff436784707ee7101ee61d817b49100cfe57b1b2411e9c1d988b2d159943",
+  "baseline_marked_quotes.py": "da99efb8b972aaf6b94354735435acb6498bf2633fd01fddc7ccd7ba2307e62b",
+  "baseline_quid.py": "caafe2ff6824957ac0ddc8bf3e013fef51f8fa86bc10d137918749628062a687",
+  "chrome_fetch.py": "d81804b634b41826628ac3148a5ef608503c4672feb9c9b533b1be91b2c31aaf",
+  "combine_candidates.py": "2bc8422301a52216e0c02ddf8545d5f1f1c12d2e68df8f535feb965159b52a32",
+  "compile_gold_v2.py": "26933a76cf2b3fda89dfa45696c734c35ca2114a5b01f722b4c30506a0450cba",
+  "detect_quotes.py": "dca052050123694ccf5e4d2b2bc07280a6dcf0aeb8c115717f72b0fa7e23251f",
+  "eval_compare.py": "d9bda2c94e1916f77e24e1aa9055a5f9853efc653bf077cf792285ed9f70391f",
+  "locate_quotes.py": "748fd2db05af251aba460b0fc2c8f26f97b9d2db4aab3faaf065c3b4809bf0fa",
+  "make_results_table.py": "ab8b68ba35e401993b9fe28bfce7e7c0501adad9a1598da5a939e3a5e0cc1162",
+  "make_run_manifest.py": "47d0e48601fcd9d63a26b7dd2d5b6f65d17f25912b28254a134780422728afbe",
+  "pooling_audit.py": "b03a3f72e14f140c46ca95a06743fb6aacadaeb942fde2577dc881c634f105af",
+  "prepare_annotations.py": "a15abb906f8826f618942d12a45576da0d488582d7194a9d7404a491dad8eb03",
+  "project_paths.py": "1cdbd0f07be98e944af3ee4dded056357e500d54608bb1ab901c63699fe000e7",
+  "quotation_spans.py": "b60031137cb84f1511c5bca94d54251e76717413e1f06a3fd0072c4cb54d202b",
+  "review_annotations.py": "829738115199be2a47b6591995f7323fb4b33c25bd65c39550f773104dd6d2cc",
+  "run_oracle_locator.py": "e4ab846c4590a85421dff414355aebc1cacf37e81f1034c4463c7b00a0b71ae2",
+  "run_pipeline.py": "5972be3dedfdfddef2a6c112333832ced6dc2676c302e89f92e9a1c785e9f1c5",
+  "sample_corpus.py": "af169461bc376c031f352a574dbb81e099348e01d584a26a14abe5bc42c4a39b",
+  "segment_corpus.py": "b259223380dd818ed66367df3a9e673438cd21c782e0112398c7eb352df32361",
+  "tests/test_annotation_web.py": "f0256df3496ab73b285f70f959597815fb032a828c0a390b1b194b895f95bd7d",
+  "tests/test_pipeline.py": "2b450b5e7c5acd0870258c4266a3dd0b5a570eee7c577d5b11ed42aca307b05c",
+  "vine_build_chapters.py": "f1d0614dc454ce49443913019a032f1f50d86f0ee01468afd3e56a47dd353b75"
+ },
+ "prompt_sha256": "02ad0e03fc70d5e8e5b4798458d529b81233f15111cf6929ee771552dcb6ab32",
+ "thresholds": {
+  "locator_confirmation": 0.75,
+  "near_source_margin": 0.02,
+  "evaluation_span_similarity": 0.6,
+  "minimum_quote_words": 5
+ },
+ "hybrid_rule": "seven predeclared variants; see models.system_matrix.H. Merge: containment only, no transitive closure, longest member, provenance preserved.",
+ "models": {
+  "system_matrix": {
+   "O": {
+    "id": "oracle_gold",
+    "role": "Oracle-span ceiling for source linking",
+    "status": "run on development 2026-07-26",
+    "result_development": "88/88 confirmed; source-work accuracy 1.000; section accuracy 1.000"
+   },
+   "M": {
+    "id": "heuristic_marked",
+    "role": "Transparent quotation-mark/block formatting baseline; also the template seeding system",
+    "status": "run on all four development articles (Smith added 2026-07-26, closing a gap)",
+    "result_development": "dF1 0.441; macro F1 0.393; recall 0.000 on unmarked block quotations (0/18)"
+   },
+   "Q": {
+    "id": "quid_2.6.7_hp128_s0p85_m5_c100000",
+    "role": "Strong lexical/text-reuse baseline",
+    "version": "Quid 2.6.7 (pinned, .venv-quid)",
+    "parameters": "hashperm=128, similarity=0.85, min_match=5, chunk=100000",
+    "result_development": "dF1 0.547; recall 0.989 at precision 0.378"
+   },
+   "G-C": {
+    "id": "anthropic_claude-fable-5",
+    "role": "Closed/frontier generative detector",
+    "backend": "Anthropic API, messages.parse() structured output",
+    "max_tokens": 16000,
+    "thinking": "adaptive",
+    "result_development": "dF1 0.978; eF1 0.994; macro F1 0.969",
+    "access_date": "2026-07-22 (corrected 2026-07-26: candidate files have birth time 22 July 13:55-13:58; the log had recorded 23 July)",
+    "decoding": {
+     "max_tokens": 16000,
+     "thinking": "adaptive",
+     "structured_output": "messages.parse()"
+    },
+    "malformed_output_policy": "predeclared 2026-07-26, before any test article was opened: a response with stop_reason max_tokens gets exactly ONE retry at double the output budget; a second truncation is recorded as a failure and raised. Nothing else is retried. Raw run record (stop_reason, usage, cache tokens, wall time, response id) is written to a .runinfo.json sidecar, as the Ollama backend already did.",
+    "run_to_run_variance_2026_07_26": "Span-set stability 0.895 over 3 fresh runs plus the frozen run on Eve (19/17/19 vs 18 spans; pairwise Jaccard 0.895-1.000). The one gold span G-C is recorded as missing, YT54NC7G-q0003, appears in 2 of 4 runs — its 0.989 detection recall is partly a coin flip on that span. Report stability alongside recall rather than treating one unseeded run as a point estimate.",
+    "run_record": "PASS — .runinfo.json sidecar verified 26 July: stop_reason, input/output tokens, both cache-token fields, wall time, response id."
+   },
+   "G-O": {
+    "id": "ollama_gemma4-26b-mlx",
+    "role": "Open-weight generative detector; reproducibility and cost comparison",
+    "backend": "Ollama REST, native tool-calling (frozen 2026-07-22) with content-JSON fallback",
+    "result_development": "dF1 0.751; eF1 0.844; macro F1 0.741",
+    "offset_recovery_smoke_test": "PASSED. 18 July 2026: 10/10 aligned on Mentz alone. 22 July 2026: 85/85 (100%) aligned across the full development set. The §4.3 exclusion floor is >10% unalignable.",
+    "tool_call_behaviour_development": "0 native tool calls in 4/4 articles; all runs accepted via content-JSON fallback, one requiring repair",
+    "access_or_run_date": "2026-07-22 (full development set; 18 July smoke test was a separate 10/10 run on Mentz alone)",
+    "decoding": {
+     "temperature": 0,
+     "num_ctx": 98304,
+     "num_predict": 24576,
+     "note": "num_ctx raised 32768 -> 65536 -> 98304 and num_predict 8192 -> 24576 on 26 July 2026. The input raise was justified by projection; the OUTPUT raise was found by running it: the densest dev article spends 0.399 output tokens/word, projecting Thomas to ~8,089 — 99% of the old 8,192 cap. A verification run on a 23,593-word out-of-sample article hit that cap exactly and lost the article."
+    },
+    "ollama_version": "0.32.1",
+    "malformed_output_policy": "native tool call; on failure one reminder retry; then content-JSON salvage, recorded per attempt in the .runinfo.json sidecar",
+    "verification_2026_07_26": {
+     "input_side": "PASS — 39,977 prompt tokens on a 23,593-word out-of-sample article, no truncation. Length-matched proxy (20,932 words) measured 29,538 prompt tokens, validating the 1.51 tok/word projection.",
+     "reliability": "RESOLVED. The earlier \"1 success in 3\" on a quote-dense 23,593-word article was a salvage defect, not a model limit: the response was a bare array (unparseable by the old {...}-only scan) and/or carried one corrupted entry that discarded its neighbours. Across five windows, 106 of 108 entries were individually valid while the harness accepted 0. After the fix, three full-article runs: 3/3 success, 50/49/57 candidates, all done_reason \"stop\", no retries. Windowing tested and NOT adopted — unnecessary.",
+     "tool_call_rate": "5 of 6 distinct articles answered without a native tool call; 1 of 6 used one (3/3 on that article). Corrects an earlier \"0 of 6\" that double-counted repeat runs.",
+     "no_tools_test": "Removing the tool declaration was tested on the failing article: 0/3, every run degenerating to the full 24,576-token cap at ~122,000 characters. With the declaration the same article succeeds 1/3 at 3,471 tokens. The declared schema bounds generation even when the model answers in content JSON, so the 22 July mechanism is retained on evidence.",
+     "open_item": "CLOSED. No retry-budget change is required. Remaining reportable: candidate counts vary run to run (50/49/57), consistent with the 22 July temperature-0 non-determinism — report G-O counts with that variance, as G-C counts are reported with 0.895 span stability."
+    },
+    "acceptance_policy": "Amended 26 July 2026, before any test article was opened. Order per attempt: native tool call; else whole-document content JSON, accepting BOTH the {\"quotes\": [...]} envelope and a bare array, with the single unterminated-string repair; else PER-ENTRY recovery — individual entries extracted and validated against the same pydantic schema, recovered/dropped counts recorded. Per-entry runs only after every whole-document path fails, so articles those paths already accept are untouched and development results cannot move (pinned by regression test)."
+   },
+   "H": {
+    "id": "hybrid family (7 variants, all predeclared 26 July 2026 before any test article was opened)",
+    "role": "Deterministic detector combinations, to test whether and how a generative detector improves the pipeline",
+    "merge_rule": "collapse a span only when another CONTAINS it, no transitive closure; longest member of a containment group; provenance in proposed_by",
+    "gate_definition": "gate(Q) keeps only Quid spans overlapping a MARKED span of the article — deterministic, uses no gold, follows from the frozen target being marked quotation",
+    "intersection_definition": "Q ∩ G-C keeps each G-C span that overlaps some Q span, retaining the G-C boundary as the more precise detector on development",
+    "variants": {
+     "hybrid": "Q ∪ G-C — the original plan §4.4 union. dF1 0.559, eF1 0.718",
+     "hybrid_qgated": "gate(Q) ∪ G-C. dF1 0.912, eF1 0.957, recall 1.000",
+     "hybrid_mgc": "M ∪ G-C — does a frontier detector improve the EXISTING formatting-only method? dF1 0.547, eF1 0.994, recall 1.000",
+     "hybrid_mgo": "M ∪ G-O — same question, open weights, no API anywhere. dF1 0.496, eF1 0.960",
+     "hybrid_gcgo": "G-C ∪ G-O — do two generative detectors complement each other? dF1 0.848, eF1 0.953",
+     "hybrid_xqgc": "Q ∩ G-C — agreement-only. dP 1.000, dF1 0.983, eF1 0.983, macro 0.980",
+     "hybrid_all": "M ∪ gate(Q) ∪ G-C ∪ G-O. dF1 0.488, eF1 0.939"
+    },
+    "multiplicity_control": "The set is frozen in full before the test split is touched and EVERY variant is reported, winner or not. The primary contrast (G-C − Q on detection F1) is fixed and does not move to whichever variant wins on test. The earlier \"at most one additional hybrid row\" limit was a page-budget heuristic, not a safeguard, and was lifted 26 July 2026 on the ground that the paper asks whether and how AI improves this pipeline — a question a single combination cannot answer. What protects against multiplicity is predeclaration and complete reporting, not a small count."
+   }
+  },
+  "early_cut_criterion": {
+   "plan_reference": "experimental_plan_2026-07-17.md §2, decide by 24 July 2026",
+   "criterion_text": "if the open-weight detector fails the offset-recovery smoke test (§4.3) or is clearly dominated on development, cut to one generative system",
+   "decision": "KEEP G-O (ollama_gemma4-26b-mlx). Recorded 2026-07-26 by the author.",
+   "evidence": [
+    "Objective trigger not met: the offset-recovery smoke test is the criterion's only measurable arm, and G-O passed it — 10/10 on Mentz (18 July 2026) and 85/85 across the full development set (22 July 2026) — against a >10% failure floor.",
+    "The 'clearly dominated' arm is a judgement clause whose stated purpose was calendar and page-budget relief, not a claim that a weaker detector is uninformative. Neither pressure applies: the development runs are complete and already paid for.",
+    "G-O is not dominated uniformly but asymmetrically, which is itself a result: 17/18 recall on unmarked block quotations (the stratum where the M baseline scores 0/18) against 5/16 on curly-single spans, where it is the weakest system in the matrix.",
+    "G-O is the only system carrying the open-weight reproducibility and cost axis. Cutting it would remove the paper's ability to say whether the method is runnable without commercial API access, which is part of the stated contribution.",
+    "The open/closed elicitation difference is only observable with G-O present: it made no native tool call on any of the four development articles despite tool-calling being its frozen mechanism."
+   ],
+   "framing_note": "The paper's question is whether open-weight and frontier models improve on existing quotation-detection methods. Reporting both models is the evaluation; a self-imposed reduction rule adopted for workload control is not a reason to withhold a completed, valid result. The criterion is recorded here as set aside deliberately, with reasons, rather than silently unapplied.",
+   "gate_note": "The plan set this gate at 24 July; the decision was recorded on 26 July, two days late, by which point the full development metrics existed. Disclosed rather than back-dated: the \"clearly dominated\" judgement was therefore made with more information than the gate envisaged."
+  },
+  "statistics": {
+   "primary_contrast": "G-C minus Q on detection F1, article-level paired bootstrap; end-to-end F1 secondary.",
+   "note": "Predeclared 2026-07-26, before any test article was opened. Six systems yield 15 pairwise contrasts across several metrics; naming the primary contrast in advance forecloses selection after the fact. Every other comparison is estimation, reported with intervals and not as a test.",
+   "paired_seed": "derived from each pair's identity (crc32 of the tag pair), not its enumeration index, so intervals do not move when the system set changes.",
+   "supplementary": "exact paired sign test on per-article differences, plus the full per-article difference table (n=12 on test)."
+  }
+ },
+ "environment": {
+  "python": "3.13.2 | packaged by Anaconda, Inc. | (main, Feb  6 2025, 12:55:35) [Clang 14.0.6 ]",
+  "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+  "packages": {
+   "Quid": null,
+   "pydantic": "2.10.3",
+   "anthropic": "0.117.1"
+  }
+ }
+}

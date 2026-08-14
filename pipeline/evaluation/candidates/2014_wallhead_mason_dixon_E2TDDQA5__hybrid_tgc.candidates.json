@@ -1,0 +1,471 @@
+[
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0001",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "349",
+  "confidence": "hybrid",
+  "article_start_char": 4201,
+  "article_end_char": 4346,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-01"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0002",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon | P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "313",
+  "confidence": "hybrid",
+  "article_start_char": 8393,
+  "article_end_char": 9023,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-02",
+   "2014_wallhead_mason_dixon_E2TDDQA5-tm-0001"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0003",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon | P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "313",
+  "confidence": "hybrid",
+  "article_start_char": 9939,
+  "article_end_char": 10053,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-03",
+   "2014_wallhead_mason_dixon_E2TDDQA5-tm-0002"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0004",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "728",
+  "confidence": "hybrid",
+  "article_start_char": 11728,
+  "article_end_char": 11768,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-04"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0005",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "728",
+  "confidence": "hybrid",
+  "article_start_char": 11869,
+  "article_end_char": 11914,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-05"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0006",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "728",
+  "confidence": "hybrid",
+  "article_start_char": 11990,
+  "article_end_char": 12059,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0007",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13369,
+  "article_end_char": 14728,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-tm-0003"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0008",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "61",
+  "confidence": "hybrid",
+  "article_start_char": 16386,
+  "article_end_char": 16431,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-08"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0009",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "272",
+  "confidence": "hybrid",
+  "article_start_char": 16473,
+  "article_end_char": 16604,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-09"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0010",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "290",
+  "confidence": "hybrid",
+  "article_start_char": 16644,
+  "article_end_char": 16728,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-10"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0011",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "25",
+  "confidence": "hybrid",
+  "article_start_char": 18386,
+  "article_end_char": 18758,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-11"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0012",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "721",
+  "confidence": "hybrid",
+  "article_start_char": 21989,
+  "article_end_char": 22041,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-17"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0013",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "721-2",
+  "confidence": "hybrid",
+  "article_start_char": 22054,
+  "article_end_char": 22085,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-18"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0014",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "P06 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "497",
+  "confidence": "hybrid",
+  "article_start_char": 22172,
+  "article_end_char": 22344,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-tm-0004",
+   "2014-13"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0015",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon | P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "674",
+  "confidence": "hybrid",
+  "article_start_char": 22873,
+  "article_end_char": 23244,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-14",
+   "2014_wallhead_mason_dixon_E2TDDQA5-tm-0005"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0016",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "438",
+  "confidence": "hybrid",
+  "article_start_char": 23780,
+  "article_end_char": 23835,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-15"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0017",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "P06 | Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "690",
+  "confidence": "hybrid",
+  "article_start_char": 25020,
+  "article_end_char": 25059,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-tm-0006",
+   "2014-16"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0018",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "252",
+  "confidence": "hybrid",
+  "article_start_char": 29767,
+  "article_end_char": 29854,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-12"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0019",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32552,
+  "article_end_char": 32581,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-tm-0007"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0020",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "139",
+  "confidence": "hybrid",
+  "article_start_char": 36093,
+  "article_end_char": 36141,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-19"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0021",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "772",
+  "confidence": "hybrid",
+  "article_start_char": 43149,
+  "article_end_char": 43313,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-20"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0022",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "769",
+  "confidence": "hybrid",
+  "article_start_char": 49197,
+  "article_end_char": 49773,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-21"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0023",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "345",
+  "confidence": "hybrid",
+  "article_start_char": 54441,
+  "article_end_char": 54502,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-22"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0024",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54819,
+  "article_end_char": 54847,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-23"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0025",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon (quoted via Copestake 2005, 176)",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55335,
+  "article_end_char": 55455,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-24"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0026",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56994,
+  "article_end_char": 57012,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-tm-0008"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_tgc-0027",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_tgc",
+  "detector_guess": "Mason & Dixon",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "352",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2014-07"
+  ]
+ }
+]

@@ -1,0 +1,16 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0001,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0002,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0003,Thomas Pynchon fiction,False,,,,,,,False,,0
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0004,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,0.938,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0005,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,0.939,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0006,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,0.993,False,P03,2
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0007,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0008,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,0.984,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0009,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,0.982,False,P03,2
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0010,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,2
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0011,,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,2
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0012,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 2,2,,0.996,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0013,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 4,4,,0.987,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0014,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 6,6,,0.996,False,P03,2
+2012_miller_naming_oedipa_YUZMXRKY-hybrid_gcgo-0015,Thomas Pynchon fiction,True,The Crying of Lot 49,P03,Chapter 1,1,,0.99,False,P03,1

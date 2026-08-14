@@ -1,0 +1,187 @@
+{
+ "schema_version": "2.0",
+ "article": "2012_miller_naming_oedipa_YUZMXRKY",
+ "corpus_id": "CORPUS-YUZMXRKY",
+ "split": "development",
+ "body_sha256": "ddfb1b81cdd4a5c04408642e26e06852d715a015643ab50581e12a3cefa0dfee",
+ "quotes": [
+  {
+   "gold_id": "YUZMXRKY-q0005",
+   "article_start_char": 8876,
+   "article_end_char": 8917,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 6,
+   "true_section_label": "Chapter 6",
+   "in_primary_corpus": true,
+   "quotation_form": "straight_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YUZMXRKY-q0006",
+   "article_start_char": 9706,
+   "article_end_char": 9737,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 6,
+   "true_section_label": "Chapter 6",
+   "in_primary_corpus": true,
+   "quotation_form": "straight_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YUZMXRKY-q0012",
+   "article_start_char": 13666,
+   "article_end_char": 13767,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "straight_double",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YUZMXRKY-q0019",
+   "article_start_char": 22497,
+   "article_end_char": 22547,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "straight_double",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YUZMXRKY-q0021",
+   "article_start_char": 24477,
+   "article_end_char": 24537,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "straight_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "YUZMXRKY-q0023",
+   "article_start_char": 28040,
+   "article_end_char": 28102,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 6,
+   "true_section_label": "Chapter 6",
+   "in_primary_corpus": true,
+   "quotation_form": "straight_double",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YUZMXRKY-m0003",
+   "article_start_char": 22853,
+   "article_end_char": 23553,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YUZMXRKY-m0006",
+   "article_start_char": 32514,
+   "article_end_char": 32910,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 6,
+   "true_section_label": "Chapter 6",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YUZMXRKY-m0010",
+   "article_start_char": 37659,
+   "article_end_char": 38058,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 5,
+   "true_section_label": "Chapter 5",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "brackets",
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "YUZMXRKY-m0012",
+   "article_start_char": 40279,
+   "article_end_char": 40528,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 2,
+   "true_section_label": "Chapter 2",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YUZMXRKY-m0013",
+   "article_start_char": 42424,
+   "article_end_char": 42743,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 4,
+   "true_section_label": "Chapter 4",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YUZMXRKY-m0017",
+   "article_start_char": 47970,
+   "article_end_char": 48448,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 6,
+   "true_section_label": "Chapter 6",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YUZMXRKY-m0019",
+   "article_start_char": 50073,
+   "article_end_char": 50280,
+   "true_pid": "P03",
+   "true_work": "The Crying of Lot 49",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  }
+ ],
+ "excluded_out_of_scope": []
+}

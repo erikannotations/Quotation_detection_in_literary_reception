@@ -1,0 +1,689 @@
+[
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0001",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 1425,
+  "article_end_char": 1455,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0002",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 1514,
+  "article_end_char": 1533,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0003",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 2176,
+  "article_end_char": 2222,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0004",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 2685,
+  "article_end_char": 2711,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0005",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 2898,
+  "article_end_char": 3115,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P06",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0006",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 3465,
+  "article_end_char": 3517,
+  "quid_candidate_pids": [
+   "P04",
+   "P09"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0007",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 4360,
+  "article_end_char": 4443,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0008",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 5823,
+  "article_end_char": 5844,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0009",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 10549,
+  "article_end_char": 10568,
+  "quid_candidate_pids": [
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0010",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 12212,
+  "article_end_char": 12235,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0011",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13446,
+  "article_end_char": 13468,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0012",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14845,
+  "article_end_char": 14864,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0013",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15852,
+  "article_end_char": 15962,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0014",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16128,
+  "article_end_char": 16147,
+  "quid_candidate_pids": [
+   "P06",
+   "P09"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0015",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17448,
+  "article_end_char": 17795,
+  "quid_candidate_pids": [
+   "P04",
+   "P10"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0016",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17859,
+  "article_end_char": 17914,
+  "quid_candidate_pids": [
+   "P04",
+   "P06"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0017",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18594,
+  "article_end_char": 18613,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0018",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 19380,
+  "article_end_char": 19401,
+  "quid_candidate_pids": [
+   "P04",
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0019",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20807,
+  "article_end_char": 20997,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0020",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21211,
+  "article_end_char": 21230,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0021",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P03|P04|P05|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21587,
+  "article_end_char": 21611,
+  "quid_candidate_pids": [
+   "P02",
+   "P03",
+   "P04",
+   "P05",
+   "P08"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0022",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22217,
+  "article_end_char": 22449,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0023",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22987,
+  "article_end_char": 23009,
+  "quid_candidate_pids": [
+   "P02",
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0024",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 23817,
+  "article_end_char": 23843,
+  "quid_candidate_pids": [
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0025",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24441,
+  "article_end_char": 24547,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0026",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29088,
+  "article_end_char": 29108,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0027",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29622,
+  "article_end_char": 30392,
+  "quid_candidate_pids": [
+   "P04",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0028",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30401,
+  "article_end_char": 30426,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0029",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30815,
+  "article_end_char": 30837,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0030",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30951,
+  "article_end_char": 30980,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0031",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31399,
+  "article_end_char": 31422,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0032",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 34166,
+  "article_end_char": 34191,
+  "quid_candidate_pids": [
+   "P05",
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0033",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 35460,
+  "article_end_char": 35490,
+  "quid_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0034",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36713,
+  "article_end_char": 36734,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0035",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 37451,
+  "article_end_char": 37575,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0036",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 37797,
+  "article_end_char": 37840,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0037",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 37947,
+  "article_end_char": 37980,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0038",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 37982,
+  "article_end_char": 38011,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0039",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38314,
+  "article_end_char": 38456,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0040",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39376,
+  "article_end_char": 39401,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0041",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P04|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39828,
+  "article_end_char": 39913,
+  "quid_candidate_pids": [
+   "P01",
+   "P04",
+   "P10"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0042",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 40173,
+  "article_end_char": 40237,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0043",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 43412,
+  "article_end_char": 43442,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0044",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 43729,
+  "article_end_char": 43776,
+  "quid_candidate_pids": [
+   "P04",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0045",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 45717,
+  "article_end_char": 45747,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0046",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 45806,
+  "article_end_char": 45825,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-quid-0047",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50224,
+  "article_end_char": 50249,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ }
+]

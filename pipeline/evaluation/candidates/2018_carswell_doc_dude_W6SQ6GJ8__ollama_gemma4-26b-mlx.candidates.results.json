@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2018-01",
+  "detector_guess": "",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter ONE",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2018-02",
+  "detector_guess": "",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter SEVENTEEN",
+  "section_n": 17,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2018-03",
+  "detector_guess": "",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter NINETEEN",
+  "section_n": 19,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2018-04",
+  "detector_guess": "",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter NINETEEN",
+  "section_n": 19,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2018-05",
+  "detector_guess": "",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter NINETEEN",
+  "section_n": 19,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ }
+]

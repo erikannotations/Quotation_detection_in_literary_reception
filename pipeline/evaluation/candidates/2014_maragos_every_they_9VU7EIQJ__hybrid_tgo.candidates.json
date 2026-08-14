@@ -1,0 +1,250 @@
+[
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0001",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "287",
+  "confidence": "hybrid",
+  "article_start_char": 10298,
+  "article_end_char": 11063,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-01",
+   "2014_maragos_every_they_9VU7EIQJ-tm-0001"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0002",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "270",
+  "confidence": "hybrid",
+  "article_start_char": 12597,
+  "article_end_char": 12800,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-02"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0003",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "102",
+  "confidence": "hybrid",
+  "article_start_char": 13994,
+  "article_end_char": 14292,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-03"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0004",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P06",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "347",
+  "confidence": "hybrid",
+  "article_start_char": 15647,
+  "article_end_char": 15707,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-04",
+   "2014_maragos_every_they_9VU7EIQJ-tm-0002"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0005",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "230",
+  "confidence": "hybrid",
+  "article_start_char": 17095,
+  "article_end_char": 17522,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-05"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0006",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17978,
+  "article_end_char": 18002,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-tm-0003"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0007",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "10",
+  "confidence": "hybrid",
+  "article_start_char": 24125,
+  "article_end_char": 24344,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0008",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "570",
+  "confidence": "hybrid",
+  "article_start_char": 25891,
+  "article_end_char": 26079,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0009",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P07",
+  "attributed_work": "Against the Day",
+  "attributed_page": "50",
+  "confidence": "hybrid",
+  "article_start_char": 27043,
+  "article_end_char": 27804,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-08",
+   "2014_maragos_every_they_9VU7EIQJ-tm-0004"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0010",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P07",
+  "attributed_work": "Against the Day",
+  "attributed_page": "87",
+  "confidence": "hybrid",
+  "article_start_char": 29007,
+  "article_end_char": 29042,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-09",
+   "2014_maragos_every_they_9VU7EIQJ-tm-0005"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0011",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Against the Day",
+  "attributed_page": "87",
+  "confidence": "hybrid",
+  "article_start_char": 29225,
+  "article_end_char": 29748,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-10"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0012",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29231,
+  "article_end_char": 29388,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-tm-0006"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0013",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29440,
+  "article_end_char": 29747,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014_maragos_every_they_9VU7EIQJ-tm-0007"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-hybrid_tgo-0014",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P07",
+  "attributed_work": "Against the Day",
+  "attributed_page": "197",
+  "confidence": "hybrid",
+  "article_start_char": 33028,
+  "article_end_char": 33246,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2014-11",
+   "2014_maragos_every_they_9VU7EIQJ-tm-0008"
+  ]
+ }
+]

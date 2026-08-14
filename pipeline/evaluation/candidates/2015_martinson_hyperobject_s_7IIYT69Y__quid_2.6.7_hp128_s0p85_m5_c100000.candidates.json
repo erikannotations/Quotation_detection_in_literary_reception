@@ -1,0 +1,1263 @@
+[
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0001",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 551,
+  "article_end_char": 575,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0002",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8113,
+  "article_end_char": 8133,
+  "quid_candidate_pids": [
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0003",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8380,
+  "article_end_char": 8400,
+  "quid_candidate_pids": [
+   "P04",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0004",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9047,
+  "article_end_char": 9078,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0005",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16062,
+  "article_end_char": 16083,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0006",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16729,
+  "article_end_char": 17318,
+  "quid_candidate_pids": [
+   "P04",
+   "P06"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0007",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18302,
+  "article_end_char": 18363,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0008",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 18821,
+  "article_end_char": 18854,
+  "quid_candidate_pids": [
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0009",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 19299,
+  "article_end_char": 19385,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0010",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20112,
+  "article_end_char": 20132,
+  "quid_candidate_pids": [
+   "P08"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0011",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20288,
+  "article_end_char": 20308,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0012",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20497,
+  "article_end_char": 20517,
+  "quid_candidate_pids": [
+   "P04",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0013",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21157,
+  "article_end_char": 21172,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0014",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P05|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 23119,
+  "article_end_char": 23175,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P05",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0015",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 23185,
+  "article_end_char": 23204,
+  "quid_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0016",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24435,
+  "article_end_char": 24480,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0017",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P05|P06|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24640,
+  "article_end_char": 24666,
+  "quid_candidate_pids": [
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0018",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 26400,
+  "article_end_char": 26419,
+  "quid_candidate_pids": [
+   "P05",
+   "P06"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0019",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 26548,
+  "article_end_char": 26589,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0020",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 26983,
+  "article_end_char": 27020,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0021",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 27718,
+  "article_end_char": 27741,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0022",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28031,
+  "article_end_char": 28045,
+  "quid_candidate_pids": [
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0023",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P03|P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28241,
+  "article_end_char": 28267,
+  "quid_candidate_pids": [
+   "P02",
+   "P03",
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0024",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28460,
+  "article_end_char": 28647,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0025",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29769,
+  "article_end_char": 29787,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0026",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30703,
+  "article_end_char": 30774,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0027",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31057,
+  "article_end_char": 31260,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0028",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31988,
+  "article_end_char": 32019,
+  "quid_candidate_pids": [
+   "P02",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0029",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32159,
+  "article_end_char": 32333,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0030",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32430,
+  "article_end_char": 32460,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0031",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P05|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 33039,
+  "article_end_char": 33063,
+  "quid_candidate_pids": [
+   "P02",
+   "P05",
+   "P07",
+   "P08",
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0032",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 34826,
+  "article_end_char": 34843,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P06",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0033",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 34971,
+  "article_end_char": 34998,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0034",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 35375,
+  "article_end_char": 35405,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0035",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36100,
+  "article_end_char": 36161,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0036",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06|P07|P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36887,
+  "article_end_char": 36915,
+  "quid_candidate_pids": [
+   "P04",
+   "P06",
+   "P07",
+   "P08",
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0037",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38553,
+  "article_end_char": 38578,
+  "quid_candidate_pids": [
+   "P06",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0038",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38819,
+  "article_end_char": 38842,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0039",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39395,
+  "article_end_char": 39547,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0040",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39795,
+  "article_end_char": 39881,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0041",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P05|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39882,
+  "article_end_char": 40059,
+  "quid_candidate_pids": [
+   "P04",
+   "P05",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0042",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 40060,
+  "article_end_char": 40263,
+  "quid_candidate_pids": [
+   "P04",
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0043",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 41226,
+  "article_end_char": 41331,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0044",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 44241,
+  "article_end_char": 44288,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0045",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P05|P06|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 45317,
+  "article_end_char": 45520,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0046",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 45667,
+  "article_end_char": 45687,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0047",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 45718,
+  "article_end_char": 45744,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0048",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 46825,
+  "article_end_char": 46967,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0049",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 47188,
+  "article_end_char": 47211,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0050",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 47572,
+  "article_end_char": 47598,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0051",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 47922,
+  "article_end_char": 47959,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0052",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 48484,
+  "article_end_char": 48504,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0053",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49226,
+  "article_end_char": 49246,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0054",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49401,
+  "article_end_char": 49419,
+  "quid_candidate_pids": [
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0055",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49797,
+  "article_end_char": 49817,
+  "quid_candidate_pids": [
+   "P02",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0056",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49855,
+  "article_end_char": 49933,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0057",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50274,
+  "article_end_char": 50421,
+  "quid_candidate_pids": [
+   "P04",
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0058",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50665,
+  "article_end_char": 50748,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0059",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 51705,
+  "article_end_char": 51725,
+  "quid_candidate_pids": [
+   "P06",
+   "P08"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0060",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 52855,
+  "article_end_char": 52924,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0061",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 53699,
+  "article_end_char": 54028,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0062",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 55796,
+  "article_end_char": 56024,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0063",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 57861,
+  "article_end_char": 57883,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0064",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 58387,
+  "article_end_char": 58415,
+  "quid_candidate_pids": [
+   "P04",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0065",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 59450,
+  "article_end_char": 59467,
+  "quid_candidate_pids": [
+   "P04",
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0066",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 59491,
+  "article_end_char": 59518,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0067",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 59663,
+  "article_end_char": 60035,
+  "quid_candidate_pids": [
+   "P04",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0068",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 60287,
+  "article_end_char": 60309,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P06",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0069",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 61740,
+  "article_end_char": 61916,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0070",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 61921,
+  "article_end_char": 61967,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0071",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 62222,
+  "article_end_char": 62310,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0072",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 62700,
+  "article_end_char": 62729,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0073",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P04|P06|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 63743,
+  "article_end_char": 63914,
+  "quid_candidate_pids": [
+   "P01",
+   "P04",
+   "P06",
+   "P08"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0074",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 64113,
+  "article_end_char": 64235,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0075",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P06|P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 64902,
+  "article_end_char": 64920,
+  "quid_candidate_pids": [
+   "P02",
+   "P06",
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0076",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 65637,
+  "article_end_char": 65664,
+  "quid_candidate_pids": [
+   "P08"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0077",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 65734,
+  "article_end_char": 65751,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P06",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0078",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 66409,
+  "article_end_char": 66434,
+  "quid_candidate_pids": [
+   "P08",
+   "P10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0079",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 66611,
+  "article_end_char": 66634,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0080",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 68249,
+  "article_end_char": 68266,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0081",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 69284,
+  "article_end_char": 69306,
+  "quid_candidate_pids": [
+   "P02",
+   "P07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0082",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P05|P06|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 71633,
+  "article_end_char": 71654,
+  "quid_candidate_pids": [
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0083",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 71891,
+  "article_end_char": 71917,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-quid-0084",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 72366,
+  "article_end_char": 72387,
+  "quid_candidate_pids": [
+   "P03"
+  ]
+ }
+]

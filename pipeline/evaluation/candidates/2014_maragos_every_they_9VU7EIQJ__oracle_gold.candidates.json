@@ -1,0 +1,200 @@
+[
+ {
+  "id": "9VU7EIQJ-q0008",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 10298,
+  "article_end_char": 11063
+ },
+ {
+  "id": "9VU7EIQJ-q0009",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 12598,
+  "article_end_char": 12799
+ },
+ {
+  "id": "9VU7EIQJ-q0010",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 13994,
+  "article_end_char": 14292
+ },
+ {
+  "id": "9VU7EIQJ-q0012",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 15586,
+  "article_end_char": 15617
+ },
+ {
+  "id": "9VU7EIQJ-q0013",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 15648,
+  "article_end_char": 15706
+ },
+ {
+  "id": "9VU7EIQJ-q0014",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 19317,
+  "article_end_char": 19365
+ },
+ {
+  "id": "9VU7EIQJ-q0015",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 20044,
+  "article_end_char": 20070
+ },
+ {
+  "id": "9VU7EIQJ-q0017",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 21172,
+  "article_end_char": 21240
+ },
+ {
+  "id": "9VU7EIQJ-q0018",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 21916,
+  "article_end_char": 21944
+ },
+ {
+  "id": "9VU7EIQJ-q0019",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 24125,
+  "article_end_char": 24344
+ },
+ {
+  "id": "9VU7EIQJ-q0020",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 25892,
+  "article_end_char": 26078
+ },
+ {
+  "id": "9VU7EIQJ-q0021",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 29008,
+  "article_end_char": 29041
+ },
+ {
+  "id": "9VU7EIQJ-q0023",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 30230,
+  "article_end_char": 30262
+ },
+ {
+  "id": "9VU7EIQJ-q0026",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 33028,
+  "article_end_char": 33246
+ },
+ {
+  "id": "9VU7EIQJ-m0001",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 17095,
+  "article_end_char": 17522
+ },
+ {
+  "id": "9VU7EIQJ-m0002",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 22936,
+  "article_end_char": 23329
+ },
+ {
+  "id": "9VU7EIQJ-m0003",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 27043,
+  "article_end_char": 27804
+ },
+ {
+  "id": "9VU7EIQJ-m0004",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 29225,
+  "article_end_char": 29748
+ }
+]

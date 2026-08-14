@@ -1,0 +1,62 @@
+[
+ {
+  "id": "2018-01",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "14",
+  "confidence": "",
+  "article_start_char": 45017,
+  "article_end_char": 45044,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2018-02",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "314",
+  "confidence": "",
+  "article_start_char": 40172,
+  "article_end_char": 40315,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2018-03",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "348",
+  "confidence": "",
+  "article_start_char": 40937,
+  "article_end_char": 41078,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2018-04",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "349",
+  "confidence": "",
+  "article_start_char": 41936,
+  "article_end_char": 42144,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "2018-05",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "350",
+  "confidence": "",
+  "article_start_char": 39288,
+  "article_end_char": 39460,
+  "article_offset_occurrences": 1
+ }
+]

@@ -1,0 +1,39 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+LS5YAQLE-q0020,gold span,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+LS5YAQLE-q0021,gold span,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+LS5YAQLE-q0022,gold span,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+LS5YAQLE-q0023,gold span,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+LS5YAQLE-q0024,gold span,True,Bleeding Edge,P09,Chapter 28,28,,1.0,False,P09,1
+LS5YAQLE-q0027,gold span,True,Bleeding Edge,P09,Chapter 7,7,,1.0,False,P09,1
+LS5YAQLE-q0032,gold span,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,3
+LS5YAQLE-q0033,gold span,True,Bleeding Edge,P09,Chapter 32,32,,1.0,False,P09,1
+LS5YAQLE-q0034,gold span,True,Bleeding Edge,P09,Chapter 32,32,,1.0,False,P09,1
+LS5YAQLE-q0035,gold span,True,Bleeding Edge,P09,Chapter 32,32,,1.0,False,P09,1
+LS5YAQLE-q0046,gold span,True,Inherent Vice,P08,Chapter FOURTEEN,14,,1.0,False,P08,1
+LS5YAQLE-q0049,gold span,True,Bleeding Edge,P09,Chapter 33,33,,1.0,False,P09,4
+LS5YAQLE-q0055,gold span,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,1
+LS5YAQLE-q0057,gold span,True,Bleeding Edge,P09,Chapter 2,2,,0.971,False,P09,1
+LS5YAQLE-q0058,gold span,True,Bleeding Edge,P09,Chapter 2,2,,1.0,False,P09,1
+LS5YAQLE-q0063,gold span,True,Bleeding Edge,P09,Chapter 1,1,,1.0,False,P09,1
+LS5YAQLE-q0081,gold span,True,Bleeding Edge,P09,Chapter 38,38,,0.994,False,P09,1
+LS5YAQLE-q0082,gold span,True,Bleeding Edge,P09,Chapter 30,30,,1.0,False,P09,1
+LS5YAQLE-q0083,gold span,True,Bleeding Edge,P09,Chapter 30,30,,0.915,False,P09,1
+LS5YAQLE-q0087,gold span,True,Vineland,P05,Chapter 7,7,,1.0,False,P05,1
+LS5YAQLE-q0088,gold span,True,Bleeding Edge,P09,Chapter 2,2,,1.0,False,P09,1
+LS5YAQLE-q0089,gold span,True,Bleeding Edge,P09,Chapter 30,30,,0.913,False,P09,1
+LS5YAQLE-q0092,gold span,True,Bleeding Edge,P09,Chapter 10,10,,1.0,False,P09,1
+LS5YAQLE-q0093,gold span,True,Bleeding Edge,P09,Chapter 10,10,,0.967,False,P09,2
+LS5YAQLE-q0104,gold span,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,False,P04,1
+LS5YAQLE-q0105,gold span,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1
+LS5YAQLE-q0106,gold span,True,Bleeding Edge,P09,Chapter 3,3,,1.0,False,P09,1
+LS5YAQLE-q0113,gold span,True,Bleeding Edge,P09,Chapter 5,5,,0.955,False,P09,1
+LS5YAQLE-q0131,gold span,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,0.974,False,P04,1
+LS5YAQLE-q0132,gold span,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,1.0,False,P04,1
+LS5YAQLE-q0133,gold span,True,Gravity's Rainbow,P04,Episode 41,41,Part 3: In the Zone,1.0,False,P04,1
+LS5YAQLE-q0175,gold span,True,Inherent Vice,P08,Chapter SIX,6,,0.905,False,P08,1
+LS5YAQLE-q0185,gold span,True,Vineland,P05,Chapter 15,15,,0.993,False,P05,1
+LS5YAQLE-q0202,gold span,True,Against the Day,P07,Chapter 11,11,Part Two: Iceland Spar,1.0,False,P07,1
+LS5YAQLE-m0001,gold span,True,Bleeding Edge,P09,Chapter 23,23,,1.0,False,P09,1
+LS5YAQLE-m0002,gold span,True,Bleeding Edge,P09,Chapter 23,23,,1.0,False,P09,1
+LS5YAQLE-m0003,gold span,True,Bleeding Edge,P09,Chapter 38,38,,0.989,False,P09,1
+LS5YAQLE-m0004,gold span,True,Bleeding Edge,P09,Chapter 30,30,,1.0,False,P09,1

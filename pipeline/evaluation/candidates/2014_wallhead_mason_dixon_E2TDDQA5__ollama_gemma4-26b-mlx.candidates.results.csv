@@ -1,0 +1,17 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014-01,,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,1
+2014-02,,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
+2014-03,,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
+2014-04,,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,2
+2014-05,,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014-06,,False,,,,,,,False,,0
+2014-07,,False,,,,,,,False,,0
+2014-08,,True,Mason & Dixon,P06,Chapter 7,7,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014-09,,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+2014-10,,True,Mason & Dixon,P06,Chapter 29,29,Part 2: America,1.0,False,P06,1
+2014-11,,True,Mason & Dixon,P06,Chapter 8,8,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014-12,,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014-13,,True,Mason & Dixon,P06,Chapter 51,51,Part 2: America,1.0,False,P06,1
+2014-14,,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,2
+2014-15,,True,Mason & Dixon,P06,Chapter 43,43,Part 2: America,1.0,False,P06,1
+2014-16,,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1

@@ -1,0 +1,1398 @@
+[
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0001",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 419,
+  "article_end_char": 439,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0002",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 760,
+  "article_end_char": 793,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0003",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 3213,
+  "article_end_char": 3238,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0004",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 3602,
+  "article_end_char": 3621,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0005",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 4437,
+  "article_end_char": 4460,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0006",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 5060,
+  "article_end_char": 5083,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0007",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P03|P05|P06|P07|P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 5342,
+  "article_end_char": 5382,
+  "quid_candidate_pids": [
+   "P02",
+   "P03",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0008",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 5902,
+  "article_end_char": 5927,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0009",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 6737,
+  "article_end_char": 6759,
+  "quid_candidate_pids": [
+   "P08",
+   "P09"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0010",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7109,
+  "article_end_char": 7209,
+  "quid_candidate_pids": [
+   "P06",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0011",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P07|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7224,
+  "article_end_char": 7334,
+  "quid_candidate_pids": [
+   "P06",
+   "P07",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0012",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7481,
+  "article_end_char": 7527,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0013",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7649,
+  "article_end_char": 7674,
+  "quid_candidate_pids": [
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0014",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7675,
+  "article_end_char": 7698,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0015",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7941,
+  "article_end_char": 8227,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0016",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8232,
+  "article_end_char": 8295,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0017",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8387,
+  "article_end_char": 8419,
+  "quid_candidate_pids": [
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0018",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8475,
+  "article_end_char": 8538,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0019",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9072,
+  "article_end_char": 9093,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0020",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9158,
+  "article_end_char": 9523,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0021",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9759,
+  "article_end_char": 9788,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0022",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 10180,
+  "article_end_char": 10223,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0023",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 10655,
+  "article_end_char": 10678,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0024",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 11105,
+  "article_end_char": 11132,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0025",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 11165,
+  "article_end_char": 11181,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0026",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 11449,
+  "article_end_char": 11479,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0027",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 12674,
+  "article_end_char": 12698,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0028",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 12699,
+  "article_end_char": 12754,
+  "quid_candidate_pids": [
+   "P04",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0029",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13154,
+  "article_end_char": 13189,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0030",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14101,
+  "article_end_char": 14167,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0031",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14214,
+  "article_end_char": 14254,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0032",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14260,
+  "article_end_char": 14347,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0033",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15271,
+  "article_end_char": 15310,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0034",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15341,
+  "article_end_char": 15362,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0035",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21389,
+  "article_end_char": 21409,
+  "quid_candidate_pids": [
+   "P02",
+   "P05"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0036",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 21923,
+  "article_end_char": 21988,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0037",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 22330,
+  "article_end_char": 22356,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0038",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24024,
+  "article_end_char": 24057,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0039",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24089,
+  "article_end_char": 24150,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0040",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24169,
+  "article_end_char": 24192,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0041",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24256,
+  "article_end_char": 24325,
+  "quid_candidate_pids": [
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0042",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24863,
+  "article_end_char": 25075,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0043",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 25253,
+  "article_end_char": 25277,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0044",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28475,
+  "article_end_char": 28497,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0045",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P03|P04|P05|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28714,
+  "article_end_char": 28736,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P03",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0046",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28960,
+  "article_end_char": 28987,
+  "quid_candidate_pids": [
+   "P04",
+   "P08",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0047",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P03|P04|P05|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29037,
+  "article_end_char": 29054,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P03",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0048",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29101,
+  "article_end_char": 29125,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0049",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29473,
+  "article_end_char": 29499,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0050",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31048,
+  "article_end_char": 31067,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0051",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31265,
+  "article_end_char": 31376,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0052",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31515,
+  "article_end_char": 31535,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0053",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P03|P04|P05|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31755,
+  "article_end_char": 31777,
+  "quid_candidate_pids": [
+   "P02",
+   "P03",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0054",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 31870,
+  "article_end_char": 31892,
+  "quid_candidate_pids": [
+   "P04",
+   "P09"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0055",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32252,
+  "article_end_char": 32284,
+  "quid_candidate_pids": [
+   "P04",
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0056",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32642,
+  "article_end_char": 32670,
+  "quid_candidate_pids": [
+   "P05",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0057",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 33538,
+  "article_end_char": 33556,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0058",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 34758,
+  "article_end_char": 34785,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0059",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 35065,
+  "article_end_char": 35087,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0060",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 35931,
+  "article_end_char": 35957,
+  "quid_candidate_pids": [
+   "P02",
+   "P04",
+   "P06",
+   "P07",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0061",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P03|P04|P05|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36328,
+  "article_end_char": 36348,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P03",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P08",
+   "P09",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0062",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36362,
+  "article_end_char": 36389,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0063",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36757,
+  "article_end_char": 36775,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0064",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 36829,
+  "article_end_char": 36860,
+  "quid_candidate_pids": [
+   "P06",
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0065",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 37623,
+  "article_end_char": 37641,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0066",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 37862,
+  "article_end_char": 37890,
+  "quid_candidate_pids": [
+   "P01"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0067",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38096,
+  "article_end_char": 38119,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0068",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38785,
+  "article_end_char": 38815,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0069",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38990,
+  "article_end_char": 39082,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0070",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39784,
+  "article_end_char": 39846,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0071",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39870,
+  "article_end_char": 39930,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0072",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 40062,
+  "article_end_char": 40157,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0073",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 40677,
+  "article_end_char": 40696,
+  "quid_candidate_pids": [
+   "P10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0074",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 40836,
+  "article_end_char": 40863,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0075",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 41039,
+  "article_end_char": 41059,
+  "quid_candidate_pids": [
+   "P05",
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0076",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 41157,
+  "article_end_char": 41175,
+  "quid_candidate_pids": [
+   "P04",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0077",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 42081,
+  "article_end_char": 42100,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0078",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 42975,
+  "article_end_char": 42995,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0079",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 43209,
+  "article_end_char": 43327,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0080",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 43577,
+  "article_end_char": 43601,
+  "quid_candidate_pids": [
+   "P05",
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0081",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 45749,
+  "article_end_char": 45773,
+  "quid_candidate_pids": [
+   "P04",
+   "P06",
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0082",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 47503,
+  "article_end_char": 47524,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0083",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 48513,
+  "article_end_char": 48539,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0084",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P01|P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49967,
+  "article_end_char": 49985,
+  "quid_candidate_pids": [
+   "P01",
+   "P02",
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0085",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50581,
+  "article_end_char": 50608,
+  "quid_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0086",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 51751,
+  "article_end_char": 51775,
+  "quid_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0087",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 53263,
+  "article_end_char": 53283,
+  "quid_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0088",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 54054,
+  "article_end_char": 54178,
+  "quid_candidate_pids": [
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0089",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 54354,
+  "article_end_char": 54401,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0090",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P03|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 54959,
+  "article_end_char": 54979,
+  "quid_candidate_pids": [
+   "P02",
+   "P03",
+   "P07",
+   "P08"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0091",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 55297,
+  "article_end_char": 55326,
+  "quid_candidate_pids": [
+   "P02"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0092",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 56592,
+  "article_end_char": 56623,
+  "quid_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0093",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 56988,
+  "article_end_char": 57009,
+  "quid_candidate_pids": [
+   "P07",
+   "P09"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0094",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "quid_2.6.7_hp128_s0p85_m5_c100000",
+  "detector_guess": "P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 60058,
+  "article_end_char": 60093,
+  "quid_candidate_pids": [
+   "P02",
+   "P07"
+  ]
+ }
+]

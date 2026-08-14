@@ -1,0 +1,12 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2013_harvey_cry_within_C6VQPDG4-tm-0001,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-tm-0002,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-tm-0003,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,0.992,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-tm-0004,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-tm-0005,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,3
+2013_harvey_cry_within_C6VQPDG4-tm-0006,P03,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-tm-0007,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-tm-0008,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-tm-0009,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013_harvey_cry_within_C6VQPDG4-tm-0010,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,0.995,False,P03,2
+2013_harvey_cry_within_C6VQPDG4-tm-0011,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1

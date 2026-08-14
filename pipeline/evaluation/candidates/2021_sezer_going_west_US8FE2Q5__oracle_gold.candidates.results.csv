@@ -1,0 +1,77 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+US8FE2Q5-q0003,gold span,True,Mason & Dixon,P06,Chapter 21,21,Part 1: Latitudes and Departures,1.0,False,P06,2
+US8FE2Q5-q0004,gold span,True,Mason & Dixon,P06,Chapter 2,2,Part 1: Latitudes and Departures,0.978,False,P06,1
+US8FE2Q5-q0005,gold span,True,Mason & Dixon,P06,Chapter 2,2,Part 1: Latitudes and Departures,1.0,False,P06,1
+US8FE2Q5-q0006,gold span,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,0.996,False,P06,2
+US8FE2Q5-q0007,gold span,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,1.0,False,P06,1
+US8FE2Q5-q0009,gold span,True,Mason & Dixon,P06,Chapter 32,32,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0010,gold span,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0012,gold span,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+US8FE2Q5-q0013,gold span,True,Mason & Dixon,P06,Chapter 30,30,Part 2: America,1.0,False,P06,4
+US8FE2Q5-q0014,gold span,True,Mason & Dixon,P06,Chapter 30,30,Part 2: America,1.0,False,P06,2
+US8FE2Q5-q0015,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.978,False,P06,1
+US8FE2Q5-q0016,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0018,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0019,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,2
+US8FE2Q5-q0020,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.829,False,P06,1
+US8FE2Q5-q0021,gold span,True,Mason & Dixon,P06,Chapter 48,48,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0022,gold span,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0023,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.962,False,P06,1
+US8FE2Q5-q0024,gold span,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0025,gold span,True,Mason & Dixon,P06,Chapter 32,32,Part 2: America,1.0,False,P06,2
+US8FE2Q5-q0028,gold span,False,,,,,,,False,,0
+US8FE2Q5-q0029,gold span,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0030,gold span,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0033,gold span,True,Mason & Dixon,P06,Chapter 46,46,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0034,gold span,True,Mason & Dixon,P06,Chapter 52,52,Part 2: America,0.989,False,P06,2
+US8FE2Q5-q0035,gold span,False,,,,,,,False,,0
+US8FE2Q5-q0036,gold span,False,,,,,,0.692,False,,0
+US8FE2Q5-q0037,gold span,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,2
+US8FE2Q5-q0038,gold span,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,0.981,False,P06,2
+US8FE2Q5-q0039,gold span,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0043,gold span,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0044,gold span,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,0.982,False,P06,2
+US8FE2Q5-q0045,gold span,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0046,gold span,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,0.992,False,P06,1
+US8FE2Q5-q0047,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0050,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.957,False,P06,1
+US8FE2Q5-q0051,gold span,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,0.995,False,P06,1
+US8FE2Q5-q0052,gold span,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0053,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.989,False,P06,1
+US8FE2Q5-q0054,gold span,True,Mason & Dixon,P06,Chapter 47,47,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0055,gold span,True,Mason & Dixon,P06,Chapter 47,47,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0056,gold span,True,Mason & Dixon,P06,Chapter 47,47,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0058,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0061,gold span,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,2
+US8FE2Q5-q0063,gold span,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.974,False,P06,1
+US8FE2Q5-q0065,gold span,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+US8FE2Q5-q0066,gold span,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+US8FE2Q5-q0068,gold span,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0069,gold span,False,,,,,,,False,,0
+US8FE2Q5-q0070,gold span,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0071,gold span,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0072,gold span,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0074,gold span,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0077,gold span,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0078,gold span,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,0.975,False,P06,1
+US8FE2Q5-q0079,gold span,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,2
+US8FE2Q5-q0080,gold span,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0082,gold span,True,Mason & Dixon,P06,Chapter 60,60,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0083,gold span,True,Mason & Dixon,P06,Chapter 65,65,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0084,gold span,True,Mason & Dixon,P06,Chapter 65,65,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0085,gold span,True,Mason & Dixon,P06,Chapter 56,56,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0086,gold span,True,Mason & Dixon,P06,Chapter 56,56,Part 2: America,0.99,False,P06,1
+US8FE2Q5-q0087,gold span,True,Mason & Dixon,P06,Chapter 75,75,Part 3: Last Transit,1.0,False,P06,1
+US8FE2Q5-q0088,gold span,True,Mason & Dixon,P06,Chapter 75,75,Part 3: Last Transit,1.0,False,P06,1
+US8FE2Q5-q0089,gold span,True,Mason & Dixon,P06,Chapter 75,75,Part 3: Last Transit,1.0,False,P06,1
+US8FE2Q5-q0090,gold span,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0091,gold span,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.987,False,P06,1
+US8FE2Q5-q0092,gold span,True,Mason & Dixon,P06,Chapter 67,67,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0093,gold span,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,0.943,False,P06,1
+US8FE2Q5-q0094,gold span,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0095,gold span,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.909,False,P06,1
+US8FE2Q5-q0096,gold span,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+US8FE2Q5-q0097,gold span,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+US8FE2Q5-q0111,gold span,True,Mason & Dixon,P06,Chapter 56,56,Part 2: America,1.0,False,P06,1
+US8FE2Q5-m0001,gold span,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,4
+US8FE2Q5-m0003,gold span,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1

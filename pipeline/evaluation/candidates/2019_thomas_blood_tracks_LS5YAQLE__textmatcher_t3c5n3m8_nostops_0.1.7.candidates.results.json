@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0001",
+  "detector_guess": "P09",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Bleeding Edge",
+  "pid": "P09",
+  "section": "Chapter 7",
+  "section_n": 7,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P09",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0002",
+  "detector_guess": "P09",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Bleeding Edge",
+  "pid": "P09",
+  "section": "Chapter 33",
+  "section_n": 33,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P09",
+  "n_near_locations": 3
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0003",
+  "detector_guess": "P09",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Bleeding Edge",
+  "pid": "P09",
+  "section": "Chapter 38",
+  "section_n": 38,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P09",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0004",
+  "detector_guess": "P04",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Gravity's Rainbow",
+  "pid": "P04",
+  "section": "Episode 41",
+  "section_n": 41,
+  "part": "Part 3: In the Zone",
+  "score": 0.917,
+  "source_ambiguous": false,
+  "candidate_pids": "P04",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-tm-0005",
+  "detector_guess": "P04",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Gravity's Rainbow",
+  "pid": "P04",
+  "section": "Episode 41",
+  "section_n": 41,
+  "part": "Part 3: In the Zone",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P04",
+  "n_near_locations": 1
+ }
+]

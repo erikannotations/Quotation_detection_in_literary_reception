@@ -1,0 +1,95 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0001,P02,True,V.,P02,Chapter Eleven,11,,1.0,False,P02,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0002,P06,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0003,P05,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0004,P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0005,P02,True,V.,P02,Chapter Nine,9,,1.0,False,P02,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0006,P06,True,Mason & Dixon,P06,Chapter 59,59,Part 2: America,1.0,False,P06,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0007,P02|P03|P05|P06|P07|P08|P10,True,Mason & Dixon,P06,Chapter 4,4,Part 1: Latitudes and Departures,0.8,False,P06,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0008,P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0009,P08|P09,True,Vineland,P05,Chapter 14,14,,1.0,True,P05|P08|P09,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0010,P06|P07|P08 | P07,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0011,P06|P07|P10 | P07,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0012,P07,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,0.833,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0013,P10,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0014,P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0015,P07,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0016,P07,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0017,P07|P09|P10,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0018,P07,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0019,P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0020,P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0021,P02,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0022,P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0023,P06,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0024,P07,True,Against the Day,P07,Chapter 18,18,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0025,P06,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0026,P07,True,Against the Day,P07,Chapter 66,66,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0027,P07,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0028,P04|P07|P09|P10 | P07,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0029,P04,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0030,P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,0.984,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0031,P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0032,P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0033,P07,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0034,P07,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0035,P02|P05,True,V.,P02,Chapter Ten,10,,1.0,True,P02|P05,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0036,P07,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0037,P06,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0038,P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0039,P07,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0040,P07,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0041,P07|P08,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0042,P07,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0043,P07,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0044,P06,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0045,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Slow Learner,P01,Under the Rose,5,,0.905,True,P01|P02|P04|P05|P06|P07|P09|P10,19
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0046,P04|P08|P10,True,Inherent Vice,P08,Chapter SIXTEEN,16,,0.88,False,P08,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0047,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Slow Learner,P01,Low-Lands,3,,1.0,True,P01|P02|P03|P04|P05|P06,20
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0048,P07,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0049,P06,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0050,P06,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0051,P07,True,Against the Day,P07,Chapter 68,68,Part Four: Against the Day,0.83,False,P07,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0052,P04|P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0053,P02|P03|P04|P05|P06|P07|P08|P09|P10,True,V.,P02,Chapter Two,2,,1.0,True,P02|P03|P04|P05|P06,20
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0054,P04|P09,True,Gravity's Rainbow,P04,Episode 43,43,Part 3: In the Zone,1.0,False,P04,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0055,P04|P07,True,Gravity's Rainbow,P04,Episode 57,57,Part 3: In the Zone,0.875,False,P04,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0056,P05|P06|P07,True,Against the Day,P07,Chapter 68,68,Part Four: Against the Day,0.963,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0057,P07,True,Against the Day,P07,Chapter 29,29,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0058,P02,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0059,P05,True,Vineland,P05,Chapter 10,10,,1.0,False,P05,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0060,P02|P04|P06|P07|P09|P10,True,Gravity's Rainbow,P04,Episode 32,32,Part 3: In the Zone,1.0,True,P04|P07,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0061,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Slow Learner,P01,The Small Rain,2,,1.0,True,P01|P02|P03|P04,20
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0062,P07,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,5
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0063,P02,True,V.,P02,Chapter Two,2,,1.0,False,P02,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0064,P06|P10,False,,,,,,0.742,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0065,P07,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0066,P01,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0067,P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0068,P07,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0069,P07,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,0.93,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0070,P07,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0071,P07,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0072,P07,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,0.898,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0073,P10,True,Shadow Ticket,P10,Chapter 14,14,,1.0,False,P10,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0074,P07,True,Against the Day,P07,Chapter 66,66,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0075,P05|P07,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0076,P04|P06|P07,True,Gravity's Rainbow,P04,Episode 11,11,Part 1: Beyond the Zero,1.0,True,P04|P07,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0077,P06,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0078,P04,True,Gravity's Rainbow,P04,Episode 34,34,Part 3: In the Zone,1.0,False,P04,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0079,P07,True,Against the Day,P07,Chapter 60,60,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0080,P05|P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0081,P04|P06|P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0082,P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0083,P07,True,Against the Day,P07,Chapter 18,18,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0084,P01|P02|P07,True,Slow Learner,P01,The Secret Integration,6,,1.0,True,P01|P07,4
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0085,P04,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0086,P06,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0087,P05,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0088,P07|P09,True,Against the Day,P07,Chapter 59,59,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0089,P07,True,Against the Day,P07,Chapter 63,63,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0090,P02|P03|P07|P08,True,V.,P02,Chapter Seven,7,,1.0,True,P02|P03,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0091,P02,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0092,P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0093,P07|P09,True,Vineland,P05,Chapter 15,15,,1.0,True,P05|P07|P09,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_qt-0094,P02|P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1

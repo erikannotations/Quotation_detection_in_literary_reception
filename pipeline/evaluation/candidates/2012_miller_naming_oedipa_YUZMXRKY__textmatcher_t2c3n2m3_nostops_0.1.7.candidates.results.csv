@@ -1,0 +1,6 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2012_miller_naming_oedipa_YUZMXRKY-tm-0001,P03,True,The Crying of Lot 49,P03,Chapter 1,1,,0.927,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-tm-0002,P03,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2012_miller_naming_oedipa_YUZMXRKY-tm-0003,P03,False,,,,,,,False,,0
+2012_miller_naming_oedipa_YUZMXRKY-tm-0004,P03,True,The Crying of Lot 49,P03,Chapter 1,1,,0.992,False,P03,2
+2012_miller_naming_oedipa_YUZMXRKY-tm-0005,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,0.981,False,P03,1

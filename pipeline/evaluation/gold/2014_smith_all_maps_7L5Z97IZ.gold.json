@@ -1,0 +1,614 @@
+{
+ "schema_version": "2.0",
+ "article": "2014_smith_all_maps_7L5Z97IZ",
+ "corpus_id": "CORPUS-7L5Z97IZ",
+ "split": "development",
+ "body_sha256": "8a3dad08eaef3620d30047665cc1e3e958e9e0bb6ba55c8e9e77c0e706e6423d",
+ "quotes": [
+  {
+   "gold_id": "7L5Z97IZ-q0011",
+   "article_start_char": 6311,
+   "article_end_char": 6381,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 21,
+   "true_section_label": "Chapter 21",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0012",
+   "article_start_char": 9208,
+   "article_end_char": 9545,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 32,
+   "true_section_label": "Chapter 32",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0013",
+   "article_start_char": 10376,
+   "article_end_char": 10477,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0016",
+   "article_start_char": 12496,
+   "article_end_char": 12789,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 64,
+   "true_section_label": "Chapter 64",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0021",
+   "article_start_char": 13998,
+   "article_end_char": 14040,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0023",
+   "article_start_char": 16144,
+   "article_end_char": 16305,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0028",
+   "article_start_char": 19341,
+   "article_end_char": 19420,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0029",
+   "article_start_char": 19742,
+   "article_end_char": 19774,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0030",
+   "article_start_char": 19868,
+   "article_end_char": 19909,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0031",
+   "article_start_char": 20260,
+   "article_end_char": 20508,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "ellipsis",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0032",
+   "article_start_char": 20960,
+   "article_end_char": 21005,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0033",
+   "article_start_char": 21152,
+   "article_end_char": 21199,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0034",
+   "article_start_char": 21525,
+   "article_end_char": 21569,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0035",
+   "article_start_char": 21677,
+   "article_end_char": 21806,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0038",
+   "article_start_char": 22292,
+   "article_end_char": 22326,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0039",
+   "article_start_char": 22754,
+   "article_end_char": 22817,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0040",
+   "article_start_char": 22870,
+   "article_end_char": 23003,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0041",
+   "article_start_char": 23398,
+   "article_end_char": 23463,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0042",
+   "article_start_char": 23811,
+   "article_end_char": 23840,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0044",
+   "article_start_char": 27251,
+   "article_end_char": 27362,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0048",
+   "article_start_char": 30971,
+   "article_end_char": 31187,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 72,
+   "true_section_label": "Chapter 72",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "ellipsis",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0053",
+   "article_start_char": 32700,
+   "article_end_char": 32747,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0054",
+   "article_start_char": 32987,
+   "article_end_char": 33132,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0055",
+   "article_start_char": 33555,
+   "article_end_char": 33674,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0056",
+   "article_start_char": 33725,
+   "article_end_char": 33763,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0057",
+   "article_start_char": 33831,
+   "article_end_char": 34054,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0060",
+   "article_start_char": 35239,
+   "article_end_char": 35304,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 54,
+   "true_section_label": "Chapter 54",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0061",
+   "article_start_char": 35965,
+   "article_end_char": 36121,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0063",
+   "article_start_char": 38289,
+   "article_end_char": 38447,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 55,
+   "true_section_label": "Chapter 55",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0065",
+   "article_start_char": 39855,
+   "article_end_char": 39943,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 54,
+   "true_section_label": "Chapter 54",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0066",
+   "article_start_char": 40154,
+   "article_end_char": 40192,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 54,
+   "true_section_label": "Chapter 54",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0067",
+   "article_start_char": 40267,
+   "article_end_char": 40318,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 54,
+   "true_section_label": "Chapter 54",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0069",
+   "article_start_char": 40869,
+   "article_end_char": 41011,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 54,
+   "true_section_label": "Chapter 54",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0070",
+   "article_start_char": 41025,
+   "article_end_char": 41053,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 54,
+   "true_section_label": "Chapter 54",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0071",
+   "article_start_char": 41229,
+   "article_end_char": 41334,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 54,
+   "true_section_label": "Chapter 54",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0072",
+   "article_start_char": 41355,
+   "article_end_char": 41472,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 54,
+   "true_section_label": "Chapter 54",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0073",
+   "article_start_char": 42013,
+   "article_end_char": 42715,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0074",
+   "article_start_char": 43336,
+   "article_end_char": 43372,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 55,
+   "true_section_label": "Chapter 55",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0075",
+   "article_start_char": 44081,
+   "article_end_char": 44105,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0076",
+   "article_start_char": 44609,
+   "article_end_char": 44681,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 55,
+   "true_section_label": "Chapter 55",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0077",
+   "article_start_char": 45116,
+   "article_end_char": 45223,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 55,
+   "true_section_label": "Chapter 55",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-q0086",
+   "article_start_char": 52555,
+   "article_end_char": 52688,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 48,
+   "true_section_label": "Chapter 48",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-m0001",
+   "article_start_char": 11682,
+   "article_end_char": 12154,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 49,
+   "true_section_label": "Chapter 49",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-m0002",
+   "article_start_char": 14147,
+   "article_end_char": 14556,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 53,
+   "true_section_label": "Chapter 53",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "7L5Z97IZ-m0004",
+   "article_start_char": 28064,
+   "article_end_char": 28561,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 44,
+   "true_section_label": "Chapter 44",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": []
+  },
+  {
+   "gold_id": "7L5Z97IZ-m0005",
+   "article_start_char": 35374,
+   "article_end_char": 35775,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 54,
+   "true_section_label": "Chapter 54",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "brackets",
+    "wording"
+   ]
+  }
+ ],
+ "excluded_out_of_scope": []
+}

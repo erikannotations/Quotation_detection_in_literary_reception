@@ -1,0 +1,18 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+5E3W868P-mq-0001,unclassified marked span,False,,,,,,,False,,0
+5E3W868P-mq-0002,unclassified marked span,True,Mason & Dixon,P06,Chapter 6,6,Part 1: Latitudes and Departures,1.0,False,P06,1
+5E3W868P-mq-0003,unclassified marked span,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+5E3W868P-mq-0004,unclassified marked span,False,,,,,,,False,,0
+5E3W868P-mq-0005,unclassified marked span,False,,,,,,,False,,0
+5E3W868P-mq-0006,unclassified marked span,False,,,,,,,False,,0
+5E3W868P-mq-0007,unclassified marked span,False,,,,,,,False,,0
+5E3W868P-mq-0008,unclassified marked span,False,,,,,,,False,,0
+5E3W868P-mq-0009,unclassified marked span,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+5E3W868P-mq-0010,unclassified marked span,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+5E3W868P-mq-0011,unclassified marked span,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+5E3W868P-mq-0012,unclassified marked span,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.875,False,P06,1
+5E3W868P-mq-0013,unclassified marked span,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+5E3W868P-mq-0014,unclassified marked span,False,,,,,,,False,,0
+5E3W868P-mq-0015,unclassified marked span,False,,,,,,,False,,0
+5E3W868P-mq-0016,unclassified marked span,False,,,,,,,False,,0
+5E3W868P-mq-0017,unclassified marked span,False,,,,,,,False,,0

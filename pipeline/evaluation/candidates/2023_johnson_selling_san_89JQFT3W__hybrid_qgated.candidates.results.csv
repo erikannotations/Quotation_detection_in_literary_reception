@@ -1,0 +1,34 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0001,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0002,P04|P05|P07|P09|P10,False,,,,,,,False,,0
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0003,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,0.916,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0004,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0005,P02|P03|P07 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0006,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0007,The Crying of Lot 49 | P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0008,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0009,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,0.983,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0010,The Crying of Lot 49 | P03,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0011,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0012,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0013,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0014,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0015,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0016,P01|P02|P04,True,Slow Learner,P01,Low-Lands,3,,1.0,True,P01|P02|P04,6
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0017,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0018,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,0.936,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0019,P03|P05 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,2
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0020,P03|P04|P06|P08|P09|P10 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,0.925,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0021,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,0.956,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0022,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,0.973,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0023,P03 | The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0024,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0025,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0026,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0027,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0028,P05,True,Vineland,P05,Chapter 12,12,,1.0,False,P05,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0029,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0030,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0031,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0032,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0033,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1

@@ -1,0 +1,33 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+9RSYBDHU-q0002,gold span,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+9RSYBDHU-q0003,gold span,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+9RSYBDHU-q0004,gold span,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+9RSYBDHU-q0005,gold span,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,2
+9RSYBDHU-q0006,gold span,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+9RSYBDHU-q0007,gold span,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+9RSYBDHU-q0008,gold span,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0009,gold span,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0010,gold span,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0015,gold span,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,2
+9RSYBDHU-q0017,gold span,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,0.984,False,P07,1
+9RSYBDHU-q0018,gold span,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,2
+9RSYBDHU-q0020,gold span,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+9RSYBDHU-q0021,gold span,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+9RSYBDHU-q0022,gold span,False,,,,,,,False,,0
+9RSYBDHU-q0025,gold span,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,1
+9RSYBDHU-q0027,gold span,False,,,,,,,False,,0
+9RSYBDHU-q0028,gold span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0029,gold span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0030,gold span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0031,gold span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,3
+9RSYBDHU-q0032,gold span,True,Against the Day,P07,Chapter 68,68,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0033,gold span,True,Against the Day,P07,Chapter 68,68,Part Four: Against the Day,0.944,False,P07,2
+9RSYBDHU-q0035,gold span,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+9RSYBDHU-q0036,gold span,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,0.906,False,P07,2
+9RSYBDHU-q0037,gold span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0038,gold span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0039,gold span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0040,gold span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0041,gold span,True,Against the Day,P07,Chapter 60,60,Part Four: Against the Day,1.0,False,P07,1
+9RSYBDHU-q0046,gold span,True,Against the Day,P07,Chapter 59,59,Part Four: Against the Day,1.0,False,P07,2
+9RSYBDHU-q0047,gold span,True,Against the Day,P07,Chapter 63,63,Part Four: Against the Day,1.0,False,P07,1

@@ -1,0 +1,29 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0001,Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0002,Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0003,Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0004,Against the Day,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0005,Against the Day,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0006,Against the Day,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0007,Against the Day,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0008,Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0009,Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0010,Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0011,Against the Day,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0012,Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,0.984,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0013,Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0014,Against the Day,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0015,Against the Day,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0016,Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0017,Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0018,Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0019,Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0020,Against the Day,True,Against the Day,P07,Chapter 68,68,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0021,Against the Day,True,Against the Day,P07,Chapter 68,68,Part Four: Against the Day,0.944,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0022,Against the Day,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0023,Against the Day,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,0.906,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0024,Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0025,Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0026,Against the Day,True,Against the Day,P07,Chapter 60,60,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0027,Against the Day,True,Against the Day,P07,Chapter 59,59,Part Four: Against the Day,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_xqgc-0028,Against the Day,True,Against the Day,P07,Chapter 63,63,Part Four: Against the Day,1.0,False,P07,1

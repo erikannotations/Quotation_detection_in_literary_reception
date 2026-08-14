@@ -1,0 +1,36 @@
+[
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_xtgc-0001",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "314",
+  "confidence": "hybrid",
+  "article_start_char": 40172,
+  "article_end_char": 40315,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2018-02"
+  ]
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_xtgc-0002",
+  "article": "2018_carswell_doc_dude_W6SQ6GJ8",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Inherent Vice",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "348",
+  "confidence": "hybrid",
+  "article_start_char": 40937,
+  "article_end_char": 41078,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2018-03"
+  ]
+ }
+]

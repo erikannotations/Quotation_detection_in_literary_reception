@@ -1,0 +1,14 @@
+{
+  "attempts": [
+    {
+      "done_reason": "stop",
+      "prompt_eval_count": 12349,
+      "eval_count": 709,
+      "content_chars": 2268,
+      "n_tool_calls": 0,
+      "tools_enabled": true,
+      "accepted_via": "content_json",
+      "tool_call_error": "no extract_quotes tool call in response"
+    }
+  ]
+}

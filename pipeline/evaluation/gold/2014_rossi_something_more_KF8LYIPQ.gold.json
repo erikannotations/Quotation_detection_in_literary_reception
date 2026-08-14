@@ -1,0 +1,705 @@
+{
+ "schema_version": "2.0",
+ "article": "2014_rossi_something_more_KF8LYIPQ",
+ "corpus_id": "CORPUS-KF8LYIPQ",
+ "split": "test",
+ "body_sha256": "c6b0e65ed1106d28d9260a428069ea46ab34fd0d16d40ffa774264472114de16",
+ "quotes": [
+  {
+   "gold_id": "KF8LYIPQ-q0001",
+   "article_start_char": 138,
+   "article_end_char": 392,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "parentheses"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0002",
+   "article_start_char": 1969,
+   "article_end_char": 2014,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0004",
+   "article_start_char": 2768,
+   "article_end_char": 2798,
+   "true_pid": "P07",
+   "true_work": "Against the Day",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0006",
+   "article_start_char": 7462,
+   "article_end_char": 7646,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 10,
+   "true_section_label": "Chapter 10",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0007",
+   "article_start_char": 7701,
+   "article_end_char": 7734,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 10,
+   "true_section_label": "Chapter 10",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0008",
+   "article_start_char": 8051,
+   "article_end_char": 8277,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 10,
+   "true_section_label": "Chapter 10",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "ellipsis"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0009",
+   "article_start_char": 9237,
+   "article_end_char": 10219,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 34,
+   "true_section_label": "Chapter 34",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0010",
+   "article_start_char": 10294,
+   "article_end_char": 10319,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 34,
+   "true_section_label": "Chapter 34",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0011",
+   "article_start_char": 10361,
+   "article_end_char": 10388,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 34,
+   "true_section_label": "Chapter 34",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0012",
+   "article_start_char": 12884,
+   "article_end_char": 13170,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0013",
+   "article_start_char": 13363,
+   "article_end_char": 13474,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0014",
+   "article_start_char": 14569,
+   "article_end_char": 14755,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 4,
+   "true_section_label": "Chapter 4",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0015",
+   "article_start_char": 14890,
+   "article_end_char": 15115,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0016",
+   "article_start_char": 16114,
+   "article_end_char": 16169,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0017",
+   "article_start_char": 16368,
+   "article_end_char": 16580,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0018",
+   "article_start_char": 16861,
+   "article_end_char": 16960,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0019",
+   "article_start_char": 16979,
+   "article_end_char": 17041,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0020",
+   "article_start_char": 17182,
+   "article_end_char": 17219,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0021",
+   "article_start_char": 17248,
+   "article_end_char": 17433,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0022",
+   "article_start_char": 18360,
+   "article_end_char": 18387,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 41,
+   "true_section_label": "Chapter 41",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0023",
+   "article_start_char": 18423,
+   "article_end_char": 18501,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 41,
+   "true_section_label": "Chapter 41",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0024",
+   "article_start_char": 18514,
+   "article_end_char": 18622,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 41,
+   "true_section_label": "Chapter 41",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "parentheses"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0025",
+   "article_start_char": 18767,
+   "article_end_char": 18797,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0026",
+   "article_start_char": 19326,
+   "article_end_char": 19358,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0027",
+   "article_start_char": 20777,
+   "article_end_char": 20862,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0031",
+   "article_start_char": 23102,
+   "article_end_char": 23153,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 1,
+   "true_section_label": "Chapter 1",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "parentheses"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0036",
+   "article_start_char": 28592,
+   "article_end_char": 28731,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0039",
+   "article_start_char": 32291,
+   "article_end_char": 32388,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 14,
+   "true_section_label": "Episode 14",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0040",
+   "article_start_char": 32613,
+   "article_end_char": 32645,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 14,
+   "true_section_label": "Episode 14",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0041",
+   "article_start_char": 32701,
+   "article_end_char": 32794,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 14,
+   "true_section_label": "Episode 14",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0042",
+   "article_start_char": 33192,
+   "article_end_char": 33405,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 14,
+   "true_section_label": "Episode 14",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0043",
+   "article_start_char": 39359,
+   "article_end_char": 39382,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0044",
+   "article_start_char": 41723,
+   "article_end_char": 41792,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 41,
+   "true_section_label": "Chapter 41",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0045",
+   "article_start_char": 41941,
+   "article_end_char": 41990,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 41,
+   "true_section_label": "Chapter 41",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0046",
+   "article_start_char": 42040,
+   "article_end_char": 42103,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 41,
+   "true_section_label": "Chapter 41",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0047",
+   "article_start_char": 44064,
+   "article_end_char": 44093,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 14,
+   "true_section_label": "Episode 14",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0048",
+   "article_start_char": 44129,
+   "article_end_char": 44152,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 14,
+   "true_section_label": "Episode 14",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0049",
+   "article_start_char": 44640,
+   "article_end_char": 44789,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 78,
+   "true_section_label": "Chapter 78",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "ellipsis",
+    "parentheses"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0050",
+   "article_start_char": 45497,
+   "article_end_char": 45640,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 14,
+   "true_section_label": "Episode 14",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0051",
+   "article_start_char": 46026,
+   "article_end_char": 46167,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 14,
+   "true_section_label": "Chapter 14",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0052",
+   "article_start_char": 46404,
+   "article_end_char": 46547,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 62,
+   "true_section_label": "Chapter 62",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0054",
+   "article_start_char": 51853,
+   "article_end_char": 51885,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0057",
+   "article_start_char": 58728,
+   "article_end_char": 58808,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 34,
+   "true_section_label": "Chapter 34",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets",
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0058",
+   "article_start_char": 58982,
+   "article_end_char": 59032,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 34,
+   "true_section_label": "Chapter 34",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0064",
+   "article_start_char": 61612,
+   "article_end_char": 61657,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0066",
+   "article_start_char": 67067,
+   "article_end_char": 67135,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 70,
+   "true_section_label": "Chapter 70",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0068",
+   "article_start_char": 69840,
+   "article_end_char": 69970,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 14,
+   "true_section_label": "Episode 14",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0069",
+   "article_start_char": 71342,
+   "article_end_char": 71375,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 69,
+   "true_section_label": "Chapter 69",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0070",
+   "article_start_char": 71476,
+   "article_end_char": 71537,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 69,
+   "true_section_label": "Chapter 69",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": []
+  },
+  {
+   "gold_id": "KF8LYIPQ-q0071",
+   "article_start_char": 71622,
+   "article_end_char": 71685,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 69,
+   "true_section_label": "Chapter 69",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_double",
+   "alterations": [
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-m0002",
+   "article_start_char": 14111,
+   "article_end_char": 14490,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis",
+    "parentheses"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-m0004",
+   "article_start_char": 39482,
+   "article_end_char": 40198,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis",
+    "parentheses"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-m0005",
+   "article_start_char": 42435,
+   "article_end_char": 42729,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 41,
+   "true_section_label": "Chapter 41",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis",
+    "brackets",
+    "wording",
+    "parentheses"
+   ]
+  },
+  {
+   "gold_id": "KF8LYIPQ-m0006",
+   "article_start_char": 50220,
+   "article_end_char": 50674,
+   "true_pid": "P06",
+   "true_work": "Mason & Dixon",
+   "true_section_n": 42,
+   "true_section_label": "Chapter 42",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis",
+    "parentheses"
+   ]
+  }
+ ],
+ "excluded_out_of_scope": []
+}

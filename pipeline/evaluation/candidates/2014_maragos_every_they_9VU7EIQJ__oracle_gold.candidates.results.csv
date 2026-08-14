@@ -1,0 +1,19 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+9VU7EIQJ-q0008,gold span,True,Mason & Dixon,P06,Chapter 28,28,Part 2: America,0.996,False,P06,1
+9VU7EIQJ-q0009,gold span,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+9VU7EIQJ-q0010,gold span,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+9VU7EIQJ-q0012,gold span,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+9VU7EIQJ-q0013,gold span,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+9VU7EIQJ-q0014,gold span,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+9VU7EIQJ-q0015,gold span,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+9VU7EIQJ-q0017,gold span,True,Mason & Dixon,P06,Chapter 55,55,Part 2: America,1.0,False,P06,1
+9VU7EIQJ-q0018,gold span,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+9VU7EIQJ-q0019,gold span,True,Mason & Dixon,P06,Chapter 1,1,Part 1: Latitudes and Departures,0.985,False,P06,2
+9VU7EIQJ-q0020,gold span,True,Against the Day,P07,Chapter 41,41,Part Three: Bilocations,1.0,False,P07,1
+9VU7EIQJ-q0021,gold span,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,2
+9VU7EIQJ-q0023,gold span,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,1
+9VU7EIQJ-q0026,gold span,True,Against the Day,P07,Chapter 16,16,Part Two: Iceland Spar,0.963,False,P07,1
+9VU7EIQJ-m0001,gold span,True,Mason & Dixon,P06,Chapter 23,23,Part 1: Latitudes and Departures,1.0,False,P06,1
+9VU7EIQJ-m0002,gold span,True,Mason & Dixon,P06,Chapter 50,50,Part 2: America,0.989,False,P06,1
+9VU7EIQJ-m0003,gold span,True,Against the Day,P07,Chapter 6,6,Part One: The Light Over the Ranges,0.995,False,P07,2
+9VU7EIQJ-m0004,gold span,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,0.988,False,P07,1

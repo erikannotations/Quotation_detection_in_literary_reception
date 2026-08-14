@@ -1,0 +1,58 @@
+[
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0001",
+  "detector_guess": "P07",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Against the Day",
+  "pid": "P07",
+  "section": "Chapter 14",
+  "section_n": 14,
+  "part": "Part Two: Iceland Spar",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P07",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0002",
+  "detector_guess": "P07",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Against the Day",
+  "pid": "P07",
+  "section": "Chapter 14",
+  "section_n": 14,
+  "part": "Part Two: Iceland Spar",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P07",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0003",
+  "detector_guess": "P07",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Against the Day",
+  "pid": "P07",
+  "section": "Chapter 26",
+  "section_n": 26,
+  "part": "Part Two: Iceland Spar",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P07",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-tm-0004",
+  "detector_guess": "P07",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Against the Day",
+  "pid": "P07",
+  "section": "Chapter 67",
+  "section_n": 67,
+  "part": "Part Four: Against the Day",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P07",
+  "n_near_locations": 1
+ }
+]

@@ -1,0 +1,198 @@
+[
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0001",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 172,
+  "article_end_char": 332,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0002",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7462,
+  "article_end_char": 7646,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0003",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 8135,
+  "article_end_char": 8277,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0004",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 9246,
+  "article_end_char": 10218,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0005",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 12884,
+  "article_end_char": 13169,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0006",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13367,
+  "article_end_char": 13458,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0007",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14182,
+  "article_end_char": 14488,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0008",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14890,
+  "article_end_char": 15115,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0009",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 32296,
+  "article_end_char": 32388,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0010",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 33196,
+  "article_end_char": 33404,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0011",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39503,
+  "article_end_char": 39897,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0012",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39907,
+  "article_end_char": 40192,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0013",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 45497,
+  "article_end_char": 45640,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_rossi_something_more_KF8LYIPQ-tm-0014",
+  "article": "2014_rossi_something_more_KF8LYIPQ",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 50274,
+  "article_end_char": 50647,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ }
+]

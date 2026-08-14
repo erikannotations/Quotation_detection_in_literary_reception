@@ -1,0 +1,5 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2023_johnson_selling_san_89JQFT3W-hybrid_xtgc-0001,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_xtgc-0002,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_xtgc-0003,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,0.925,False,P03,1
+2023_johnson_selling_san_89JQFT3W-hybrid_xtgc-0004,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,0.956,False,P03,1

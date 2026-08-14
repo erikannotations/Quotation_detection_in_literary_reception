@@ -1,0 +1,73 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0001,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0002,P06|P07|P08 | Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0003,unclassified marked span | Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0004,Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0005,P06|P07|P10 | unclassified marked span | Against the Day,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0006,P07 | unclassified marked span | Against the Day,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,0.833,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0007,unclassified marked span | Against the Day | P07,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0008,P07,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0009,unclassified marked span | P07|P09|P10 | Against the Day,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0010,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0011,,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0012,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,0.909,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0013,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0014,,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0015,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0016,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0017,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0018,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0019,P07,True,Against the Day,P07,Chapter 18,18,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0020,unclassified marked span | P06,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0021,unclassified marked span | Against the Day | P04|P07|P09|P10,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0022,P07,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0023,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0024,,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0025,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,0.984,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0026,unclassified marked span | Against the Day | P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0027,P07,True,Against the Day,P07,Chapter 67,67,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0028,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0029,unclassified marked span | P07,True,Against the Day,P07,Chapter 14,14,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0030,unclassified marked span | P07,True,Against the Day,P07,Chapter 15,15,Part Two: Iceland Spar,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0031,unclassified marked span | Against the Day,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0032,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0033,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0034,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0035,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0036,,False,,,,,,0.691,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0037,unclassified marked span | P07 | Against the Day,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0038,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0039,unclassified marked span | Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0040,P07,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0041,unclassified marked span | P07|P08 | Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0042,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0043,,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0044,P07 | unclassified marked span | Against the Day,True,Against the Day,P07,Chapter 68,68,Part Four: Against the Day,0.83,False,P07,3
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0045,unclassified marked span | Against the Day,True,Against the Day,P07,Chapter 68,68,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0046,,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0047,,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0048,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0049,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0050,P07 | unclassified marked span | Against the Day,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,0.93,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0051,,False,,,,,,0.594,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0052,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0053,P07 | unclassified marked span | Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0054,P07,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,0.898,False,P07,2
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0055,unclassified marked span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0056,unclassified marked span,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0057,,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0058,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 60,60,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0059,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0060,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0061,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0062,P07,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0063,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0064,P04,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0065,P07|P09 | unclassified marked span | Against the Day,True,Against the Day,P07,Chapter 59,59,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0066,unclassified marked span | P07 | Against the Day,True,Against the Day,P07,Chapter 63,63,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0067,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0068,P02,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0069,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0070,unclassified marked span,False,,,,,,,False,,0
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0071,unclassified marked span | P02|P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0072,Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,1.0,False,P07,2

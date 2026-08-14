@@ -1,0 +1,30 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014-01,,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,2
+2014-02,,True,Against the Day,P07,Chapter 1,1,Part One: The Light Over the Ranges,1.0,False,P07,1
+2014-03,,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014-04,,False,,,,,,0.736,False,,0
+2014-05,,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,2
+2014-06,,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.967,False,P06,2
+2014-07,,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,0.993,False,P06,2
+2014-08,,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,0.991,False,P06,1
+2014-09,,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,4
+2014-10,,True,Mason & Dixon,P06,Chapter 4,4,Part 1: Latitudes and Departures,0.966,False,P06,1
+2014-11,,True,Mason & Dixon,P06,Chapter 42,42,Part 2: America,1.0,False,P06,2
+2014-12,,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014-13,,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014-14,,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014-15,,False,,,,,,,False,,0
+2014-16,,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014-17,,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2014-18,,False,,,,,,,False,,0
+2014-19,,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014-20,,True,Mason & Dixon,P06,Chapter 14,14,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014-21,,False,,,,,,,False,,0
+2014-22,,True,Mason & Dixon,P06,Chapter 62,62,Part 2: America,1.0,False,P06,1
+2014-23,,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2014-24,,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014-25,,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014-26,,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,2
+2014-27,,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014-28,,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,False,P04,1
+2014-29,,False,,,,,,,False,,0

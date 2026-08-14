@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0001",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 1688,
+  "article_end_char": 1878,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0001"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0002",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5075,
+  "article_end_char": 5257,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0002"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0003",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5342,
+  "article_end_char": 5541,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0003"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0004",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5691,
+  "article_end_char": 5796,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0004"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0005",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5910,
+  "article_end_char": 6087,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0005"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0006",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 6231,
+  "article_end_char": 6414,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0006"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0007",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7450,
+  "article_end_char": 7559,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0007"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0008",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7955,
+  "article_end_char": 8046,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0008"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0009",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11018,
+  "article_end_char": 11099,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0009"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0010",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12436,
+  "article_end_char": 12553,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0010"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0011",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13037,
+  "article_end_char": 13195,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0011"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0012",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13802,
+  "article_end_char": 13916,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0012"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0013",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15083,
+  "article_end_char": 15153,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0013"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0014",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15296,
+  "article_end_char": 15536,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0014"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0015",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "369",
+  "confidence": "hybrid",
+  "article_start_char": 15978,
+  "article_end_char": 15993,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-01"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0016",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16267,
+  "article_end_char": 16428,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0015"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0017",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "397",
+  "confidence": "hybrid",
+  "article_start_char": 16729,
+  "article_end_char": 17318,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-02"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0018",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17878,
+  "article_end_char": 18002,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0016"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0019",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18302,
+  "article_end_char": 18363,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0017",
+   "2015-03"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0020",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19299,
+  "article_end_char": 19385,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0018",
+   "2015-04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0021",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19938,
+  "article_end_char": 20196,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0019"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0022",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20351,
+  "article_end_char": 20478,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0020"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0023",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20958,
+  "article_end_char": 21319,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0021"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0024",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21631,
+  "article_end_char": 21870,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0022"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0025",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22799,
+  "article_end_char": 22870,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0023"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0026",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22965,
+  "article_end_char": 23061,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0024"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0027",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23119,
+  "article_end_char": 23175,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0025",
+   "2015-05"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0028",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24022,
+  "article_end_char": 24205,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0026"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0029",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24435,
+  "article_end_char": 24480,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0027",
+   "2015-06"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0030",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24734,
+  "article_end_char": 24930,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0028"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0031",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26552,
+  "article_end_char": 26589,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0029",
+   "2015-07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0032",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27115,
+  "article_end_char": 27154,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0030"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0033",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "412",
+  "confidence": "hybrid",
+  "article_start_char": 27595,
+  "article_end_char": 27611,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-08"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0034",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27841,
+  "article_end_char": 28126,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0031"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0035",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28460,
+  "article_end_char": 28647,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0032",
+   "2015-09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0036",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29344,
+  "article_end_char": 29474,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0033"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0037",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30692,
+  "article_end_char": 30774,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0034",
+   "2015-10"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0038",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31057,
+  "article_end_char": 31260,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0035",
+   "2015-11"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0039",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31897,
+  "article_end_char": 32051,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0036"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0040",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32159,
+  "article_end_char": 32333,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0037",
+   "2015-12"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0041",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32758,
+  "article_end_char": 32928,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0038"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0042",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34442,
+  "article_end_char": 34484,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0039"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0043",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35627,
+  "article_end_char": 35720,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0040"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0044",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36100,
+  "article_end_char": 36161,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0041"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0045",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36490,
+  "article_end_char": 36552,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0042"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0046",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36813,
+  "article_end_char": 36946,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0043"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0047",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 37273,
+  "article_end_char": 37537,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0044"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0048",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38031,
+  "article_end_char": 38400,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0045"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0049",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39395,
+  "article_end_char": 39547,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0046",
+   "2015-23"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0050",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40499,
+  "article_end_char": 40831,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0047"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0051",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40976,
+  "article_end_char": 41134,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0048"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0052",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41226,
+  "article_end_char": 41331,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0049",
+   "2015-25"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0053",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43685,
+  "article_end_char": 43990,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0050"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0054",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44241,
+  "article_end_char": 44288,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0051",
+   "2015-13"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0055",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44669,
+  "article_end_char": 44818,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0052"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0056",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45317,
+  "article_end_char": 45520,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0053",
+   "2015-14"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0057",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46839,
+  "article_end_char": 46971,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0054",
+   "2015-15"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0058",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "679",
+  "confidence": "hybrid",
+  "article_start_char": 47933,
+  "article_end_char": 47959,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-16"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0059",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48620,
+  "article_end_char": 48747,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0055"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0060",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49045,
+  "article_end_char": 49170,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0056"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0061",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49351,
+  "article_end_char": 49431,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0057"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0062",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49855,
+  "article_end_char": 49933,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0058",
+   "2015-17"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0063",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50274,
+  "article_end_char": 50421,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0059",
+   "2015-18"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0064",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50665,
+  "article_end_char": 50748,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0060",
+   "2015-19"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0065",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51367,
+  "article_end_char": 51565,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0061"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0066",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51797,
+  "article_end_char": 51935,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0062"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0067",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52855,
+  "article_end_char": 52913,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0063",
+   "2015-20"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0068",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "323",
+  "confidence": "hybrid",
+  "article_start_char": 53699,
+  "article_end_char": 54028,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-21"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0069",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55169,
+  "article_end_char": 55238,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0064"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0070",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55796,
+  "article_end_char": 56024,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0065",
+   "2015-22"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0071",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "517",
+  "confidence": "hybrid",
+  "article_start_char": 59662,
+  "article_end_char": 60035,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-26"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0072",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 60795,
+  "article_end_char": 60829,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0066"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0073",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 61312,
+  "article_end_char": 61378,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0067"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0074",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "752",
+  "confidence": "hybrid",
+  "article_start_char": 61740,
+  "article_end_char": 61967,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-27"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0075",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62222,
+  "article_end_char": 62310,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0068",
+   "2015-28"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0076",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62941,
+  "article_end_char": 62968,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0069"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0077",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63747,
+  "article_end_char": 63914,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0070",
+   "2015-30"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0078",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64113,
+  "article_end_char": 64236,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0071",
+   "2015-29"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0079",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64947,
+  "article_end_char": 65175,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0072"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0080",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66487,
+  "article_end_char": 66517,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0073"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0081",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66530,
+  "article_end_char": 66593,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0074"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0082",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 68021,
+  "article_end_char": 68087,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0075"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0083",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 68649,
+  "article_end_char": 68690,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-mq-0076"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_mgo-0084",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "530",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-24"
+  ]
+ }
+]

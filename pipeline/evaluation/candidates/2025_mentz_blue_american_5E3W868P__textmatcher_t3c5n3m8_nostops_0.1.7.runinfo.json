@@ -1,0 +1,63 @@
+{
+  "tool": "text-matcher",
+  "version": "0.1.7",
+  "git_commit": "81e39364705b85d61fc8d6275e1a6349f9dff689",
+  "preset": "reeve_defaults",
+  "settings": {
+    "threshold": 3,
+    "cutoff": 5,
+    "ngrams": 3,
+    "min_distance": 8,
+    "remove_stopwords": true
+  },
+  "pids": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10"
+  ],
+  "wall_seconds_total": 9.97,
+  "wall_seconds_by_pid": {
+    "P01": 0.29,
+    "P02": 0.9,
+    "P03": 0.25,
+    "P04": 1.8,
+    "P05": 0.76,
+    "P06": 1.47,
+    "P07": 2.59,
+    "P08": 0.64,
+    "P09": 0.78,
+    "P10": 0.49
+  },
+  "raw_matches_by_pid": {
+    "P01": 0,
+    "P02": 0,
+    "P03": 2,
+    "P04": 4,
+    "P05": 1,
+    "P06": 7,
+    "P07": 14,
+    "P08": 1,
+    "P09": 0,
+    "P10": 0
+  },
+  "dropped_unlocatable_matches": 0,
+  "pair_errors": [],
+  "peak_rss_mb_self": 275.5,
+  "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+  "python": "3.13.2",
+  "nltk": "3.10.0",
+  "articles": [
+    "2025_mentz_blue_american_5E3W868P",
+    "2014_smith_all_maps_7L5Z97IZ",
+    "2012_eve_whose_line_YT54NC7G",
+    "2012_miller_naming_oedipa_YUZMXRKY"
+  ],
+  "run_status": "post-freeze addition (NEXT_STEPS §I); not part of the 26 July 2026 frozen system matrix"
+}

@@ -1,0 +1,110 @@
+[
+ {
+  "id": "YT54NC7G-01",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "682–683",
+  "confidence": "",
+  "article_start_char": 2898,
+  "article_end_char": 3115,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "YT54NC7G-02",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Vineland",
+  "attributed_page": "27",
+  "confidence": "",
+  "article_start_char": 22217,
+  "article_end_char": 22449,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "YT54NC7G-03",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Vineland",
+  "attributed_page": "202",
+  "confidence": "",
+  "article_start_char": 24440,
+  "article_end_char": 24547,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "YT54NC7G-04",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "509",
+  "confidence": "",
+  "article_start_char": 17448,
+  "article_end_char": 17798,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "YT54NC7G-05",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "738",
+  "confidence": "",
+  "article_start_char": 37451,
+  "article_end_char": 37575,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "YT54NC7G-06",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "693–694",
+  "confidence": "",
+  "article_start_char": null,
+  "article_end_char": null,
+  "article_offset_occurrences": 0
+ },
+ {
+  "id": "YT54NC7G-07",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "712",
+  "confidence": "",
+  "article_start_char": 39819,
+  "article_end_char": 39913,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "YT54NC7G-08",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "713",
+  "confidence": "",
+  "article_start_char": 40173,
+  "article_end_char": 40237,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "YT54NC7G-09",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "713",
+  "confidence": "",
+  "article_start_char": 43729,
+  "article_end_char": 43776,
+  "article_offset_occurrences": 1
+ }
+]

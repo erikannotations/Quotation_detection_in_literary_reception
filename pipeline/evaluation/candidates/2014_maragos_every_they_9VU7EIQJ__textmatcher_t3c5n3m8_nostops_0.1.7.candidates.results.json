@@ -1,0 +1,58 @@
+[
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0001",
+  "detector_guess": "P06",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Mason & Dixon",
+  "pid": "P06",
+  "section": "Chapter 28",
+  "section_n": 28,
+  "part": "Part 2: America",
+  "score": 0.996,
+  "source_ambiguous": false,
+  "candidate_pids": "P06",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0002",
+  "detector_guess": "P07",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Against the Day",
+  "pid": "P07",
+  "section": "Chapter 6",
+  "section_n": 6,
+  "part": "Part One: The Light Over the Ranges",
+  "score": 0.995,
+  "source_ambiguous": false,
+  "candidate_pids": "P07",
+  "n_near_locations": 2
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0003",
+  "detector_guess": "P07",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Against the Day",
+  "pid": "P07",
+  "section": "Chapter 8",
+  "section_n": 8,
+  "part": "Part One: The Light Over the Ranges",
+  "score": 0.988,
+  "source_ambiguous": false,
+  "candidate_pids": "P07",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0004",
+  "detector_guess": "P07",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Against the Day",
+  "pid": "P07",
+  "section": "Chapter 16",
+  "section_n": 16,
+  "part": "Part Two: Iceland Spar",
+  "score": 0.961,
+  "source_ambiguous": false,
+  "candidate_pids": "P07",
+  "n_near_locations": 1
+ }
+]

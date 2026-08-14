@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_tgo-0001",
+  "detector_guess": "",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter NINETEEN",
+  "section_n": 19,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_tgo-0002",
+  "detector_guess": "P08",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter SEVENTEEN",
+  "section_n": 17,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_tgo-0003",
+  "detector_guess": "P08",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter NINETEEN",
+  "section_n": 19,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_tgo-0004",
+  "detector_guess": "",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter NINETEEN",
+  "section_n": 19,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2018_carswell_doc_dude_W6SQ6GJ8-hybrid_tgo-0005",
+  "detector_guess": "",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Inherent Vice",
+  "pid": "P08",
+  "section": "Chapter ONE",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P08",
+  "n_near_locations": 1
+ }
+]

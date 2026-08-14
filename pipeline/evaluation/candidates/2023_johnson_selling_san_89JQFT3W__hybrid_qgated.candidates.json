@@ -1,0 +1,599 @@
+[
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0001",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7884,
+  "article_end_char": 7943,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0005",
+   "2023-01"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0002",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P04|P05|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8476,
+  "article_end_char": 8507,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0007"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0003",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14365,
+  "article_end_char": 14552,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0013",
+   "2023-03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0004",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "79",
+  "confidence": "hybrid",
+  "article_start_char": 14365,
+  "article_end_char": 14401,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2023-02"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0005",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02|P03|P07 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14670,
+  "article_end_char": 14739,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0014",
+   "2023-04"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0006",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14879,
+  "article_end_char": 14929,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0015",
+   "2023-05"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0007",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "The Crying of Lot 49 | P03",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "178",
+  "confidence": "hybrid",
+  "article_start_char": 17876,
+  "article_end_char": 17933,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023-06",
+   "2023_johnson_selling_san_89JQFT3W-quid-0019"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0008",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17964,
+  "article_end_char": 18049,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0020",
+   "2023-07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0009",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19618,
+  "article_end_char": 19691,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0022",
+   "2023-08"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0010",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "The Crying of Lot 49 | P03",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "24",
+  "confidence": "hybrid",
+  "article_start_char": 21719,
+  "article_end_char": 21881,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023-09",
+   "2023_johnson_selling_san_89JQFT3W-quid-0025"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0011",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22937,
+  "article_end_char": 23056,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0026",
+   "2023-10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0012",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23706,
+  "article_end_char": 23820,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0027",
+   "2023-11"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0013",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27768,
+  "article_end_char": 27807,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0028",
+   "2023-14"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0014",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28247,
+  "article_end_char": 28375,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0029",
+   "2023-12"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0015",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29100,
+  "article_end_char": 29211,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0030",
+   "2023-13"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0016",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P01|P02|P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35790,
+  "article_end_char": 35805,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0032"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0017",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41575,
+  "article_end_char": 41630,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0035",
+   "2023-15"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0018",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42538,
+  "article_end_char": 42587,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0037",
+   "2023-16"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0019",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03|P05 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44892,
+  "article_end_char": 44951,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0039",
+   "2023-17"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0020",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03|P04|P06|P08|P09|P10 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46302,
+  "article_end_char": 46414,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0040",
+   "2023-18"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0021",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "103",
+  "confidence": "hybrid",
+  "article_start_char": 48126,
+  "article_end_char": 48285,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2023-19"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0022",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48144,
+  "article_end_char": 48298,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0042"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0023",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03 | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56093,
+  "article_end_char": 56143,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0053",
+   "2023-20"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0024",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63621,
+  "article_end_char": 63642,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0058"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0025",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63785,
+  "article_end_char": 63806,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0059"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0026",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64042,
+  "article_end_char": 64076,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0060"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0027",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64248,
+  "article_end_char": 64269,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0061"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0028",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64369,
+  "article_end_char": 64406,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0062"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0029",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65073,
+  "article_end_char": 65094,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0063"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0030",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65348,
+  "article_end_char": 65369,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0064"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0031",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65714,
+  "article_end_char": 65735,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0066"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0032",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66555,
+  "article_end_char": 66576,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0068"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_qgated-0033",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66898,
+  "article_end_char": 66919,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-quid-0069"
+  ]
+ }
+]

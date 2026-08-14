@@ -1,0 +1,713 @@
+[
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0001",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3218,
+  "article_end_char": 3248,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0005"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0002",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P04|P06|P07|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8833,
+  "article_end_char": 8883,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0010"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0003",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "Gravity's Rainbow | P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "303",
+  "confidence": "hybrid",
+  "article_start_char": 13146,
+  "article_end_char": 13234,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025-01",
+   "2025_leupold_not_who_YKVFQH5I-quid-0012"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0004",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P04 | Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13242,
+  "article_end_char": 13292,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0013",
+   "2025-02"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0005",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V.",
+  "attributed_work": "V.",
+  "attributed_page": "148",
+  "confidence": "hybrid",
+  "article_start_char": 13594,
+  "article_end_char": 13647,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2025-03"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0006",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13594,
+  "article_end_char": 13630,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0014"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0007",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13709,
+  "article_end_char": 13767,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0015",
+   "2025-04"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0008",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13860,
+  "article_end_char": 14049,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0016",
+   "2025-05"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0009",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V. | P02",
+  "attributed_work": "V.",
+  "attributed_page": "155",
+  "confidence": "hybrid",
+  "article_start_char": 14326,
+  "article_end_char": 14375,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025-06",
+   "2025_leupold_not_who_YKVFQH5I-quid-0017"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0010",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V.",
+  "attributed_work": "V.",
+  "attributed_page": "155",
+  "confidence": "hybrid",
+  "article_start_char": 14532,
+  "article_end_char": 14991,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2025-07"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0011",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V.",
+  "attributed_work": "V.",
+  "attributed_page": "52",
+  "confidence": "hybrid",
+  "article_start_char": 32255,
+  "article_end_char": 32506,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2025-08"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0012",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32840,
+  "article_end_char": 32935,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0031",
+   "2025-09"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0013",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33795,
+  "article_end_char": 33831,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0032",
+   "2025-10"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0014",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33857,
+  "article_end_char": 33954,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0033",
+   "2025-11"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0015",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02|P07 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34201,
+  "article_end_char": 34306,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0034",
+   "2025-12"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0016",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34365,
+  "article_end_char": 34458,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0035",
+   "2025-13"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0017",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V.",
+  "attributed_work": "V.",
+  "attributed_page": "321–22",
+  "confidence": "hybrid",
+  "article_start_char": 37499,
+  "article_end_char": 38070,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2025-14"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0018",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V.",
+  "attributed_work": "V.",
+  "attributed_page": "405",
+  "confidence": "hybrid",
+  "article_start_char": 39715,
+  "article_end_char": 39926,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2025-15"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0019",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40064,
+  "article_end_char": 40162,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0043",
+   "2025-16"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0020",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40426,
+  "article_end_char": 40517,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0044",
+   "2025-17"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0021",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40628,
+  "article_end_char": 40752,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0045",
+   "2025-18"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0022",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41456,
+  "article_end_char": 41552,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0049",
+   "2025-19"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0023",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V.",
+  "attributed_work": "V.",
+  "attributed_page": "322",
+  "confidence": "hybrid",
+  "article_start_char": 42309,
+  "article_end_char": 42339,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2025-20"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0024",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V.",
+  "attributed_work": "V.",
+  "attributed_page": "168",
+  "confidence": "hybrid",
+  "article_start_char": 49696,
+  "article_end_char": 50765,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2025-21"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0025",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50904,
+  "article_end_char": 50939,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0059",
+   "2025-22"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0026",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50990,
+  "article_end_char": 51023,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0060",
+   "2025-23"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0027",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51739,
+  "article_end_char": 51828,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0061",
+   "2025-24"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0028",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52054,
+  "article_end_char": 52099,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0062",
+   "2025-25"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0029",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52728,
+  "article_end_char": 52775,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0063",
+   "2025-26"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0030",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52796,
+  "article_end_char": 52914,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0064",
+   "2025-27"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0031",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02 | V.",
+  "attributed_work": "V.",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52948,
+  "article_end_char": 52994,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0065",
+   "2025-28"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0032",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V. | P02|P04",
+  "attributed_work": "V.",
+  "attributed_page": "248",
+  "confidence": "hybrid",
+  "article_start_char": 53032,
+  "article_end_char": 53414,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025-29",
+   "2025_leupold_not_who_YKVFQH5I-quid-0066"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0033",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53313,
+  "article_end_char": 53414,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0067"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0034",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56592,
+  "article_end_char": 56615,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0071"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0035",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "Gravity's Rainbow | P02|P04|P06|P07|P09",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "124",
+  "confidence": "hybrid",
+  "article_start_char": 57509,
+  "article_end_char": 57747,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025-30",
+   "2025_leupold_not_who_YKVFQH5I-quid-0075"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0036",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63115,
+  "article_end_char": 63150,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0076"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0037",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63412,
+  "article_end_char": 63513,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025_leupold_not_who_YKVFQH5I-quid-0077"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0038",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V.",
+  "attributed_work": "V.",
+  "attributed_page": "56",
+  "confidence": "hybrid",
+  "article_start_char": 63412,
+  "article_end_char": 63448,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2025-31"
+  ]
+ },
+ {
+  "id": "2025_leupold_not_who_YKVFQH5I-hybrid_qgated-0039",
+  "article": "2025_leupold_not_who_YKVFQH5I",
+  "model_tag": "hybrid_qgated",
+  "detector_guess": "V. | P02",
+  "attributed_work": "V.",
+  "attributed_page": "56",
+  "confidence": "hybrid",
+  "article_start_char": 63455,
+  "article_end_char": 63631,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2025-32",
+   "2025_leupold_not_who_YKVFQH5I-quid-0078"
+  ]
+ }
+]

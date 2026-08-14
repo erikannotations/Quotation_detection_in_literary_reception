@@ -1,0 +1,7783 @@
+{
+  "match_threshold": 0.6,
+  "minimum_quote_words": 5,
+  "out_of_scope_predictions_excluded": false,
+  "models": {
+    "anthropic_claude-fable-5": {
+      "articles": 12,
+      "candidates": 369,
+      "gold": 367,
+      "det_tp": 359,
+      "det_fp": 10,
+      "det_fn": 8,
+      "end_tp": 345,
+      "end_fp": 8,
+      "end_fn": 22,
+      "top_ok": 345,
+      "alt_ok": 345,
+      "top_denom": 345,
+      "section_ok": 345,
+      "section_denom": 345,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 309,
+          "fn": 7,
+          "recall": 0.9778481012658228
+        },
+        "form:curly_single": {
+          "tp": 22,
+          "fn": 1,
+          "recall": 0.9565217391304348
+        },
+        "form:manual_block": {
+          "tp": 28,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 358,
+          "fn": 8,
+          "recall": 0.9781420765027322
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.9728997289972899,
+      "det_r": 0.9782016348773842,
+      "det_f1": 0.9755434782608696,
+      "end_p": 0.9773371104815864,
+      "end_r": 0.9400544959128065,
+      "end_f1": 0.9583333333333334,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.9762239834292809,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 20,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 21,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 23,
+          "gold": 23,
+          "det_tp": 22,
+          "det_fp": 1,
+          "det_fn": 1,
+          "end_tp": 21,
+          "end_fp": 1,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.9565217391304348
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 20,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 2,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 2,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.9473684210526316
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 49,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 53,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 53,
+          "gold": 54,
+          "det_tp": 53,
+          "det_fp": 0,
+          "det_fn": 1,
+          "end_tp": 50,
+          "end_fp": 0,
+          "end_fn": 4,
+          "top_ok": 50,
+          "alt_ok": 50,
+          "top_denom": 50,
+          "section_ok": 50,
+          "section_denom": 50,
+          "det_f1": 0.9906542056074767
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 19,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 21,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 24,
+          "gold": 22,
+          "det_tp": 21,
+          "det_fp": 3,
+          "det_fn": 1,
+          "end_tp": 20,
+          "end_fp": 1,
+          "end_fn": 2,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.9130434782608695
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 28,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 18,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 15,
+          "end_fp": 0,
+          "end_fn": 3,
+          "top_ok": 15,
+          "alt_ok": 15,
+          "top_denom": 15,
+          "section_ok": 15,
+          "section_denom": 15,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 31,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 31,
+              "fn": 1
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 31,
+          "gold": 32,
+          "det_tp": 31,
+          "det_fp": 0,
+          "det_fn": 1,
+          "end_tp": 29,
+          "end_fp": 0,
+          "end_fn": 3,
+          "top_ok": 29,
+          "alt_ok": 29,
+          "top_denom": 29,
+          "section_ok": 29,
+          "section_denom": 29,
+          "det_f1": 0.9841269841269841
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 6,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 0
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 42,
+          "gold": 38,
+          "det_tp": 38,
+          "det_fp": 4,
+          "det_fn": 0,
+          "end_tp": 38,
+          "end_fp": 4,
+          "end_fn": 0,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 0.9500000000000001
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 70,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 72,
+              "fn": 4
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 72,
+          "gold": 76,
+          "det_tp": 72,
+          "det_fp": 0,
+          "det_fn": 4,
+          "end_tp": 69,
+          "end_fp": 0,
+          "end_fn": 7,
+          "top_ok": 69,
+          "alt_ok": 69,
+          "top_denom": 69,
+          "section_ok": 69,
+          "section_denom": 69,
+          "det_f1": 0.972972972972973
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 20,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 32,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 31,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 31,
+          "alt_ok": 31,
+          "top_denom": 31,
+          "section_ok": 31,
+          "section_denom": 31,
+          "det_f1": 1.0
+        }
+      ],
+      "out_of_scope_predictions_excluded": 0
+    },
+    "heuristic_marked": {
+      "articles": 12,
+      "candidates": 1028,
+      "gold": 367,
+      "det_tp": 330,
+      "det_fp": 698,
+      "det_fn": 37,
+      "end_tp": 316,
+      "end_fp": 33,
+      "end_fn": 51,
+      "top_ok": 316,
+      "alt_ok": 316,
+      "top_denom": 316,
+      "section_ok": 316,
+      "section_denom": 316,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 311,
+          "fn": 5,
+          "recall": 0.9841772151898734
+        },
+        "form:curly_single": {
+          "tp": 19,
+          "fn": 4,
+          "recall": 0.8260869565217391
+        },
+        "form:manual_block": {
+          "tp": 0,
+          "fn": 28,
+          "recall": 0.0
+        },
+        "provenance:annotator": {
+          "tp": 330,
+          "fn": 36,
+          "recall": 0.9016393442622951
+        },
+        "provenance:system_recovered": {
+          "tp": 0,
+          "fn": 1,
+          "recall": 0.0
+        }
+      },
+      "det_p": 0.321011673151751,
+      "det_r": 0.8991825613079019,
+      "det_f1": 0.4731182795698925,
+      "end_p": 0.9054441260744985,
+      "end_r": 0.8610354223433242,
+      "end_f1": 0.88268156424581,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.4684230044720174,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 19,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 19,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            },
+            "provenance:system_recovered": {
+              "tp": 0,
+              "fn": 1
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 93,
+          "gold": 23,
+          "det_tp": 19,
+          "det_fp": 74,
+          "det_fn": 4,
+          "end_tp": 17,
+          "end_fp": 3,
+          "end_fn": 6,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.32758620689655177
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 13,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 5
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 4
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 37,
+          "gold": 18,
+          "det_tp": 13,
+          "det_fp": 24,
+          "det_fn": 5,
+          "end_tp": 13,
+          "end_fp": 4,
+          "end_fn": 5,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.4727272727272727
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 48,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 48,
+              "fn": 6
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 4
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 71,
+          "gold": 54,
+          "det_tp": 48,
+          "det_fp": 23,
+          "det_fn": 6,
+          "end_tp": 45,
+          "end_fp": 3,
+          "end_fn": 9,
+          "top_ok": 45,
+          "alt_ok": 45,
+          "top_denom": 45,
+          "section_ok": 45,
+          "section_denom": 45,
+          "det_f1": 0.7679999999999999
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 4
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 81,
+          "gold": 22,
+          "det_tp": 18,
+          "det_fp": 63,
+          "det_fn": 4,
+          "end_tp": 17,
+          "end_fp": 15,
+          "end_fn": 5,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.34951456310679613
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 23,
+              "fn": 5
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 5
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 76,
+          "gold": 28,
+          "det_tp": 23,
+          "det_fp": 53,
+          "det_fn": 5,
+          "end_tp": 23,
+          "end_fp": 0,
+          "end_fn": 5,
+          "top_ok": 23,
+          "alt_ok": 23,
+          "top_denom": 23,
+          "section_ok": 23,
+          "section_denom": 23,
+          "det_f1": 0.4423076923076923
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 90,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 72,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 1,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.33333333333333337
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 51,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 19,
+          "det_fn": 0,
+          "end_tp": 30,
+          "end_fp": 1,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 0.7710843373493976
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 65,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 59,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.16901408450704225
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 6
+            },
+            "form:curly_single": {
+              "tp": 0,
+              "fn": 2
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 4
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 204,
+          "gold": 38,
+          "det_tp": 32,
+          "det_fp": 172,
+          "det_fn": 6,
+          "end_tp": 32,
+          "end_fp": 6,
+          "end_fn": 6,
+          "top_ok": 32,
+          "alt_ok": 32,
+          "top_denom": 32,
+          "section_ok": 32,
+          "section_denom": 32,
+          "det_f1": 0.2644628099173554
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 74,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 74,
+              "fn": 2
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 111,
+          "gold": 76,
+          "det_tp": 74,
+          "det_fp": 37,
+          "det_fn": 2,
+          "end_tp": 70,
+          "end_fp": 0,
+          "end_fn": 6,
+          "top_ok": 70,
+          "alt_ok": 70,
+          "top_denom": 70,
+          "section_ok": 70,
+          "section_denom": 70,
+          "det_f1": 0.7914438502673797
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 77,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 57,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.4123711340206185
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 27,
+              "fn": 5
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 5
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 72,
+          "gold": 32,
+          "det_tp": 27,
+          "det_fp": 45,
+          "det_fn": 5,
+          "end_tp": 26,
+          "end_fp": 0,
+          "end_fn": 6,
+          "top_ok": 26,
+          "alt_ok": 26,
+          "top_denom": 26,
+          "section_ok": 26,
+          "section_denom": 26,
+          "det_f1": 0.5192307692307693
+        }
+      ],
+      "out_of_scope_predictions_excluded": 0
+    },
+    "hybrid": {
+      "articles": 12,
+      "candidates": 1121,
+      "gold": 367,
+      "det_tp": 366,
+      "det_fp": 755,
+      "det_fn": 1,
+      "end_tp": 351,
+      "end_fp": 472,
+      "end_fn": 16,
+      "top_ok": 351,
+      "alt_ok": 351,
+      "top_denom": 351,
+      "section_ok": 351,
+      "section_denom": 351,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 315,
+          "fn": 1,
+          "recall": 0.9968354430379747
+        },
+        "form:curly_single": {
+          "tp": 23,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 28,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 365,
+          "fn": 1,
+          "recall": 0.9972677595628415
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.3264942016057092,
+      "det_r": 0.997275204359673,
+      "det_f1": 0.49193548387096775,
+      "end_p": 0.4264884568651276,
+      "end_r": 0.9564032697547684,
+      "end_f1": 0.5899159663865545,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.46370708286487927,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 21,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 67,
+          "gold": 23,
+          "det_tp": 23,
+          "det_fp": 44,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 32,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.5111111111111112
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 67,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 49,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 23,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.42352941176470593
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 50,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 54,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 168,
+          "gold": 54,
+          "det_tp": 54,
+          "det_fp": 114,
+          "det_fn": 0,
+          "end_tp": 50,
+          "end_fp": 77,
+          "end_fn": 4,
+          "top_ok": 50,
+          "alt_ok": 50,
+          "top_denom": 50,
+          "section_ok": 50,
+          "section_denom": 50,
+          "det_f1": 0.4864864864864865
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 96,
+          "gold": 22,
+          "det_tp": 22,
+          "det_fp": 74,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 43,
+          "end_fn": 1,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.37288135593220334
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 86,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 58,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 35,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.49122807017543857
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 62,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 44,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 30,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.45000000000000007
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 31,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 31,
+              "fn": 1
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 99,
+          "gold": 32,
+          "det_tp": 31,
+          "det_fp": 68,
+          "det_fn": 1,
+          "end_tp": 29,
+          "end_fp": 41,
+          "end_fn": 3,
+          "top_ok": 29,
+          "alt_ok": 29,
+          "top_denom": 29,
+          "section_ok": 29,
+          "section_denom": 29,
+          "det_f1": 0.4732824427480916
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 56,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 50,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 33,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.19354838709677416
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 0
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 115,
+          "gold": 38,
+          "det_tp": 38,
+          "det_fp": 77,
+          "det_fn": 0,
+          "end_tp": 38,
+          "end_fp": 47,
+          "end_fn": 0,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 0.49673202614379086
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 74,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 76,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 151,
+          "gold": 76,
+          "det_tp": 76,
+          "det_fp": 75,
+          "det_fn": 0,
+          "end_tp": 72,
+          "end_fp": 51,
+          "end_fn": 4,
+          "top_ok": 72,
+          "alt_ok": 72,
+          "top_denom": 72,
+          "section_ok": 72,
+          "section_denom": 72,
+          "det_f1": 0.669603524229075
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 71,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 51,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 31,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.43956043956043955
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 83,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 51,
+          "det_fn": 0,
+          "end_tp": 31,
+          "end_fp": 29,
+          "end_fn": 1,
+          "top_ok": 31,
+          "alt_ok": 31,
+          "top_denom": 31,
+          "section_ok": 31,
+          "section_denom": 31,
+          "det_f1": 0.5565217391304349
+        }
+      ],
+      "out_of_scope_predictions_excluded": 47
+    },
+    "hybrid_all": {
+      "articles": 12,
+      "candidates": 1263,
+      "gold": 367,
+      "det_tp": 367,
+      "det_fp": 896,
+      "det_fn": 0,
+      "end_tp": 349,
+      "end_fp": 134,
+      "end_fn": 18,
+      "top_ok": 349,
+      "alt_ok": 349,
+      "top_denom": 349,
+      "section_ok": 349,
+      "section_denom": 349,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 316,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:curly_single": {
+          "tp": 23,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 28,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 366,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.2905779889152811,
+      "det_r": 1.0,
+      "det_f1": 0.4503067484662577,
+      "end_p": 0.722567287784679,
+      "end_r": 0.9509536784741145,
+      "end_f1": 0.8211764705882353,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.44533025263394377,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 21,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 109,
+          "gold": 23,
+          "det_tp": 23,
+          "det_fp": 86,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 9,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.3484848484848485
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 45,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 27,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 6,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.5714285714285715
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 50,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 54,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 102,
+          "gold": 54,
+          "det_tp": 54,
+          "det_fp": 48,
+          "det_fn": 0,
+          "end_tp": 50,
+          "end_fp": 18,
+          "end_fn": 4,
+          "top_ok": 50,
+          "alt_ok": 50,
+          "top_denom": 50,
+          "section_ok": 50,
+          "section_denom": 50,
+          "det_f1": 0.6923076923076924
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 97,
+          "gold": 22,
+          "det_tp": 22,
+          "det_fp": 75,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 21,
+          "end_fn": 1,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.36974789915966383
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 91,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 63,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 3,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.47058823529411764
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 116,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 98,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 9,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.26865671641791045
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 72,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 40,
+          "det_fn": 0,
+          "end_tp": 30,
+          "end_fp": 10,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 0.6153846153846153
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 72,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 66,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 4,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.15384615384615385
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 0
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 232,
+          "gold": 38,
+          "det_tp": 38,
+          "det_fp": 194,
+          "det_fn": 0,
+          "end_tp": 38,
+          "end_fp": 17,
+          "end_fn": 0,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 0.2814814814814815
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 74,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 76,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 139,
+          "gold": 76,
+          "det_tp": 76,
+          "det_fp": 63,
+          "det_fn": 0,
+          "end_tp": 70,
+          "end_fp": 18,
+          "end_fn": 6,
+          "top_ok": 70,
+          "alt_ok": 70,
+          "top_denom": 70,
+          "section_ok": 70,
+          "section_denom": 70,
+          "det_f1": 0.7069767441860465
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 99,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 79,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 13,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.33613445378151263
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 89,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 57,
+          "det_fn": 0,
+          "end_tp": 30,
+          "end_fp": 6,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 0.5289256198347108
+        }
+      ],
+      "out_of_scope_predictions_excluded": 44
+    },
+    "hybrid_gcgo": {
+      "articles": 12,
+      "candidates": 447,
+      "gold": 367,
+      "det_tp": 357,
+      "det_fp": 90,
+      "det_fn": 10,
+      "end_tp": 341,
+      "end_fp": 23,
+      "end_fn": 26,
+      "top_ok": 341,
+      "alt_ok": 341,
+      "top_denom": 341,
+      "section_ok": 341,
+      "section_denom": 341,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 307,
+          "fn": 9,
+          "recall": 0.9715189873417721
+        },
+        "form:curly_single": {
+          "tp": 22,
+          "fn": 1,
+          "recall": 0.9565217391304348
+        },
+        "form:manual_block": {
+          "tp": 28,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 356,
+          "fn": 10,
+          "recall": 0.9726775956284153
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.7986577181208053,
+      "det_r": 0.9727520435967303,
+      "det_f1": 0.8771498771498772,
+      "end_p": 0.9368131868131868,
+      "end_r": 0.9291553133514986,
+      "end_f1": 0.9329685362517101,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.8766185556497978,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 20,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 21,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 31,
+          "gold": 23,
+          "det_tp": 22,
+          "det_fp": 9,
+          "det_fn": 1,
+          "end_tp": 21,
+          "end_fp": 4,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.8148148148148149
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 20,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 2,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 2,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.9473684210526316
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 47,
+              "fn": 3
+            },
+            "provenance:annotator": {
+              "tp": 51,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 57,
+          "gold": 54,
+          "det_tp": 51,
+          "det_fp": 6,
+          "det_fn": 3,
+          "end_tp": 48,
+          "end_fp": 1,
+          "end_fn": 6,
+          "top_ok": 48,
+          "alt_ok": 48,
+          "top_denom": 48,
+          "section_ok": 48,
+          "section_denom": 48,
+          "det_f1": 0.918918918918919
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 30,
+          "gold": 22,
+          "det_tp": 22,
+          "det_fp": 8,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 4,
+          "end_fn": 1,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.846153846153846
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 32,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 4,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 1,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.9333333333333333
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 34,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 16,
+          "det_fn": 0,
+          "end_tp": 16,
+          "end_fp": 2,
+          "end_fn": 2,
+          "top_ok": 16,
+          "alt_ok": 16,
+          "top_denom": 16,
+          "section_ok": 16,
+          "section_denom": 16,
+          "det_f1": 0.6923076923076924
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 30,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 30,
+              "fn": 2
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 40,
+          "gold": 32,
+          "det_tp": 30,
+          "det_fp": 10,
+          "det_fn": 2,
+          "end_tp": 28,
+          "end_fp": 1,
+          "end_fn": 4,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.8333333333333334
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 6,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 0
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 52,
+          "gold": 38,
+          "det_tp": 38,
+          "det_fp": 14,
+          "det_fn": 0,
+          "end_tp": 38,
+          "end_fp": 5,
+          "end_fn": 0,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 0.8444444444444443
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 70,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 72,
+              "fn": 4
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 81,
+          "gold": 76,
+          "det_tp": 72,
+          "det_fp": 9,
+          "det_fn": 4,
+          "end_tp": 67,
+          "end_fp": 2,
+          "end_fn": 9,
+          "top_ok": 67,
+          "alt_ok": 67,
+          "top_denom": 67,
+          "section_ok": 67,
+          "section_denom": 67,
+          "det_f1": 0.9171974522292994
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 29,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 9,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 1,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.8163265306122449
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 35,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 3,
+          "det_fn": 0,
+          "end_tp": 30,
+          "end_fp": 0,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 0.955223880597015
+        }
+      ],
+      "out_of_scope_predictions_excluded": 45
+    },
+    "hybrid_mgc": {
+      "articles": 12,
+      "candidates": 1081,
+      "gold": 367,
+      "det_tp": 367,
+      "det_fp": 714,
+      "det_fn": 0,
+      "end_tp": 353,
+      "end_fp": 47,
+      "end_fn": 14,
+      "top_ok": 353,
+      "alt_ok": 353,
+      "top_denom": 353,
+      "section_ok": 353,
+      "section_denom": 353,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 316,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:curly_single": {
+          "tp": 23,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 28,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 366,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.33950046253469013,
+      "det_r": 1.0,
+      "det_f1": 0.5069060773480663,
+      "end_p": 0.8825,
+      "end_r": 0.9618528610354223,
+      "end_f1": 0.9204693611473272,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.5020489397939952,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 21,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 99,
+          "gold": 23,
+          "det_tp": 23,
+          "det_fp": 76,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 5,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.3770491803278689
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 44,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 26,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 6,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.5806451612903226
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 50,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 54,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 83,
+          "gold": 54,
+          "det_tp": 54,
+          "det_fp": 29,
+          "det_fn": 0,
+          "end_tp": 51,
+          "end_fp": 9,
+          "end_fn": 3,
+          "top_ok": 51,
+          "alt_ok": 51,
+          "top_denom": 51,
+          "section_ok": 51,
+          "section_denom": 51,
+          "det_f1": 0.7883211678832116
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 85,
+          "gold": 22,
+          "det_tp": 22,
+          "det_fp": 63,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 15,
+          "end_fn": 1,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.4112149532710281
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 81,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 53,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.5137614678899083
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 94,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 76,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 3,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.32142857142857145
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 53,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 21,
+          "det_fn": 0,
+          "end_tp": 30,
+          "end_fp": 3,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 0.7529411764705882
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 65,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 59,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.16901408450704225
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 0
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 210,
+          "gold": 38,
+          "det_tp": 38,
+          "det_fp": 172,
+          "det_fn": 0,
+          "end_tp": 38,
+          "end_fp": 6,
+          "end_fn": 0,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 0.3064516129032258
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 74,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 76,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 113,
+          "gold": 76,
+          "det_tp": 76,
+          "det_fp": 37,
+          "det_fn": 0,
+          "end_tp": 72,
+          "end_fp": 0,
+          "end_fn": 4,
+          "top_ok": 72,
+          "alt_ok": 72,
+          "top_denom": 72,
+          "section_ok": 72,
+          "section_denom": 72,
+          "det_f1": 0.8042328042328042
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 77,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 57,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.4123711340206185
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 77,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 45,
+          "det_fn": 0,
+          "end_tp": 31,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 31,
+          "alt_ok": 31,
+          "top_denom": 31,
+          "section_ok": 31,
+          "section_denom": 31,
+          "det_f1": 0.5871559633027523
+        }
+      ],
+      "out_of_scope_predictions_excluded": 0
+    },
+    "hybrid_mgo": {
+      "articles": 12,
+      "candidates": 1128,
+      "gold": 367,
+      "det_tp": 357,
+      "det_fp": 771,
+      "det_fn": 10,
+      "end_tp": 340,
+      "end_fp": 45,
+      "end_fn": 27,
+      "top_ok": 340,
+      "alt_ok": 340,
+      "top_denom": 340,
+      "section_ok": 340,
+      "section_denom": 340,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 315,
+          "fn": 1,
+          "recall": 0.9968354430379747
+        },
+        "form:curly_single": {
+          "tp": 23,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 19,
+          "fn": 9,
+          "recall": 0.6785714285714286
+        },
+        "provenance:annotator": {
+          "tp": 356,
+          "fn": 10,
+          "recall": 0.9726775956284153
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.31648936170212766,
+      "det_r": 0.9727520435967303,
+      "det_f1": 0.47759197324414715,
+      "end_p": 0.8831168831168831,
+      "end_r": 0.9264305177111717,
+      "end_f1": 0.9042553191489362,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.47451689849504547,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 21,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 103,
+          "gold": 23,
+          "det_tp": 23,
+          "det_fp": 80,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 5,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.3650793650793651
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 1
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 42,
+          "gold": 18,
+          "det_tp": 17,
+          "det_fp": 25,
+          "det_fn": 1,
+          "end_tp": 17,
+          "end_fp": 5,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.5666666666666667
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 50,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 51,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 1,
+              "fn": 3
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 80,
+          "gold": 54,
+          "det_tp": 51,
+          "det_fp": 29,
+          "det_fn": 3,
+          "end_tp": 48,
+          "end_fp": 4,
+          "end_fn": 6,
+          "top_ok": 48,
+          "alt_ok": 48,
+          "top_denom": 48,
+          "section_ok": 48,
+          "section_denom": 48,
+          "det_f1": 0.7611940298507462
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 19,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 19,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 87,
+          "gold": 22,
+          "det_tp": 19,
+          "det_fp": 68,
+          "det_fn": 3,
+          "end_tp": 18,
+          "end_fp": 18,
+          "end_fn": 4,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.34862385321100925
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 84,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 56,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.5
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 104,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 86,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 2,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.29508196721311475
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 61,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 29,
+          "det_fn": 0,
+          "end_tp": 30,
+          "end_fp": 2,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 0.6881720430107526
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 65,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 59,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.16901408450704225
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 36,
+              "fn": 2
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 2
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 217,
+          "gold": 38,
+          "det_tp": 36,
+          "det_fp": 181,
+          "det_fn": 2,
+          "end_tp": 36,
+          "end_fp": 6,
+          "end_fn": 2,
+          "top_ok": 36,
+          "alt_ok": 36,
+          "top_denom": 36,
+          "section_ok": 36,
+          "section_denom": 36,
+          "det_f1": 0.2823529411764706
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 74,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 75,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 1,
+              "fn": 1
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 119,
+          "gold": 76,
+          "det_tp": 75,
+          "det_fp": 44,
+          "det_fn": 1,
+          "end_tp": 69,
+          "end_fp": 2,
+          "end_fn": 7,
+          "top_ok": 69,
+          "alt_ok": 69,
+          "top_denom": 69,
+          "section_ok": 69,
+          "section_denom": 69,
+          "det_f1": 0.769230769230769
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 86,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 66,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 1,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.37735849056603776
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 80,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 48,
+          "det_fn": 0,
+          "end_tp": 30,
+          "end_fp": 0,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 0.5714285714285715
+        }
+      ],
+      "out_of_scope_predictions_excluded": 45
+    },
+    "hybrid_qgated": {
+      "articles": 12,
+      "candidates": 522,
+      "gold": 367,
+      "det_tp": 366,
+      "det_fp": 156,
+      "det_fn": 1,
+      "end_tp": 351,
+      "end_fp": 101,
+      "end_fn": 16,
+      "top_ok": 351,
+      "alt_ok": 351,
+      "top_denom": 351,
+      "section_ok": 351,
+      "section_denom": 351,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 315,
+          "fn": 1,
+          "recall": 0.9968354430379747
+        },
+        "form:curly_single": {
+          "tp": 23,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 28,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 365,
+          "fn": 1,
+          "recall": 0.9972677595628415
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.7011494252873564,
+      "det_r": 0.997275204359673,
+      "det_f1": 0.8233970753655794,
+      "end_p": 0.7765486725663717,
+      "end_r": 0.9564032697547684,
+      "end_f1": 0.8571428571428572,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.8048092310836328,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 21,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 29,
+          "gold": 23,
+          "det_tp": 23,
+          "det_fp": 6,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 3,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.8846153846153846
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 23,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 5,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 4,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.878048780487805
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 50,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 54,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 73,
+          "gold": 54,
+          "det_tp": 54,
+          "det_fp": 19,
+          "det_fn": 0,
+          "end_tp": 50,
+          "end_fp": 14,
+          "end_fn": 4,
+          "top_ok": 50,
+          "alt_ok": 50,
+          "top_denom": 50,
+          "section_ok": 50,
+          "section_denom": 50,
+          "det_f1": 0.8503937007874016
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 35,
+          "gold": 22,
+          "det_tp": 22,
+          "det_fp": 13,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 5,
+          "end_fn": 1,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.7719298245614035
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 35,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 7,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 2,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.888888888888889
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 34,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 16,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 8,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.6923076923076924
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 31,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 31,
+              "fn": 1
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 43,
+          "gold": 32,
+          "det_tp": 31,
+          "det_fp": 12,
+          "det_fn": 1,
+          "end_tp": 29,
+          "end_fp": 8,
+          "end_fn": 3,
+          "top_ok": 29,
+          "alt_ok": 29,
+          "top_denom": 29,
+          "section_ok": 29,
+          "section_denom": 29,
+          "det_f1": 0.8266666666666667
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 14,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 8,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 4,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.6
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 0
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 64,
+          "gold": 38,
+          "det_tp": 38,
+          "det_fp": 26,
+          "det_fn": 0,
+          "end_tp": 38,
+          "end_fp": 18,
+          "end_fn": 0,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 0.7450980392156863
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 74,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 76,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 100,
+          "gold": 76,
+          "det_tp": 76,
+          "det_fp": 24,
+          "det_fn": 0,
+          "end_tp": 72,
+          "end_fp": 19,
+          "end_fn": 4,
+          "top_ok": 72,
+          "alt_ok": 72,
+          "top_denom": 72,
+          "section_ok": 72,
+          "section_denom": 72,
+          "det_f1": 0.8636363636363636
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 33,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 13,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 12,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.7547169811320755
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 39,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 7,
+          "det_fn": 0,
+          "end_tp": 31,
+          "end_fp": 4,
+          "end_fn": 1,
+          "top_ok": 31,
+          "alt_ok": 31,
+          "top_denom": 31,
+          "section_ok": 31,
+          "section_denom": 31,
+          "det_f1": 0.9014084507042254
+        }
+      ],
+      "out_of_scope_predictions_excluded": 14
+    },
+    "hybrid_qt": {
+      "articles": 12,
+      "candidates": 1091,
+      "gold": 367,
+      "det_tp": 350,
+      "det_fp": 741,
+      "det_fn": 17,
+      "end_tp": 343,
+      "end_fp": 455,
+      "end_fn": 24,
+      "top_ok": 343,
+      "alt_ok": 343,
+      "top_denom": 343,
+      "section_ok": 343,
+      "section_denom": 343,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 300,
+          "fn": 16,
+          "recall": 0.9493670886075949
+        },
+        "form:curly_single": {
+          "tp": 23,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 27,
+          "fn": 1,
+          "recall": 0.9642857142857143
+        },
+        "provenance:annotator": {
+          "tp": 349,
+          "fn": 17,
+          "recall": 0.953551912568306
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.3208065994500458,
+      "det_r": 0.9536784741144414,
+      "det_f1": 0.48010973936899853,
+      "end_p": 0.4298245614035088,
+      "end_r": 0.9346049046321526,
+      "end_f1": 0.5888412017167381,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.453025834487272,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 21,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 71,
+          "gold": 23,
+          "det_tp": 23,
+          "det_fp": 48,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 36,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.4893617021276596
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 69,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 51,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 24,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.41379310344827586
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 46,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 50,
+              "fn": 4
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 159,
+          "gold": 54,
+          "det_tp": 50,
+          "det_fp": 109,
+          "det_fn": 4,
+          "end_tp": 49,
+          "end_fp": 72,
+          "end_fn": 5,
+          "top_ok": 49,
+          "alt_ok": 49,
+          "top_denom": 49,
+          "section_ok": 49,
+          "section_denom": 49,
+          "det_f1": 0.4694835680751173
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 21,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 1,
+              "fn": 1
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 94,
+          "gold": 22,
+          "det_tp": 21,
+          "det_fp": 73,
+          "det_fn": 1,
+          "end_tp": 20,
+          "end_fp": 42,
+          "end_fn": 2,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.3620689655172414
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 85,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 57,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 34,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.49557522123893805
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 17,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 1
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 57,
+          "gold": 18,
+          "det_tp": 17,
+          "det_fp": 40,
+          "det_fn": 1,
+          "end_tp": 17,
+          "end_fp": 28,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.45333333333333325
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 29,
+              "fn": 3
+            },
+            "provenance:annotator": {
+              "tp": 29,
+              "fn": 3
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 94,
+          "gold": 32,
+          "det_tp": 29,
+          "det_fp": 65,
+          "det_fn": 3,
+          "end_tp": 28,
+          "end_fp": 38,
+          "end_fn": 4,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.46031746031746035
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 56,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 50,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 33,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.19354838709677416
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 30,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 36,
+              "fn": 2
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 110,
+          "gold": 38,
+          "det_tp": 36,
+          "det_fp": 74,
+          "det_fn": 2,
+          "end_tp": 36,
+          "end_fp": 42,
+          "end_fn": 2,
+          "top_ok": 36,
+          "alt_ok": 36,
+          "top_denom": 36,
+          "section_ok": 36,
+          "section_denom": 36,
+          "det_f1": 0.48648648648648646
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 71,
+              "fn": 3
+            },
+            "provenance:annotator": {
+              "tp": 73,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 144,
+          "gold": 76,
+          "det_tp": 73,
+          "det_fp": 71,
+          "det_fn": 3,
+          "end_tp": 71,
+          "end_fp": 46,
+          "end_fn": 5,
+          "top_ok": 71,
+          "alt_ok": 71,
+          "top_denom": 71,
+          "section_ok": 71,
+          "section_denom": 71,
+          "det_f1": 0.6636363636363636
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 19,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 19,
+              "fn": 1
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 69,
+          "gold": 20,
+          "det_tp": 19,
+          "det_fp": 50,
+          "det_fn": 1,
+          "end_tp": 19,
+          "end_fp": 30,
+          "end_fn": 1,
+          "top_ok": 19,
+          "alt_ok": 19,
+          "top_denom": 19,
+          "section_ok": 19,
+          "section_denom": 19,
+          "det_f1": 0.42696629213483145
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 25,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 30,
+              "fn": 2
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 83,
+          "gold": 32,
+          "det_tp": 30,
+          "det_fp": 53,
+          "det_fn": 2,
+          "end_tp": 30,
+          "end_fp": 30,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 0.5217391304347826
+        }
+      ],
+      "out_of_scope_predictions_excluded": 52
+    },
+    "hybrid_tgc": {
+      "articles": 12,
+      "candidates": 415,
+      "gold": 367,
+      "det_tp": 356,
+      "det_fp": 59,
+      "det_fn": 11,
+      "end_tp": 343,
+      "end_fp": 47,
+      "end_fn": 24,
+      "top_ok": 343,
+      "alt_ok": 343,
+      "top_denom": 343,
+      "section_ok": 343,
+      "section_denom": 343,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 306,
+          "fn": 10,
+          "recall": 0.9683544303797469
+        },
+        "form:curly_single": {
+          "tp": 22,
+          "fn": 1,
+          "recall": 0.9565217391304348
+        },
+        "form:manual_block": {
+          "tp": 28,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 355,
+          "fn": 11,
+          "recall": 0.9699453551912568
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.8578313253012049,
+      "det_r": 0.9700272479564033,
+      "det_f1": 0.9104859335038364,
+      "end_p": 0.8794871794871795,
+      "end_r": 0.9346049046321526,
+      "end_f1": 0.9062087186261559,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.9145498079860079,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 20,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 21,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 27,
+          "gold": 23,
+          "det_tp": 22,
+          "det_fp": 5,
+          "det_fn": 1,
+          "end_tp": 21,
+          "end_fp": 5,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.8800000000000001
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 23,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 5,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 4,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.878048780487805
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 47,
+              "fn": 3
+            },
+            "provenance:annotator": {
+              "tp": 51,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 59,
+          "gold": 54,
+          "det_tp": 51,
+          "det_fp": 8,
+          "det_fn": 3,
+          "end_tp": 48,
+          "end_fp": 7,
+          "end_fn": 6,
+          "top_ok": 48,
+          "alt_ok": 48,
+          "top_denom": 48,
+          "section_ok": 48,
+          "section_denom": 48,
+          "det_f1": 0.9026548672566371
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 19,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 21,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 27,
+          "gold": 22,
+          "det_tp": 21,
+          "det_fp": 6,
+          "det_fn": 1,
+          "end_tp": 20,
+          "end_fp": 2,
+          "end_fn": 2,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.8571428571428572
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 29,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 1,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 1,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.9824561403508771
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 23,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 5,
+          "det_fn": 0,
+          "end_tp": 16,
+          "end_fp": 4,
+          "end_fn": 2,
+          "top_ok": 16,
+          "alt_ok": 16,
+          "top_denom": 16,
+          "section_ok": 16,
+          "section_denom": 16,
+          "det_f1": 0.878048780487805
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 30,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 30,
+              "fn": 2
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 31,
+          "gold": 32,
+          "det_tp": 30,
+          "det_fp": 1,
+          "det_fn": 2,
+          "end_tp": 28,
+          "end_fp": 1,
+          "end_fn": 4,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.9523809523809523
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 6,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 0
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 49,
+          "gold": 38,
+          "det_tp": 38,
+          "det_fp": 11,
+          "det_fn": 0,
+          "end_tp": 38,
+          "end_fp": 7,
+          "end_fn": 0,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 0.8735632183908045
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 70,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 72,
+              "fn": 4
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 79,
+          "gold": 76,
+          "det_tp": 72,
+          "det_fp": 7,
+          "det_fn": 4,
+          "end_tp": 69,
+          "end_fp": 7,
+          "end_fn": 7,
+          "top_ok": 69,
+          "alt_ok": 69,
+          "top_denom": 69,
+          "section_ok": 69,
+          "section_denom": 69,
+          "det_f1": 0.9290322580645162
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 22,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 2,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 2,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.9523809523809523
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 40,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 8,
+          "det_fn": 0,
+          "end_tp": 31,
+          "end_fp": 7,
+          "end_fn": 1,
+          "top_ok": 31,
+          "alt_ok": 31,
+          "top_denom": 31,
+          "section_ok": 31,
+          "section_denom": 31,
+          "det_f1": 0.888888888888889
+        }
+      ],
+      "out_of_scope_predictions_excluded": 7
+    },
+    "hybrid_tgo": {
+      "articles": 12,
+      "candidates": 365,
+      "gold": 367,
+      "det_tp": 252,
+      "det_fp": 113,
+      "det_fn": 115,
+      "end_tp": 240,
+      "end_fp": 43,
+      "end_fn": 127,
+      "top_ok": 240,
+      "alt_ok": 240,
+      "top_denom": 240,
+      "section_ok": 240,
+      "section_denom": 240,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 211,
+          "fn": 105,
+          "recall": 0.6677215189873418
+        },
+        "form:curly_single": {
+          "tp": 19,
+          "fn": 4,
+          "recall": 0.8260869565217391
+        },
+        "form:manual_block": {
+          "tp": 22,
+          "fn": 6,
+          "recall": 0.7857142857142857
+        },
+        "provenance:annotator": {
+          "tp": 251,
+          "fn": 115,
+          "recall": 0.6857923497267759
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.6904109589041096,
+      "det_r": 0.6866485013623979,
+      "det_f1": 0.6885245901639344,
+      "end_p": 0.8480565371024735,
+      "end_r": 0.6539509536784741,
+      "end_f1": 0.7384615384615384,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.7019621909783438,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 17,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 4
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 30,
+          "gold": 23,
+          "det_tp": 19,
+          "det_fp": 11,
+          "det_fn": 4,
+          "end_tp": 18,
+          "end_fp": 6,
+          "end_fn": 5,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.7169811320754716
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 8,
+              "fn": 6
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 7
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 1
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 14,
+          "gold": 18,
+          "det_tp": 11,
+          "det_fp": 3,
+          "det_fn": 7,
+          "end_tp": 11,
+          "end_fp": 2,
+          "end_fn": 7,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.6875000000000001
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 24,
+              "fn": 26
+            },
+            "provenance:annotator": {
+              "tp": 27,
+              "fn": 27
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 1
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 39,
+          "gold": 54,
+          "det_tp": 27,
+          "det_fp": 12,
+          "det_fn": 27,
+          "end_tp": 26,
+          "end_fp": 7,
+          "end_fn": 28,
+          "top_ok": 26,
+          "alt_ok": 26,
+          "top_denom": 26,
+          "section_ok": 26,
+          "section_denom": 26,
+          "det_f1": 0.5806451612903226
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 6
+            },
+            "provenance:annotator": {
+              "tp": 14,
+              "fn": 8
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 21,
+          "gold": 22,
+          "det_tp": 14,
+          "det_fp": 7,
+          "det_fn": 8,
+          "end_tp": 14,
+          "end_fp": 3,
+          "end_fn": 8,
+          "top_ok": 14,
+          "alt_ok": 14,
+          "top_denom": 14,
+          "section_ok": 14,
+          "section_denom": 14,
+          "det_f1": 0.6511627906976744
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 22,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 27,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 31,
+          "gold": 28,
+          "det_tp": 27,
+          "det_fp": 4,
+          "det_fn": 1,
+          "end_tp": 27,
+          "end_fp": 1,
+          "end_fn": 1,
+          "top_ok": 27,
+          "alt_ok": 27,
+          "top_denom": 27,
+          "section_ok": 27,
+          "section_denom": 27,
+          "det_f1": 0.9152542372881356
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 17,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 1
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 33,
+          "gold": 18,
+          "det_tp": 17,
+          "det_fp": 16,
+          "det_fn": 1,
+          "end_tp": 16,
+          "end_fp": 3,
+          "end_fn": 2,
+          "top_ok": 16,
+          "alt_ok": 16,
+          "top_denom": 16,
+          "section_ok": 16,
+          "section_denom": 16,
+          "det_f1": 0.6666666666666666
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 9
+            },
+            "provenance:annotator": {
+              "tp": 23,
+              "fn": 9
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 32,
+          "gold": 32,
+          "det_tp": 23,
+          "det_fp": 9,
+          "det_fn": 9,
+          "end_tp": 21,
+          "end_fp": 1,
+          "end_fn": 11,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.71875
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 5,
+              "fn": 1
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 5,
+          "gold": 6,
+          "det_tp": 5,
+          "det_fp": 0,
+          "det_fn": 1,
+          "end_tp": 5,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 5,
+          "alt_ok": 5,
+          "top_denom": 5,
+          "section_ok": 5,
+          "section_denom": 5,
+          "det_f1": 0.9090909090909091
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 11,
+              "fn": 21
+            },
+            "provenance:annotator": {
+              "tp": 15,
+              "fn": 23
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 2
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 31,
+          "gold": 38,
+          "det_tp": 15,
+          "det_fp": 16,
+          "det_fn": 23,
+          "end_tp": 15,
+          "end_fp": 3,
+          "end_fn": 23,
+          "top_ok": 15,
+          "alt_ok": 15,
+          "top_denom": 15,
+          "section_ok": 15,
+          "section_denom": 15,
+          "det_f1": 0.43478260869565216
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 52,
+              "fn": 22
+            },
+            "provenance:annotator": {
+              "tp": 54,
+              "fn": 22
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 67,
+          "gold": 76,
+          "det_tp": 54,
+          "det_fp": 13,
+          "det_fn": 22,
+          "end_tp": 49,
+          "end_fp": 7,
+          "end_fn": 27,
+          "top_ok": 49,
+          "alt_ok": 49,
+          "top_denom": 49,
+          "section_ok": 49,
+          "section_denom": 49,
+          "det_f1": 0.7552447552447553
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 15,
+              "fn": 5
+            },
+            "provenance:annotator": {
+              "tp": 15,
+              "fn": 5
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 26,
+          "gold": 20,
+          "det_tp": 15,
+          "det_fp": 11,
+          "det_fn": 5,
+          "end_tp": 15,
+          "end_fp": 3,
+          "end_fn": 5,
+          "top_ok": 15,
+          "alt_ok": 15,
+          "top_denom": 15,
+          "section_ok": 15,
+          "section_denom": 15,
+          "det_f1": 0.6521739130434783
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 7
+            },
+            "provenance:annotator": {
+              "tp": 25,
+              "fn": 7
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 36,
+          "gold": 32,
+          "det_tp": 25,
+          "det_fp": 11,
+          "det_fn": 7,
+          "end_tp": 23,
+          "end_fp": 7,
+          "end_fn": 9,
+          "top_ok": 23,
+          "alt_ok": 23,
+          "top_denom": 23,
+          "section_ok": 23,
+          "section_denom": 23,
+          "det_f1": 0.7352941176470588
+        }
+      ],
+      "out_of_scope_predictions_excluded": 52
+    },
+    "hybrid_xqgc": {
+      "articles": 12,
+      "candidates": 352,
+      "gold": 367,
+      "det_tp": 344,
+      "det_fp": 8,
+      "det_fn": 23,
+      "end_tp": 338,
+      "end_fp": 8,
+      "end_fn": 29,
+      "top_ok": 338,
+      "alt_ok": 338,
+      "top_denom": 338,
+      "section_ok": 338,
+      "section_denom": 338,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 294,
+          "fn": 22,
+          "recall": 0.930379746835443
+        },
+        "form:curly_single": {
+          "tp": 22,
+          "fn": 1,
+          "recall": 0.9565217391304348
+        },
+        "form:manual_block": {
+          "tp": 28,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 343,
+          "fn": 23,
+          "recall": 0.9371584699453552
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.9772727272727273,
+      "det_r": 0.9373297002724795,
+      "det_f1": 0.956884561891516,
+      "end_p": 0.976878612716763,
+      "end_r": 0.9209809264305178,
+      "end_f1": 0.9481065918653576,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.9569788250774147,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 20,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 21,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 23,
+          "gold": 23,
+          "det_tp": 22,
+          "det_fp": 1,
+          "det_fn": 1,
+          "end_tp": 21,
+          "end_fp": 1,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.9565217391304348
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 20,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 2,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 2,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.9473684210526316
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 44,
+              "fn": 6
+            },
+            "provenance:annotator": {
+              "tp": 48,
+              "fn": 6
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 48,
+          "gold": 54,
+          "det_tp": 48,
+          "det_fp": 0,
+          "det_fn": 6,
+          "end_tp": 48,
+          "end_fp": 0,
+          "end_fn": 6,
+          "top_ok": 48,
+          "alt_ok": 48,
+          "top_denom": 48,
+          "section_ok": 48,
+          "section_denom": 48,
+          "det_f1": 0.9411764705882353
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 2
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 21,
+          "gold": 22,
+          "det_tp": 20,
+          "det_fp": 1,
+          "det_fn": 2,
+          "end_tp": 19,
+          "end_fp": 1,
+          "end_fn": 3,
+          "top_ok": 19,
+          "alt_ok": 19,
+          "top_denom": 19,
+          "section_ok": 19,
+          "section_denom": 19,
+          "det_f1": 0.9302325581395349
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 28,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 14,
+              "fn": 4
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 14,
+          "gold": 18,
+          "det_tp": 14,
+          "det_fp": 0,
+          "det_fn": 4,
+          "end_tp": 13,
+          "end_fp": 0,
+          "end_fn": 5,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.8750000000000001
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 28,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 4
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 28,
+          "gold": 32,
+          "det_tp": 28,
+          "det_fp": 0,
+          "det_fn": 4,
+          "end_tp": 27,
+          "end_fp": 0,
+          "end_fn": 5,
+          "top_ok": 27,
+          "alt_ok": 27,
+          "top_denom": 27,
+          "section_ok": 27,
+          "section_denom": 27,
+          "det_f1": 0.9333333333333333
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 6,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 0
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 42,
+          "gold": 38,
+          "det_tp": 38,
+          "det_fp": 4,
+          "det_fn": 0,
+          "end_tp": 38,
+          "end_fp": 4,
+          "end_fn": 0,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 0.9500000000000001
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 69,
+              "fn": 5
+            },
+            "provenance:annotator": {
+              "tp": 71,
+              "fn": 5
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 71,
+          "gold": 76,
+          "det_tp": 71,
+          "det_fp": 0,
+          "det_fn": 5,
+          "end_tp": 69,
+          "end_fp": 0,
+          "end_fn": 7,
+          "top_ok": 69,
+          "alt_ok": 69,
+          "top_denom": 69,
+          "section_ok": 69,
+          "section_denom": 69,
+          "det_f1": 0.9659863945578232
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 20,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 26,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 31,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 31,
+          "gold": 32,
+          "det_tp": 31,
+          "det_fp": 0,
+          "det_fn": 1,
+          "end_tp": 31,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 31,
+          "alt_ok": 31,
+          "top_denom": 31,
+          "section_ok": 31,
+          "section_denom": 31,
+          "det_f1": 0.9841269841269841
+        }
+      ],
+      "out_of_scope_predictions_excluded": 0
+    },
+    "hybrid_xtgc": {
+      "articles": 12,
+      "candidates": 111,
+      "gold": 367,
+      "det_tp": 108,
+      "det_fp": 3,
+      "det_fn": 259,
+      "end_tp": 108,
+      "end_fp": 3,
+      "end_fn": 259,
+      "top_ok": 108,
+      "alt_ok": 108,
+      "top_denom": 108,
+      "section_ok": 108,
+      "section_denom": 108,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 89,
+          "fn": 227,
+          "recall": 0.28164556962025317
+        },
+        "form:curly_single": {
+          "tp": 6,
+          "fn": 17,
+          "recall": 0.2608695652173913
+        },
+        "form:manual_block": {
+          "tp": 13,
+          "fn": 15,
+          "recall": 0.4642857142857143
+        },
+        "provenance:annotator": {
+          "tp": 107,
+          "fn": 259,
+          "recall": 0.2923497267759563
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.972972972972973,
+      "det_r": 0.29427792915531337,
+      "det_f1": 0.4518828451882845,
+      "end_p": 0.972972972972973,
+      "end_r": 0.29427792915531337,
+      "end_f1": 0.4518828451882845,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.4522147545677416,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 5,
+              "fn": 16
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 16
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 7,
+          "gold": 23,
+          "det_tp": 7,
+          "det_fp": 0,
+          "det_fn": 16,
+          "end_tp": 7,
+          "end_fp": 0,
+          "end_fn": 16,
+          "top_ok": 7,
+          "alt_ok": 7,
+          "top_denom": 7,
+          "section_ok": 7,
+          "section_denom": 7,
+          "det_f1": 0.4666666666666667
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 9
+            },
+            "provenance:annotator": {
+              "tp": 7,
+              "fn": 11
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 2
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 7,
+          "gold": 18,
+          "det_tp": 7,
+          "det_fp": 0,
+          "det_fn": 11,
+          "end_tp": 7,
+          "end_fp": 0,
+          "end_fn": 11,
+          "top_ok": 7,
+          "alt_ok": 7,
+          "top_denom": 7,
+          "section_ok": 7,
+          "section_denom": 7,
+          "det_f1": 0.56
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 36
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 37
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 1
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 17,
+          "gold": 54,
+          "det_tp": 17,
+          "det_fp": 0,
+          "det_fn": 37,
+          "end_tp": 17,
+          "end_fp": 0,
+          "end_fn": 37,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.4788732394366197
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 15
+            },
+            "provenance:annotator": {
+              "tp": 5,
+              "fn": 17
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 5,
+          "gold": 22,
+          "det_tp": 5,
+          "det_fp": 0,
+          "det_fn": 17,
+          "end_tp": 5,
+          "end_fp": 0,
+          "end_fn": 17,
+          "top_ok": 5,
+          "alt_ok": 5,
+          "top_denom": 5,
+          "section_ok": 5,
+          "section_denom": 5,
+          "det_f1": 0.37037037037037035
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 3,
+              "fn": 20
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 22
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 2
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 6,
+          "gold": 28,
+          "det_tp": 6,
+          "det_fp": 0,
+          "det_fn": 22,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 22,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.35294117647058826
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 12
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 12
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 6,
+          "gold": 18,
+          "det_tp": 6,
+          "det_fp": 0,
+          "det_fn": 12,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 12,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.5
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 11,
+              "fn": 21
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 21
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 11,
+          "gold": 32,
+          "det_tp": 11,
+          "det_fp": 0,
+          "det_fn": 21,
+          "end_tp": 11,
+          "end_fp": 0,
+          "end_fn": 21,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.5116279069767442
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 2,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 2,
+              "fn": 4
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 2,
+          "gold": 6,
+          "det_tp": 2,
+          "det_fp": 0,
+          "det_fn": 4,
+          "end_tp": 2,
+          "end_fp": 0,
+          "end_fn": 4,
+          "top_ok": 2,
+          "alt_ok": 2,
+          "top_denom": 2,
+          "section_ok": 2,
+          "section_denom": 2,
+          "det_f1": 0.5
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 9,
+              "fn": 23
+            },
+            "provenance:annotator": {
+              "tp": 10,
+              "fn": 28
+            },
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 4
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 13,
+          "gold": 38,
+          "det_tp": 10,
+          "det_fp": 3,
+          "det_fn": 28,
+          "end_tp": 10,
+          "end_fp": 3,
+          "end_fn": 28,
+          "top_ok": 10,
+          "alt_ok": 10,
+          "top_denom": 10,
+          "section_ok": 10,
+          "section_denom": 10,
+          "det_f1": 0.392156862745098
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 21,
+              "fn": 53
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 54
+            },
+            "form:manual_block": {
+              "tp": 1,
+              "fn": 1
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 22,
+          "gold": 76,
+          "det_tp": 22,
+          "det_fp": 0,
+          "det_fn": 54,
+          "end_tp": 22,
+          "end_fp": 0,
+          "end_fn": 54,
+          "top_ok": 22,
+          "alt_ok": 22,
+          "top_denom": 22,
+          "section_ok": 22,
+          "section_denom": 22,
+          "det_f1": 0.4489795918367347
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 4,
+              "fn": 16
+            },
+            "provenance:annotator": {
+              "tp": 4,
+              "fn": 16
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 4,
+          "gold": 20,
+          "det_tp": 4,
+          "det_fp": 0,
+          "det_fn": 16,
+          "end_tp": 4,
+          "end_fp": 0,
+          "end_fn": 16,
+          "top_ok": 4,
+          "alt_ok": 4,
+          "top_denom": 4,
+          "section_ok": 4,
+          "section_denom": 4,
+          "det_f1": 0.33333333333333337
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 9,
+              "fn": 18
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 21
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 3
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 11,
+          "gold": 32,
+          "det_tp": 11,
+          "det_fp": 0,
+          "det_fn": 21,
+          "end_tp": 11,
+          "end_fp": 0,
+          "end_fn": 21,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.5116279069767442
+        }
+      ],
+      "out_of_scope_predictions_excluded": 0
+    },
+    "ollama_gemma4-26b-mlx": {
+      "articles": 12,
+      "candidates": 297,
+      "gold": 367,
+      "det_tp": 231,
+      "det_fp": 66,
+      "det_fn": 136,
+      "end_tp": 219,
+      "end_fp": 5,
+      "end_fn": 148,
+      "top_ok": 219,
+      "alt_ok": 219,
+      "top_denom": 219,
+      "section_ok": 219,
+      "section_denom": 219,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 193,
+          "fn": 123,
+          "recall": 0.6107594936708861
+        },
+        "form:curly_single": {
+          "tp": 19,
+          "fn": 4,
+          "recall": 0.8260869565217391
+        },
+        "form:manual_block": {
+          "tp": 19,
+          "fn": 9,
+          "recall": 0.6785714285714286
+        },
+        "provenance:annotator": {
+          "tp": 230,
+          "fn": 136,
+          "recall": 0.6284153005464481
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.7777777777777778,
+      "det_r": 0.6294277929155313,
+      "det_f1": 0.6957831325301205,
+      "end_p": 0.9776785714285714,
+      "end_r": 0.5967302452316077,
+      "end_f1": 0.7411167512690355,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.7051915487548674,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 17,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 4
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 25,
+          "gold": 23,
+          "det_tp": 19,
+          "det_fp": 6,
+          "det_fn": 4,
+          "end_tp": 18,
+          "end_fp": 1,
+          "end_fn": 5,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.7916666666666667
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 8,
+              "fn": 6
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 7
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 1
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 11,
+          "gold": 18,
+          "det_tp": 11,
+          "det_fp": 0,
+          "det_fn": 7,
+          "end_tp": 11,
+          "end_fp": 0,
+          "end_fn": 7,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.7586206896551725
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 24,
+              "fn": 26
+            },
+            "provenance:annotator": {
+              "tp": 25,
+              "fn": 29
+            },
+            "form:manual_block": {
+              "tp": 1,
+              "fn": 3
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 29,
+          "gold": 54,
+          "det_tp": 25,
+          "det_fp": 4,
+          "det_fn": 29,
+          "end_tp": 24,
+          "end_fp": 0,
+          "end_fn": 30,
+          "top_ok": 24,
+          "alt_ok": 24,
+          "top_denom": 24,
+          "section_ok": 24,
+          "section_denom": 24,
+          "det_f1": 0.6024096385542169
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 12,
+              "fn": 8
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 10
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 16,
+          "gold": 22,
+          "det_tp": 12,
+          "det_fp": 4,
+          "det_fn": 10,
+          "end_tp": 12,
+          "end_fp": 2,
+          "end_fn": 10,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 0.631578947368421
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 22,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 27,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 30,
+          "gold": 28,
+          "det_tp": 27,
+          "det_fp": 3,
+          "det_fn": 1,
+          "end_tp": 27,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 27,
+          "alt_ok": 27,
+          "top_denom": 27,
+          "section_ok": 27,
+          "section_denom": 27,
+          "det_f1": 0.9310344827586207
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 14,
+              "fn": 4
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 27,
+          "gold": 18,
+          "det_tp": 14,
+          "det_fp": 13,
+          "det_fn": 4,
+          "end_tp": 13,
+          "end_fp": 0,
+          "end_fn": 5,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.6222222222222222
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 9
+            },
+            "provenance:annotator": {
+              "tp": 23,
+              "fn": 9
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 31,
+          "gold": 32,
+          "det_tp": 23,
+          "det_fp": 8,
+          "det_fn": 9,
+          "end_tp": 21,
+          "end_fp": 0,
+          "end_fn": 11,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.7301587301587302
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 5,
+              "fn": 1
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 5,
+          "gold": 6,
+          "det_tp": 5,
+          "det_fp": 0,
+          "det_fn": 1,
+          "end_tp": 5,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 5,
+          "alt_ok": 5,
+          "top_denom": 5,
+          "section_ok": 5,
+          "section_denom": 5,
+          "det_f1": 0.9090909090909091
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 27
+            },
+            "provenance:annotator": {
+              "tp": 9,
+              "fn": 29
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 2
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 19,
+          "gold": 38,
+          "det_tp": 9,
+          "det_fp": 10,
+          "det_fn": 29,
+          "end_tp": 9,
+          "end_fp": 1,
+          "end_fn": 29,
+          "top_ok": 9,
+          "alt_ok": 9,
+          "top_denom": 9,
+          "section_ok": 9,
+          "section_denom": 9,
+          "det_f1": 0.3157894736842105
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 49,
+              "fn": 25
+            },
+            "provenance:annotator": {
+              "tp": 50,
+              "fn": 26
+            },
+            "form:manual_block": {
+              "tp": 1,
+              "fn": 1
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 56,
+          "gold": 76,
+          "det_tp": 50,
+          "det_fp": 6,
+          "det_fn": 26,
+          "end_tp": 45,
+          "end_fp": 0,
+          "end_fn": 31,
+          "top_ok": 45,
+          "alt_ok": 45,
+          "top_denom": 45,
+          "section_ok": 45,
+          "section_denom": 45,
+          "det_f1": 0.7575757575757577
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 13,
+              "fn": 7
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 7
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 22,
+          "gold": 20,
+          "det_tp": 13,
+          "det_fp": 9,
+          "det_fn": 7,
+          "end_tp": 13,
+          "end_fp": 1,
+          "end_fn": 7,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.6190476190476191
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 9
+            },
+            "provenance:annotator": {
+              "tp": 23,
+              "fn": 9
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 26,
+          "gold": 32,
+          "det_tp": 23,
+          "det_fp": 3,
+          "det_fn": 9,
+          "end_tp": 21,
+          "end_fp": 0,
+          "end_fn": 11,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.7931034482758621
+        }
+      ],
+      "out_of_scope_predictions_excluded": 45
+    },
+    "oracle_gold": {
+      "articles": 12,
+      "candidates": 367,
+      "gold": 367,
+      "det_tp": 367,
+      "det_fp": 0,
+      "det_fn": 0,
+      "end_tp": 353,
+      "end_fp": 0,
+      "end_fn": 14,
+      "top_ok": 353,
+      "alt_ok": 353,
+      "top_denom": 353,
+      "section_ok": 353,
+      "section_denom": 353,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 316,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:curly_single": {
+          "tp": 23,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 28,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 366,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 1.0,
+      "det_r": 1.0,
+      "det_f1": 1.0,
+      "end_p": 1.0,
+      "end_r": 0.9618528610354223,
+      "end_f1": 0.9805555555555555,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 1.0,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 21,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 23,
+          "gold": 23,
+          "det_tp": 23,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 0,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 18,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 50,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 54,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 54,
+          "gold": 54,
+          "det_tp": 54,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 51,
+          "end_fp": 0,
+          "end_fn": 3,
+          "top_ok": 51,
+          "alt_ok": 51,
+          "top_denom": 51,
+          "section_ok": 51,
+          "section_denom": 51,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 22,
+          "gold": 22,
+          "det_tp": 22,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 28,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 18,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 18,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 32,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 30,
+          "end_fp": 0,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 6,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 32,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 0
+            },
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 38,
+          "gold": 38,
+          "det_tp": 38,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 38,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 74,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 76,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 76,
+          "gold": 76,
+          "det_tp": 76,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 72,
+          "end_fp": 0,
+          "end_fn": 4,
+          "top_ok": 72,
+          "alt_ok": 72,
+          "top_denom": 72,
+          "section_ok": 72,
+          "section_denom": 72,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 0
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 20,
+          "gold": 20,
+          "det_tp": 20,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 20,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 27,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 32,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 32,
+          "gold": 32,
+          "det_tp": 32,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 31,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 31,
+          "alt_ok": 31,
+          "top_denom": 31,
+          "section_ok": 31,
+          "section_denom": 31,
+          "det_f1": 1.0
+        }
+      ],
+      "out_of_scope_predictions_excluded": 0
+    },
+    "quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "articles": 12,
+      "candidates": 1059,
+      "gold": 367,
+      "det_tp": 347,
+      "det_fp": 712,
+      "det_fn": 20,
+      "end_tp": 340,
+      "end_fp": 433,
+      "end_fn": 27,
+      "top_ok": 340,
+      "alt_ok": 340,
+      "top_denom": 340,
+      "section_ok": 340,
+      "section_denom": 340,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 299,
+          "fn": 17,
+          "recall": 0.9462025316455697
+        },
+        "form:curly_single": {
+          "tp": 22,
+          "fn": 1,
+          "recall": 0.9565217391304348
+        },
+        "form:manual_block": {
+          "tp": 26,
+          "fn": 2,
+          "recall": 0.9285714285714286
+        },
+        "provenance:annotator": {
+          "tp": 346,
+          "fn": 20,
+          "recall": 0.9453551912568307
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.3276676109537299,
+      "det_r": 0.9455040871934605,
+      "det_f1": 0.48667601683029454,
+      "end_p": 0.4398447606727037,
+      "end_r": 0.9264305177111717,
+      "end_f1": 0.5964912280701754,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.4608796134812922,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 21,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 22,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 67,
+          "gold": 23,
+          "det_tp": 23,
+          "det_fp": 44,
+          "det_fn": 0,
+          "end_tp": 21,
+          "end_fp": 32,
+          "end_fn": 2,
+          "top_ok": 21,
+          "alt_ok": 21,
+          "top_denom": 21,
+          "section_ok": 21,
+          "section_denom": 21,
+          "det_f1": 0.5111111111111112
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 14,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 18,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 65,
+          "gold": 18,
+          "det_tp": 18,
+          "det_fp": 47,
+          "det_fn": 0,
+          "end_tp": 18,
+          "end_fp": 21,
+          "end_fn": 0,
+          "top_ok": 18,
+          "alt_ok": 18,
+          "top_denom": 18,
+          "section_ok": 18,
+          "section_denom": 18,
+          "det_f1": 0.4337349397590362
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 46,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 49,
+              "fn": 5
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 1
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 154,
+          "gold": 54,
+          "det_tp": 49,
+          "det_fp": 105,
+          "det_fn": 5,
+          "end_tp": 48,
+          "end_fp": 68,
+          "end_fn": 6,
+          "top_ok": 48,
+          "alt_ok": 48,
+          "top_denom": 48,
+          "section_ok": 48,
+          "section_denom": 48,
+          "det_f1": 0.47115384615384615
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 20,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 21,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 1,
+              "fn": 1
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 92,
+          "gold": 22,
+          "det_tp": 21,
+          "det_fp": 71,
+          "det_fn": 1,
+          "end_tp": 20,
+          "end_fp": 42,
+          "end_fn": 2,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.3684210526315789
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 23,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 28,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 84,
+          "gold": 28,
+          "det_tp": 28,
+          "det_fp": 56,
+          "det_fn": 0,
+          "end_tp": 28,
+          "end_fp": 33,
+          "end_fn": 0,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.5
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 17,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 1
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 55,
+          "gold": 18,
+          "det_tp": 17,
+          "det_fp": 38,
+          "det_fn": 1,
+          "end_tp": 17,
+          "end_fp": 26,
+          "end_fn": 1,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.4657534246575342
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 29,
+              "fn": 3
+            },
+            "provenance:annotator": {
+              "tp": 29,
+              "fn": 3
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 94,
+          "gold": 32,
+          "det_tp": 29,
+          "det_fp": 65,
+          "det_fn": 3,
+          "end_tp": 28,
+          "end_fp": 38,
+          "end_fn": 4,
+          "top_ok": 28,
+          "alt_ok": 28,
+          "top_denom": 28,
+          "section_ok": 28,
+          "section_denom": 28,
+          "det_f1": 0.46031746031746035
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 0
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 56,
+          "gold": 6,
+          "det_tp": 6,
+          "det_fp": 50,
+          "det_fn": 0,
+          "end_tp": 6,
+          "end_fp": 33,
+          "end_fn": 0,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.19354838709677416
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 30,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 35,
+              "fn": 3
+            },
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 106,
+          "gold": 38,
+          "det_tp": 35,
+          "det_fp": 71,
+          "det_fn": 3,
+          "end_tp": 35,
+          "end_fp": 41,
+          "end_fn": 3,
+          "top_ok": 35,
+          "alt_ok": 35,
+          "top_denom": 35,
+          "section_ok": 35,
+          "section_denom": 35,
+          "det_f1": 0.48611111111111105
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 70,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 72,
+              "fn": 4
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 138,
+          "gold": 76,
+          "det_tp": 72,
+          "det_fp": 66,
+          "det_fn": 4,
+          "end_tp": 70,
+          "end_fp": 42,
+          "end_fn": 6,
+          "top_ok": 70,
+          "alt_ok": 70,
+          "top_denom": 70,
+          "section_ok": 70,
+          "section_denom": 70,
+          "det_f1": 0.6728971962616822
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 19,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 19,
+              "fn": 1
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 69,
+          "gold": 20,
+          "det_tp": 19,
+          "det_fp": 50,
+          "det_fn": 1,
+          "end_tp": 19,
+          "end_fp": 30,
+          "end_fn": 1,
+          "top_ok": 19,
+          "alt_ok": 19,
+          "top_denom": 19,
+          "section_ok": 19,
+          "section_denom": 19,
+          "det_f1": 0.42696629213483145
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 25,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 30,
+              "fn": 2
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 79,
+          "gold": 32,
+          "det_tp": 30,
+          "det_fp": 49,
+          "det_fn": 2,
+          "end_tp": 30,
+          "end_fp": 27,
+          "end_fn": 2,
+          "top_ok": 30,
+          "alt_ok": 30,
+          "top_denom": 30,
+          "section_ok": 30,
+          "section_denom": 30,
+          "det_f1": 0.5405405405405406
+        }
+      ],
+      "out_of_scope_predictions_excluded": 47
+    },
+    "textmatcher_t2c3n2m3_nostops_0.1.7": {
+      "articles": 12,
+      "candidates": 140,
+      "gold": 367,
+      "det_tp": 103,
+      "det_fp": 37,
+      "det_fn": 264,
+      "end_tp": 102,
+      "end_fp": 26,
+      "end_fn": 265,
+      "top_ok": 102,
+      "alt_ok": 102,
+      "top_denom": 102,
+      "section_ok": 102,
+      "section_denom": 102,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 84,
+          "fn": 232,
+          "recall": 0.26582278481012656
+        },
+        "form:curly_single": {
+          "tp": 6,
+          "fn": 17,
+          "recall": 0.2608695652173913
+        },
+        "form:manual_block": {
+          "tp": 13,
+          "fn": 15,
+          "recall": 0.4642857142857143
+        },
+        "provenance:annotator": {
+          "tp": 102,
+          "fn": 264,
+          "recall": 0.2786885245901639
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.7357142857142858,
+      "det_r": 0.28065395095367845,
+      "det_f1": 0.4063116370808678,
+      "end_p": 0.796875,
+      "end_r": 0.2779291553133515,
+      "end_f1": 0.4121212121212121,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.4206675901119092,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 5,
+              "fn": 16
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 16
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 11,
+          "gold": 23,
+          "det_tp": 7,
+          "det_fp": 4,
+          "det_fn": 16,
+          "end_tp": 7,
+          "end_fp": 4,
+          "end_fn": 16,
+          "top_ok": 7,
+          "alt_ok": 7,
+          "top_denom": 7,
+          "section_ok": 7,
+          "section_denom": 7,
+          "det_f1": 0.411764705882353
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 4,
+              "fn": 10
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 12
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 2
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 8,
+          "gold": 18,
+          "det_tp": 6,
+          "det_fp": 2,
+          "det_fn": 12,
+          "end_tp": 6,
+          "end_fp": 1,
+          "end_fn": 12,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.46153846153846156
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 11,
+              "fn": 39
+            },
+            "provenance:annotator": {
+              "tp": 14,
+              "fn": 40
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 1
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 21,
+          "gold": 54,
+          "det_tp": 14,
+          "det_fp": 7,
+          "det_fn": 40,
+          "end_tp": 14,
+          "end_fp": 6,
+          "end_fn": 40,
+          "top_ok": 14,
+          "alt_ok": 14,
+          "top_denom": 14,
+          "section_ok": 14,
+          "section_denom": 14,
+          "det_f1": 0.37333333333333335
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 14
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 16
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 8,
+          "gold": 22,
+          "det_tp": 6,
+          "det_fp": 2,
+          "det_fn": 16,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 16,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.39999999999999997
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 3,
+              "fn": 20
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 22
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 2
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 7,
+          "gold": 28,
+          "det_tp": 6,
+          "det_fp": 1,
+          "det_fn": 22,
+          "end_tp": 6,
+          "end_fp": 1,
+          "end_fn": 22,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.34285714285714286
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 9,
+              "fn": 9
+            },
+            "provenance:annotator": {
+              "tp": 9,
+              "fn": 9
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 11,
+          "gold": 18,
+          "det_tp": 9,
+          "det_fp": 2,
+          "det_fn": 9,
+          "end_tp": 9,
+          "end_fp": 2,
+          "end_fn": 9,
+          "top_ok": 9,
+          "alt_ok": 9,
+          "top_denom": 9,
+          "section_ok": 9,
+          "section_denom": 9,
+          "det_f1": 0.6206896551724137
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 10,
+              "fn": 22
+            },
+            "provenance:annotator": {
+              "tp": 10,
+              "fn": 22
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 11,
+          "gold": 32,
+          "det_tp": 10,
+          "det_fp": 1,
+          "det_fn": 22,
+          "end_tp": 9,
+          "end_fp": 1,
+          "end_fn": 23,
+          "top_ok": 9,
+          "alt_ok": 9,
+          "top_denom": 9,
+          "section_ok": 9,
+          "section_denom": 9,
+          "det_f1": 0.4651162790697674
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 2,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 2,
+              "fn": 4
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 2,
+          "gold": 6,
+          "det_tp": 2,
+          "det_fp": 0,
+          "det_fn": 4,
+          "end_tp": 2,
+          "end_fp": 0,
+          "end_fn": 4,
+          "top_ok": 2,
+          "alt_ok": 2,
+          "top_denom": 2,
+          "section_ok": 2,
+          "section_denom": 2,
+          "det_f1": 0.5
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 7,
+              "fn": 25
+            },
+            "provenance:annotator": {
+              "tp": 8,
+              "fn": 30
+            },
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 4
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 14,
+          "gold": 38,
+          "det_tp": 8,
+          "det_fp": 6,
+          "det_fn": 30,
+          "end_tp": 8,
+          "end_fp": 2,
+          "end_fn": 30,
+          "top_ok": 8,
+          "alt_ok": 8,
+          "top_denom": 8,
+          "section_ok": 8,
+          "section_denom": 8,
+          "det_f1": 0.3076923076923077
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 19,
+              "fn": 55
+            },
+            "provenance:annotator": {
+              "tp": 20,
+              "fn": 56
+            },
+            "form:manual_block": {
+              "tp": 1,
+              "fn": 1
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 25,
+          "gold": 76,
+          "det_tp": 20,
+          "det_fp": 5,
+          "det_fn": 56,
+          "end_tp": 20,
+          "end_fp": 4,
+          "end_fn": 56,
+          "top_ok": 20,
+          "alt_ok": 20,
+          "top_denom": 20,
+          "section_ok": 20,
+          "section_denom": 20,
+          "det_f1": 0.396039603960396
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 4,
+              "fn": 16
+            },
+            "provenance:annotator": {
+              "tp": 4,
+              "fn": 16
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 5,
+          "gold": 20,
+          "det_tp": 4,
+          "det_fp": 1,
+          "det_fn": 16,
+          "end_tp": 4,
+          "end_fp": 1,
+          "end_fn": 16,
+          "top_ok": 4,
+          "alt_ok": 4,
+          "top_denom": 4,
+          "section_ok": 4,
+          "section_denom": 4,
+          "det_f1": 0.32000000000000006
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 9,
+              "fn": 18
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 21
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 3
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 17,
+          "gold": 32,
+          "det_tp": 11,
+          "det_fp": 6,
+          "det_fn": 21,
+          "end_tp": 11,
+          "end_fp": 4,
+          "end_fn": 21,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.4489795918367347
+        }
+      ],
+      "out_of_scope_predictions_excluded": 10
+    },
+    "textmatcher_t3c5n3m8_nostops_0.1.7": {
+      "articles": 12,
+      "candidates": 77,
+      "gold": 367,
+      "det_tp": 72,
+      "det_fp": 5,
+      "det_fn": 295,
+      "end_tp": 72,
+      "end_fp": 5,
+      "end_fn": 295,
+      "top_ok": 72,
+      "alt_ok": 72,
+      "top_denom": 72,
+      "section_ok": 72,
+      "section_denom": 72,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 56,
+          "fn": 260,
+          "recall": 0.17721518987341772
+        },
+        "form:curly_single": {
+          "tp": 3,
+          "fn": 20,
+          "recall": 0.13043478260869565
+        },
+        "form:manual_block": {
+          "tp": 13,
+          "fn": 15,
+          "recall": 0.4642857142857143
+        },
+        "provenance:annotator": {
+          "tp": 71,
+          "fn": 295,
+          "recall": 0.19398907103825136
+        },
+        "provenance:system_recovered": {
+          "tp": 1,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.935064935064935,
+      "det_r": 0.19618528610354224,
+      "det_f1": 0.32432432432432434,
+      "end_p": 0.935064935064935,
+      "end_r": 0.19618528610354224,
+      "end_f1": 0.32432432432432434,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.32453355678824763,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 2,
+              "fn": 19
+            },
+            "provenance:annotator": {
+              "tp": 3,
+              "fn": 19
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            },
+            "provenance:system_recovered": {
+              "tp": 1,
+              "fn": 0
+            }
+          },
+          "stem": "2013_harvey_cry_within_C6VQPDG4",
+          "articles": 1,
+          "candidates": 6,
+          "gold": 23,
+          "det_tp": 4,
+          "det_fp": 2,
+          "det_fn": 19,
+          "end_tp": 4,
+          "end_fp": 2,
+          "end_fn": 19,
+          "top_ok": 4,
+          "alt_ok": 4,
+          "top_denom": 4,
+          "section_ok": 4,
+          "section_denom": 4,
+          "det_f1": 0.27586206896551724
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 2,
+              "fn": 12
+            },
+            "provenance:annotator": {
+              "tp": 4,
+              "fn": 14
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 2
+            }
+          },
+          "stem": "2014_maragos_every_they_9VU7EIQJ",
+          "articles": 1,
+          "candidates": 4,
+          "gold": 18,
+          "det_tp": 4,
+          "det_fp": 0,
+          "det_fn": 14,
+          "end_tp": 4,
+          "end_fp": 0,
+          "end_fn": 14,
+          "top_ok": 4,
+          "alt_ok": 4,
+          "top_denom": 4,
+          "section_ok": 4,
+          "section_denom": 4,
+          "det_f1": 0.3636363636363636
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 10,
+              "fn": 40
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 41
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 1
+            }
+          },
+          "stem": "2014_rossi_something_more_KF8LYIPQ",
+          "articles": 1,
+          "candidates": 14,
+          "gold": 54,
+          "det_tp": 13,
+          "det_fp": 1,
+          "det_fn": 41,
+          "end_tp": 13,
+          "end_fp": 1,
+          "end_fn": 41,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.3823529411764706
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 15
+            },
+            "provenance:annotator": {
+              "tp": 5,
+              "fn": 17
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            }
+          },
+          "stem": "2014_wallhead_mason_dixon_E2TDDQA5",
+          "articles": 1,
+          "candidates": 5,
+          "gold": 22,
+          "det_tp": 5,
+          "det_fp": 0,
+          "det_fn": 17,
+          "end_tp": 5,
+          "end_fp": 0,
+          "end_fn": 17,
+          "top_ok": 5,
+          "alt_ok": 5,
+          "top_denom": 5,
+          "section_ok": 5,
+          "section_denom": 5,
+          "det_f1": 0.37037037037037035
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 1,
+              "fn": 22
+            },
+            "provenance:annotator": {
+              "tp": 4,
+              "fn": 24
+            },
+            "form:manual_block": {
+              "tp": 3,
+              "fn": 2
+            }
+          },
+          "stem": "2015_martinson_hyperobject_s_7IIYT69Y",
+          "articles": 1,
+          "candidates": 4,
+          "gold": 28,
+          "det_tp": 4,
+          "det_fp": 0,
+          "det_fn": 24,
+          "end_tp": 4,
+          "end_fp": 0,
+          "end_fn": 24,
+          "top_ok": 4,
+          "alt_ok": 4,
+          "top_denom": 4,
+          "section_ok": 4,
+          "section_denom": 4,
+          "det_f1": 0.25
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 4,
+              "fn": 14
+            },
+            "provenance:annotator": {
+              "tp": 4,
+              "fn": 14
+            }
+          },
+          "stem": "2016_sweeney_gothic_traces_8Q6F6MLD",
+          "articles": 1,
+          "candidates": 4,
+          "gold": 18,
+          "det_tp": 4,
+          "det_fp": 0,
+          "det_fn": 14,
+          "end_tp": 4,
+          "end_fp": 0,
+          "end_fn": 14,
+          "top_ok": 4,
+          "alt_ok": 4,
+          "top_denom": 4,
+          "section_ok": 4,
+          "section_denom": 4,
+          "det_f1": 0.3636363636363636
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 4,
+              "fn": 28
+            },
+            "provenance:annotator": {
+              "tp": 4,
+              "fn": 28
+            }
+          },
+          "stem": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+          "articles": 1,
+          "candidates": 4,
+          "gold": 32,
+          "det_tp": 4,
+          "det_fp": 0,
+          "det_fn": 28,
+          "end_tp": 4,
+          "end_fp": 0,
+          "end_fn": 28,
+          "top_ok": 4,
+          "alt_ok": 4,
+          "top_denom": 4,
+          "section_ok": 4,
+          "section_denom": 4,
+          "det_f1": 0.2222222222222222
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 2,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 2,
+              "fn": 4
+            }
+          },
+          "stem": "2018_carswell_doc_dude_W6SQ6GJ8",
+          "articles": 1,
+          "candidates": 2,
+          "gold": 6,
+          "det_tp": 2,
+          "det_fp": 0,
+          "det_fn": 4,
+          "end_tp": 2,
+          "end_fp": 0,
+          "end_fn": 4,
+          "top_ok": 2,
+          "alt_ok": 2,
+          "top_denom": 2,
+          "section_ok": 2,
+          "section_denom": 2,
+          "det_f1": 0.5
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 4,
+              "fn": 28
+            },
+            "provenance:annotator": {
+              "tp": 5,
+              "fn": 33
+            },
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 4
+            }
+          },
+          "stem": "2019_thomas_blood_tracks_LS5YAQLE",
+          "articles": 1,
+          "candidates": 5,
+          "gold": 38,
+          "det_tp": 5,
+          "det_fp": 0,
+          "det_fn": 33,
+          "end_tp": 5,
+          "end_fp": 0,
+          "end_fn": 33,
+          "top_ok": 5,
+          "alt_ok": 5,
+          "top_denom": 5,
+          "section_ok": 5,
+          "section_denom": 5,
+          "det_f1": 0.23255813953488372
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 16,
+              "fn": 58
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 59
+            },
+            "form:manual_block": {
+              "tp": 1,
+              "fn": 1
+            }
+          },
+          "stem": "2021_sezer_going_west_US8FE2Q5",
+          "articles": 1,
+          "candidates": 18,
+          "gold": 76,
+          "det_tp": 17,
+          "det_fp": 1,
+          "det_fn": 59,
+          "end_tp": 17,
+          "end_fp": 1,
+          "end_fn": 59,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.3617021276595745
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 2,
+              "fn": 18
+            },
+            "provenance:annotator": {
+              "tp": 2,
+              "fn": 18
+            }
+          },
+          "stem": "2023_johnson_selling_san_89JQFT3W",
+          "articles": 1,
+          "candidates": 2,
+          "gold": 20,
+          "det_tp": 2,
+          "det_fp": 0,
+          "det_fn": 18,
+          "end_tp": 2,
+          "end_fp": 0,
+          "end_fn": 18,
+          "top_ok": 2,
+          "alt_ok": 2,
+          "top_denom": 2,
+          "section_ok": 2,
+          "section_denom": 2,
+          "det_f1": 0.18181818181818182
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 21
+            },
+            "provenance:annotator": {
+              "tp": 8,
+              "fn": 24
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 3
+            }
+          },
+          "stem": "2025_leupold_not_who_YKVFQH5I",
+          "articles": 1,
+          "candidates": 9,
+          "gold": 32,
+          "det_tp": 8,
+          "det_fp": 1,
+          "det_fn": 24,
+          "end_tp": 8,
+          "end_fp": 1,
+          "end_fn": 24,
+          "top_ok": 8,
+          "alt_ok": 8,
+          "top_denom": 8,
+          "section_ok": 8,
+          "section_denom": 8,
+          "det_f1": 0.3902439024390244
+        }
+      ],
+      "out_of_scope_predictions_excluded": 0
+    }
+  }
+}

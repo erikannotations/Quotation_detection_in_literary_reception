@@ -1,0 +1,56 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0001,P04|P05,True,Gravity's Rainbow,P04,Episode 28,28,Part 2: Un Perm' au Casino Hermann Goering,1.0,True,P04|P05,4
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0002,P05,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0003,P02|P07,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0004,P05,True,Vineland,P05,Chapter 12,12,,1.0,False,P05,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0005,P03|P08,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0006,P07,True,Against the Day,P07,Chapter 9,9,Part One: The Light Over the Ranges,1.0,False,P07,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0007,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0008,P03,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0009,P04,True,Gravity's Rainbow,P04,Episode 20,20,Part 1: Beyond the Zero,1.0,False,P04,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0010,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0011,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,4
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0012,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0013,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,0.953,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0014,P03,True,The Crying of Lot 49,P03,Chapter 1,1,,0.976,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0015,P03,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0016,P09,True,Bleeding Edge,P09,Chapter 2,2,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0017,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,4
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0018,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0019,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0020,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0021,P03|P04,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,2
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0022,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,Slow Learner,P01,Low-Lands,3,,1.0,True,P01|P02|P03|P04|P05|P06,20
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0023,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,0.992,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0024,P06|P07,True,Mason & Dixon,P06,Chapter 29,29,Part 2: America,1.0,False,P06,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0025,P02|P04|P07|P09,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0026,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0027,P03,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0028,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0029,P04,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0030,P02|P03|P04|P05|P07,True,V.,P02,Chapter Nine,9,,0.947,True,P02|P03|P04|P05|P07,9
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0031,P05|P08|P10,True,Vineland,P05,Chapter 11,11,,1.0,True,P05|P10,2
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0032,P02,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0033,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,0.913,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0034,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0035,P05|P07,True,Vineland,P05,Chapter 12,12,,1.0,True,P05|P07,2
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0036,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,3
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0037,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0038,P03,True,The Crying of Lot 49,P03,Chapter 1,1,,0.907,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0039,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,0.955,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0040,P09,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0041,P09,True,Bleeding Edge,P09,Chapter 20,20,,0.978,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0042,P09,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0043,P03,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0044,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0045,P04|P06|P07,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0046,P01|P02,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0047,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0048,P07,True,Against the Day,P07,Chapter 59,59,Part Four: Against the Day,1.0,False,P07,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0049,P09,True,Bleeding Edge,P09,Chapter 37,37,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0050,P09,True,Bleeding Edge,P09,Chapter 41,41,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0051,P09,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0052,P05|P07,True,Vineland,P05,Chapter 12,12,,1.0,True,P05|P07,2
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0053,P05,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0054,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-quid-0055,P04,True,Gravity's Rainbow,P04,Episode 20,20,Part 1: Beyond the Zero,1.0,False,P04,1

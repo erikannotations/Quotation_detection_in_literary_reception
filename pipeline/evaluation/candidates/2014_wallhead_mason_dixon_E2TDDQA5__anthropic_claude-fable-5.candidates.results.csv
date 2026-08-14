@@ -1,0 +1,25 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014-01,Mason & Dixon,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,1
+2014-02,Mason & Dixon,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
+2014-03,Mason & Dixon,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
+2014-04,Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014-05,Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014-06,Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014-07,Mason & Dixon,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,3
+2014-08,Mason & Dixon,True,Mason & Dixon,P06,Chapter 7,7,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014-09,Mason & Dixon,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+2014-10,Mason & Dixon,True,Mason & Dixon,P06,Chapter 29,29,Part 2: America,1.0,False,P06,1
+2014-11,Mason & Dixon,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014-12,Mason & Dixon,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014-13,Mason & Dixon,True,Mason & Dixon,P06,Chapter 51,51,Part 2: America,1.0,False,P06,1
+2014-14,Mason & Dixon,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2014-15,Mason & Dixon,True,Mason & Dixon,P06,Chapter 43,43,Part 2: America,1.0,False,P06,1
+2014-16,Mason & Dixon,True,Mason & Dixon,P06,Chapter 71,71,Part 2: America,1.0,False,P06,1
+2014-17,Mason & Dixon,False,,,,,,,False,,0
+2014-18,Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014-19,Mason & Dixon,True,Mason & Dixon,P06,Chapter 13,13,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014-20,Mason & Dixon,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014-21,Mason & Dixon,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,6
+2014-22,Mason & Dixon,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014-23,Mason & Dixon,False,,,,,,,False,,0
+2014-24,Mason & Dixon,False,,,,,,,False,,0

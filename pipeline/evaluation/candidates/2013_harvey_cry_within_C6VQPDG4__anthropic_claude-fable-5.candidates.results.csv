@@ -1,0 +1,24 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2013-01,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013-02,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013-03,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2013-04,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,2
+2013-05,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2013-06,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2013-07,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,2
+2013-08,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,0.995,False,P03,3
+2013-09,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013-10,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,1.0,False,P03,1
+2013-11,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 2,2,,0.992,False,P03,1
+2013-12,The Crying of Lot 49,False,,,,,,,False,,0
+2013-13,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,0.943,False,P03,1
+2013-14,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013-15,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013-16,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2013-17,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,False,P03,1
+2013-18,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013-19,V.,True,V.,P02,Chapter Eight,8,,1.0,False,P02,1
+2013-20,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2013-21,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2013-22,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,0.983,False,P03,1
+2013-23,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1

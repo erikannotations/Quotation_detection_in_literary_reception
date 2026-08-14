@@ -1,0 +1,122 @@
+[
+ {
+  "id": "5E3W868P-01",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "54",
+  "confidence": "",
+  "article_start_char": 12405,
+  "article_end_char": 12586,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "5E3W868P-02",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "651",
+  "confidence": "",
+  "article_start_char": 14331,
+  "article_end_char": 14611,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "5E3W868P-03",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "220",
+  "confidence": "",
+  "article_start_char": 23183,
+  "article_end_char": 23378,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "5E3W868P-04",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "220",
+  "confidence": "",
+  "article_start_char": 24471,
+  "article_end_char": 24736,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "5E3W868P-05",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "712",
+  "confidence": "",
+  "article_start_char": 30956,
+  "article_end_char": 31015,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "5E3W868P-06",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "712",
+  "confidence": "",
+  "article_start_char": 31383,
+  "article_end_char": 31796,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "5E3W868P-07",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "712",
+  "confidence": "",
+  "article_start_char": 32111,
+  "article_end_char": 32330,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "5E3W868P-08",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "713",
+  "confidence": "",
+  "article_start_char": 32818,
+  "article_end_char": 32926,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "5E3W868P-09",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "713",
+  "confidence": "",
+  "article_start_char": 33236,
+  "article_end_char": 33393,
+  "article_offset_occurrences": 1
+ },
+ {
+  "id": "5E3W868P-10",
+  "article": "2025_mentz_blue_american_5E3W868P",
+  "model_tag": "ollama_gemma4-26b-mlx",
+  "detector_guess": "",
+  "attributed_work": "Inherent Vice",
+  "attributed_page": "341",
+  "confidence": "",
+  "article_start_char": null,
+  "article_end_char": null,
+  "article_offset_occurrences": 0
+ }
+]

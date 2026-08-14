@@ -1,0 +1,1501 @@
+[
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0001",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 559,
+  "article_end_char": 630,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0001"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0002",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3686,
+  "article_end_char": 4035,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0002"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0003",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4109,
+  "article_end_char": 4178,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0003"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0004",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "Mason & Dixon",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4201,
+  "article_end_char": 4346,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0004",
+   "2014-01"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0005",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5824,
+  "article_end_char": 6053,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0005"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0006",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "M&D",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8393,
+  "article_end_char": 9029,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0006",
+   "2014-02"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0007",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9735,
+  "article_end_char": 9765,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0007"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0008",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "M&D",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9939,
+  "article_end_char": 10054,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0008",
+   "2014-03"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0009",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10116,
+  "article_end_char": 10413,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0009"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0010",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11727,
+  "article_end_char": 11769,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0010"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0011",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11868,
+  "article_end_char": 11915,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0011"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0012",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "M&D",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11989,
+  "article_end_char": 12061,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0012",
+   "2014-05"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0013",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12371,
+  "article_end_char": 12411,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0013"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0014",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13497,
+  "article_end_char": 13532,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0014"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0015",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13705,
+  "article_end_char": 13981,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0015"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0016",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13985,
+  "article_end_char": 14042,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0016"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0017",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14116,
+  "article_end_char": 14158,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0017"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0018",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14162,
+  "article_end_char": 14432,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0018"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0019",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14436,
+  "article_end_char": 14490,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0019"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0020",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14494,
+  "article_end_char": 14648,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0020"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0021",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14652,
+  "article_end_char": 14694,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0021"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0022",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "M&D",
+  "attributed_page": "352",
+  "confidence": "hybrid",
+  "article_start_char": 14719,
+  "article_end_char": 14729,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-06"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0023",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "M&D",
+  "attributed_page": "165",
+  "confidence": "hybrid",
+  "article_start_char": 16202,
+  "article_end_char": 16208,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-07"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0024",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "M&D",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16386,
+  "article_end_char": 16431,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0022",
+   "2014-08"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0025",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "M&D",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16472,
+  "article_end_char": 16611,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0023",
+   "2014-09"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0026",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "M&D",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16644,
+  "article_end_char": 16728,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0024",
+   "2014-10"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0027",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17449,
+  "article_end_char": 17484,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0025"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0028",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "M&D",
+  "attributed_page": "83",
+  "confidence": "hybrid",
+  "article_start_char": 18156,
+  "article_end_char": 18185,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-11"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0029",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "M&D",
+  "attributed_page": "25",
+  "confidence": "hybrid",
+  "article_start_char": 18722,
+  "article_end_char": 18759,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-12"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0030",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18868,
+  "article_end_char": 18968,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0026"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0031",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19103,
+  "article_end_char": 19414,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0027"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0032",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19518,
+  "article_end_char": 19707,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0028"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0033",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20273,
+  "article_end_char": 20374,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0029"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0034",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 20967,
+  "article_end_char": 21017,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0030"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0035",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21037,
+  "article_end_char": 21078,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0031"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0036",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21722,
+  "article_end_char": 21767,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0032"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0037",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21989,
+  "article_end_char": 22041,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0033"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0038",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22054,
+  "article_end_char": 22085,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0034"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0039",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "M&D",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22172,
+  "article_end_char": 22345,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0035",
+   "2014-13"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0040",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22373,
+  "article_end_char": 22468,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0036"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0041",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22559,
+  "article_end_char": 22602,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0037"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0042",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22873,
+  "article_end_char": 22913,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0038"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0043",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22954,
+  "article_end_char": 22985,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0039"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0044",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23131,
+  "article_end_char": 23185,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0040"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0045",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23189,
+  "article_end_char": 23249,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0041"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0046",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "M&D",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23780,
+  "article_end_char": 23842,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0042",
+   "2014-15"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0047",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25020,
+  "article_end_char": 25060,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0043"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0048",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25929,
+  "article_end_char": 25963,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0044"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0049",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26027,
+  "article_end_char": 26066,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0045"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0050",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28772,
+  "article_end_char": 28817,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0046"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0051",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29767,
+  "article_end_char": 29854,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0047"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0052",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30120,
+  "article_end_char": 30220,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0048"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0053",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30360,
+  "article_end_char": 30394,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0049"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0054",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31133,
+  "article_end_char": 31175,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0050"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0055",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34441,
+  "article_end_char": 34504,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0051"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0056",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34655,
+  "article_end_char": 34691,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0052"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0057",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34772,
+  "article_end_char": 35050,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0053"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0058",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35094,
+  "article_end_char": 35166,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0054"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0059",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35643,
+  "article_end_char": 35673,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0055"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0060",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36093,
+  "article_end_char": 36141,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0056"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0061",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 37191,
+  "article_end_char": 37247,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0057"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0062",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 37472,
+  "article_end_char": 38012,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0058"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0063",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38449,
+  "article_end_char": 38622,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0059"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0064",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "M&D",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43148,
+  "article_end_char": 43314,
+  "proposed_by": [
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0060",
+   "2014-16"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0065",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45076,
+  "article_end_char": 45344,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0061"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0066",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46316,
+  "article_end_char": 46465,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0062"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0067",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46528,
+  "article_end_char": 46729,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0063"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0068",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46959,
+  "article_end_char": 47162,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0064"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0069",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47346,
+  "article_end_char": 47550,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0065"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0070",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50069,
+  "article_end_char": 50212,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0066"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0071",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51357,
+  "article_end_char": 51583,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0067"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0072",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52316,
+  "article_end_char": 52472,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0068"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0073",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53683,
+  "article_end_char": 53773,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0069"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0074",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54180,
+  "article_end_char": 54260,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0070"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0075",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54441,
+  "article_end_char": 54502,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0071"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0076",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54532,
+  "article_end_char": 54581,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0072"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0077",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54634,
+  "article_end_char": 54762,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0073"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0078",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54819,
+  "article_end_char": 54847,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0074"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0079",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54869,
+  "article_end_char": 54931,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0075"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0080",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54962,
+  "article_end_char": 55023,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0076"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0081",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55335,
+  "article_end_char": 55455,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0077"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0082",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55904,
+  "article_end_char": 56136,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0078"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0083",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56238,
+  "article_end_char": 56501,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0079"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0084",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 57731,
+  "article_end_char": 57753,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0080"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0085",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59760,
+  "article_end_char": 59810,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2014_wallhead_mason_dixon_E2TDDQA5-mq-0081"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0086",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "M&D",
+  "attributed_page": "674",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-14"
+  ]
+ },
+ {
+  "id": "2014_wallhead_mason_dixon_E2TDDQA5-hybrid_mgo-0087",
+  "article": "2014_wallhead_mason_dixon_E2TDDQA5",
+  "model_tag": "hybrid_mgo",
+  "detector_guess": "",
+  "attributed_work": "M&D",
+  "attributed_page": "728",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2014-04"
+  ]
+ }
+]

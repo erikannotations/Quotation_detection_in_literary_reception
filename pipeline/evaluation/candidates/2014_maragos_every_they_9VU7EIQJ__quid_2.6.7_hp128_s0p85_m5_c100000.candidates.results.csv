@@ -1,0 +1,66 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014_maragos_every_they_9VU7EIQJ-quid-0001,P07,True,Against the Day,P07,Chapter 11,11,Part Two: Iceland Spar,1.0,False,P07,1
+2014_maragos_every_they_9VU7EIQJ-quid-0002,P07,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0003,P04,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0004,P09,True,Bleeding Edge,P09,Chapter 6,6,,1.0,False,P09,1
+2014_maragos_every_they_9VU7EIQJ-quid-0005,P05,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0006,P06,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0007,P06,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0008,P04,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0009,P04|P05|P06,True,Vineland,P05,Chapter 10,10,,0.952,False,P05,1
+2014_maragos_every_they_9VU7EIQJ-quid-0010,P01,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0011,P04,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0012,P06,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0013,P04|P07|P09|P10,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0014,P06,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0015,P07,True,Against the Day,P07,Chapter 26,26,Part Two: Iceland Spar,1.0,False,P07,1
+2014_maragos_every_they_9VU7EIQJ-quid-0016,P06,False,,,,,,0.714,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0017,P06|P07|P09,True,Mason & Dixon,P06,Chapter 28,28,Part 2: America,0.997,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0018,P04|P07,True,Gravity's Rainbow,P04,Episode 17,17,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_maragos_every_they_9VU7EIQJ-quid-0019,P06|P08,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0020,P04,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0021,P01|P06|P07,True,Mason & Dixon,P06,Chapter 10,10,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0022,P06,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0023,P07,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0024,P05,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0025,P06,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0026,P06|P07|P10,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0027,P04,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0028,P02|P04|P06|P07|P09|P10,True,V.,P02,Chapter Ten,10,,1.0,True,P02|P06|P07|P09|P10,9
+2014_maragos_every_they_9VU7EIQJ-quid-0029,P04,True,Gravity's Rainbow,P04,Episode 40,40,Part 3: In the Zone,1.0,False,P04,1
+2014_maragos_every_they_9VU7EIQJ-quid-0030,P06|P07|P08,True,Mason & Dixon,P06,Chapter 23,23,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0031,P07,True,Against the Day,P07,Chapter 27,27,Part Two: Iceland Spar,0.87,False,P07,2
+2014_maragos_every_they_9VU7EIQJ-quid-0032,P06|P08|P10,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,True,P06|P08|P10,3
+2014_maragos_every_they_9VU7EIQJ-quid-0033,P07,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0034,P07,True,Gravity's Rainbow,P04,Episode 40,40,Part 3: In the Zone,1.0,False,P04,1
+2014_maragos_every_they_9VU7EIQJ-quid-0035,P04|P06|P07,True,Gravity's Rainbow,P04,Episode 14,14,Part 1: Beyond the Zero,1.0,True,P04|P06|P07,5
+2014_maragos_every_they_9VU7EIQJ-quid-0036,P06,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0037,P06,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0038,P07,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0039,P02|P04|P06|P07|P09|P10,True,V.,P02,Chapter Ten,10,,1.0,True,P02|P06|P07|P09|P10,9
+2014_maragos_every_they_9VU7EIQJ-quid-0040,P05,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0041,P06,True,Mason & Dixon,P06,Chapter 55,55,Part 2: America,0.972,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0042,P06,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,0.829,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0043,P02|P04|P08,True,V.,P02,Chapter Six,6,,1.0,True,P02|P04|P07|P08,6
+2014_maragos_every_they_9VU7EIQJ-quid-0044,P04,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0045,P04|P05|P06|P07,True,Mason & Dixon,P06,Chapter 50,50,Part 2: America,0.989,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0046,P06,True,Mason & Dixon,P06,Chapter 1,1,Part 1: Latitudes and Departures,0.985,False,P06,2
+2014_maragos_every_they_9VU7EIQJ-quid-0047,P06,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0048,P06|P07,True,Against the Day,P07,Chapter 41,41,Part Three: Bilocations,1.0,False,P07,1
+2014_maragos_every_they_9VU7EIQJ-quid-0049,P07,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0050,P01|P02|P05|P07|P08|P09|P10,True,Against the Day,P07,Chapter 6,6,Part One: The Light Over the Ranges,0.995,False,P07,2
+2014_maragos_every_they_9VU7EIQJ-quid-0051,P06,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0052,P02|P04|P06|P07|P09|P10,True,V.,P02,Chapter Ten,10,,1.0,True,P02|P06|P07|P09|P10,9
+2014_maragos_every_they_9VU7EIQJ-quid-0053,P07,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,2
+2014_maragos_every_they_9VU7EIQJ-quid-0054,P05|P06|P07,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,0.988,False,P07,1
+2014_maragos_every_they_9VU7EIQJ-quid-0055,P07,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,1
+2014_maragos_every_they_9VU7EIQJ-quid-0056,P07,True,Against the Day,P07,Chapter 38,38,Part Three: Bilocations,1.0,False,P07,1
+2014_maragos_every_they_9VU7EIQJ-quid-0057,P05,True,Vineland,P05,Chapter 4,4,,1.0,False,P05,1
+2014_maragos_every_they_9VU7EIQJ-quid-0058,P05|P06|P07,True,Vineland,P05,Chapter 15,15,,1.0,True,P05|P06|P07,4
+2014_maragos_every_they_9VU7EIQJ-quid-0059,P06,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_maragos_every_they_9VU7EIQJ-quid-0060,P04|P07,True,Gravity's Rainbow,P04,Episode 16,16,Part 1: Beyond the Zero,1.0,True,P04|P07,2
+2014_maragos_every_they_9VU7EIQJ-quid-0061,P07,True,Against the Day,P07,Chapter 16,16,Part Two: Iceland Spar,0.963,False,P07,1
+2014_maragos_every_they_9VU7EIQJ-quid-0062,P02|P04|P05|P06|P07|P08|P09|P10,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0063,P01|P02|P04|P05|P06|P07|P08,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0064,P07,False,,,,,,,False,,0
+2014_maragos_every_they_9VU7EIQJ-quid-0065,P04,False,,,,,,,False,,0

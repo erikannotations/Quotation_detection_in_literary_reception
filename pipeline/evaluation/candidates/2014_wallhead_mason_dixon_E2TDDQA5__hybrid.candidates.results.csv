@@ -1,0 +1,97 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0001,P02|P07|P08,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0002,P06,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0003,P06,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.808,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0004,P06,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0005,P01,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0006,P02,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0007,P02|P06|P07|P08,True,V.,P02,Chapter Nine,9,,1.0,True,P02|P06|P07|P08,4
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0008,P06|P07,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0009,P07,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0010,P04|P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0011,P10,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0012,P06|P09,True,The Crying of Lot 49,P03,Chapter 4,4,,1.0,True,P03|P09,2
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0013,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0014,P02|P03|P04|P07,True,V.,P02,Chapter Sixteen,16,,1.0,False,P02,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0015,P02|P06|P07|P09,True,V.,P02,Chapter Five,5,,1.0,True,P02|P06|P07|P09,9
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0016,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0017,P04,True,Gravity's Rainbow,P04,Episode 29,29,Part 2: Un Perm' au Casino Hermann Goering,0.952,False,P04,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0018,P03,True,The Crying of Lot 49,P03,Chapter 5,5,,0.862,False,P03,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0019,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0020,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0021,P05|P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0022,P06,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0023,P06,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0024,P01|P03|P04|P05|P06|P07|P08|P09,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,3
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0025,P02|P06|P07,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.862,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0026,P07,True,Against the Day,P07,Chapter 19,19,Part Two: Iceland Spar,1.0,False,P07,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0027,P06,True,Mason & Dixon,P06,Chapter 18,18,Part 1: Latitudes and Departures,0.929,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0028,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 7,7,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0029,P04|P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 27,27,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0030,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 29,29,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0031,P06,True,Mason & Dixon,P06,Chapter 63,63,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0032,P01|P02|P04|P05|P07,True,Slow Learner,P01,Under the Rose,5,,1.0,True,P01|P02|P04|P07,7
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0033,P05|P06,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0034,P07,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0035,P06,True,Mason & Dixon,P06,Chapter 8,8,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0036,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0037,P07,True,Against the Day,P07,Chapter 13,13,Part Two: Iceland Spar,1.0,False,P07,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0038,P04,True,Gravity's Rainbow,P04,Episode 10,10,Part 1: Beyond the Zero,1.0,False,P04,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0039,P03,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0040,P06 | Mason & Dixon,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0041,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,0.971,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0042,P01|P02|P04|P05|P06|P07|P08|P09|P10 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 51,51,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0043,P06|P09 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0044,P04,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0045,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 43,43,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0046,P06,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0047,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 71,71,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0048,P04,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0049,P06,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0050,P03,True,The Crying of Lot 49,P03,Chapter 3,3,,1.0,False,P03,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0051,P07,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0052,P04,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0053,P04|P05|P09|P10,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0054,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0055,P01|P04|P05|P07|P08|P09|P10,True,Against the Day,P07,Chapter 7,7,Part One: The Light Over the Ranges,0.808,True,P07|P09,2
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0056,P06,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0057,P06,True,Mason & Dixon,P06,Chapter 63,63,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0058,P04,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0059,P02,True,V.,P02,Chapter Five,5,,1.0,False,P02,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0060,P05|P07,True,Vineland,P05,Chapter 12,12,,1.0,True,P05|P07,2
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0061,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 13,13,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0062,P06,True,Mason & Dixon,P06,Chapter 13,13,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0063,P06,True,Mason & Dixon,P06,Chapter 67,67,Part 2: America,1.0,False,P06,2
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0064,P06,True,Mason & Dixon,P06,Chapter 55,55,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0065,P01|P02|P03|P04|P05|P06|P07|P08|P09|P10,True,V.,P02,Chapter One,1,,0.95,True,P02|P04|P06|P07|P09,11
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0066,P01|P02|P04|P07,True,Slow Learner,P01,The Secret Integration,6,,1.0,False,P01,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0067,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0068,P07|P09,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0069,P02|P07|P08,True,V.,P02,Chapter Five,5,,1.0,True,P02|P07|P08,5
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0070,P07,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0071,P04,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0072,P07,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0073,P07,True,Against the Day,P07,Chapter 68,68,Part Four: Against the Day,1.0,False,P07,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0074,P04,True,Gravity's Rainbow,P04,Episode 30,30,Part 3: In the Zone,1.0,False,P04,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0075,P06,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0076,Mason & Dixon,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,6
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0077,P06,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,0.992,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0078,P06,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0079,P06,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0080,P06,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0081,P06,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,0.98,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0082,P06,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,2
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0083,P06,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0084,P04,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0085,P06,True,Mason & Dixon,P06,Chapter 7,7,Part 1: Latitudes and Departures,1.0,False,P06,2
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0086,P07|P09,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0087,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0088,Mason & Dixon,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0089,P04,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0090,Mason & Dixon,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0091,P06|P07,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0092,P06,True,Mason & Dixon,P06,Chapter 74,74,Part 3: Last Transit,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0093,P06,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0094,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0095,P06,False,,,,,,,False,,0
+2014_wallhead_mason_dixon_E2TDDQA5-hybrid-0096,Mason & Dixon,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,3

@@ -1,0 +1,104 @@
+[
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_xtgc-0001",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "244",
+  "confidence": "hybrid",
+  "article_start_char": 24435,
+  "article_end_char": 24480,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2015-05"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_xtgc-0002",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "291",
+  "confidence": "hybrid",
+  "article_start_char": 30692,
+  "article_end_char": 30774,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2015-08"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_xtgc-0003",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "323",
+  "confidence": "hybrid",
+  "article_start_char": 53699,
+  "article_end_char": 54028,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2015-22"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_xtgc-0004",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "494",
+  "confidence": "hybrid",
+  "article_start_char": 55796,
+  "article_end_char": 56024,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2015-23"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_xtgc-0005",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "517",
+  "confidence": "hybrid",
+  "article_start_char": 59662,
+  "article_end_char": 60035,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2015-24"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_xtgc-0006",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_xtgc",
+  "detector_guess": "Gravity's Rainbow",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "752",
+  "confidence": "hybrid",
+  "article_start_char": 61740,
+  "article_end_char": 61967,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2015-25"
+  ]
+ }
+]

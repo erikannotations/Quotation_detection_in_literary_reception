@@ -1,0 +1,145 @@
+[
+ {
+  "id": "YUZMXRKY-q0005",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 8876,
+  "article_end_char": 8917
+ },
+ {
+  "id": "YUZMXRKY-q0006",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 9706,
+  "article_end_char": 9737
+ },
+ {
+  "id": "YUZMXRKY-q0012",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 13666,
+  "article_end_char": 13767
+ },
+ {
+  "id": "YUZMXRKY-q0019",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 22497,
+  "article_end_char": 22547
+ },
+ {
+  "id": "YUZMXRKY-q0021",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 24477,
+  "article_end_char": 24537
+ },
+ {
+  "id": "YUZMXRKY-q0023",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 28040,
+  "article_end_char": 28102
+ },
+ {
+  "id": "YUZMXRKY-m0003",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 22853,
+  "article_end_char": 23553
+ },
+ {
+  "id": "YUZMXRKY-m0006",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 32514,
+  "article_end_char": 32910
+ },
+ {
+  "id": "YUZMXRKY-m0010",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 37659,
+  "article_end_char": 38058
+ },
+ {
+  "id": "YUZMXRKY-m0012",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 40279,
+  "article_end_char": 40528
+ },
+ {
+  "id": "YUZMXRKY-m0013",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 42424,
+  "article_end_char": 42743
+ },
+ {
+  "id": "YUZMXRKY-m0017",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 47970,
+  "article_end_char": 48448
+ },
+ {
+  "id": "YUZMXRKY-m0019",
+  "article": "2012_miller_naming_oedipa_YUZMXRKY",
+  "model_tag": "oracle_gold",
+  "detector_guess": "gold span",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "oracle",
+  "article_start_char": 50073,
+  "article_end_char": 50280
+ }
+]

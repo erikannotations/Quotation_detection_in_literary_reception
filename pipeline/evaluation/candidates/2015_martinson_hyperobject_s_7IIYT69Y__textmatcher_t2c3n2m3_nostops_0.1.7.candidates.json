@@ -1,0 +1,100 @@
+[
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-tm-0001",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 24435,
+  "article_end_char": 24477,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-tm-0002",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 30721,
+  "article_end_char": 30772,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-tm-0003",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 53704,
+  "article_end_char": 54027,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-tm-0004",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 55862,
+  "article_end_char": 56010,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-tm-0005",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 59663,
+  "article_end_char": 59717,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-tm-0006",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 59731,
+  "article_end_char": 60007,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-tm-0007",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 61740,
+  "article_end_char": 61905,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ }
+]

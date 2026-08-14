@@ -1,0 +1,51 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0001,Against the Day | P07,True,Against the Day,P07,Chapter 21,21,Part Two: Iceland Spar,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0002,Against the Day | P07,True,Against the Day,P07,Chapter 32,32,Part Three: Bilocations,1.0,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0003,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.99,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0004,Against the Day | P07,True,Against the Day,P07,Chapter 49,49,Part Three: Bilocations,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0005,Against the Day,True,Against the Day,P07,Chapter 64,64,Part Four: Against the Day,0.972,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0006,Against the Day | P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0007,Against the Day | P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.985,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0008,Against the Day | P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0009,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0010,Against the Day | P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0011,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.938,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0012,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0013,Against the Day | P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0014,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0015,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0016,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0017,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0018,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0019,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0020,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0021,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0022,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0023,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,0.964,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0024,Against the Day,True,Against the Day,P07,Chapter 44,44,Part Three: Bilocations,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0025,Mason & Dixon,True,Mason & Dixon,P06,Chapter 72,72,Part 2: America,1.0,False,P06,2
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0026,P06,True,Mason & Dixon,P06,Chapter 72,72,Part 2: America,1.0,False,P06,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0027,P07 | Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0028,Against the Day | P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0029,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0030,P07 | Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0031,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0032,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0033,P07,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0034,Against the Day,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0035,Against the Day | P07,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,0.959,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0036,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0037,Against the Day | P07,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,0.973,False,P07,2
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0038,Against the Day,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0039,Against the Day,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0040,Against the Day,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0041,Against the Day,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,0.993,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0042,Against the Day,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0043,Against the Day,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,0.922,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0044,Against the Day,True,Against the Day,P07,Chapter 54,54,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0045,Against the Day,True,Against the Day,P07,Chapter 53,53,Part Four: Against the Day,1.0,False,P07,3
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0046,Against the Day,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0047,Against the Day,True,Against the Day,P07,Chapter 70,70,Part Five: Rue du Départ,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0048,Against the Day | P07,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0049,Against the Day,True,Against the Day,P07,Chapter 55,55,Part Four: Against the Day,1.0,False,P07,1
+2014_smith_all_maps_7L5Z97IZ-hybrid_tgc-0050,Against the Day,True,Against the Day,P07,Chapter 48,48,Part Three: Bilocations,1.0,False,P07,2

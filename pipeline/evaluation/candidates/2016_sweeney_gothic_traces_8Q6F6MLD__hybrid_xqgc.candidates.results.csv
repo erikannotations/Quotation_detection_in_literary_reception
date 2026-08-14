@@ -1,0 +1,15 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0001,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0002,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0003,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0004,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0005,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 5,5,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0006,The Crying of Lot 49,False,,,,,,,False,,0
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0007,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0008,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,0.923,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0009,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 3,3,,0.939,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0010,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0011,The Crying of Lot 49,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0012,Bleeding Edge,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0013,Bleeding Edge,True,Bleeding Edge,P09,Chapter 37,37,,1.0,False,P09,1
+2016_sweeney_gothic_traces_8Q6F6MLD-hybrid_xqgc-0014,Bleeding Edge,True,Bleeding Edge,P09,Chapter 41,41,,1.0,False,P09,1

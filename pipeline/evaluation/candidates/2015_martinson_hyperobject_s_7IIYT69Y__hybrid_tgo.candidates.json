@@ -1,0 +1,541 @@
+[
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0001",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "369",
+  "confidence": "hybrid",
+  "article_start_char": 15978,
+  "article_end_char": 15993,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-01"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0002",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "397",
+  "confidence": "hybrid",
+  "article_start_char": 16729,
+  "article_end_char": 17318,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-02"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0003",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "439",
+  "confidence": "hybrid",
+  "article_start_char": 18302,
+  "article_end_char": 18363,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-03"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0004",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "718",
+  "confidence": "hybrid",
+  "article_start_char": 19299,
+  "article_end_char": 19385,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-04"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0005",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "690",
+  "confidence": "hybrid",
+  "article_start_char": 23119,
+  "article_end_char": 23175,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-05"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0006",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "244",
+  "confidence": "hybrid",
+  "article_start_char": 24435,
+  "article_end_char": 24480,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015-06",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0001"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0007",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "765",
+  "confidence": "hybrid",
+  "article_start_char": 26552,
+  "article_end_char": 26589,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-07"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0008",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "412",
+  "confidence": "hybrid",
+  "article_start_char": 27595,
+  "article_end_char": 27611,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-08"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0009",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "576",
+  "confidence": "hybrid",
+  "article_start_char": 28460,
+  "article_end_char": 28647,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-09"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0010",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "291",
+  "confidence": "hybrid",
+  "article_start_char": 30692,
+  "article_end_char": 30774,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015-10",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0002"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0011",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "498",
+  "confidence": "hybrid",
+  "article_start_char": 31057,
+  "article_end_char": 31260,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-11"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0012",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "370",
+  "confidence": "hybrid",
+  "article_start_char": 32159,
+  "article_end_char": 32333,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-12"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0013",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "525",
+  "confidence": "hybrid",
+  "article_start_char": 39395,
+  "article_end_char": 39547,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-23"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0014",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "741",
+  "confidence": "hybrid",
+  "article_start_char": 41226,
+  "article_end_char": 41331,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-25"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0015",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "740",
+  "confidence": "hybrid",
+  "article_start_char": 44241,
+  "article_end_char": 44288,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-13"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0016",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "651",
+  "confidence": "hybrid",
+  "article_start_char": 45317,
+  "article_end_char": 45520,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-14"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0017",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "717",
+  "confidence": "hybrid",
+  "article_start_char": 46839,
+  "article_end_char": 46971,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-15"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0018",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "679",
+  "confidence": "hybrid",
+  "article_start_char": 47933,
+  "article_end_char": 47959,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-16"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0019",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "245",
+  "confidence": "hybrid",
+  "article_start_char": 49855,
+  "article_end_char": 49933,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-17"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0020",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "422",
+  "confidence": "hybrid",
+  "article_start_char": 50274,
+  "article_end_char": 50421,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-18"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0021",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "546",
+  "confidence": "hybrid",
+  "article_start_char": 50665,
+  "article_end_char": 50748,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-19"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0022",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "737",
+  "confidence": "hybrid",
+  "article_start_char": 52855,
+  "article_end_char": 52913,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-20"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0023",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "323",
+  "confidence": "hybrid",
+  "article_start_char": 53699,
+  "article_end_char": 54028,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015-21",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0003"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0024",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "494",
+  "confidence": "hybrid",
+  "article_start_char": 55796,
+  "article_end_char": 56024,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015-22",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0004"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0025",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "517",
+  "confidence": "hybrid",
+  "article_start_char": 59662,
+  "article_end_char": 60035,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015-26",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0006"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0026",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59663,
+  "article_end_char": 59717,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0005"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0027",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "752",
+  "confidence": "hybrid",
+  "article_start_char": 61740,
+  "article_end_char": 61967,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2015-27",
+   "2015_martinson_hyperobject_s_7IIYT69Y-tm-0007"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0028",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "757",
+  "confidence": "hybrid",
+  "article_start_char": 62222,
+  "article_end_char": 62310,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-28"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0029",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "755",
+  "confidence": "hybrid",
+  "article_start_char": 63747,
+  "article_end_char": 63914,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-30"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0030",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "726",
+  "confidence": "hybrid",
+  "article_start_char": 64113,
+  "article_end_char": 64236,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-29"
+  ]
+ },
+ {
+  "id": "2015_martinson_hyperobject_s_7IIYT69Y-hybrid_tgo-0031",
+  "article": "2015_martinson_hyperobject_s_7IIYT69Y",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "530",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2015-24"
+  ]
+ }
+]

@@ -1,0 +1,229 @@
+{
+ "schema_version": "2.0",
+ "article": "2012_eve_whose_line_YT54NC7G",
+ "corpus_id": "CORPUS-YT54NC7G",
+ "split": "development",
+ "body_sha256": "e15f3c7b61ea4fe2025f5dbe09df95d3d51837ca19b9ad849af935f6e8f53675",
+ "quotes": [
+  {
+   "gold_id": "YT54NC7G-q0003",
+   "article_start_char": 2179,
+   "article_end_char": 2222,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 67,
+   "true_section_label": "Episode 67",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-q0004",
+   "article_start_char": 2685,
+   "article_end_char": 2711,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 67,
+   "true_section_label": "Episode 67",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-q0006",
+   "article_start_char": 2898,
+   "article_end_char": 3115,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 67,
+   "true_section_label": "Episode 67",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": [
+    "ellipsis",
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "YT54NC7G-q0008",
+   "article_start_char": 3465,
+   "article_end_char": 3509,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 67,
+   "true_section_label": "Episode 67",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-q0009",
+   "article_start_char": 4360,
+   "article_end_char": 4443,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 67,
+   "true_section_label": "Episode 67",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-q0028",
+   "article_start_char": 15852,
+   "article_end_char": 15962,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 71,
+   "true_section_label": "Episode 71",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-q0030",
+   "article_start_char": 17870,
+   "article_end_char": 17914,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 40,
+   "true_section_label": "Episode 40",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": [
+    "brackets"
+   ]
+  },
+  {
+   "gold_id": "YT54NC7G-q0034",
+   "article_start_char": 20807,
+   "article_end_char": 20995,
+   "true_pid": "P05",
+   "true_work": "Vineland",
+   "true_section_n": 8,
+   "true_section_label": "Chapter 8",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-q0035",
+   "article_start_char": 22217,
+   "article_end_char": 22449,
+   "true_pid": "P05",
+   "true_work": "Vineland",
+   "true_section_n": 3,
+   "true_section_label": "Chapter 3",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": [
+    "hyphen"
+   ]
+  },
+  {
+   "gold_id": "YT54NC7G-q0036",
+   "article_start_char": 24440,
+   "article_end_char": 24547,
+   "true_pid": "P05",
+   "true_work": "Vineland",
+   "true_section_n": 10,
+   "true_section_label": "Chapter 10",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-q0045",
+   "article_start_char": 29622,
+   "article_end_char": 30391,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 49,
+   "true_section_label": "Episode 49",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YT54NC7G-q0054",
+   "article_start_char": 37451,
+   "article_end_char": 37575,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 73,
+   "true_section_label": "Episode 73",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-q0055",
+   "article_start_char": 39819,
+   "article_end_char": 39913,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 69,
+   "true_section_label": "Episode 69",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YT54NC7G-q0056",
+   "article_start_char": 40173,
+   "article_end_char": 40237,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 69,
+   "true_section_label": "Episode 69",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-q0067",
+   "article_start_char": 43729,
+   "article_end_char": 43776,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 69,
+   "true_section_label": "Episode 69",
+   "in_primary_corpus": true,
+   "quotation_form": "curly_single",
+   "alterations": []
+  },
+  {
+   "gold_id": "YT54NC7G-m0001",
+   "article_start_char": 38314,
+   "article_end_char": 38456,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 67,
+   "true_section_label": "Episode 67",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "wording"
+   ]
+  },
+  {
+   "gold_id": "YT54NC7G-m0003",
+   "article_start_char": 17448,
+   "article_end_char": 17798,
+   "true_pid": "P04",
+   "true_work": "Gravity's Rainbow",
+   "true_section_n": 40,
+   "true_section_label": "Episode 40",
+   "in_primary_corpus": true,
+   "quotation_form": "manual_block",
+   "alterations": [
+    "ellipsis"
+   ]
+  }
+ ],
+ "excluded_out_of_scope": []
+}

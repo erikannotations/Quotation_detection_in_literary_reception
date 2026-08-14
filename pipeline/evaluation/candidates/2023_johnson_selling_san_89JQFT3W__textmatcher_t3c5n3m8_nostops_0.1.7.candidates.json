@@ -1,0 +1,30 @@
+[
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-tm-0001",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 28258,
+  "article_end_char": 28375,
+  "textmatcher_candidate_pids": [
+   "P03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-tm-0002",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P03",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29104,
+  "article_end_char": 29211,
+  "textmatcher_candidate_pids": [
+   "P03"
+  ]
+ }
+]

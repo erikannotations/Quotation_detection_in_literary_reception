@@ -1,0 +1,2488 @@
+[
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0001",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2934,
+  "article_end_char": 2951,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0001"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0002",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4335,
+  "article_end_char": 4352,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0002"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0003",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4428,
+  "article_end_char": 4464,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0003"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0004",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4465,
+  "article_end_char": 4553,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0004"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0005",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4625,
+  "article_end_char": 4649,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0005"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0006",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5267,
+  "article_end_char": 5303,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0006"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0007",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5938,
+  "article_end_char": 5958,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0007"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0008",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 6649,
+  "article_end_char": 6680,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0008"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0009",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 6810,
+  "article_end_char": 6856,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-tm-0001",
+   "2021_sezer_going_west_US8FE2Q5-quid-0009"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0010",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7020,
+  "article_end_char": 7187,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0010",
+   "2021_sezer_going_west_US8FE2Q5-tm-0002"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0011",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P10 | P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7385,
+  "article_end_char": 7617,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0011",
+   "2021_sezer_going_west_US8FE2Q5-tm-0003"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0012",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7778,
+  "article_end_char": 7862,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0012",
+   "2021_sezer_going_west_US8FE2Q5-tm-0004"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0013",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7881,
+  "article_end_char": 7907,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0013"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0014",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P01|P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8326,
+  "article_end_char": 8344,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0014"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0015",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9091,
+  "article_end_char": 9119,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0015"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0016",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9139,
+  "article_end_char": 9164,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0016"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0017",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9981,
+  "article_end_char": 10023,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0017"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0018",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10412,
+  "article_end_char": 10498,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0018"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0019",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12337,
+  "article_end_char": 12366,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0019"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0020",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12974,
+  "article_end_char": 12996,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0020"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0021",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13130,
+  "article_end_char": 13150,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0021"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0022",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13189,
+  "article_end_char": 13308,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0022",
+   "2021_sezer_going_west_US8FE2Q5-tm-0005"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0023",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13415,
+  "article_end_char": 13455,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0023"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0024",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P07|P08 | P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13518,
+  "article_end_char": 13552,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0024",
+   "2021_sezer_going_west_US8FE2Q5-tm-0006"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0025",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13553,
+  "article_end_char": 13575,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-tm-0007"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0026",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13834,
+  "article_end_char": 13860,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0025"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0027",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13967,
+  "article_end_char": 14158,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0026"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0028",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13970,
+  "article_end_char": 14220,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-tm-0008"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0029",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14185,
+  "article_end_char": 14225,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0027"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0030",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14704,
+  "article_end_char": 14784,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0028",
+   "2021_sezer_going_west_US8FE2Q5-tm-0009"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0031",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14791,
+  "article_end_char": 14815,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-tm-0010"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0032",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14868,
+  "article_end_char": 15070,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0029",
+   "2021_sezer_going_west_US8FE2Q5-tm-0011"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0033",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15071,
+  "article_end_char": 15117,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0030"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0034",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P06|P07|P08|P09|P10 | P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15126,
+  "article_end_char": 15438,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0031",
+   "2021_sezer_going_west_US8FE2Q5-tm-0012"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0035",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15591,
+  "article_end_char": 15612,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0032"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0036",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P03|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15760,
+  "article_end_char": 15810,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0033"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0037",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16043,
+  "article_end_char": 16073,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0034"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0038",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P01|P02|P04|P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16213,
+  "article_end_char": 16233,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0035"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0039",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16261,
+  "article_end_char": 16667,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0036",
+   "2021_sezer_going_west_US8FE2Q5-tm-0013"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0040",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16674,
+  "article_end_char": 16722,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0037"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0041",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16972,
+  "article_end_char": 17087,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0038"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0042",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16977,
+  "article_end_char": 17139,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-tm-0014"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0043",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17090,
+  "article_end_char": 17139,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0039"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0044",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17141,
+  "article_end_char": 17160,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0040"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0045",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17183,
+  "article_end_char": 17210,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0041"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0046",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17228,
+  "article_end_char": 17371,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0042"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0047",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17420,
+  "article_end_char": 17441,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0043"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0048",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17723,
+  "article_end_char": 17776,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0044"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0049",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17900,
+  "article_end_char": 17936,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0045"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0050",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17937,
+  "article_end_char": 18055,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0046"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0051",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18223,
+  "article_end_char": 18503,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0047"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0052",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18803,
+  "article_end_char": 18824,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0048"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0053",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19504,
+  "article_end_char": 19527,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0049"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0054",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19553,
+  "article_end_char": 19574,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0050"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0055",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19936,
+  "article_end_char": 20100,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0051"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0056",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21016,
+  "article_end_char": 21057,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0052"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0057",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21286,
+  "article_end_char": 21352,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0053"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0058",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21383,
+  "article_end_char": 21410,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0054"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0059",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21495,
+  "article_end_char": 21515,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0055"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0060",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21638,
+  "article_end_char": 21774,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0056"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0061",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22062,
+  "article_end_char": 22452,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0057"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0062",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22981,
+  "article_end_char": 23022,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0058"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0063",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23260,
+  "article_end_char": 23299,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0059"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0064",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23483,
+  "article_end_char": 23516,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0060"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0065",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23525,
+  "article_end_char": 23605,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0061"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0066",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23573,
+  "article_end_char": 23604,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-tm-0015"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0067",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23830,
+  "article_end_char": 23874,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0062"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0068",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24254,
+  "article_end_char": 24353,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0063"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0069",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24321,
+  "article_end_char": 24352,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-tm-0016"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0070",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25268,
+  "article_end_char": 25306,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0064"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0071",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25778,
+  "article_end_char": 25797,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0065"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0072",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25903,
+  "article_end_char": 25944,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0066"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0073",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26086,
+  "article_end_char": 26103,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0067"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0074",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26146,
+  "article_end_char": 26172,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0068"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0075",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26521,
+  "article_end_char": 26629,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0069"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0076",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27411,
+  "article_end_char": 27583,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0070"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0077",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27599,
+  "article_end_char": 27650,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0071"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0078",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27668,
+  "article_end_char": 27793,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0072"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0079",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28279,
+  "article_end_char": 28420,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0073"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0080",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28641,
+  "article_end_char": 28659,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0074"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0081",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28969,
+  "article_end_char": 29148,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0075"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0082",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29424,
+  "article_end_char": 29642,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0076"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0083",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30081,
+  "article_end_char": 30128,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0077"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0084",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30285,
+  "article_end_char": 30573,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0078"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0085",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30802,
+  "article_end_char": 30828,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0079"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0086",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30837,
+  "article_end_char": 30938,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0080"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0087",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30943,
+  "article_end_char": 30962,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0081"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0088",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 32342,
+  "article_end_char": 32499,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0082"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0089",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33299,
+  "article_end_char": 33336,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0083",
+   "2021_sezer_going_west_US8FE2Q5-tm-0017"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0090",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P05|P06|P07|P08|P09 | P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33339,
+  "article_end_char": 33446,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0084",
+   "2021_sezer_going_west_US8FE2Q5-tm-0018"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0091",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33683,
+  "article_end_char": 33799,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0085"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0092",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34532,
+  "article_end_char": 34553,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0086"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0093",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P03|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34784,
+  "article_end_char": 34802,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0087"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0094",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35132,
+  "article_end_char": 35173,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0088"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0095",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35228,
+  "article_end_char": 35529,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0089"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0096",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36008,
+  "article_end_char": 36037,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0090"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0097",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36562,
+  "article_end_char": 36882,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0091"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0098",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36931,
+  "article_end_char": 37108,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0092"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0099",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 37521,
+  "article_end_char": 37544,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0093"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0100",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38200,
+  "article_end_char": 38220,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0094"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0101",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38270,
+  "article_end_char": 38453,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0095"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0102",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06|P07 | P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40988,
+  "article_end_char": 41426,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0096",
+   "2021_sezer_going_west_US8FE2Q5-tm-0019"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0103",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41609,
+  "article_end_char": 42019,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0097",
+   "2021_sezer_going_west_US8FE2Q5-tm-0020"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0104",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42223,
+  "article_end_char": 42250,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0098"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0105",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42320,
+  "article_end_char": 42361,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0099"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0106",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42369,
+  "article_end_char": 42443,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0100"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0107",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42460,
+  "article_end_char": 42492,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0101"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0108",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42516,
+  "article_end_char": 42556,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0102"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0109",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43502,
+  "article_end_char": 43565,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0103"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0110",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43673,
+  "article_end_char": 43722,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0104"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0111",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43938,
+  "article_end_char": 43980,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0105"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0112",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44408,
+  "article_end_char": 44429,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0106"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0113",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06 | P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44509,
+  "article_end_char": 44636,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0107",
+   "2021_sezer_going_west_US8FE2Q5-tm-0021"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0114",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06 | P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44681,
+  "article_end_char": 45201,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0108",
+   "2021_sezer_going_west_US8FE2Q5-tm-0022"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0115",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 45711,
+  "article_end_char": 45746,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0109"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0116",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46529,
+  "article_end_char": 46552,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0110"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0117",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46792,
+  "article_end_char": 46831,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0111"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0118",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47066,
+  "article_end_char": 47092,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0112"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0119",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47543,
+  "article_end_char": 47575,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0113"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0120",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47577,
+  "article_end_char": 47754,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0114"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0121",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47930,
+  "article_end_char": 47958,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0115"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0122",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48111,
+  "article_end_char": 48140,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0116"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0123",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48213,
+  "article_end_char": 48275,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0117"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0124",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48975,
+  "article_end_char": 49214,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0118",
+   "2021_sezer_going_west_US8FE2Q5-tm-0023"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0125",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 49479,
+  "article_end_char": 49872,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0119",
+   "2021_sezer_going_west_US8FE2Q5-tm-0024"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0126",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05|P06|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50074,
+  "article_end_char": 50171,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0120"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0127",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50173,
+  "article_end_char": 50194,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0121"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0128",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50202,
+  "article_end_char": 50296,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0122"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0129",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51163,
+  "article_end_char": 51248,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0123",
+   "2021_sezer_going_west_US8FE2Q5-tm-0025"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0130",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51307,
+  "article_end_char": 51330,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0124"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0131",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51351,
+  "article_end_char": 51387,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0125"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0132",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51880,
+  "article_end_char": 51898,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0126"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0133",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52231,
+  "article_end_char": 52257,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0127"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0134",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53339,
+  "article_end_char": 53926,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0128"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0135",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53935,
+  "article_end_char": 53971,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0129"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0136",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53996,
+  "article_end_char": 54024,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0130"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0137",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54576,
+  "article_end_char": 54601,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0131"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0138",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55069,
+  "article_end_char": 55091,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0132"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0139",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55484,
+  "article_end_char": 55503,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0133"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0140",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56661,
+  "article_end_char": 56687,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0134"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0141",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 58927,
+  "article_end_char": 58958,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0135"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0142",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 61422,
+  "article_end_char": 61457,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0136"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0143",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62217,
+  "article_end_char": 62246,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0137"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-hybrid_qt-0144",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62296,
+  "article_end_char": 62317,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2021_sezer_going_west_US8FE2Q5-quid-0138"
+  ]
+ }
+]

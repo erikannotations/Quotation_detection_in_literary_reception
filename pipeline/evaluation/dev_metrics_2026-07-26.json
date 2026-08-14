@@ -1,0 +1,4273 @@
+{
+  "match_threshold": 0.6,
+  "models": {
+    "anthropic_claude-fable-5": {
+      "articles": 4,
+      "candidates": 90,
+      "gold": 88,
+      "det_tp": 87,
+      "det_fp": 3,
+      "det_fn": 1,
+      "end_tp": 87,
+      "end_fp": 0,
+      "end_fn": 1,
+      "top_ok": 87,
+      "alt_ok": 87,
+      "top_denom": 87,
+      "section_ok": 87,
+      "section_denom": 87,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 48,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:curly_single": {
+          "tp": 15,
+          "fn": 1,
+          "recall": 0.9375
+        },
+        "form:manual_block": {
+          "tp": 18,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:straight_double": {
+          "tp": 6,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 87,
+          "fn": 1,
+          "recall": 0.9886363636363636
+        }
+      },
+      "det_p": 0.9666666666666667,
+      "det_r": 0.9886363636363636,
+      "det_f1": 0.9775280898876404,
+      "end_p": 1.0,
+      "end_r": 0.9886363636363636,
+      "end_f1": 0.9942857142857142,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.9693121693121693,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 14,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 16,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 18,
+          "gold": 17,
+          "det_tp": 16,
+          "det_fp": 2,
+          "det_fn": 1,
+          "end_tp": 16,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 16,
+          "alt_ok": 16,
+          "top_denom": 16,
+          "section_ok": 16,
+          "section_denom": 16,
+          "det_f1": 0.9142857142857143
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 7,
+              "fn": 0
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 14,
+          "gold": 13,
+          "det_tp": 13,
+          "det_fp": 1,
+          "det_fn": 0,
+          "end_tp": 13,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.962962962962963
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 42,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 46,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 46,
+          "gold": 46,
+          "det_tp": 46,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 46,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 46,
+          "alt_ok": 46,
+          "top_denom": 46,
+          "section_ok": 46,
+          "section_denom": 46,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 0
+            },
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 12,
+          "gold": 12,
+          "det_tp": 12,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 12,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 1.0
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.90625,
+          "high": 1.0
+        },
+        "det_r": {
+          "low": 0.953125,
+          "high": 1.0
+        },
+        "det_f1": {
+          "low": 0.9302325581395349,
+          "high": 1.0
+        },
+        "end_p": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "end_r": {
+          "low": 0.953125,
+          "high": 1.0
+        },
+        "end_f1": {
+          "low": 0.976,
+          "high": 1.0
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.9357142857142857,
+          "high": 1.0
+        }
+      }
+    },
+    "heuristic_marked": {
+      "articles": 4,
+      "candidates": 216,
+      "gold": 88,
+      "det_tp": 67,
+      "det_fp": 149,
+      "det_fn": 21,
+      "end_tp": 67,
+      "end_fp": 4,
+      "end_fn": 21,
+      "top_ok": 67,
+      "alt_ok": 67,
+      "top_denom": 67,
+      "section_ok": 67,
+      "section_denom": 67,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 47,
+          "fn": 1,
+          "recall": 0.9791666666666666
+        },
+        "form:curly_single": {
+          "tp": 14,
+          "fn": 2,
+          "recall": 0.875
+        },
+        "form:manual_block": {
+          "tp": 0,
+          "fn": 18,
+          "recall": 0.0
+        },
+        "form:straight_double": {
+          "tp": 6,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 67,
+          "fn": 21,
+          "recall": 0.7613636363636364
+        }
+      },
+      "det_p": 0.3101851851851852,
+      "det_r": 0.7613636363636364,
+      "det_f1": 0.4407894736842105,
+      "end_p": 0.9436619718309859,
+      "end_r": 0.7613636363636364,
+      "end_f1": 0.8427672955974843,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.3926410854723015,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 14,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 14,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 2
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 67,
+          "gold": 17,
+          "det_tp": 14,
+          "det_fp": 53,
+          "det_fn": 3,
+          "end_tp": 14,
+          "end_fp": 1,
+          "end_fn": 3,
+          "top_ok": 14,
+          "alt_ok": 14,
+          "top_denom": 14,
+          "section_ok": 14,
+          "section_denom": 14,
+          "det_f1": 0.33333333333333337
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 7
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 7
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 45,
+          "gold": 13,
+          "det_tp": 6,
+          "det_fp": 39,
+          "det_fn": 7,
+          "end_tp": 6,
+          "end_fp": 1,
+          "end_fn": 7,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.20689655172413796
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 41,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 41,
+              "fn": 5
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 4
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 87,
+          "gold": 46,
+          "det_tp": 41,
+          "det_fp": 46,
+          "det_fn": 5,
+          "end_tp": 41,
+          "end_fp": 1,
+          "end_fn": 5,
+          "top_ok": 41,
+          "alt_ok": 41,
+          "top_denom": 41,
+          "section_ok": 41,
+          "section_denom": 41,
+          "det_f1": 0.6165413533834586
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 0,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 6
+            },
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 0,
+              "fn": 5
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 17,
+          "gold": 12,
+          "det_tp": 6,
+          "det_fp": 11,
+          "det_fn": 6,
+          "end_tp": 6,
+          "end_fp": 1,
+          "end_fn": 6,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.41379310344827586
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.15841584158415842,
+          "high": 0.4519230769230769
+        },
+        "det_r": {
+          "low": 0.48,
+          "high": 0.873015873015873
+        },
+        "det_f1": {
+          "low": 0.24806201550387594,
+          "high": 0.5802469135802469
+        },
+        "end_p": {
+          "low": 0.8571428571428571,
+          "high": 0.9699248120300752
+        },
+        "end_r": {
+          "low": 0.48,
+          "high": 0.873015873015873
+        },
+        "end_f1": {
+          "low": 0.6153846153846153,
+          "high": 0.9166666666666667
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.25862068965517243,
+          "high": 0.5457393483709273
+        }
+      }
+    },
+    "hybrid": {
+      "articles": 4,
+      "candidates": 227,
+      "gold": 88,
+      "det_tp": 88,
+      "det_fp": 139,
+      "det_fn": 0,
+      "end_tp": 88,
+      "end_fp": 69,
+      "end_fn": 0,
+      "top_ok": 88,
+      "alt_ok": 88,
+      "top_denom": 88,
+      "section_ok": 88,
+      "section_denom": 88,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 48,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:curly_single": {
+          "tp": 16,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 18,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:straight_double": {
+          "tp": 6,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 88,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.3876651982378855,
+      "det_r": 1.0,
+      "det_f1": 0.5587301587301587,
+      "end_p": 0.5605095541401274,
+      "end_r": 1.0,
+      "end_f1": 0.7183673469387756,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.5385614385614386,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 15,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 48,
+          "gold": 17,
+          "det_tp": 17,
+          "det_fp": 31,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 16,
+          "end_fn": 0,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.5230769230769231
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 7,
+              "fn": 0
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 78,
+          "gold": 13,
+          "det_tp": 13,
+          "det_fp": 65,
+          "det_fn": 0,
+          "end_tp": 13,
+          "end_fp": 32,
+          "end_fn": 0,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.2857142857142857
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 42,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 46,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 69,
+          "gold": 46,
+          "det_tp": 46,
+          "det_fp": 23,
+          "det_fn": 0,
+          "end_tp": 46,
+          "end_fp": 11,
+          "end_fn": 0,
+          "top_ok": 46,
+          "alt_ok": 46,
+          "top_denom": 46,
+          "section_ok": 46,
+          "section_denom": 46,
+          "det_f1": 0.8
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 0
+            },
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 32,
+          "gold": 12,
+          "det_tp": 12,
+          "det_fp": 20,
+          "det_fn": 0,
+          "end_tp": 12,
+          "end_fp": 10,
+          "end_fn": 0,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 0.5454545454545454
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.19858156028368795,
+          "high": 0.6078431372549019
+        },
+        "det_r": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "det_f1": {
+          "low": 0.3313609467455621,
+          "high": 0.7560975609756097
+        },
+        "end_p": {
+          "low": 0.3333333333333333,
+          "high": 0.7598039215686274
+        },
+        "end_r": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "end_f1": {
+          "low": 0.5,
+          "high": 0.8635097493036211
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.35064935064935066,
+          "high": 0.7307692307692308
+        }
+      }
+    },
+    "hybrid_all": {
+      "articles": 4,
+      "candidates": 256,
+      "gold": 88,
+      "det_tp": 84,
+      "det_fp": 172,
+      "det_fn": 4,
+      "end_tp": 84,
+      "end_fp": 7,
+      "end_fn": 4,
+      "top_ok": 84,
+      "alt_ok": 84,
+      "top_denom": 84,
+      "section_ok": 84,
+      "section_denom": 84,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 44,
+          "fn": 4,
+          "recall": 0.9166666666666666
+        },
+        "form:curly_single": {
+          "tp": 16,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 18,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:straight_double": {
+          "tp": 6,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 84,
+          "fn": 4,
+          "recall": 0.9545454545454546
+        }
+      },
+      "det_p": 0.328125,
+      "det_r": 0.9545454545454546,
+      "det_f1": 0.48837209302325585,
+      "end_p": 0.9230769230769231,
+      "end_r": 0.9545454545454546,
+      "end_f1": 0.9385474860335197,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.48710424218658904,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 15,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 70,
+          "gold": 17,
+          "det_tp": 17,
+          "det_fp": 53,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 1,
+          "end_fn": 0,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.3908045977011494
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 7,
+              "fn": 0
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 54,
+          "gold": 13,
+          "det_tp": 13,
+          "det_fp": 41,
+          "det_fn": 0,
+          "end_tp": 13,
+          "end_fp": 2,
+          "end_fn": 0,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.3880597014925373
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 39,
+              "fn": 3
+            },
+            "provenance:annotator": {
+              "tp": 43,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 108,
+          "gold": 46,
+          "det_tp": 43,
+          "det_fp": 65,
+          "det_fn": 3,
+          "end_tp": 43,
+          "end_fp": 4,
+          "end_fn": 3,
+          "top_ok": 43,
+          "alt_ok": 43,
+          "top_denom": 43,
+          "section_ok": 43,
+          "section_denom": 43,
+          "det_f1": 0.5584415584415584
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 1
+            },
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 24,
+          "gold": 12,
+          "det_tp": 11,
+          "det_fp": 13,
+          "det_fn": 1,
+          "end_tp": 11,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.611111111111111
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.24193548387096775,
+          "high": 0.4090909090909091
+        },
+        "det_r": {
+          "low": 0.9310344827586207,
+          "high": 1.0
+        },
+        "det_f1": {
+          "low": 0.38961038961038963,
+          "high": 0.5684210526315789
+        },
+        "end_p": {
+          "low": 0.8913043478260869,
+          "high": 0.9655172413793104
+        },
+        "end_r": {
+          "low": 0.9310344827586207,
+          "high": 1.0
+        },
+        "end_f1": {
+          "low": 0.9256198347107438,
+          "high": 0.9655172413793104
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.38943214959684336,
+          "high": 0.5847763347763347
+        }
+      }
+    },
+    "hybrid_gcgo": {
+      "articles": 4,
+      "candidates": 103,
+      "gold": 88,
+      "det_tp": 81,
+      "det_fp": 22,
+      "det_fn": 7,
+      "end_tp": 81,
+      "end_fp": 1,
+      "end_fn": 7,
+      "top_ok": 81,
+      "alt_ok": 81,
+      "top_denom": 81,
+      "section_ok": 81,
+      "section_denom": 81,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 43,
+          "fn": 5,
+          "recall": 0.8958333333333334
+        },
+        "form:curly_single": {
+          "tp": 15,
+          "fn": 1,
+          "recall": 0.9375
+        },
+        "form:manual_block": {
+          "tp": 18,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:straight_double": {
+          "tp": 5,
+          "fn": 1,
+          "recall": 0.8333333333333334
+        },
+        "provenance:annotator": {
+          "tp": 81,
+          "fn": 7,
+          "recall": 0.9204545454545454
+        }
+      },
+      "det_p": 0.7864077669902912,
+      "det_r": 0.9204545454545454,
+      "det_f1": 0.8481675392670156,
+      "end_p": 0.9878048780487805,
+      "end_r": 0.9204545454545454,
+      "end_f1": 0.9529411764705882,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.8684134096755456,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 14,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 16,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 19,
+          "gold": 17,
+          "det_tp": 16,
+          "det_fp": 3,
+          "det_fn": 1,
+          "end_tp": 16,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 16,
+          "alt_ok": 16,
+          "top_denom": 16,
+          "section_ok": 16,
+          "section_denom": 16,
+          "det_f1": 0.8888888888888888
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 5,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 7,
+              "fn": 0
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 13,
+          "gold": 13,
+          "det_tp": 12,
+          "det_fp": 1,
+          "det_fn": 1,
+          "end_tp": 12,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 0.9230769230769231
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 38,
+              "fn": 4
+            },
+            "provenance:annotator": {
+              "tp": 42,
+              "fn": 4
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 57,
+          "gold": 46,
+          "det_tp": 42,
+          "det_fp": 15,
+          "det_fn": 4,
+          "end_tp": 42,
+          "end_fp": 1,
+          "end_fn": 4,
+          "top_ok": 42,
+          "alt_ok": 42,
+          "top_denom": 42,
+          "section_ok": 42,
+          "section_denom": 42,
+          "det_f1": 0.8155339805825242
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 1
+            },
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 14,
+          "gold": 12,
+          "det_tp": 11,
+          "det_fp": 3,
+          "det_fn": 1,
+          "end_tp": 11,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.8461538461538461
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.7464788732394366,
+          "high": 0.8867924528301887
+        },
+        "det_r": {
+          "low": 0.9137931034482759,
+          "high": 0.9365079365079365
+        },
+        "det_f1": {
+          "low": 0.8217054263565892,
+          "high": 0.9038461538461539
+        },
+        "end_p": {
+          "low": 0.9787234042553191,
+          "high": 1.0
+        },
+        "end_r": {
+          "low": 0.9137931034482759,
+          "high": 0.9365079365079365
+        },
+        "end_f1": {
+          "low": 0.9452054794520547,
+          "high": 0.9672131147540983
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.8308439133681852,
+          "high": 0.905982905982906
+        }
+      }
+    },
+    "hybrid_mgc": {
+      "articles": 4,
+      "candidates": 234,
+      "gold": 88,
+      "det_tp": 88,
+      "det_fp": 146,
+      "det_fn": 0,
+      "end_tp": 88,
+      "end_fp": 1,
+      "end_fn": 0,
+      "top_ok": 88,
+      "alt_ok": 88,
+      "top_denom": 88,
+      "section_ok": 88,
+      "section_denom": 88,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 48,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:curly_single": {
+          "tp": 16,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 18,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:straight_double": {
+          "tp": 6,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 88,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.37606837606837606,
+      "det_r": 1.0,
+      "det_f1": 0.546583850931677,
+      "end_p": 0.9887640449438202,
+      "end_r": 1.0,
+      "end_f1": 0.9943502824858756,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.5431910092164518,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 15,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 69,
+          "gold": 17,
+          "det_tp": 17,
+          "det_fp": 52,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.39534883720930236
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 7,
+              "fn": 0
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 52,
+          "gold": 13,
+          "det_tp": 13,
+          "det_fp": 39,
+          "det_fn": 0,
+          "end_tp": 13,
+          "end_fp": 1,
+          "end_fn": 0,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.4
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 42,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 46,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 91,
+          "gold": 46,
+          "det_tp": 46,
+          "det_fp": 45,
+          "det_fn": 0,
+          "end_tp": 46,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 46,
+          "alt_ok": 46,
+          "top_denom": 46,
+          "section_ok": 46,
+          "section_denom": 46,
+          "det_f1": 0.6715328467153284
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 0
+            },
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 22,
+          "gold": 12,
+          "det_tp": 12,
+          "det_fp": 10,
+          "det_fn": 0,
+          "end_tp": 12,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 0.7058823529411764
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.24793388429752067,
+          "high": 0.5132743362831859
+        },
+        "det_r": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "det_f1": {
+          "low": 0.3973509933774834,
+          "high": 0.6783625730994153
+        },
+        "end_p": {
+          "low": 0.9491525423728814,
+          "high": 1.0
+        },
+        "end_r": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "end_f1": {
+          "low": 0.9739130434782608,
+          "high": 1.0
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.39767441860465125,
+          "high": 0.6887075998282524
+        }
+      }
+    },
+    "hybrid_mgo": {
+      "articles": 4,
+      "candidates": 247,
+      "gold": 88,
+      "det_tp": 83,
+      "det_fp": 164,
+      "det_fn": 5,
+      "end_tp": 83,
+      "end_fp": 2,
+      "end_fn": 5,
+      "top_ok": 83,
+      "alt_ok": 83,
+      "top_denom": 83,
+      "section_ok": 83,
+      "section_denom": 83,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 44,
+          "fn": 4,
+          "recall": 0.9166666666666666
+        },
+        "form:curly_single": {
+          "tp": 16,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 17,
+          "fn": 1,
+          "recall": 0.9444444444444444
+        },
+        "form:straight_double": {
+          "tp": 6,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 83,
+          "fn": 5,
+          "recall": 0.9431818181818182
+        }
+      },
+      "det_p": 0.3360323886639676,
+      "det_r": 0.9431818181818182,
+      "det_f1": 0.4955223880597015,
+      "end_p": 0.9764705882352941,
+      "end_r": 0.9431818181818182,
+      "end_f1": 0.9595375722543352,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.4896602890935262,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 15,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 69,
+          "gold": 17,
+          "det_tp": 17,
+          "det_fp": 52,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.39534883720930236
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 6,
+              "fn": 1
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 51,
+          "gold": 13,
+          "det_tp": 12,
+          "det_fp": 39,
+          "det_fn": 1,
+          "end_tp": 12,
+          "end_fp": 1,
+          "end_fn": 1,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 0.375
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 39,
+              "fn": 3
+            },
+            "provenance:annotator": {
+              "tp": 43,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 103,
+          "gold": 46,
+          "det_tp": 43,
+          "det_fp": 60,
+          "det_fn": 3,
+          "end_tp": 43,
+          "end_fp": 1,
+          "end_fn": 3,
+          "top_ok": 43,
+          "alt_ok": 43,
+          "top_denom": 43,
+          "section_ok": 43,
+          "section_denom": 43,
+          "det_f1": 0.5771812080536913
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 1
+            },
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 24,
+          "gold": 12,
+          "det_tp": 11,
+          "det_fp": 13,
+          "det_fn": 1,
+          "end_tp": 11,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.611111111111111
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.24166666666666667,
+          "high": 0.4251968503937008
+        },
+        "det_r": {
+          "low": 0.92,
+          "high": 0.9841269841269841
+        },
+        "det_f1": {
+          "low": 0.38666666666666666,
+          "high": 0.5837837837837838
+        },
+        "end_p": {
+          "low": 0.9464285714285714,
+          "high": 1.0
+        },
+        "end_r": {
+          "low": 0.92,
+          "high": 0.9841269841269841
+        },
+        "end_f1": {
+          "low": 0.9387755102040817,
+          "high": 0.984375
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.3851744186046512,
+          "high": 0.5941461595824011
+        }
+      }
+    },
+    "hybrid_qgated": {
+      "articles": 4,
+      "candidates": 105,
+      "gold": 88,
+      "det_tp": 88,
+      "det_fp": 17,
+      "det_fn": 0,
+      "end_tp": 88,
+      "end_fp": 8,
+      "end_fn": 0,
+      "top_ok": 88,
+      "alt_ok": 88,
+      "top_denom": 88,
+      "section_ok": 88,
+      "section_denom": 88,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 48,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:curly_single": {
+          "tp": 16,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 18,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:straight_double": {
+          "tp": 6,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 88,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 0.8380952380952381,
+      "det_r": 1.0,
+      "det_f1": 0.9119170984455958,
+      "end_p": 0.9166666666666666,
+      "end_r": 1.0,
+      "end_f1": 0.9565217391304348,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.8990530303030303,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 15,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 23,
+          "gold": 17,
+          "det_tp": 17,
+          "det_fp": 6,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 3,
+          "end_fn": 0,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.85
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 7,
+              "fn": 0
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 20,
+          "gold": 13,
+          "det_tp": 13,
+          "det_fp": 7,
+          "det_fn": 0,
+          "end_tp": 13,
+          "end_fp": 4,
+          "end_fn": 0,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.787878787878788
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 42,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 46,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 50,
+          "gold": 46,
+          "det_tp": 46,
+          "det_fp": 4,
+          "det_fn": 0,
+          "end_tp": 46,
+          "end_fp": 1,
+          "end_fn": 0,
+          "top_ok": 46,
+          "alt_ok": 46,
+          "top_denom": 46,
+          "section_ok": 46,
+          "section_denom": 46,
+          "det_f1": 0.9583333333333334
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 0
+            },
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 12,
+          "gold": 12,
+          "det_tp": 12,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 12,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 1.0
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.6976744186046512,
+          "high": 0.9354838709677419
+        },
+        "det_r": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "det_f1": {
+          "low": 0.8219178082191781,
+          "high": 0.9666666666666666
+        },
+        "end_p": {
+          "low": 0.8095238095238095,
+          "high": 0.9830508474576272
+        },
+        "end_r": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "end_f1": {
+          "low": 0.8947368421052632,
+          "high": 0.9914529914529915
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.818939393939394,
+          "high": 0.9791666666666667
+        }
+      }
+    },
+    "hybrid_xqgc": {
+      "articles": 4,
+      "candidates": 85,
+      "gold": 88,
+      "det_tp": 85,
+      "det_fp": 0,
+      "det_fn": 3,
+      "end_tp": 85,
+      "end_fp": 0,
+      "end_fn": 3,
+      "top_ok": 85,
+      "alt_ok": 85,
+      "top_denom": 85,
+      "section_ok": 85,
+      "section_denom": 85,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 47,
+          "fn": 1,
+          "recall": 0.9791666666666666
+        },
+        "form:curly_single": {
+          "tp": 15,
+          "fn": 1,
+          "recall": 0.9375
+        },
+        "form:manual_block": {
+          "tp": 18,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:straight_double": {
+          "tp": 5,
+          "fn": 1,
+          "recall": 0.8333333333333334
+        },
+        "provenance:annotator": {
+          "tp": 85,
+          "fn": 3,
+          "recall": 0.9659090909090909
+        }
+      },
+      "det_p": 1.0,
+      "det_r": 0.9659090909090909,
+      "det_f1": 0.9826589595375723,
+      "end_p": 1.0,
+      "end_r": 0.9659090909090909,
+      "end_f1": 0.9826589595375723,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.9796769896769897,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 14,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 16,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 16,
+          "gold": 17,
+          "det_tp": 16,
+          "det_fp": 0,
+          "det_fn": 1,
+          "end_tp": 16,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 16,
+          "alt_ok": 16,
+          "top_denom": 16,
+          "section_ok": 16,
+          "section_denom": 16,
+          "det_f1": 0.9696969696969697
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 5,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 7,
+              "fn": 0
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 12,
+          "gold": 13,
+          "det_tp": 12,
+          "det_fp": 0,
+          "det_fn": 1,
+          "end_tp": 12,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 0.9600000000000001
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 41,
+              "fn": 1
+            },
+            "provenance:annotator": {
+              "tp": 45,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 45,
+          "gold": 46,
+          "det_tp": 45,
+          "det_fp": 0,
+          "det_fn": 1,
+          "end_tp": 45,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 45,
+          "alt_ok": 45,
+          "top_denom": 45,
+          "section_ok": 45,
+          "section_denom": 45,
+          "det_f1": 0.989010989010989
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 0
+            },
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 12,
+          "gold": 12,
+          "det_tp": 12,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 12,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 1.0
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "det_r": {
+          "low": 0.9333333333333333,
+          "high": 0.9827586206896551
+        },
+        "det_f1": {
+          "low": 0.9655172413793104,
+          "high": 0.9913043478260869
+        },
+        "end_p": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "end_r": {
+          "low": 0.9333333333333333,
+          "high": 0.9827586206896551
+        },
+        "end_f1": {
+          "low": 0.9655172413793104,
+          "high": 0.9913043478260869
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.9648484848484848,
+          "high": 0.9945054945054945
+        }
+      }
+    },
+    "ollama_gemma4-26b-mlx": {
+      "articles": 4,
+      "candidates": 85,
+      "gold": 88,
+      "det_tp": 65,
+      "det_fp": 20,
+      "det_fn": 23,
+      "end_tp": 65,
+      "end_fp": 1,
+      "end_fn": 23,
+      "top_ok": 65,
+      "alt_ok": 65,
+      "top_denom": 65,
+      "section_ok": 65,
+      "section_denom": 65,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 39,
+          "fn": 9,
+          "recall": 0.8125
+        },
+        "form:curly_single": {
+          "tp": 5,
+          "fn": 11,
+          "recall": 0.3125
+        },
+        "form:manual_block": {
+          "tp": 17,
+          "fn": 1,
+          "recall": 0.9444444444444444
+        },
+        "form:straight_double": {
+          "tp": 4,
+          "fn": 2,
+          "recall": 0.6666666666666666
+        },
+        "provenance:annotator": {
+          "tp": 65,
+          "fn": 23,
+          "recall": 0.7386363636363636
+        }
+      },
+      "det_p": 0.7647058823529411,
+      "det_r": 0.7386363636363636,
+      "det_f1": 0.7514450867052023,
+      "end_p": 0.9848484848484849,
+      "end_r": 0.7386363636363636,
+      "end_f1": 0.8441558441558441,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.7408489578054795,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 4,
+              "fn": 11
+            },
+            "provenance:annotator": {
+              "tp": 6,
+              "fn": 11
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 8,
+          "gold": 17,
+          "det_tp": 6,
+          "det_fp": 2,
+          "det_fn": 11,
+          "end_tp": 6,
+          "end_fp": 0,
+          "end_fn": 11,
+          "top_ok": 6,
+          "alt_ok": 6,
+          "top_denom": 6,
+          "section_ok": 6,
+          "section_denom": 6,
+          "det_f1": 0.48
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 4,
+              "fn": 2
+            },
+            "provenance:annotator": {
+              "tp": 10,
+              "fn": 3
+            },
+            "form:manual_block": {
+              "tp": 6,
+              "fn": 1
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 10,
+          "gold": 13,
+          "det_tp": 10,
+          "det_fp": 0,
+          "det_fn": 3,
+          "end_tp": 10,
+          "end_fp": 0,
+          "end_fn": 3,
+          "top_ok": 10,
+          "alt_ok": 10,
+          "top_denom": 10,
+          "section_ok": 10,
+          "section_denom": 10,
+          "det_f1": 0.8695652173913044
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 34,
+              "fn": 8
+            },
+            "provenance:annotator": {
+              "tp": 38,
+              "fn": 8
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 53,
+          "gold": 46,
+          "det_tp": 38,
+          "det_fp": 15,
+          "det_fn": 8,
+          "end_tp": 38,
+          "end_fp": 1,
+          "end_fn": 8,
+          "top_ok": 38,
+          "alt_ok": 38,
+          "top_denom": 38,
+          "section_ok": 38,
+          "section_denom": 38,
+          "det_f1": 0.7676767676767677
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 1
+            },
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 14,
+          "gold": 12,
+          "det_tp": 11,
+          "det_fp": 3,
+          "det_fn": 1,
+          "end_tp": 11,
+          "end_fp": 0,
+          "end_fn": 1,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.8461538461538461
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.7213114754098361,
+          "high": 0.9318181818181818
+        },
+        "det_r": {
+          "low": 0.4603174603174603,
+          "high": 0.8658536585365854
+        },
+        "det_f1": {
+          "low": 0.5742574257425742,
+          "high": 0.8571428571428572
+        },
+        "end_p": {
+          "low": 0.9763779527559056,
+          "high": 1.0
+        },
+        "end_r": {
+          "low": 0.4603174603174603,
+          "high": 0.8658536585365854
+        },
+        "end_f1": {
+          "low": 0.6304347826086957,
+          "high": 0.9220779220779222
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.5715384615384616,
+          "high": 0.8578595317725752
+        }
+      }
+    },
+    "oracle_gold": {
+      "articles": 4,
+      "candidates": 88,
+      "gold": 88,
+      "det_tp": 88,
+      "det_fp": 0,
+      "det_fn": 0,
+      "end_tp": 88,
+      "end_fp": 0,
+      "end_fn": 0,
+      "top_ok": 88,
+      "alt_ok": 88,
+      "top_denom": 88,
+      "section_ok": 88,
+      "section_denom": 88,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 48,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:curly_single": {
+          "tp": 16,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 18,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:straight_double": {
+          "tp": 6,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 88,
+          "fn": 0,
+          "recall": 1.0
+        }
+      },
+      "det_p": 1.0,
+      "det_r": 1.0,
+      "det_f1": 1.0,
+      "end_p": 1.0,
+      "end_r": 1.0,
+      "end_f1": 1.0,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 1.0,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 15,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 17,
+          "gold": 17,
+          "det_tp": 17,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 7,
+              "fn": 0
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 13,
+          "gold": 13,
+          "det_tp": 13,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 13,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 42,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 46,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 46,
+          "gold": 46,
+          "det_tp": 46,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 46,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 46,
+          "alt_ok": 46,
+          "top_denom": 46,
+          "section_ok": 46,
+          "section_denom": 46,
+          "det_f1": 1.0
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 12,
+              "fn": 0
+            },
+            "form:curly_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 12,
+          "gold": 12,
+          "det_tp": 12,
+          "det_fp": 0,
+          "det_fn": 0,
+          "end_tp": 12,
+          "end_fp": 0,
+          "end_fn": 0,
+          "top_ok": 12,
+          "alt_ok": 12,
+          "top_denom": 12,
+          "section_ok": 12,
+          "section_denom": 12,
+          "det_f1": 1.0
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "det_r": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "det_f1": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "end_p": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "end_r": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "end_f1": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 1.0,
+          "high": 1.0
+        }
+      }
+    },
+    "quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "articles": 4,
+      "candidates": 230,
+      "gold": 88,
+      "det_tp": 87,
+      "det_fp": 143,
+      "det_fn": 1,
+      "end_tp": 87,
+      "end_fp": 75,
+      "end_fn": 1,
+      "top_ok": 87,
+      "alt_ok": 87,
+      "top_denom": 87,
+      "section_ok": 87,
+      "section_denom": 87,
+      "recall_by_stratum": {
+        "form:curly_double": {
+          "tp": 47,
+          "fn": 1,
+          "recall": 0.9791666666666666
+        },
+        "form:curly_single": {
+          "tp": 16,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:manual_block": {
+          "tp": 18,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "form:straight_double": {
+          "tp": 6,
+          "fn": 0,
+          "recall": 1.0
+        },
+        "provenance:annotator": {
+          "tp": 87,
+          "fn": 1,
+          "recall": 0.9886363636363636
+        }
+      },
+      "det_p": 0.3782608695652174,
+      "det_r": 0.9886363636363636,
+      "det_f1": 0.5471698113207547,
+      "end_p": 0.5370370370370371,
+      "end_r": 0.9886363636363636,
+      "end_f1": 0.6960000000000001,
+      "top_acc": 1.0,
+      "alt_acc": 1.0,
+      "section_acc": 1.0,
+      "macro_det_f1": 0.523015873015873,
+      "article_metrics": [
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 15,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 17,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 2,
+              "fn": 0
+            }
+          },
+          "stem": "2012_eve_whose_line_YT54NC7G",
+          "articles": 1,
+          "candidates": 46,
+          "gold": 17,
+          "det_tp": 17,
+          "det_fp": 29,
+          "det_fn": 0,
+          "end_tp": 17,
+          "end_fp": 16,
+          "end_fn": 0,
+          "top_ok": 17,
+          "alt_ok": 17,
+          "top_denom": 17,
+          "section_ok": 17,
+          "section_denom": 17,
+          "det_f1": 0.5396825396825397
+        },
+        {
+          "strata": {
+            "form:straight_double": {
+              "tp": 6,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 13,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 7,
+              "fn": 0
+            }
+          },
+          "stem": "2012_miller_naming_oedipa_YUZMXRKY",
+          "articles": 1,
+          "candidates": 78,
+          "gold": 13,
+          "det_tp": 13,
+          "det_fp": 65,
+          "det_fn": 0,
+          "end_tp": 13,
+          "end_fp": 33,
+          "end_fn": 0,
+          "top_ok": 13,
+          "alt_ok": 13,
+          "top_denom": 13,
+          "section_ok": 13,
+          "section_denom": 13,
+          "det_f1": 0.2857142857142857
+        },
+        {
+          "strata": {
+            "form:curly_double": {
+              "tp": 42,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 46,
+              "fn": 0
+            },
+            "form:manual_block": {
+              "tp": 4,
+              "fn": 0
+            }
+          },
+          "stem": "2014_smith_all_maps_7L5Z97IZ",
+          "articles": 1,
+          "candidates": 74,
+          "gold": 46,
+          "det_tp": 46,
+          "det_fp": 28,
+          "det_fn": 0,
+          "end_tp": 46,
+          "end_fp": 15,
+          "end_fn": 0,
+          "top_ok": 46,
+          "alt_ok": 46,
+          "top_denom": 46,
+          "section_ok": 46,
+          "section_denom": 46,
+          "det_f1": 0.7666666666666667
+        },
+        {
+          "strata": {
+            "form:curly_single": {
+              "tp": 1,
+              "fn": 0
+            },
+            "provenance:annotator": {
+              "tp": 11,
+              "fn": 1
+            },
+            "form:curly_double": {
+              "tp": 5,
+              "fn": 1
+            },
+            "form:manual_block": {
+              "tp": 5,
+              "fn": 0
+            }
+          },
+          "stem": "2025_mentz_blue_american_5E3W868P",
+          "articles": 1,
+          "candidates": 32,
+          "gold": 12,
+          "det_tp": 11,
+          "det_fp": 21,
+          "det_fn": 1,
+          "end_tp": 11,
+          "end_fp": 11,
+          "end_fn": 1,
+          "top_ok": 11,
+          "alt_ok": 11,
+          "top_denom": 11,
+          "section_ok": 11,
+          "section_denom": 11,
+          "det_f1": 0.5
+        }
+      ],
+      "bootstrap_95": {
+        "det_p": {
+          "low": 0.2,
+          "high": 0.5783582089552238
+        },
+        "det_r": {
+          "low": 0.9433962264150944,
+          "high": 1.0
+        },
+        "det_f1": {
+          "low": 0.33333333333333337,
+          "high": 0.7328605200945626
+        },
+        "end_p": {
+          "low": 0.32748538011695905,
+          "high": 0.7175925925925926
+        },
+        "end_r": {
+          "low": 0.9433962264150944,
+          "high": 1.0
+        },
+        "end_f1": {
+          "low": 0.4933920704845815,
+          "high": 0.8355795148247979
+        },
+        "top_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "alt_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "section_acc": {
+          "low": 1.0,
+          "high": 1.0
+        },
+        "macro_det_f1": {
+          "low": 0.3492063492063492,
+          "high": 0.7000000000000001
+        }
+      }
+    }
+  },
+  "paired_comparisons": {
+    "anthropic_claude-fable-5__minus__heuristic_marked": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.5367386162034299,
+          "low": 0.41975308641975306,
+          "high": 0.7045300878972278,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.1515184186882299,
+          "low": 0.07533333333333314,
+          "high": 0.3846153846153847,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__hybrid": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.41879793115748165,
+          "low": 0.23425613677358637,
+          "high": 0.6169149153234033,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.27591836734693864,
+          "low": 0.13325400474168625,
+          "high": 0.49099099099099086,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__hybrid_all": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.48915599686438455,
+          "low": 0.43157894736842106,
+          "high": 0.5494876431585292,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.055738228252194544,
+          "low": 0.013593984962406047,
+          "high": 0.07438016528925617,
+          "probability_a_better": 0.995
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__hybrid_gcgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.1293605506206248,
+          "low": 0.032258064516129004,
+          "high": 0.17829457364341084,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.04134453781512604,
+          "low": 0.00839664134346263,
+          "high": 0.05479452054794531,
+          "probability_a_better": 0.9962
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__hybrid_mgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.43094423895596334,
+          "low": 0.3216374269005847,
+          "high": 0.5381328775902585,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": -6.456820016143006e-05,
+          "low": -0.01754385964912286,
+          "high": 0.019607843137254943,
+          "probability_a_better": 0.3706
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__hybrid_mgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.4820057018279389,
+          "low": 0.4162162162162162,
+          "high": 0.5591478696741854,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.03474814203137899,
+          "low": -0.008375000000000021,
+          "high": 0.061224489795918324,
+          "probability_a_better": 0.9446
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__hybrid_qgated": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.06561099144204463,
+          "low": 0.025534045393858396,
+          "high": 0.14216027874564463,
+          "probability_a_better": 0.9956
+        },
+        "end_f1": {
+          "point": 0.037763975155279406,
+          "low": 0.008547008547008517,
+          "high": 0.10526315789473684,
+          "probability_a_better": 0.9956
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__hybrid_xqgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.005130869649931924,
+          "low": -0.043499511241446576,
+          "high": 0.010101010101010055,
+          "probability_a_better": 0.4264
+        },
+        "end_f1": {
+          "point": 0.011626754748141899,
+          "low": 0.0,
+          "high": 0.02802802802802784,
+          "probability_a_better": 0.937
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__ollama_gemma4-26b-mlx": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.22608300318243812,
+          "low": 0.12324929971988785,
+          "high": 0.352813852813853,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.1501298701298701,
+          "low": 0.07792207792207784,
+          "high": 0.3451749734888653,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.022471910112359605,
+          "low": -0.06976744186046513,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.005714285714285783,
+          "low": -0.02400000000000002,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "anthropic_claude-fable-5__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.4303582785668857,
+          "low": 0.2623762376237624,
+          "high": 0.6248366013071895,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.29828571428571415,
+          "low": 0.1611842392205095,
+          "high": 0.49759892050640936,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__hybrid": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.11794068504594823,
+          "low": -0.1930875576036868,
+          "high": -0.0682081900462036,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": 0.12439994865870874,
+          "low": 0.013793103448275779,
+          "high": 0.2122015915119364,
+          "probability_a_better": 0.996
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__hybrid_all": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.04758261933904534,
+          "low": -0.19015734851021104,
+          "high": 0.03541164624557347,
+          "probability_a_better": 0.1434
+        },
+        "end_f1": {
+          "point": -0.09578019043603536,
+          "low": -0.32579185520362,
+          "high": -0.015491540495635725,
+          "probability_a_better": 0.0048
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__hybrid_gcgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.4073780655828051,
+          "low": -0.6642186862505101,
+          "high": -0.24145851277634223,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.11017388087310387,
+          "low": -0.34294871794871806,
+          "high": -0.033166808821737725,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__hybrid_mgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.10579437724746654,
+          "low": -0.2291884360849879,
+          "high": -0.058109979128350364,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.15158298688839134,
+          "low": -0.36500754147812975,
+          "high": -0.08333333333333326,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__hybrid_mgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.05473291437549099,
+          "low": -0.1841379310344829,
+          "high": 0.01944538317815092,
+          "probability_a_better": 0.0548
+        },
+        "end_f1": {
+          "point": -0.11677027665685091,
+          "low": -0.32339089481946637,
+          "high": -0.04397062193224721,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__hybrid_qgated": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.47112762476138526,
+          "low": -0.6013309134906231,
+          "high": -0.37625854652787716,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.1137544435329505,
+          "low": -0.3105413105413106,
+          "high": -0.05256410256410249,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__hybrid_xqgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.5418694858533618,
+          "low": -0.714900947459087,
+          "high": -0.41105743424583996,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.139891663940088,
+          "low": -0.36420722135007855,
+          "high": -0.06720430107526865,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__ollama_gemma4-26b-mlx": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.31065561302099176,
+          "low": -0.5812807881773401,
+          "high": -0.17805383022774324,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.0013885485583597923,
+          "low": -0.2976588628762543,
+          "high": 0.20434782608695656,
+          "probability_a_better": 0.4596
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.5592105263157895,
+          "low": -0.751937984496124,
+          "high": -0.41975308641975306,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.1572327044025157,
+          "low": -0.3846153846153847,
+          "high": -0.08333333333333326,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "heuristic_marked__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.1063803376365442,
+          "low": -0.19055183052556013,
+          "high": -0.05530835447249144,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": 0.14676729559748425,
+          "low": 0.057812242204256625,
+          "high": 0.21877205363443886,
+          "probability_a_better": 0.9982
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid__minus__hybrid_all": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.0703580657069029,
+          "low": -0.09564904710535788,
+          "high": 0.2089592302371439,
+          "probability_a_better": 0.7386
+        },
+        "end_f1": {
+          "point": -0.2201801390947441,
+          "low": -0.4411764705882353,
+          "high": -0.06642655642886297,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid__minus__hybrid_gcgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.28943738053685686,
+          "low": -0.5809197550088239,
+          "high": -0.06709084482149186,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.2345738295318126,
+          "low": -0.462962962962963,
+          "high": -0.08315691736304553,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid__minus__hybrid_mgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.012146307798481693,
+          "low": -0.13468013468013473,
+          "high": 0.1346672111065741,
+          "probability_a_better": 0.5904
+        },
+        "end_f1": {
+          "point": -0.2759829355471001,
+          "low": -0.4739130434782608,
+          "high": -0.13649025069637888,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid__minus__hybrid_mgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.06320777067045724,
+          "low": -0.08962962962962973,
+          "high": 0.1914980812935434,
+          "probability_a_better": 0.7462
+        },
+        "end_f1": {
+          "point": -0.24117022531555965,
+          "low": -0.4403084539223154,
+          "high": -0.09701656648585255,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid__minus__hybrid_qgated": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.353186939715437,
+          "low": -0.50682261208577,
+          "high": -0.1903302353173818,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.23815439219165924,
+          "low": -0.38244766505636063,
+          "high": -0.11750290892422699,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid__minus__hybrid_xqgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.4239288008074136,
+          "low": -0.631602016217401,
+          "high": -0.2308305435995538,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.26429161259879674,
+          "low": -0.462962962962963,
+          "high": -0.12341835527154232,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid__minus__ollama_gemma4-26b-mlx": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.19271492797504353,
+          "low": -0.48677248677248686,
+          "high": 0.010755946068777389,
+          "probability_a_better": 0.0258
+        },
+        "end_f1": {
+          "point": -0.12578849721706853,
+          "low": -0.3695652173913043,
+          "high": 0.03952569169960485,
+          "probability_a_better": 0.091
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.44126984126984126,
+          "low": -0.668639053254438,
+          "high": -0.24390243902439035,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.2816326530612244,
+          "low": -0.5,
+          "high": -0.13649025069637888,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.011560347409404037,
+          "low": -0.004995004995005048,
+          "high": 0.03443779720816087,
+          "probability_a_better": 0.8996
+        },
+        "end_f1": {
+          "point": 0.022367346938775512,
+          "low": 0.0050968399592252744,
+          "high": 0.04107142857142865,
+          "probability_a_better": 0.995
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_all__minus__hybrid_gcgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.35979544624375975,
+          "low": -0.5136154168412232,
+          "high": -0.2532843737250102,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.014393690437068507,
+          "low": -0.02460423421705138,
+          "high": 0.0012315270935960854,
+          "probability_a_better": 0.0552
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_all__minus__hybrid_mgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.0582117579084212,
+          "low": -0.10994152046783634,
+          "high": -0.00774060376709379,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.055802796452355974,
+          "low": -0.07161823674224099,
+          "high": -0.031225604996096834,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_all__minus__hybrid_mgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.007150295036445653,
+          "low": -0.015966263067422548,
+          "high": 0.007593924860111956,
+          "probability_a_better": 0.1914
+        },
+        "end_f1": {
+          "point": -0.02099008622081555,
+          "low": -0.030241935483870885,
+          "high": 0.0024009603841536054,
+          "probability_a_better": 0.058
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_all__minus__hybrid_qgated": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.4235450054223399,
+          "low": -0.4509654471544715,
+          "high": -0.3982456140350876,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.017974253096915138,
+          "low": -0.06041850869437082,
+          "high": 0.056858564321250915,
+          "probability_a_better": 0.2854
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_all__minus__hybrid_xqgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.49428686651431647,
+          "low": -0.5759068517689208,
+          "high": -0.42288329519450796,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.044111473504052645,
+          "low": -0.06149574798329793,
+          "high": -0.006859756097560954,
+          "probability_a_better": 0.0038
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_all__minus__ollama_gemma4-26b-mlx": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.2630729936819464,
+          "low": -0.391123439667129,
+          "high": -0.181184668989547,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": 0.09439164187767557,
+          "low": 0.01619368286034939,
+          "high": 0.3383152173913043,
+          "probability_a_better": 0.9958
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_all__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.5116279069767442,
+          "low": -0.6103896103896104,
+          "high": -0.43157894736842106,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.06145251396648033,
+          "low": -0.07438016528925617,
+          "high": -0.03448275862068961,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_all__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.05879771829749886,
+          "low": -0.19059927896061496,
+          "high": 0.11046386192017271,
+          "probability_a_better": 0.2262
+        },
+        "end_f1": {
+          "point": 0.2425474860335196,
+          "low": 0.09435679090768623,
+          "high": 0.4477844001036538,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_gcgo__minus__hybrid_mgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.30158368833533855,
+          "low": 0.14334285325717389,
+          "high": 0.5058748130741295,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": -0.04140910601528747,
+          "low": -0.0535714285714286,
+          "high": -0.012244897959183598,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_gcgo__minus__hybrid_mgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.3526451512073141,
+          "low": 0.23792164257280535,
+          "high": 0.5165591397849463,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": -0.006596395783747044,
+          "low": -0.021719858156028282,
+          "high": 0.019557823129251695,
+          "probability_a_better": 0.1792
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_gcgo__minus__hybrid_qgated": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.06374955917858016,
+          "low": -0.1449612403100774,
+          "high": 0.08130799823243473,
+          "probability_a_better": 0.21
+        },
+        "end_f1": {
+          "point": -0.003580562659846631,
+          "low": -0.045024420024420087,
+          "high": 0.06999485331960897,
+          "probability_a_better": 0.462
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_gcgo__minus__hybrid_xqgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.13449142027055672,
+          "low": -0.16959892146949773,
+          "high": -0.06229143492769751,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.029717783066984138,
+          "low": -0.0448757763975155,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_gcgo__minus__ollama_gemma4-26b-mlx": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.09672245256181333,
+          "low": 0.02646939476230603,
+          "high": 0.3063395891827989,
+          "probability_a_better": 0.9968
+        },
+        "end_f1": {
+          "point": 0.10878533231474408,
+          "low": 0.027289166529672837,
+          "high": 0.33677833214540265,
+          "probability_a_better": 0.9968
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_gcgo__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.1518324607329844,
+          "low": -0.17829457364341084,
+          "high": -0.09615384615384615,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.04705882352941182,
+          "low": -0.05479452054794531,
+          "high": -0.032786885245901676,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_gcgo__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.3009977279462609,
+          "low": 0.09032788570253891,
+          "high": 0.5789473684210527,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.2569411764705881,
+          "low": 0.11108715184186879,
+          "high": 0.4695708924783815,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgc__minus__hybrid_mgo": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.05106146287197555,
+          "low": 0.009738141832075331,
+          "high": 0.09457878931563146,
+          "probability_a_better": 0.9966
+        },
+        "end_f1": {
+          "point": 0.03481271023154042,
+          "low": 0.008000000000000118,
+          "high": 0.04424778761061954,
+          "probability_a_better": 0.9966
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgc__minus__hybrid_qgated": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.3653332475139187,
+          "low": -0.44031647746818026,
+          "high": -0.2883040935672513,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": 0.037828543355440836,
+          "low": 0.008547008547008517,
+          "high": 0.08808416931734775,
+          "probability_a_better": 0.9966
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgc__minus__hybrid_xqgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.43607510860589527,
+          "low": -0.568166248001827,
+          "high": -0.3129417747266716,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": 0.011691322948303329,
+          "low": 0.0008003201280512018,
+          "high": 0.024390243902439046,
+          "probability_a_better": 0.9954
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgc__minus__ollama_gemma4-26b-mlx": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.20486123577352522,
+          "low": -0.3673809343529946,
+          "high": -0.09983650467874916,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": 0.15019443833003154,
+          "low": 0.06734867860187543,
+          "high": 0.3695652173913043,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgc__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.45341614906832295,
+          "low": -0.6026490066225165,
+          "high": -0.3216374269005847,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.005649717514124353,
+          "low": -0.026086956521739202,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgc__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.0005859603890776555,
+          "low": -0.12350216863927088,
+          "high": 0.14949494949494957,
+          "probability_a_better": 0.4572
+        },
+        "end_f1": {
+          "point": 0.2983502824858756,
+          "low": 0.16442048517520214,
+          "high": 0.4805209729936793,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgo__minus__hybrid_qgated": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.41639471038589426,
+          "low": -0.44723360655737704,
+          "high": -0.38288288288288275,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": 0.0030158331239004132,
+          "low": -0.03570077906361102,
+          "high": 0.07114427860696526,
+          "probability_a_better": 0.5382
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgo__minus__hybrid_xqgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.4871365714778708,
+          "low": -0.5788505747126438,
+          "high": -0.4075205640423031,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.023121387283237094,
+          "low": -0.04081632653061218,
+          "high": 0.016390243902438928,
+          "probability_a_better": 0.1184
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgo__minus__ollama_gemma4-26b-mlx": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.25592269864550077,
+          "low": -0.39714285714285713,
+          "high": -0.18012422360248442,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": 0.11538172809849112,
+          "low": 0.025732031943212053,
+          "high": 0.3615652173913042,
+          "probability_a_better": 0.9952
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgo__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.5044776119402985,
+          "low": -0.6133333333333333,
+          "high": -0.4085603112840467,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.040462427745664775,
+          "low": -0.061224489795918324,
+          "high": -0.015625,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_mgo__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.051647423261053205,
+          "low": -0.17788629229159403,
+          "high": 0.10444444444444456,
+          "probability_a_better": 0.244
+        },
+        "end_f1": {
+          "point": 0.26353757225433516,
+          "low": 0.12494680096467581,
+          "high": 0.4530365009439899,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_qgated__minus__hybrid_xqgc": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.07074186109197655,
+          "low": -0.14359943316013224,
+          "high": -0.024637681159420333,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.026137220407137507,
+          "low": -0.07496012759170656,
+          "high": 0.00014864362690458766,
+          "probability_a_better": 0.0608
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_qgated__minus__ollama_gemma4-26b-mlx": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.1604720117403935,
+          "low": 0.020050125313283096,
+          "high": 0.2651727357609711,
+          "probability_a_better": 0.979
+        },
+        "end_f1": {
+          "point": 0.11236589497459071,
+          "low": 0.012882447665056307,
+          "high": 0.2991057662658032,
+          "probability_a_better": 0.9958
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_qgated__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.08808290155440424,
+          "low": -0.17808219178082185,
+          "high": -0.03333333333333344,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.04347826086956519,
+          "low": -0.10526315789473684,
+          "high": -0.008547008547008517,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_qgated__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.36474728712484106,
+          "low": 0.22391469916222384,
+          "high": 0.5216374269005848,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.26052173913043475,
+          "low": 0.15066239018268024,
+          "high": 0.40979689366786143,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_xqgc__minus__ollama_gemma4-26b-mlx": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.23121387283237005,
+          "low": 0.12244897959183665,
+          "high": 0.3963133640552996,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.13850311538172821,
+          "low": 0.06654835847382423,
+          "high": 0.3451749734888653,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_xqgc__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.01734104046242768,
+          "low": -0.03448275862068961,
+          "high": -0.008695652173913104,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.01734104046242768,
+          "low": -0.03448275862068961,
+          "high": -0.008695652173913104,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "hybrid_xqgc__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.4354891482168176,
+          "low": 0.25406758448060085,
+          "high": 0.6296296296296297,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.28665895953757226,
+          "low": 0.15134858975036558,
+          "high": 0.4695708924783815,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "ollama_gemma4-26b-mlx__minus__oracle_gold": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": -0.24855491329479773,
+          "low": -0.4257425742574258,
+          "high": -0.1428571428571428,
+          "probability_a_better": 0.0
+        },
+        "end_f1": {
+          "point": -0.1558441558441559,
+          "low": -0.3695652173913043,
+          "high": -0.07792207792207784,
+          "probability_a_better": 0.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "ollama_gemma4-26b-mlx__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.20427527538444756,
+          "low": 0.015846445709184254,
+          "high": 0.5015873015873017,
+          "probability_a_better": 0.9948
+        },
+        "end_f1": {
+          "point": 0.14815584415584404,
+          "low": -0.027591085956844785,
+          "high": 0.3969144460028051,
+          "probability_a_better": 0.9502
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    },
+    "oracle_gold__minus__quid_2.6.7_hp128_s0p85_m5_c100000": {
+      "shared_articles": 4,
+      "differences": {
+        "det_f1": {
+          "point": 0.4528301886792453,
+          "low": 0.2671394799054374,
+          "high": 0.6666666666666666,
+          "probability_a_better": 1.0
+        },
+        "end_f1": {
+          "point": 0.30399999999999994,
+          "low": 0.16442048517520214,
+          "high": 0.5066079295154184,
+          "probability_a_better": 1.0
+        },
+        "section_acc": {
+          "point": 0.0,
+          "low": 0.0,
+          "high": 0.0,
+          "probability_a_better": 0.0
+        }
+      }
+    }
+  }
+}

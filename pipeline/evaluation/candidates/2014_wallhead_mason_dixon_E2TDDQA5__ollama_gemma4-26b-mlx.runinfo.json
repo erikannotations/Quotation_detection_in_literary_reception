@@ -1,0 +1,14 @@
+{
+  "attempts": [
+    {
+      "done_reason": "stop",
+      "prompt_eval_count": 15348,
+      "eval_count": 910,
+      "content_chars": 0,
+      "n_tool_calls": 1,
+      "tools_enabled": true,
+      "accepted_via": "tool_call"
+    }
+  ],
+  "raw_response_file": "2014_wallhead_mason_dixon_E2TDDQA5__ollama_gemma4-26b-mlx.rawresponse.txt"
+}

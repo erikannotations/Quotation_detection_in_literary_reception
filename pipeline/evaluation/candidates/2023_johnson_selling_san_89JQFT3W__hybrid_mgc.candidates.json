@@ -1,0 +1,1351 @@
+[
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0001",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3385,
+  "article_end_char": 3429,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0001"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0002",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3813,
+  "article_end_char": 3885,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0002"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0003",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 4365,
+  "article_end_char": 4406,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0003"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0004",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 6571,
+  "article_end_char": 6707,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0004"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0005",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7050,
+  "article_end_char": 7105,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0005"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0006",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7884,
+  "article_end_char": 7943,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0006",
+   "2023-01"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0007",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8263,
+  "article_end_char": 8539,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0007"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0008",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14365,
+  "article_end_char": 14402,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0008",
+   "2023-02"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0009",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14421,
+  "article_end_char": 14552,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0009",
+   "2023-03"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0010",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14670,
+  "article_end_char": 14740,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0010",
+   "2023-04"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0011",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14879,
+  "article_end_char": 14929,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0011",
+   "2023-05"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0012",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17876,
+  "article_end_char": 17933,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0012",
+   "2023-06"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0013",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 17964,
+  "article_end_char": 18049,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0013",
+   "2023-07"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0014",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 19618,
+  "article_end_char": 19691,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0014",
+   "2023-08"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0015",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21719,
+  "article_end_char": 21881,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0015",
+   "2023-09"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0016",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22937,
+  "article_end_char": 23056,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0016",
+   "2023-10"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0017",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23706,
+  "article_end_char": 23820,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0017",
+   "2023-11"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0018",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24563,
+  "article_end_char": 24629,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0018"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0019",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24806,
+  "article_end_char": 24970,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0019"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0020",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24992,
+  "article_end_char": 25031,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0020"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0021",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25112,
+  "article_end_char": 25174,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0021"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0022",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25327,
+  "article_end_char": 25447,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0022"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0023",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26049,
+  "article_end_char": 26132,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0023"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0024",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26985,
+  "article_end_char": 27073,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0024"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0025",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27768,
+  "article_end_char": 27807,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0025",
+   "2023-14"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0026",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28253,
+  "article_end_char": 28375,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0026",
+   "2023-12"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0027",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 29100,
+  "article_end_char": 29211,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0027",
+   "2023-13"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0028",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30323,
+  "article_end_char": 30438,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0028"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0029",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30449,
+  "article_end_char": 30550,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0029"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0030",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31016,
+  "article_end_char": 31052,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0030"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0031",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31723,
+  "article_end_char": 31794,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0031"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0032",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35104,
+  "article_end_char": 35358,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0032"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0033",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35781,
+  "article_end_char": 35853,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0033"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0034",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36456,
+  "article_end_char": 36498,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0034"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0035",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36544,
+  "article_end_char": 36744,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0035"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0036",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36771,
+  "article_end_char": 36934,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0036"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0037",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 37912,
+  "article_end_char": 38020,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0037"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0038",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39536,
+  "article_end_char": 39701,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0038"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0039",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40137,
+  "article_end_char": 40233,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0039"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0040",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 41575,
+  "article_end_char": 41631,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0040",
+   "2023-15"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0041",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42545,
+  "article_end_char": 42576,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0041",
+   "2023-16"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0042",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44892,
+  "article_end_char": 44951,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0042",
+   "2023-17"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0043",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46302,
+  "article_end_char": 46414,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0043",
+   "2023-18"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0044",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 48126,
+  "article_end_char": 48285,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0044",
+   "2023-19"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0045",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 51191,
+  "article_end_char": 51403,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0045"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0046",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 52954,
+  "article_end_char": 53056,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0046"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0047",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 53066,
+  "article_end_char": 53144,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0047"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0048",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span | The Crying of Lot 49",
+  "attributed_work": "The Crying of Lot 49",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56093,
+  "article_end_char": 56143,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0048",
+   "2023-20"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0049",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 57581,
+  "article_end_char": 57792,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0049"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0050",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 57860,
+  "article_end_char": 57937,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0050"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0051",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 58323,
+  "article_end_char": 58469,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0051"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0052",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 58582,
+  "article_end_char": 58692,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0052"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0053",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59366,
+  "article_end_char": 59410,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0053"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0054",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59489,
+  "article_end_char": 59578,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0054"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0055",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 60257,
+  "article_end_char": 60939,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0055"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0056",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 61167,
+  "article_end_char": 61222,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0056"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0057",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62230,
+  "article_end_char": 62271,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0057"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0058",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62313,
+  "article_end_char": 62379,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0058"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0059",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62666,
+  "article_end_char": 62704,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0059"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0060",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62782,
+  "article_end_char": 62906,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0060"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0061",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63268,
+  "article_end_char": 63323,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0061"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0062",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63596,
+  "article_end_char": 63642,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0062"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0063",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 63745,
+  "article_end_char": 63806,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0063"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0064",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64041,
+  "article_end_char": 64120,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0064"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0065",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64182,
+  "article_end_char": 64269,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0065"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0066",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64369,
+  "article_end_char": 64438,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0066"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0067",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 64866,
+  "article_end_char": 64892,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0067"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0068",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65016,
+  "article_end_char": 65094,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0068"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0069",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65303,
+  "article_end_char": 65369,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0069"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0070",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65670,
+  "article_end_char": 65735,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0070"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0071",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 65850,
+  "article_end_char": 65914,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0071"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0072",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66042,
+  "article_end_char": 66078,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0072"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0073",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66533,
+  "article_end_char": 66576,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0073"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0074",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 66863,
+  "article_end_char": 66919,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0074"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0075",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 67372,
+  "article_end_char": 67456,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0075"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0076",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 67558,
+  "article_end_char": 67599,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0076"
+  ]
+ },
+ {
+  "id": "2023_johnson_selling_san_89JQFT3W-hybrid_mgc-0077",
+  "article": "2023_johnson_selling_san_89JQFT3W",
+  "model_tag": "hybrid_mgc",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 67816,
+  "article_end_char": 67860,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2023_johnson_selling_san_89JQFT3W-mq-0077"
+  ]
+ }
+]

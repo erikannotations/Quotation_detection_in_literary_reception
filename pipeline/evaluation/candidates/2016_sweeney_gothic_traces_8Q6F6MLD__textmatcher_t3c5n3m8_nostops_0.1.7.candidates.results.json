@@ -1,0 +1,58 @@
+[
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-tm-0001",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-tm-0002",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-tm-0003",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 6",
+  "section_n": 6,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2016_sweeney_gothic_traces_8Q6F6MLD-tm-0004",
+  "detector_guess": "P09",
+  "confirmed_pynchon_fiction": true,
+  "novel": "Bleeding Edge",
+  "pid": "P09",
+  "section": "Chapter 20",
+  "section_n": 20,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P09",
+  "n_near_locations": 1
+ }
+]

@@ -1,0 +1,1384 @@
+[
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0001",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 5490,
+  "article_end_char": 5538,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0001"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0002",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P06|P07|P08 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7109,
+  "article_end_char": 7209,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0010",
+   "2017-01"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0003",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7115,
+  "article_end_char": 7210,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0002",
+   "2017-01",
+   "2017-01"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0004",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "170",
+  "confidence": "hybrid",
+  "article_start_char": 7136,
+  "article_end_char": 7175,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-13"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0005",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P06|P07|P10 | unclassified marked span | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7224,
+  "article_end_char": 7334,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0011",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0003",
+   "2017-02",
+   "2017-02"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0006",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07 | unclassified marked span | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7481,
+  "article_end_char": 7527,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0012",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0004",
+   "2017-03",
+   "2017-03"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0007",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Against the Day | P07",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7924,
+  "article_end_char": 8295,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0005",
+   "2017-04",
+   "2017-04",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0015"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0008",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8232,
+  "article_end_char": 8295,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0016"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0009",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07|P09|P10 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8387,
+  "article_end_char": 8419,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0006",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0017",
+   "2017-05",
+   "2017-05"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0010",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 8475,
+  "article_end_char": 8538,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0007",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0018",
+   "2017-06",
+   "2017-06"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0011",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "",
+  "attributed_work": "AtD",
+  "attributed_page": "334",
+  "confidence": "hybrid",
+  "article_start_char": 8820,
+  "article_end_char": 8845,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017-07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0012",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9072,
+  "article_end_char": 9523,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017-08",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0009",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0020",
+   "2017-08"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0013",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9072,
+  "article_end_char": 9094,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0008",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0019",
+   "2017-07"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0014",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "",
+  "attributed_work": "AtD",
+  "attributed_page": "1000–01",
+  "confidence": "hybrid",
+  "article_start_char": 9554,
+  "article_end_char": 9590,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017-09"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0015",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10180,
+  "article_end_char": 10223,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0010",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0022",
+   "2017-09",
+   "2017-10"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0016",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10567,
+  "article_end_char": 10606,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0011"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0017",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10681,
+  "article_end_char": 10731,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0012"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0018",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11075,
+  "article_end_char": 11095,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0013"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0019",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11105,
+  "article_end_char": 11132,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0024"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0020",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11123,
+  "article_end_char": 11286,
+  "proposed_by": [
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0014",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0025"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0021",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Against the Day | P04|P07|P09|P10",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12674,
+  "article_end_char": 12754,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0015",
+   "2017-10",
+   "2017-11",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0028"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0022",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 12674,
+  "article_end_char": 12698,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0027"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0023",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 13799,
+  "article_end_char": 13892,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0016"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0024",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "",
+  "attributed_work": "AtD",
+  "attributed_page": "1001",
+  "confidence": "hybrid",
+  "article_start_char": 14027,
+  "article_end_char": 14047,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017-15"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0025",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14101,
+  "article_end_char": 14167,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0017",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0030",
+   "2017-11",
+   "2017-12"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0026",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Against the Day | P07",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14214,
+  "article_end_char": 14347,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0018",
+   "2017-12",
+   "2017-13",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0032"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0027",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14214,
+  "article_end_char": 14254,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0031"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0028",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 14593,
+  "article_end_char": 14949,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0019"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0029",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15271,
+  "article_end_char": 15311,
+  "proposed_by": [
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0020",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0033"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0030",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15341,
+  "article_end_char": 15362,
+  "proposed_by": [
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0021",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0034"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0031",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18537,
+  "article_end_char": 18578,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0022",
+   "2017-15",
+   "2017-14"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0032",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21287,
+  "article_end_char": 21384,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0023"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0033",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21511,
+  "article_end_char": 21749,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0024"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0034",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21923,
+  "article_end_char": 21988,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0025",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0036",
+   "2017-16",
+   "2017-16"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0035",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 23429,
+  "article_end_char": 23459,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0026"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0036",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "",
+  "attributed_work": "AtD",
+  "attributed_page": "933",
+  "confidence": "hybrid",
+  "article_start_char": 24024,
+  "article_end_char": 24150,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017-17"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0037",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24024,
+  "article_end_char": 24058,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0027",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0038",
+   "2017-17"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0038",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24089,
+  "article_end_char": 24150,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0028",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0039",
+   "2017-18"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0039",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24169,
+  "article_end_char": 24237,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0029",
+   "2017-19"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0040",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24169,
+  "article_end_char": 24192,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0040"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0041",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07|P08 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24256,
+  "article_end_char": 24325,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0030",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0041",
+   "2017-20",
+   "2017-18"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0042",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24863,
+  "article_end_char": 25075,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0031",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0042",
+   "2017-21",
+   "2017-19"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0043",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "",
+  "attributed_work": "AtD",
+  "attributed_page": "1076",
+  "confidence": "hybrid",
+  "article_start_char": 27682,
+  "article_end_char": 27698,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017-20"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0044",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07 | unclassified marked span | Against the Day",
+  "attributed_work": "AtD | Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31265,
+  "article_end_char": 31376,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0051",
+   "2017-21",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0033",
+   "2017-23"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0045",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31265,
+  "article_end_char": 31290,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0032",
+   "2017-22"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0046",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "",
+  "attributed_work": "AtD",
+  "attributed_page": "1084",
+  "confidence": "hybrid",
+  "article_start_char": 31603,
+  "article_end_char": 31672,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017-22"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0047",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "",
+  "attributed_work": "AtD",
+  "attributed_page": "1085",
+  "confidence": "hybrid",
+  "article_start_char": 33000,
+  "article_end_char": 33021,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017-23"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0048",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34301,
+  "article_end_char": 34361,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0034"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0049",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38785,
+  "article_end_char": 38815,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0035",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0068",
+   "2017-24",
+   "2017-24"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0050",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07 | unclassified marked span | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38990,
+  "article_end_char": 39082,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0069",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0036",
+   "2017-25",
+   "2017-25"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0051",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "",
+  "attributed_work": "AtD",
+  "attributed_page": "942",
+  "confidence": "hybrid",
+  "article_start_char": 39784,
+  "article_end_char": 39930,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017-26"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0052",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39784,
+  "article_end_char": 39847,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0037",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0070",
+   "2017-26"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0053",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07 | unclassified marked span | Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 39870,
+  "article_end_char": 39930,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0071",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0038",
+   "2017-27"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0054",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40062,
+  "article_end_char": 40157,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0072",
+   "2017-27"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0055",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40062,
+  "article_end_char": 40109,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0039"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0056",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 40122,
+  "article_end_char": 40157,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0040"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0057",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "",
+  "attributed_work": "AD",
+  "attributed_page": "924",
+  "confidence": "hybrid",
+  "article_start_char": 40451,
+  "article_end_char": 40545,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2017-28"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0058",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43209,
+  "article_end_char": 43327,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0041",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0079",
+   "2017-29",
+   "2017-29"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0059",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 43856,
+  "article_end_char": 43946,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0042"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0060",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 46556,
+  "article_end_char": 46783,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0043"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0061",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47346,
+  "article_end_char": 47627,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0044"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0062",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 47503,
+  "article_end_char": 47524,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0082"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0063",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50322,
+  "article_end_char": 50754,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0045"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0064",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50581,
+  "article_end_char": 50608,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0085"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0065",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P07|P09 | unclassified marked span | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54054,
+  "article_end_char": 54178,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0088",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0046",
+   "2017-30",
+   "2017-30"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0066",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P07 | Against the Day",
+  "attributed_work": "Against the Day | AtD",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 54354,
+  "article_end_char": 54401,
+  "proposed_by": [
+   "anthropic_claude-fable-5",
+   "heuristic_marked",
+   "ollama_gemma4-26b-mlx",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0047",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0089",
+   "2017-31",
+   "2017-31"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0067",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55195,
+  "article_end_char": 55332,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0048"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0068",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55297,
+  "article_end_char": 55326,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0091"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0069",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55404,
+  "article_end_char": 55493,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0049"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0070",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 55510,
+  "article_end_char": 55551,
+  "proposed_by": [
+   "heuristic_marked"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0050"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0071",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "unclassified marked span | P02|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 60058,
+  "article_end_char": 60093,
+  "proposed_by": [
+   "heuristic_marked",
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-mq-0051",
+   "2017_palmeri_plutocratic_dystopia_9RSYBDHU-quid-0094"
+  ]
+ },
+ {
+  "id": "2017_palmeri_plutocratic_dystopia_9RSYBDHU-hybrid_all-0072",
+  "article": "2017_palmeri_plutocratic_dystopia_9RSYBDHU",
+  "model_tag": "hybrid_all",
+  "detector_guess": "Against the Day",
+  "attributed_work": "Against the Day",
+  "attributed_page": "942",
+  "confidence": "hybrid",
+  "article_start_char": null,
+  "article_end_char": null,
+  "proposed_by": [
+   "anthropic_claude-fable-5"
+  ],
+  "hybrid_member_ids": [
+   "2017-28"
+  ]
+ }
+]

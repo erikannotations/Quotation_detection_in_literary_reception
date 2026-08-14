@@ -1,0 +1,40 @@
+{
+  "tool": "Quid",
+  "settings": {
+    "min_match_length": 5,
+    "hash_permutations": 128,
+    "token_similarity": 0.85
+  },
+  "source_chunk_chars": 100000,
+  "pids": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10"
+  ],
+  "wall_seconds_total": 763.06,
+  "wall_seconds_by_pid": {
+    "P01": 24.01,
+    "P02": 71.36,
+    "P03": 19.7,
+    "P04": 137.79,
+    "P05": 57.41,
+    "P06": 107.09,
+    "P07": 188.0,
+    "P08": 50.83,
+    "P09": 62.83,
+    "P10": 44.03
+  },
+  "peak_rss_mb_self": 68.4,
+  "peak_rss_mb_largest_child": 149.6,
+  "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+  "articles": [
+    "2012_eve_whose_line_YT54NC7G"
+  ]
+}

@@ -1,0 +1,532 @@
+[
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0001",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "191",
+  "confidence": "hybrid",
+  "article_start_char": 17124,
+  "article_end_char": 17138,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-02"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0002",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18395,
+  "article_end_char": 18448,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0001"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0003",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18490,
+  "article_end_char": 18521,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0002"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0004",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21934,
+  "article_end_char": 22048,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0003"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0005",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28112,
+  "article_end_char": 28144,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0004"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0006",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "363–64",
+  "confidence": "hybrid",
+  "article_start_char": 30280,
+  "article_end_char": 30753,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-03"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0007",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30281,
+  "article_end_char": 30384,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0005"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0008",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30391,
+  "article_end_char": 30676,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0006"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0009",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30687,
+  "article_end_char": 30738,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0007"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0010",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "7",
+  "confidence": "hybrid",
+  "article_start_char": 33910,
+  "article_end_char": 34176,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-04"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0011",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "6",
+  "confidence": "hybrid",
+  "article_start_char": 38608,
+  "article_end_char": 38732,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-05"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0012",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42210,
+  "article_end_char": 42228,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0008"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0013",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "108",
+  "confidence": "hybrid",
+  "article_start_char": 45360,
+  "article_end_char": 45385,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-06"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0014",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "7",
+  "confidence": "hybrid",
+  "article_start_char": 47488,
+  "article_end_char": 47503,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-07"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0015",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 58634,
+  "article_end_char": 58764,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0009"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0016",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "332–33",
+  "confidence": "hybrid",
+  "article_start_char": 59198,
+  "article_end_char": 59293,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-13"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0017",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "332",
+  "confidence": "hybrid",
+  "article_start_char": 59936,
+  "article_end_char": 59983,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-14"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0018",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 67841,
+  "article_end_char": 67903,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0010"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0019",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 78330,
+  "article_end_char": 78349,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0011"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0020",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "254",
+  "confidence": "hybrid",
+  "article_start_char": 82037,
+  "article_end_char": 82084,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-08"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0021",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "333",
+  "confidence": "hybrid",
+  "article_start_char": 82416,
+  "article_end_char": 82451,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-09",
+   "2019-19"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0022",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "436–37",
+  "confidence": "hybrid",
+  "article_start_char": 82849,
+  "article_end_char": 82897,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-10"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0023",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "712",
+  "confidence": "hybrid",
+  "article_start_char": 83116,
+  "article_end_char": 83166,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-12"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0024",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "222",
+  "confidence": "hybrid",
+  "article_start_char": 84972,
+  "article_end_char": 84992,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-15"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0025",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "43",
+  "confidence": "hybrid",
+  "article_start_char": 89114,
+  "article_end_char": 89148,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-16"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0026",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "282",
+  "confidence": "hybrid",
+  "article_start_char": 90675,
+  "article_end_char": 90693,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-17"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0027",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Bleeding Edge",
+  "attributed_page": "15–16",
+  "confidence": "hybrid",
+  "article_start_char": 92774,
+  "article_end_char": 92782,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-18"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0028",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 97990,
+  "article_end_char": 98125,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0012"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0029",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 98239,
+  "article_end_char": 98331,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0013"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0030",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "",
+  "attributed_work": "Gravity's Rainbow",
+  "attributed_page": "440",
+  "confidence": "hybrid",
+  "article_start_char": 98372,
+  "article_end_char": 98604,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx"
+  ],
+  "hybrid_member_ids": [
+   "2019-01"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_tgo-0031",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_tgo",
+  "detector_guess": "P07",
+  "attributed_work": "Against the Day",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 130777,
+  "article_end_char": 130842,
+  "proposed_by": [
+   "ollama_gemma4-26b-mlx",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0014",
+   "2019-11"
+  ]
+ }
+]

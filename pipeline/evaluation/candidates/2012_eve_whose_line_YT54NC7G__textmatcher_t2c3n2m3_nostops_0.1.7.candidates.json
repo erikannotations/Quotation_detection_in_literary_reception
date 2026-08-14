@@ -1,0 +1,86 @@
+[
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-tm-0001",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17448,
+  "article_end_char": 17795,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-tm-0002",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 20807,
+  "article_end_char": 20987,
+  "textmatcher_candidate_pids": [
+   "P05"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-tm-0003",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29622,
+  "article_end_char": 30390,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-tm-0004",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 38318,
+  "article_end_char": 38446,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-tm-0005",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 39824,
+  "article_end_char": 39913,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2012_eve_whose_line_YT54NC7G-tm-0006",
+  "article": "2012_eve_whose_line_YT54NC7G",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 42478,
+  "article_end_char": 42528,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ }
+]

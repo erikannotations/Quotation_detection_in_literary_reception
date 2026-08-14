@@ -1,0 +1,115 @@
+[
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0001",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 10299,
+  "article_end_char": 11062,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0002",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15650,
+  "article_end_char": 15703,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0003",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 17978,
+  "article_end_char": 18002,
+  "textmatcher_candidate_pids": [
+   "P04"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0004",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 27043,
+  "article_end_char": 27799,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0005",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29008,
+  "article_end_char": 29041,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0006",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29231,
+  "article_end_char": 29388,
+  "textmatcher_candidate_pids": [
+   "P05",
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0007",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 29440,
+  "article_end_char": 29747,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ },
+ {
+  "id": "2014_maragos_every_they_9VU7EIQJ-tm-0008",
+  "article": "2014_maragos_every_they_9VU7EIQJ",
+  "model_tag": "textmatcher_t2c3n2m3_nostops_0.1.7",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 33038,
+  "article_end_char": 33246,
+  "textmatcher_candidate_pids": [
+   "P07"
+  ]
+ }
+]

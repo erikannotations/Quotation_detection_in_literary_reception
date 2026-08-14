@@ -1,0 +1,14 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0001,,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,3
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0002,P04,True,Gravity's Rainbow,P04,Episode 40,40,Part 3: In the Zone,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0003,P05,True,Vineland,P05,Chapter 8,8,,1.0,False,P05,1
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0004,,True,Vineland,P05,Chapter 3,3,,0.987,False,P05,2
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0005,,True,Vineland,P05,Chapter 10,10,,1.0,False,P05,1
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0006,P04,True,Gravity's Rainbow,P04,Episode 49,49,Part 3: In the Zone,0.999,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0007,,True,Gravity's Rainbow,P04,Episode 73,73,Part 4: The Counterforce,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0008,P04,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,0.959,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0009,P04,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,0.967,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0010,,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0011,P07,False,,,,,,,False,,0
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0012,,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_tgo-0013,,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,0.964,False,P04,1

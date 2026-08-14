@@ -1,0 +1,5 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2015_martinson_hyperobject_s_7IIYT69Y-tm-0001,P04,True,Gravity's Rainbow,P04,Episode 32,32,Part 3: In the Zone,1.0,False,P04,1
+2015_martinson_hyperobject_s_7IIYT69Y-tm-0002,P04,True,Gravity's Rainbow,P04,Episode 46,46,Part 3: In the Zone,0.973,False,P04,1
+2015_martinson_hyperobject_s_7IIYT69Y-tm-0003,P04,True,Gravity's Rainbow,P04,Episode 49,49,Part 3: In the Zone,1.0,False,P04,2
+2015_martinson_hyperobject_s_7IIYT69Y-tm-0004,P04,True,Gravity's Rainbow,P04,Episode 73,73,Part 4: The Counterforce,1.0,False,P04,1

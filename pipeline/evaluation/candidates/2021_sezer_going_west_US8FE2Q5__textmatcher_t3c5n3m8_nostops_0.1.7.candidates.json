@@ -1,0 +1,254 @@
+[
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0001",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7022,
+  "article_end_char": 7186,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0002",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7385,
+  "article_end_char": 7616,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0003",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 7778,
+  "article_end_char": 7861,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0004",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13189,
+  "article_end_char": 13308,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0005",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 13970,
+  "article_end_char": 14147,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0006",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14707,
+  "article_end_char": 14784,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0007",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 14871,
+  "article_end_char": 15070,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0008",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 15129,
+  "article_end_char": 15437,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0009",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16264,
+  "article_end_char": 16665,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0010",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 16977,
+  "article_end_char": 17087,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0011",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 33345,
+  "article_end_char": 33446,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0012",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 40993,
+  "article_end_char": 41425,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0013",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 41614,
+  "article_end_char": 42018,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0014",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 44515,
+  "article_end_char": 44635,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0015",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 44692,
+  "article_end_char": 45200,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0016",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 48978,
+  "article_end_char": 49213,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0017",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 49479,
+  "article_end_char": 49866,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ },
+ {
+  "id": "2021_sezer_going_west_US8FE2Q5-tm-0018",
+  "article": "2021_sezer_going_west_US8FE2Q5",
+  "model_tag": "textmatcher_t3c5n3m8_nostops_0.1.7",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "baseline",
+  "article_start_char": 51190,
+  "article_end_char": 51248,
+  "textmatcher_candidate_pids": [
+   "P06"
+  ]
+ }
+]

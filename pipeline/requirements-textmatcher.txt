@@ -1,0 +1,11 @@
+# Reeve's text-matcher, pinned to the GitHub master commit the middlemarch-critical-
+# histories notebooks call. PyPI's newest release (0.1.6, 2020) predates the
+# `minDistance` and `silent` constructor arguments that those notebooks pass, so the
+# release cannot reproduce the project's own evaluation configuration; master declares
+# itself 0.1.7 but was never released. Pinned by commit, not by branch.
+#
+# Install into a dedicated venv, then fetch the NLTK stopword corpus:
+#   python3 -m venv .venv-textmatcher
+#   .venv-textmatcher/bin/python -m pip install -r requirements-textmatcher.txt
+#   .venv-textmatcher/bin/python -c "import nltk; nltk.download('stopwords')"
+text-matcher @ git+https://github.com/JonathanReeve/text-matcher.git@81e39364705b85d61fc8d6275e1a6349f9dff689

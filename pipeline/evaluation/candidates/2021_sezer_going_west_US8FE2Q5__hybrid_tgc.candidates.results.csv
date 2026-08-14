@@ -1,0 +1,80 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0001,Mason & Dixon,True,Mason & Dixon,P06,Chapter 21,21,Part 1: Latitudes and Departures,1.0,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0002,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 2,2,Part 1: Latitudes and Departures,0.978,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0003,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 2,2,Part 1: Latitudes and Departures,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0004,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,0.996,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0005,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 3,3,Part 1: Latitudes and Departures,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0006,Mason & Dixon,True,Mason & Dixon,P06,Chapter 32,32,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0007,Mason & Dixon,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0008,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0009,Mason & Dixon,True,Mason & Dixon,P06,Chapter 30,30,Part 2: America,1.0,False,P06,4
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0010,Mason & Dixon,True,Mason & Dixon,P06,Chapter 30,30,Part 2: America,1.0,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0011,P06,True,Mason & Dixon,P06,Chapter 30,30,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0012,P06,True,Mason & Dixon,P06,Chapter 30,30,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0013,Mason & Dixon,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.978,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0014,P06,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.874,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0015,Mason & Dixon,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0016,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0017,Mason & Dixon,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,4
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0018,P06,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0019,P06,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0020,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0021,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.829,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0022,Mason & Dixon,True,Mason & Dixon,P06,Chapter 48,48,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0023,Mason & Dixon,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0024,Mason & Dixon,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.962,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0025,Mason & Dixon,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0026,Mason & Dixon,True,Mason & Dixon,P06,Chapter 32,32,Part 2: America,1.0,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0027,Mason & Dixon,False,,,,,,,False,,0
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0028,Mason & Dixon,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0029,Mason & Dixon,True,Mason & Dixon,P06,Chapter 46,46,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0030,Mason & Dixon,True,Mason & Dixon,P06,Chapter 52,52,Part 2: America,0.989,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0031,Mason & Dixon,False,,,,,,0.692,False,,0
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0032,Mason & Dixon,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0033,P07,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0034,Mason & Dixon,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,0.981,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0035,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0036,Mason & Dixon,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0037,Mason & Dixon,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,0.982,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0038,Mason & Dixon,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0039,Mason & Dixon,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,0.992,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0040,Mason & Dixon,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0041,Mason & Dixon,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.957,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0042,Mason & Dixon,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,0.995,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0043,Mason & Dixon,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0044,Mason & Dixon,True,Mason & Dixon,P06,Chapter 33,33,Part 2: America,0.989,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0045,Mason & Dixon,True,Mason & Dixon,P06,Chapter 47,47,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0046,Mason & Dixon,True,Mason & Dixon,P06,Chapter 47,47,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0047,Mason & Dixon,True,Mason & Dixon,P06,Chapter 47,47,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0048,Mason & Dixon,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0049,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0050,P06,True,Mason & Dixon,P06,Chapter 41,41,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0051,Mason & Dixon,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,0.974,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0052,Mason & Dixon,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0053,Mason & Dixon,True,Mason & Dixon,P06,Chapter 25,25,Part 1: Latitudes and Departures,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0054,Mason & Dixon,True,Mason & Dixon,P06,Chapter 66,66,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0055,Mason & Dixon,False,,,,,,,False,,0
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0056,Mason & Dixon,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0057,Mason & Dixon,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0058,Mason & Dixon,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0059,Mason & Dixon,True,Mason & Dixon,P06,Chapter 68,68,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0060,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0061,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 44,44,Part 2: America,0.975,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0062,Mason & Dixon,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,2
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0063,Mason & Dixon,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0064,Mason & Dixon,True,Mason & Dixon,P06,Chapter 60,60,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0065,Mason & Dixon,True,Mason & Dixon,P06,Chapter 65,65,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0066,Mason & Dixon,True,Mason & Dixon,P06,Chapter 65,65,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0067,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 56,56,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0068,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 56,56,Part 2: America,0.99,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0069,Mason & Dixon,True,Mason & Dixon,P06,Chapter 75,75,Part 3: Last Transit,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0070,Mason & Dixon,True,Mason & Dixon,P06,Chapter 75,75,Part 3: Last Transit,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0071,Mason & Dixon,True,Mason & Dixon,P06,Chapter 75,75,Part 3: Last Transit,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0072,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0073,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.987,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0074,Mason & Dixon,True,Mason & Dixon,P06,Chapter 67,67,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0075,Mason & Dixon,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,0.943,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0076,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.93,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0077,Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.909,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0078,Mason & Dixon,True,Mason & Dixon,P06,Chapter 70,70,Part 2: America,1.0,False,P06,1
+2021_sezer_going_west_US8FE2Q5-hybrid_tgc-0079,Mason & Dixon,True,Mason & Dixon,P06,Chapter 78,78,Part 3: Last Transit,1.0,False,P06,1

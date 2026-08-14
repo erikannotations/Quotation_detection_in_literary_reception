@@ -1,0 +1,1892 @@
+[
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0001",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 476,
+  "article_end_char": 499,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0001"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0002",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2756,
+  "article_end_char": 2778,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0002"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0003",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 2849,
+  "article_end_char": 2866,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0003"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0004",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 3560,
+  "article_end_char": 3589,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0004"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0005",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 6324,
+  "article_end_char": 6343,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0005"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0006",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 6550,
+  "article_end_char": 6568,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0006"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0007",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 7445,
+  "article_end_char": 7466,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0007"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0008",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9030,
+  "article_end_char": 9051,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0008"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0009",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9583,
+  "article_end_char": 9610,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0009"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0010",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9746,
+  "article_end_char": 9864,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0010"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0011",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 9870,
+  "article_end_char": 9939,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0011"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0012",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10633,
+  "article_end_char": 10656,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0012"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0013",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 10720,
+  "article_end_char": 10799,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0013"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0014",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 11800,
+  "article_end_char": 11822,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0014"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0015",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 15854,
+  "article_end_char": 15878,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0015"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0016",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16009,
+  "article_end_char": 16035,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0016"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0017",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 16964,
+  "article_end_char": 17005,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0017"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0018",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18395,
+  "article_end_char": 18448,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0018",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0001"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0019",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 18487,
+  "article_end_char": 18521,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0019",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0002"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0020",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P01|P02|P04|P05|P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21449,
+  "article_end_char": 21482,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0020"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0021",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21792,
+  "article_end_char": 21813,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0021"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0022",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21854,
+  "article_end_char": 21894,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0022"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0023",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21925,
+  "article_end_char": 21984,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0023"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0024",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 21934,
+  "article_end_char": 22048,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0003"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0025",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 22020,
+  "article_end_char": 22060,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0024"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0026",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 24606,
+  "article_end_char": 24625,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0025"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0027",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P07|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 25207,
+  "article_end_char": 25224,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0026"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0028",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P01|P02|P03|P04|P05|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 26846,
+  "article_end_char": 26869,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0027"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0029",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 27466,
+  "article_end_char": 27491,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0028"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0030",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 28112,
+  "article_end_char": 28144,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0029",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0004"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0031",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30281,
+  "article_end_char": 30385,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0030",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0005"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0032",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30389,
+  "article_end_char": 30526,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0031"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0033",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30391,
+  "article_end_char": 30676,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0006"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0034",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30527,
+  "article_end_char": 30682,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0032"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0035",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05|P06|P07|P09|P10 | P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 30687,
+  "article_end_char": 30752,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0033",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0007"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0036",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 31957,
+  "article_end_char": 31986,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0034"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0037",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 33911,
+  "article_end_char": 34176,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0035"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0038",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34208,
+  "article_end_char": 34230,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0036"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0039",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 34959,
+  "article_end_char": 34982,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0037"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0040",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35504,
+  "article_end_char": 35524,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0038"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0041",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 35674,
+  "article_end_char": 35771,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0039"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0042",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 36389,
+  "article_end_char": 36424,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0040"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0043",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P07|P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38127,
+  "article_end_char": 38159,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0041"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0044",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38608,
+  "article_end_char": 38732,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0042"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0045",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 38913,
+  "article_end_char": 38946,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0043"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0046",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P06|P07|P08|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42157,
+  "article_end_char": 42196,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0044"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0047",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 42210,
+  "article_end_char": 42228,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0008"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0048",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P05|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44017,
+  "article_end_char": 44035,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0045"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0049",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P06|P07|P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 44863,
+  "article_end_char": 44899,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0046"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0050",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 50884,
+  "article_end_char": 50910,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0047"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0051",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04|P05|P06|P07|P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56255,
+  "article_end_char": 56287,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0048"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0052",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P01|P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 56609,
+  "article_end_char": 56637,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0049"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0053",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 57433,
+  "article_end_char": 57459,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0050"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0054",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 58587,
+  "article_end_char": 58764,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0051",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0009"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0055",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59214,
+  "article_end_char": 59257,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0052"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0056",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05|P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59264,
+  "article_end_char": 59298,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0053"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0057",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59884,
+  "article_end_char": 59928,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0054"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0058",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 59956,
+  "article_end_char": 59983,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0055"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0059",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 60958,
+  "article_end_char": 60976,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0056"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0060",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 61355,
+  "article_end_char": 61377,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0057"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0061",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 61378,
+  "article_end_char": 61395,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0058"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0062",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 62401,
+  "article_end_char": 62426,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0059"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0063",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 67833,
+  "article_end_char": 67903,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0060",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0010"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0064",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 68044,
+  "article_end_char": 68084,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0061"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0065",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 68141,
+  "article_end_char": 68202,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0062"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0066",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 69161,
+  "article_end_char": 69222,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0063"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0067",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 69228,
+  "article_end_char": 69327,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0064"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0068",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P05|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 73790,
+  "article_end_char": 73814,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0065"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0069",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 74608,
+  "article_end_char": 74636,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0066"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0070",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 75001,
+  "article_end_char": 75042,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0067"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0071",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 75175,
+  "article_end_char": 75209,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0068"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0072",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P01",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 78330,
+  "article_end_char": 78352,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0069",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0011"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0073",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 78964,
+  "article_end_char": 78993,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0070"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0074",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 81773,
+  "article_end_char": 81807,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0071"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0075",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 82033,
+  "article_end_char": 82084,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0072"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0076",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 82313,
+  "article_end_char": 82407,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0073"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0077",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 82428,
+  "article_end_char": 82450,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0074"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0078",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 83115,
+  "article_end_char": 83166,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0075"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0079",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 83168,
+  "article_end_char": 83192,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0076"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0080",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 83763,
+  "article_end_char": 83797,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0077"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0081",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 84740,
+  "article_end_char": 84771,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0078"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0082",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 84889,
+  "article_end_char": 84912,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0079"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0083",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 85425,
+  "article_end_char": 85483,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0080"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0084",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 86483,
+  "article_end_char": 86504,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0081"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0085",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 89749,
+  "article_end_char": 89790,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0082"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0086",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 89814,
+  "article_end_char": 89834,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0083"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0087",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 92470,
+  "article_end_char": 92526,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0084"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0088",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 92618,
+  "article_end_char": 92650,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0085"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0089",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P06",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 92719,
+  "article_end_char": 92757,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0086"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0090",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 92959,
+  "article_end_char": 92980,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0087"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0091",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 94983,
+  "article_end_char": 95002,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0088"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0092",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 95035,
+  "article_end_char": 95063,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0089"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0093",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 95820,
+  "article_end_char": 95842,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0090"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0094",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 95856,
+  "article_end_char": 95878,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0091"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0095",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 97990,
+  "article_end_char": 98125,
+  "proposed_by": [
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0012"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0096",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P06|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 98009,
+  "article_end_char": 98126,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0092"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0097",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 98239,
+  "article_end_char": 98332,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0093",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0013"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0098",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P04",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 98374,
+  "article_end_char": 98605,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0094"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0099",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 109164,
+  "article_end_char": 109207,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0095"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0100",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07|P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 110398,
+  "article_end_char": 110438,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0096"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0101",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 110922,
+  "article_end_char": 110953,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0097"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0102",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 111351,
+  "article_end_char": 111371,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0098"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0103",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 112429,
+  "article_end_char": 112451,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0099"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0104",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 112524,
+  "article_end_char": 112543,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0100"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0105",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P04|P08|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 115451,
+  "article_end_char": 115488,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0101"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0106",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P02|P03|P04|P05|P06|P07|P08|P09|P10",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 116877,
+  "article_end_char": 116918,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0102"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0107",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P05|P08",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 120372,
+  "article_end_char": 120671,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0103"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0108",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 127894,
+  "article_end_char": 127912,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0104"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0109",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P07",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 130777,
+  "article_end_char": 130842,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000",
+   "textmatcher_t2c3n2m3_nostops_0.1.7"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0105",
+   "2019_thomas_blood_tracks_LS5YAQLE-tm-0014"
+  ]
+ },
+ {
+  "id": "2019_thomas_blood_tracks_LS5YAQLE-hybrid_qt-0110",
+  "article": "2019_thomas_blood_tracks_LS5YAQLE",
+  "model_tag": "hybrid_qt",
+  "detector_guess": "P09",
+  "attributed_work": "",
+  "attributed_page": "",
+  "confidence": "hybrid",
+  "article_start_char": 132656,
+  "article_end_char": 132676,
+  "proposed_by": [
+   "quid_2.6.7_hp128_s0p85_m5_c100000"
+  ],
+  "hybrid_member_ids": [
+   "2019_thomas_blood_tracks_LS5YAQLE-quid-0106"
+  ]
+ }
+]

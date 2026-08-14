@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0001",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 0.927,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0002",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 1.0,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0003",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": false,
+  "novel": "",
+  "pid": "",
+  "section": "",
+  "section_n": "",
+  "part": "",
+  "score": "",
+  "source_ambiguous": false,
+  "candidate_pids": "",
+  "n_near_locations": 0
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0004",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 1",
+  "section_n": 1,
+  "part": "",
+  "score": 0.992,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 2
+ },
+ {
+  "id": "2012_miller_naming_oedipa_YUZMXRKY-tm-0005",
+  "detector_guess": "P03",
+  "confirmed_pynchon_fiction": true,
+  "novel": "The Crying of Lot 49",
+  "pid": "P03",
+  "section": "Chapter 6",
+  "section_n": 6,
+  "part": "",
+  "score": 0.981,
+  "source_ambiguous": false,
+  "candidate_pids": "P03",
+  "n_near_locations": 1
+ }
+]

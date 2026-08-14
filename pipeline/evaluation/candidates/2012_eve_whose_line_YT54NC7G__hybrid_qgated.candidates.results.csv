@@ -1,0 +1,25 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0001,P04 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,0.978,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0002,P04 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0003,P02|P04|P06|P07|P08|P09|P10 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,3
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0004,P04|P09 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,0.92,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0005,P04 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0006,P02,True,V.,P02,Chapter Thirteen,13,,1.0,False,P02,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0007,"Against the Day (pre-release blurb, possibly non-fiction paratext)",False,,,,,,,False,,0
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0008,P04 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 71,71,Part 4: The Counterforce,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0009,Against the Day epigraph (attributed to Thelonious Monk),False,,,,,,,False,,0
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0010,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 40,40,Part 3: In the Zone,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0011,P04|P06 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 40,40,Part 3: In the Zone,0.846,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0012,P04|P07|P09,True,Gravity's Rainbow,P04,Episode 60,60,Part 3: In the Zone,1.0,True,P04|P07|P09,3
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0013,P05 | Vineland,True,Vineland,P05,Chapter 8,8,,1.0,False,P05,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0014,P05 | Vineland,True,Vineland,P05,Chapter 3,3,,0.987,False,P05,2
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0015,Vineland | P05,True,Vineland,P05,Chapter 10,10,,1.0,False,P05,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0016,P04|P07|P08 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 49,49,Part 3: In the Zone,0.999,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0017,P07,True,Against the Day,P07,Chapter 30,30,Part Two: Iceland Spar,1.0,False,P07,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0018,P09,False,,,,,,,False,,0
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0019,P04 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 73,73,Part 4: The Counterforce,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0020,Gravity's Rainbow | P01|P04|P10,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,0.967,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0021,P04 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0022,P04|P06|P07 | Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 69,69,Part 4: The Counterforce,1.0,False,P04,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0023,P05,True,Vineland,P05,Chapter 15,15,,1.0,False,P05,1
+2012_eve_whose_line_YT54NC7G-hybrid_qgated-0024,Gravity's Rainbow,True,Gravity's Rainbow,P04,Episode 67,67,Part 4: The Counterforce,0.964,False,P04,1

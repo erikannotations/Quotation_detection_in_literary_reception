@@ -1,0 +1,16 @@
+id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0001,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 6,6,Part 1: Latitudes and Departures,0.977,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0002,P05|P08,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0003,Mason & Dixon,True,Mason & Dixon,P06,Chapter 67,67,Part 2: America,0.989,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0004,P06 | Mason & Dixon,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0005,Mason & Dixon,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0006,P06,False,,,,,,,False,,0
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0007,Mason & Dixon,True,Mason & Dixon,P06,Chapter 22,22,Part 1: Latitudes and Departures,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0008,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0009,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.96,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0010,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0011,Mason & Dixon | P06,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0012,Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,0.875,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0013,Mason & Dixon,True,Mason & Dixon,P06,Chapter 73,73,Part 2: America,1.0,False,P06,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0014,P07,True,Against the Day,P07,Chapter 69,69,Part Four: Against the Day,1.0,False,P07,1
+2025_mentz_blue_american_5E3W868P-hybrid_tgc-0015,Inherent Vice | P08,True,Inherent Vice,P08,Chapter EIGHTEEN,18,,0.977,False,P08,2
