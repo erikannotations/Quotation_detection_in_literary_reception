@@ -60,9 +60,13 @@ ceiling reproduce the published numbers exactly. One caveat is inherent to
 the redaction: a small number of LLM candidate rows are proposals whose
 wording could not be aligned to article offsets, so the redacted text was
 their only content and cannot be rebuilt; the script counts and reports
-them, and the two LLM systems (and hybrids containing them) re-score
-slightly below the published values (third decimal), which scored those rows
-against their original text.
+them (62 rows on the test set). The published values scored those rows
+against their original text, so the two LLM systems and the hybrids containing
+them re-score within 0.01 F1 of the published values, with individual
+precision and recall figures differing by up to 0.016 (for example, frontier
+LLM detection F1 0.967 against the published 0.976). The difference can go in
+either direction for hybrids. Restoring the 62 rows' original text reproduces
+every published value exactly.
 
 Consequences for the code and tests:
 

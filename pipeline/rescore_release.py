@@ -21,11 +21,12 @@ re-scoring claim executable:
 Known, deliberate limit: a small number of candidate rows (LLM proposals whose
 wording could not be aligned to the article, so they have no offsets) cannot
 be rebuilt — their only content was the redacted text. These rows are counted
-and reported below. They are concentrated in the two LLM systems, whose
-re-scored detection and end-to-end figures therefore sit slightly below the
-published values (third decimal); the published values scored these rows
-against their original, unredacted text. All other systems reproduce the
-published numbers exactly.
+and reported below (62 rows on the test set). They come from the two LLM
+systems, so those systems and the hybrids containing them re-score within
+0.01 F1 of the published values, with individual precision and recall figures
+differing by up to 0.016, in either direction for hybrids; the published
+values scored these rows against their original, unredacted text. All other
+systems reproduce the published numbers exactly.
 
 Run from the release root or from ``pipeline/``:  python3 rescore_release.py
 """
@@ -140,9 +141,10 @@ def main() -> None:
 
     print()
     print("Note: systems with unrecoverable rows above (the LLM detectors and "
-          "hybrids that include them) score slightly below the published "
-          "values, which included those rows' original text; every other "
-          "system reproduces the published numbers exactly.")
+          "hybrids that include them) differ from the published values by up "
+          "to about 0.01 F1, because the published values included those "
+          "rows' original text; every other system reproduces the published "
+          "numbers exactly.")
 
 
 if __name__ == "__main__":
