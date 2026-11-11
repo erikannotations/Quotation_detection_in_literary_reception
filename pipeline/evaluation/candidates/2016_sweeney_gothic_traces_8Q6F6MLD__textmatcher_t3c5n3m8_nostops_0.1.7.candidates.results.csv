@@ -1,5 +1,0 @@
-id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
-2016_sweeney_gothic_traces_8Q6F6MLD-tm-0001,P03,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
-2016_sweeney_gothic_traces_8Q6F6MLD-tm-0002,P03,True,The Crying of Lot 49,P03,Chapter 1,1,,1.0,False,P03,1
-2016_sweeney_gothic_traces_8Q6F6MLD-tm-0003,P03,True,The Crying of Lot 49,P03,Chapter 6,6,,1.0,False,P03,1
-2016_sweeney_gothic_traces_8Q6F6MLD-tm-0004,P09,True,Bleeding Edge,P09,Chapter 20,20,,1.0,False,P09,1

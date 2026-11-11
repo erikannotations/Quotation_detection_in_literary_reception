@@ -1,6 +1,0 @@
-id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
-2014_wallhead_mason_dixon_E2TDDQA5-tm-0001,P06,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
-2014_wallhead_mason_dixon_E2TDDQA5-tm-0002,P06,True,Mason & Dixon,P06,Chapter 31,31,Part 2: America,1.0,False,P06,1
-2014_wallhead_mason_dixon_E2TDDQA5-tm-0003,P06,True,Mason & Dixon,P06,Chapter 35,35,Part 2: America,1.0,False,P06,3
-2014_wallhead_mason_dixon_E2TDDQA5-tm-0004,P06,True,Mason & Dixon,P06,Chapter 51,51,Part 2: America,1.0,False,P06,1
-2014_wallhead_mason_dixon_E2TDDQA5-tm-0005,P06,True,Mason & Dixon,P06,Chapter 69,69,Part 2: America,1.0,False,P06,1

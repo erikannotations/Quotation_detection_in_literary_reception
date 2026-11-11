@@ -1,7 +1,0 @@
-id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
-2018_carswell_doc_dude_W6SQ6GJ8-hybrid_xqgc-0001,Inherent Vice,True,Inherent Vice,P08,Chapter NINETEEN,19,,1.0,False,P08,1
-2018_carswell_doc_dude_W6SQ6GJ8-hybrid_xqgc-0002,Inherent Vice,True,Inherent Vice,P08,Chapter SEVENTEEN,17,,1.0,False,P08,1
-2018_carswell_doc_dude_W6SQ6GJ8-hybrid_xqgc-0003,Inherent Vice,True,Inherent Vice,P08,Chapter NINETEEN,19,,1.0,False,P08,1
-2018_carswell_doc_dude_W6SQ6GJ8-hybrid_xqgc-0004,Inherent Vice,True,Inherent Vice,P08,Chapter NINETEEN,19,,1.0,False,P08,1
-2018_carswell_doc_dude_W6SQ6GJ8-hybrid_xqgc-0005,Inherent Vice,True,Inherent Vice,P08,Chapter ONE,1,,1.0,False,P08,1
-2018_carswell_doc_dude_W6SQ6GJ8-hybrid_xqgc-0006,Inherent Vice,True,Inherent Vice,P08,Chapter ONE,1,,1.0,False,P08,1

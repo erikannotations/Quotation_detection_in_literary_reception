@@ -1,8 +1,0 @@
-id,detector_guess,confirmed_pynchon_fiction,novel,pid,section,section_n,part,score,source_ambiguous,candidate_pids,n_near_locations
-2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0001,Mason & Dixon,True,Mason & Dixon,P06,Chapter 28,28,Part 2: America,0.996,False,P06,1
-2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0002,Mason & Dixon,True,Mason & Dixon,P06,Chapter 34,34,Part 2: America,1.0,False,P06,1
-2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0003,Against the Day,True,Against the Day,P07,Chapter 6,6,Part One: The Light Over the Ranges,0.995,False,P07,2
-2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0004,Against the Day,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,2
-2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0005,Against the Day,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,0.988,False,P07,1
-2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0006,Against the Day,True,Against the Day,P07,Chapter 8,8,Part One: The Light Over the Ranges,1.0,False,P07,1
-2014_maragos_every_they_9VU7EIQJ-hybrid_xtgc-0007,Against the Day,True,Against the Day,P07,Chapter 16,16,Part Two: Iceland Spar,0.963,False,P07,1
