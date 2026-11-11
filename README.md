@@ -1,8 +1,22 @@
 # Detecting quotations of Pynchon's fiction in scholarly articles — evaluation artifact
 
-This artifact accompanies a CHR 2027 submission on scholarly quotation detection.
+This repository accompanies the paper:
+
+> Ketzan, Erik, and Irina Torde. 2027. "Not Every Match Is a Quotation: Evaluating
+> LLMs for Quotation Detection in Literary Reception." In *Proceedings of the
+> Computational Humanities Research Conference 2027 (CHR 2027)*. Anthology of
+> Computers and the Humanities. (Forthcoming.)
+
 It contains everything needed to inspect the frozen experimental protocol and to
 audit the reported numbers, with the redactions described below.
+
+The annotated articles are drawn from the **Open Pynchon Reception Corpus (OPRC)**:
+
+- Corpus: Ketzan, Erik. 2026. *Open Pynchon Reception Corpus*. King's College
+  London Research Data Repository (KORDS). https://doi.org/10.18742/33188055
+- Data paper: Ketzan, Erik. 2026. "The Open Pynchon Reception Corpus: From
+  Bibliographic Metadata to Reusable Scholarly Full Text." *Journal of Open
+  Humanities Data* 12: 142, pp. 1–6. https://doi.org/10.5334/johd.632
 
 ## Contents
 
@@ -50,10 +64,6 @@ them, and the two LLM systems (and hybrids containing them) re-score
 slightly below the published values (third decimal), which scored those rows
 against their original text.
 
-This copy is anonymized for double-blind review: the reception corpus's name
-and archive location, withheld here, will be cited in the de-anonymized
-version of this artifact.
-
 Consequences for the code and tests:
 
 - `vine_build_chapters.py` and its output are not included, as the script
@@ -72,3 +82,11 @@ Consequences for the code and tests:
 (`pipeline/project_paths.py`); no absolute paths are assumed. Python
 dependencies: `pipeline/requirements-baselines.txt` and
 `pipeline/requirements-textmatcher.txt`.
+
+## License
+
+- Code in `pipeline/`: MIT License (see `LICENSE`).
+- Annotations, gold standard, candidate lists, metrics and documentation:
+  Creative Commons Attribution 4.0 International (CC BY 4.0).
+- Articles in `articles/`: each remains under its original CC BY license, as
+  recorded in `articles/ATTRIBUTION.csv`; please cite the original articles.

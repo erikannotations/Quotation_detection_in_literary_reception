@@ -9,8 +9,8 @@ permits redistribution with attribution. Bibliographic and license details for
 each file — author, title, year, venue, DOI, license — are in
 `ATTRIBUTION.csv` in this folder.
 
-These files are provided here for convenience. The corpus of record is an
-openly archived reception corpus whose name and archive location are withheld
-for anonymized review; the de-anonymized version of this artifact will cite
-it. If you use these articles, please cite the original articles (attribution
+These files are provided here for convenience. The corpus of record is the
+Open Pynchon Reception Corpus (OPRC), archived at
+https://doi.org/10.18742/33188055 and described in Ketzan (2026), *Journal of
+Open Humanities Data* 12: 142, https://doi.org/10.5334/johd.632. If you use these articles, please cite the original articles (attribution
 is required by CC BY).
